@@ -1,5 +1,5 @@
 # Tên của kịch bản
-name: Fetch News RSS by Category
+name: Fetch News RSS and Gold Price
 
 # Lịch chạy: Chạy tự động 30 phút một lần
 on:
@@ -26,81 +26,122 @@ jobs:
         with:
           python-version: '3.10'
 
-      # Bước 3: Cài đặt thư viện Python (feedparser) để đọc RSS
+      # Bước 3: Cài đặt các thư viện (thêm 2 thư viện mới)
       - name: Install dependencies
         run: |
           pip install feedparser
+          pip install requests
+          pip install beautifulsoup4
 
-      # Bước 4: Chạy script Python để tải VÀ PHÂN LOẠI RSS
-      - name: Fetch and Parse All Categories
-      
-        # Báo cho GitHub Actions dùng "python" để chạy
+      # Bước 4A: Chạy script Python để tải tin tức RSS (giống như cũ)
+      - name: Fetch and Parse RSS Categories
         shell: python 
-        
         run: |
           import feedparser
           import json
           import os
 
-          # === THAY ĐỔI: Sửa 2 link (Giá Vàng, Chứng Khoán) ===
           CATEGORIES = {
               "tin-moi-nhat": "https://dantri.com.vn/rss/home.rss",
               "the-gioi": "https://dantri.com.vn/rss/the-gioi.rss",
               "the-thao": "https://dantri.com.vn/rss/the-thao.rss",
               "kinh-doanh": "https://dantri.com.vn/rss/kinh-doanh.rss",
               "xa-hoi": "https://dantri.com.vn/rss/xa-hoi.rss",
-              
-              # LINK MỚI (Từ BNews)
-              "gia-vang": "https://bnews.vn/rss/gia-vang-32.rss", 
-              
-              # LINK MỚI (Từ Thanh Niên)
-              "chung-khoan": "https://thanhnien.vn/rss/kinh-te/chung-khoan.rss" 
+              "gia-vang": "https://bnews.vn/rss/gia-vang-32.rss",
+              "chung-khoan": "https://thanhnien.vn/rss/kinh-te/chung-khoan.rss"
           }
           
           USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"
           
-          all_files_created = True
-
-          # Lặp qua từng chủ đề
           for filename_prefix, url in CATEGORIES.items():
               print(f"--- Fetching category: {filename_prefix} ---")
-              print(f"Fetching RSS from {url}...")
               feed = feedparser.parse(url, agent=USER_AGENT)
               
               articles = []
-              
               if not feed.entries:
                   print(f"Error fetching {filename_prefix}.")
                   articles.append({"id": 1, "title": "Lỗi", "summary": "Không thể tải tin tức."})
-                  all_files_created = False
               else:
-                  print(f"Successfully fetched {len(feed.entries)} entries.")
-                  
-                  # Lấy 3 tin đầu tiên
                   for i, entry in enumerate(feed.entries[:3]):
-                      title = entry.title
-                      summary = entry.get('summary', entry.get('description', 'Không có nội dung chi tiết.'))
-                      
                       articles.append({
                           "id": i + 1,
-                          "title": title,
-                          "summary": summary
+                          "title": entry.title,
+                          "summary": entry.get('summary', entry.get('description', 'Không có nội dung chi tiết.'))
                       })
               
-              # Tạo nội dung JSON mới
               json_output = {"articles": articles}
-              
-              # Ghi ra file JSON theo đúng tên chủ đề
               output_filename = f"{filename_prefix}.json"
               with open(output_filename, 'w', encoding='utf-8') as f:
                   json.dump(json_output, f, ensure_ascii=False, indent=2)
               print(f"Created {output_filename}")
           
-          if not all_files_created:
-              print("Warning: Some RSS feeds failed to fetch.")
+          print("All RSS files created successfully.")
+
+      # Bước 4B: (MỚI) Chạy script Python để "cào" giá vàng SJC
+      - name: Scrape SJC Gold Price
+        shell: python
+        run: |
+          import requests
+          from bs4 import BeautifulSoup
+          import json
+          import re
+
+          # URL trang web của SJC (Lấy giá ở HCM)
+          SJC_URL = "https://sjc.com.vn/gia-vang/sjc-hcm"
+          USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
           
-          print("All files created successfully.")
-          print(f"Final directory content: {os.listdir('.')}")
+          print(f"Scraping SJC Gold Price from {SJC_URL}...")
+          
+          try:
+              # Tải trang web
+              headers = {'User-Agent': USER_AGENT}
+              response = requests.get(SJC_URL, headers=headers)
+              response.raise_for_status() # Báo lỗi nếu HTTP > 400
+              
+              # Dùng BeautifulSoup để phân tích HTML
+              soup = BeautifulSoup(response.text, 'html.parser')
+              
+              # Tìm bảng giá
+              price_table = soup.find('div', class_='price-table')
+              
+              # Tìm dòng "SJC 1L, 10L, 1KG"
+              sjc_row = price_table.find(lambda tag: tag.name == 'td' and 'name' in tag.get('class', []) and 'SJC 1L' in tag.get_text())
+              
+              if sjc_row:
+                  parent_row = sjc_row.find_parent('tr')
+                  # Lấy cột Mua và Bán (là 2 cột 'td' tiếp theo)
+                  cells = parent_row.find_all('td')
+                  buy_price = cells[1].get_text(strip=True)
+                  sell_price = cells[2].get_text(strip=True)
+                  
+                  print(f"Found SJC 1L Price: Mua={buy_price}, Bán={sell_price}")
+                  
+                  # Định dạng lại thành câu
+                  summary = f"Giá vàng SJC 1 lượng, 10 lượng được niêm yết tại Hồ Chí Minh. Giá mua vào là {buy_price} triệu đồng. Giá bán ra là {sell_price} triệu đồng."
+                  
+                  # Tạo JSON
+                  json_output = {
+                      "articles": [
+                          {
+                              "id": 1,
+                              "title": f"Vàng SJC Mua: {buy_price} | Bán: {sell_price}",
+                              "summary": summary
+                          }
+                      ]
+                  }
+              else:
+                  print("Error: Could not find SJC 1L row in the HTML table.")
+                  json_output = {"articles": [{"id": 1, "title": "Lỗi", "summary": "Không tìm thấy giá SJC 1L trong bảng."}]}
+
+          except Exception as e:
+              print(f"An error occurred during scraping: {e}")
+              json_output = {"articles": [{"id": 1, "title": "Lỗi", "summary": f"Lỗi khi cào dữ liệu: {e}"}]}
+
+          # Ghi ra file sjc.json
+          with open('sjc.json', 'w', encoding='utf-8') as f:
+              json.dump(json_output, f, ensure_ascii=False, indent=2)
+          
+          print("sjc.json file created successfully.")
 
       # Bước 5: Lưu TẤT CẢ CÁC file .json mới vào kho chứa
       - name: Commit and Push new .json files
@@ -111,6 +152,5 @@ jobs:
           # Thêm tất cả các file .json
           git add *.json
           
-          # Chỉ lưu nếu có thay đổi
-          git commit -m "Update news feeds (fixed gold/stock links)" || echo "No changes to commit"
+          git commit -m "Update news and SJC gold price" || echo "No changes to commit"
           git push
