@@ -1,0 +1,116 @@
+# Tên của kịch bản
+name: Fetch News RSS by Category
+
+# Lịch chạy: Chạy tự động 30 phút một lần
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  # Cho phép chạy thủ công (để test)
+  workflow_dispatch:
+
+# Các công việc cần làm
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Bước 1: Tải code từ kho chứa của bạn về máy ảo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Bước 2: Cài đặt Python 3.10
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # Bước 3: Cài đặt thư viện Python (feedparser) để đọc RSS
+      - name: Install dependencies
+        run: |
+          pip install feedparser
+
+      # Bước 4: Chạy script Python để tải VÀ PHÂN LOẠI RSS
+      - name: Fetch and Parse All Categories
+      
+        # Báo cho GitHub Actions dùng "python" để chạy
+        shell: python 
+        
+        run: |
+          import feedparser
+          import json
+          import os
+
+          # === THAY ĐỔI: Sửa 2 link (Giá Vàng, Chứng Khoán) ===
+          CATEGORIES = {
+              "tin-moi-nhat": "https://dantri.com.vn/rss/home.rss",
+              "the-gioi": "https://dantri.com.vn/rss/the-gioi.rss",
+              "the-thao": "https://dantri.com.vn/rss/the-thao.rss",
+              "kinh-doanh": "https://dantri.com.vn/rss/kinh-doanh.rss",
+              "xa-hoi": "https://dantri.com.vn/rss/xa-hoi.rss",
+              
+              # LINK MỚI (Từ BNews)
+              "gia-vang": "https://bnews.vn/rss/gia-vang-32.rss", 
+              
+              # LINK MỚI (Từ Thanh Niên)
+              "chung-khoan": "https://thanhnien.vn/rss/kinh-te/chung-khoan.rss" 
+          }
+          
+          USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"
+          
+          all_files_created = True
+
+          # Lặp qua từng chủ đề
+          for filename_prefix, url in CATEGORIES.items():
+              print(f"--- Fetching category: {filename_prefix} ---")
+              print(f"Fetching RSS from {url}...")
+              feed = feedparser.parse(url, agent=USER_AGENT)
+              
+              articles = []
+              
+              if not feed.entries:
+                  print(f"Error fetching {filename_prefix}.")
+                  articles.append({"id": 1, "title": "Lỗi", "summary": "Không thể tải tin tức."})
+                  all_files_created = False
+              else:
+                  print(f"Successfully fetched {len(feed.entries)} entries.")
+                  
+                  # Lấy 3 tin đầu tiên
+                  for i, entry in enumerate(feed.entries[:3]):
+                      title = entry.title
+                      summary = entry.get('summary', entry.get('description', 'Không có nội dung chi tiết.'))
+                      
+                      articles.append({
+                          "id": i + 1,
+                          "title": title,
+                          "summary": summary
+                      })
+              
+              # Tạo nội dung JSON mới
+              json_output = {"articles": articles}
+              
+              # Ghi ra file JSON theo đúng tên chủ đề
+              output_filename = f"{filename_prefix}.json"
+              with open(output_filename, 'w', encoding='utf-8') as f:
+                  json.dump(json_output, f, ensure_ascii=False, indent=2)
+              print(f"Created {output_filename}")
+          
+          if not all_files_created:
+              print("Warning: Some RSS feeds failed to fetch.")
+          
+          print("All files created successfully.")
+          print(f"Final directory content: {os.listdir('.')}")
+
+      # Bước 5: Lưu TẤT CẢ CÁC file .json mới vào kho chứa
+      - name: Commit and Push new .json files
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          
+          # Thêm tất cả các file .json
+          git add *.json
+          
+          # Chỉ lưu nếu có thay đổi
+          git commit -m "Update news feeds (fixed gold/stock links)" || echo "No changes to commit"
+          git push
