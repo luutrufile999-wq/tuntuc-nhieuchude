@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga lên tiếng về lệnh ngừng bắn, nêu \"chìa khóa\" chấm dứt xung đột Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-len-tieng-ve-lenh-ngung-ban-neu-chia-khoa-cham-dut-xung-dot-ukraine-20251027054325591.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/06/lavrovreutersjpg-1759704118720.jpg\" /></a>(Dân trí) - Nga cho rằng Ukraine và phương Tây tìm cách kéo dài thời gian khi đề xuất ngừng bắn, đồng thời Moscow kêu gọi giải quyết nguyên nhân gốc rễ của cuộc xung đột."
+    },
+    {
+      "id": 2,
       "title": "Mỹ, Trung Quốc đạt đồng thuận sơ bộ về thuế quan",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-trung-quoc-dat-dong-thuan-so-bo-ve-thue-quan-20251026222636234.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/26/thueafp11zonjpg-1761492293221.jpg\" /></a>(Dân trí) - Mỹ và Trung Quốc tiến gần hơn tới việc chấm dứt cuộc chiến thương mại kéo dài, khi 2 bên đạt được khung thỏa thuận sơ bộ về thuế quan."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga cảnh báo đáp trả quyết liệt nếu bị tập kích tầm xa",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-canh-bao-dap-tra-quyet-liet-neu-bi-tap-kich-tam-xa-20251026195135345.htm\"><img src=\"https://icdn.dantri.com.vn/2024/12/27/kremlinreuters11zon-1735248329842.jpg\" /></a>(Dân trí) - Điện Kremlin tuyên bố, Moscow sẽ đáp trả mạnh mẽ trong trường hợp xảy ra các cuộc tấn công sâu vào lãnh thổ Nga."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Trump mời Thủ tướng Malaysia lên chuyên xa \"Quái thú\"",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-moi-thu-tuong-malaysia-len-chuyen-xa-quai-thu-20251026180521765.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/26/malaysiabernama-cropped-1761476555780.jpg\" /></a>(Dân trí) - Thủ tướng Malaysia Anwar Ibrahim ấn tượng việc Tổng thống Mỹ Donald Trump mời ông lên chuyên xa \"Quái thú\" để cùng di chuyển đến Hội nghị Cấp cao ASEAN."
     }
   ]
 }
