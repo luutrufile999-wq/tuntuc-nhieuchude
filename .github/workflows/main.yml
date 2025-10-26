@@ -86,8 +86,8 @@ jobs:
           import json
           import re
 
-          # URL trang web của SJC (Lấy giá ở HCM)
-          SJC_URL = "https://sjc.com.vn/gia-vang/sjc-hcm"
+          # *** SỬA LỖI: Dùng link TRANG CHỦ (hoạt động) ***
+          SJC_URL = "https://sjc.com.vn/"
           USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
           
           print(f"Scraping SJC Gold Price from {SJC_URL}...")
@@ -101,15 +101,15 @@ jobs:
               # Dùng BeautifulSoup để phân tích HTML
               soup = BeautifulSoup(response.text, 'html.parser')
               
-              # Tìm bảng giá
-              price_table = soup.find('div', class_='price-table')
+              # Tìm bảng giá (lần này tìm bảng ở HCM)
+              price_table = soup.find('div', id='price-hcm')
               
-              # Tìm dòng "SJC 1L, 10L, 1KG"
-              sjc_row = price_table.find(lambda tag: tag.name == 'td' and 'name' in tag.get('class', []) and 'SJC 1L' in tag.get_text())
+              # Tìm dòng "SJC 1L, 10L"
+              sjc_row = price_table.find(lambda tag: tag.name == 'td' and 'SJC 1L, 10L' in tag.get_text())
               
               if sjc_row:
                   parent_row = sjc_row.find_parent('tr')
-                  # Lấy cột Mua và Bán (là 2 cột 'td' tiếp theo)
+                  # Lấy cột Mua và Bán
                   cells = parent_row.find_all('td')
                   buy_price = cells[1].get_text(strip=True)
                   sell_price = cells[2].get_text(strip=True)
@@ -152,5 +152,5 @@ jobs:
           # Thêm tất cả các file .json
           git add *.json
           
-          git commit -m "Update news and SJC gold price" || echo "No changes to commit"
+          git commit -m "Update news and SJC gold price (fixed SJC URL)" || echo "No changes to commit"
           git push
