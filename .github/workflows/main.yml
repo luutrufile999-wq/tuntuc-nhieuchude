@@ -36,7 +36,7 @@ jobs:
       # Bước 4A: Chạy script Python để tải tin tức RSS
       - name: Fetch and Parse RSS Categories
       
-        # *** DÒNG SỬA LỖI QUAN TRỌNG: ***
+        # Sửa lỗi 'import: command not found'
         shell: python 
         
         run: |
@@ -80,10 +80,10 @@ jobs:
           
           print("All RSS files created successfully.")
 
-      # Bước 4B: (MỚI) Chạy script Python để "cào" giá vàng SJC
+      # Bước 4B: Chạy script Python để "cào" giá vàng SJC
       - name: Scrape SJC Gold Price
       
-        # *** DÒNG SỬA LỖI QUAN TRỌNG: ***
+        # Sửa lỗi 'import: command not found'
         shell: python
         
         run: |
@@ -92,7 +92,7 @@ jobs:
           import json
           import re
 
-          # Sửa lỗi: Dùng link TRANG CHỦ (hoạt động)
+          # Dùng link TRANG CHỦ (hoạt động)
           SJC_URL = "https://sjc.com.vn/"
           USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
           
@@ -102,30 +102,22 @@ jobs:
               # Tải trang web
               headers = {'User-Agent': USER_AGENT}
               response = requests.get(SJC_URL, headers=headers)
-              response.raise_for_status() # Báo lỗi nếu HTTP > 400
+              response.raise_for_status() 
               
-              # Dùng BeautifulSoup để phân tích HTML
               soup = BeautifulSoup(response.text, 'html.parser')
-              
-              # Tìm bảng giá (lần này tìm bảng ở HCM)
               price_table = soup.find('div', id='price-hcm')
-              
-              # Tìm dòng "SJC 1L, 10L"
               sjc_row = price_table.find(lambda tag: tag.name == 'td' and 'SJC 1L, 10L' in tag.get_text())
               
               if sjc_row:
                   parent_row = sjc_row.find_parent('tr')
-                  # Lấy cột Mua và Bán
                   cells = parent_row.find_all('td')
                   buy_price = cells[1].get_text(strip=True)
                   sell_price = cells[2].get_text(strip=True)
                   
                   print(f"Found SJC 1L Price: Mua={buy_price}, Bán={sell_price}")
                   
-                  # Định dạng lại thành câu
                   summary = f"Giá vàng SJC 1 lượng, 10 lượng được niêm yết tại Hồ Chí Minh. Giá mua vào là {buy_price} triệu đồng. Giá bán ra là {sell_price} triệu đồng."
                   
-                  # Tạo JSON
                   json_output = {
                       "articles": [
                           {
@@ -155,8 +147,10 @@ jobs:
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
           
-          # Thêm tất cả các file .json
-          git add *.json
+          # *** DÒNG SỬA LỖI QUAN TRỌNG: ***
+          # Kéo (pull) các thay đổi (nếu có) trước khi đẩy (push)
+          git pull
           
-          git commit -m "Update news and SJC gold price (fixed python shell)" || echo "No changes to commit"
+          git add *.json
+          git commit -m "Update news and SJC gold price (fixed git sync)" || echo "No changes to commit"
           git push
