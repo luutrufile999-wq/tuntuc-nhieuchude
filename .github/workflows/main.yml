@@ -33,9 +33,12 @@ jobs:
           pip install requests
           pip install beautifulsoup4
 
-      # Bước 4A: Chạy script Python để tải tin tức RSS (giống như cũ)
+      # Bước 4A: Chạy script Python để tải tin tức RSS
       - name: Fetch and Parse RSS Categories
+      
+        # *** DÒNG SỬA LỖI QUAN TRỌNG: ***
         shell: python 
+        
         run: |
           import feedparser
           import json
@@ -79,14 +82,17 @@ jobs:
 
       # Bước 4B: (MỚI) Chạy script Python để "cào" giá vàng SJC
       - name: Scrape SJC Gold Price
+      
+        # *** DÒNG SỬA LỖI QUAN TRỌNG: ***
         shell: python
+        
         run: |
           import requests
           from bs4 import BeautifulSoup
           import json
           import re
 
-          # *** SỬA LỖI: Dùng link TRANG CHỦ (hoạt động) ***
+          # Sửa lỗi: Dùng link TRANG CHỦ (hoạt động)
           SJC_URL = "https://sjc.com.vn/"
           USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
           
@@ -152,5 +158,5 @@ jobs:
           # Thêm tất cả các file .json
           git add *.json
           
-          git commit -m "Update news and SJC gold price (fixed SJC URL)" || echo "No changes to commit"
+          git commit -m "Update news and SJC gold price (fixed python shell)" || echo "No changes to commit"
           git push
