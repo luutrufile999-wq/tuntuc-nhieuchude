@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Israel không kích trở lại Gaza, Tổng thống Trump lên tiếng",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/israel-khong-kich-tro-lai-gaza-tong-thong-trump-len-tieng-20251029132959679.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/29/gazaepa11zonjpg-1761719272033.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump khẳng định lệnh ngừng bắn ở Dải Gaza không bị đe dọa sau khi Israel nối lại các cuộc không kích trả đũa Hamas."
+    },
+    {
+      "id": 2,
       "title": "Siêu bão Melissa hướng vào Cuba",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/sieu-bao-melissa-huong-vao-cuba-20251029113447346.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/29/cubareutersjpg-1761713177678.jpg\" /></a>(Dân trí) - Bão Melissa đang tiến về thành phố lớn thứ hai của Cuba chỉ vài giờ sau khi đổ bộ Jamaica và được ghi nhận là cơn bão mạnh nhất thế giới."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Mỹ thừa nhận không được phép ra tranh cử nhiệm kỳ 3",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-my-thua-nhan-khong-duoc-phep-ra-tranh-cu-nhiem-ky-3-20251029112820491.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/29/tong-thong-my-thua-nhan-khong-duoc-phep-ra-tranh-cu-nhiem-ky-3-1761711811000.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump ngày 29/10 thừa nhận rằng “rất rõ ràng” Hiến pháp không cho phép ông tranh cử nhiệm kỳ tổng thống thứ 3, dù gần đây, ông nhiều lần đề cập tới khả năng này."
-    },
-    {
-      "id": 3,
-      "title": "Chiến sự Ukraine 29/10: Căng thẳng ở Pokrovsk lên đỉnh điểm",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-2910-cang-thang-o-pokrovsk-len-dinh-diem-20251029111441991.htm\"><img src=\"https://icdn.dantri.com.vn/2024/01/06/chien-su-nga-ukraine-anhminhhoaskynews017-crop-1704513176192.jpeg\" /></a>(Dân trí) - Sau khi hạn chót của tối hậu thư yêu cầu đầu hàng ở Pokrovsk đã kết thúc, quân đội Nga chính thức triển khai kế hoạch xóa sổ hoàn toàn các đơn vị Ukraine đang mắc kẹt trong vòng vây."
     }
   ]
 }
