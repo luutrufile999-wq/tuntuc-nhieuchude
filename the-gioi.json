@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "UAV Ukraine tập kích 3 đêm liên tiếp, Moscow đóng cửa sân bay",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/uav-ukraine-tap-kich-3-dem-lien-tiep-moscow-dong-cua-san-bay-20251029103931534.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/29/moscow-cropped-1761709074912.jpg\" /></a>(Dân trí) - Ukraine phóng máy bay không người lái hướng về Moscow trong đêm thứ 3 liên tiếp, gây gián đoạn hoạt động hàng không quanh thủ đô của Nga."
+    },
+    {
+      "id": 2,
       "title": "Đơn vị tinh nhuệ của Nga thực hiện 10.000 lần tập kích mục tiêu Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/don-vi-tinh-nhue-cua-nga-thuc-hien-10000-lan-tap-kich-muc-tieu-ukraine-20251029100651134.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/29/nga-cropped-1761707032723.jpg\" /></a>(Dân trí) - Sau hơn 1 năm thành lập, Rubicon, đơn vị UAV hàng đầu của Nga, tuyên bố đã thực hiện 10.000 vụ không kích thành công nhằm vào Ukraine."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Trung Quốc chi trả trực tiếp trợ cấp thai sản nhằm thúc đẩy tỷ lệ sinh",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-chi-tra-truc-tiep-tro-cap-thai-san-nham-thuc-day-ty-le-sinh-20251029095245812.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/29/trung-quocnikkei-cropped-1761706226997.jpg\" /></a>(Dân trí) - Từ tháng 11, 25 tỉnh của Trung Quốc sẽ bắt đầu chi trả trợ cấp thai sản trực tiếp cho các sản phụ, một trong những chính sách nhằm khuyến khích người dân sinh con."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Trump nhảy cùng lính Mỹ trên tàu sân bay ở Nhật Bản",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-nhay-cung-linh-my-tren-tau-san-bay-o-nhat-ban-20251029090354691.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/29/trumpafp011zon-cropped-1761703308758.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump đã lên tàu sân bay USS George Washington neo tại căn cứ Mỹ ở Nhật Bản và nhún nhảy trước hàng nghìn binh sĩ."
     }
   ]
 }
