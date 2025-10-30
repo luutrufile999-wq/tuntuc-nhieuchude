@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Trung Quốc lên tiếng về kế hoạch thử hạt nhân của Mỹ",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-len-tieng-ve-ke-hoach-thu-hat-nhan-cua-my-20251030201337274.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/30/quach-gia-khonxinhua-cropped-1761829945390.jpg\" /></a>(Dân trí) - Bắc Kinh đã lên tiếng đáp lại việc Tổng thống Mỹ Donald Trump ra lệnh cho Lầu Năm Góc nối lại thử nghiệm vũ khí hạt nhân “trên cơ sở bình đẳng” với Nga và Trung Quốc."
+    },
+    {
+      "id": 2,
       "title": "Nga phóng hơn 700 tên lửa, UAV, hạ tầng năng lượng Ukraine tổn thất nặng nề",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-phong-hon-700-ten-lua-uav-ha-tang-nang-luong-ukraine-ton-that-nang-ne-20251030193723309.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/30/nga-phong-hon-700-ten-lua-uav-ha-tang-nang-luong-ukraine-ton-that-nang-ne-1761827672463.jpg\" /></a>(Dân trí) - Tổng thống Volodymyr Zelensky xác nhận Nga đã sử dụng hơn 650 máy bay không người lái và hơn 50 tên lửa trong cuộc tập kích mới nhất vào Ukraine."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ tuyên bố đạt tiến triển đáng kể hướng tới thỏa thuận hòa bình Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-tuyen-bo-dat-tien-trien-dang-ke-huong-toi-thoa-thuan-hoa-binh-ukraine-20251030185551955.htm\"><img src=\"https://icdn.dantri.com.vn/2025/03/05/vancereuters11zon-1-1741135206806.jpg\" /></a>(Dân trí) - Phó Tổng thống Mỹ JD Vance cho biết Mỹ đã đạt tiến bộ đáng kể trong việc làm trung gian một thỏa thuận hòa bình giữa Nga và Ukraine."
-    },
-    {
-      "id": 3,
-      "title": "Venezuela đánh chặn 3 máy bay nghi buôn ma túy, tập kích hang ổ thuốc phiện",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/venezuela-danh-chan-3-may-bay-nghi-buon-ma-tuy-tap-kich-hang-o-thuoc-phien-20251030170924459.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/30/venezuela-danh-chan-3-may-bay-nghi-cho-ma-tuy-pha-huy-hang-o-thuoc-phien-1761818732358.jpg\" /></a>(Dân trí) - Venezuela đẩy mạnh chiến dịch triệt phá các nhóm sử dụng lãnh thổ của quốc gia Nam Mỹ để buôn lậu ma túy."
     }
   ]
 }
