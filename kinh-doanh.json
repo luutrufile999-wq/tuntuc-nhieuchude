@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thủ tướng chủ trì hội nghị về thành lập Trung tâm tài chính quốc tế",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-chu-tri-hoi-nghi-ve-thanh-lap-trung-tam-tai-chinh-quoc-te-20251101104829843.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/01/img4370-1761963314400816832157jpeg-1761968713759.jpeg\" /></a>(Dân trí) - Dự kiến, Trung tâm tài chính quốc tế tại TPHCM có quy mô 899ha, Trung tâm tài chính quốc tế tại Đà Nẵng có quy mô 300ha và bắt đầu vận hành ngay trong năm nay."
+    },
+    {
+      "id": 2,
       "title": "Trung Quốc ngừng \"bơm tiền\" cho xe điện: Kỷ nguyên tiền dễ toàn cầu có hết?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/trung-quoc-ngung-bom-tien-cho-xe-dien-ky-nguyen-tien-de-toan-cau-co-het-20251030185720755.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/30/124875671-cropped-1761824223902.jpg\" /></a>(Dân trí) - Trung Quốc bất ngờ loại xe điện khỏi kế hoạch 5 năm. Động thái này báo hiệu kỷ nguyên trợ cấp tỷ USD kết thúc, đẩy các hãng xe vào cuộc chiến sinh tồn khốc liệt không chỉ ở Trung Quốc mà cả toàn cầu."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Từ hôm nay, chuyển tiền từ 500 triệu đồng trở lên sẽ phải báo cáo",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tu-hom-nay-chuyen-tien-tu-500-trieu-dong-tro-len-se-phai-bao-cao-20251101003836829.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/01/giao-dich-ngan-hangthanh-dong-71-edited-1761932072843.jpg?watermark=true\" /></a>(Dân trí) - Giao dịch chuyển tiền từ 500 triệu đồng sẽ phải báo cáo Ngân hàng Nhà nước, theo quy định Thông tư mới ban hành về phòng chống rửa tiền có hiệu lực từ hôm nay."
-    },
-    {
-      "id": 3,
-      "title": "Gửi tiền ngân hàng nào nhận lãi suất cao nhất tháng 11?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gui-tien-ngan-hang-nao-nhan-lai-suat-cao-nhat-thang-11-20251101010718350.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/01/giao-dich-ngan-hangthanh-dong-49jpg-1761933623348.jpg?watermark=true\" /></a>(Dân trí) - 10 đơn vị điều chỉnh tăng lãi suất trong tháng 10 và hiện đã có 3 đơn vị niêm yết lãi suất trên 6%/năm. Lãi suất ngân hàng có tín hiệu tăng những tháng gần đây."
     }
   ]
 }
