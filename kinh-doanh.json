@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chứng khoán Thủ Đô, Thực phẩm Vĩnh Long… bị phạt hàng trăm triệu đồng",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chung-khoan-thu-do-thuc-pham-vinh-long-bi-phat-hang-tram-trieu-dong-20251103123045448.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/03/sonadezi-chau-duc-va-chung-khoan-tien-phong-bi-xu-phat-1-edited-cropped-1762147703538.jpg\" /></a>(Dân trí) - Từ ngày 29/10 đến 31/10, nhiều doanh nghiệp bị Thanh tra Uỷ ban Chứng khoán xử phạt do vi phạm về công bố thông tin, hạn chế cho vay...."
+    },
+    {
+      "id": 2,
       "title": "Chứng khoán giảm sâu cuối phiên, cổ phiếu Quốc Cường Gia Lai ngược dòng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chung-khoan-giam-sau-cuoi-phien-co-phieu-quoc-cuong-gia-lai-nguoc-dong-20251103152834989.htm\"><img src=\"https://icdn.dantri.com.vn/2025/07/24/chungkhoan-cropped-1753347432351.jpg\" /></a>(Dân trí) - Cổ phiếu QCG của Quốc Cường Gia Lai tăng trần trong phiên thị trường giảm mạnh. Cổ phiếu VIC của Vingroup cũng ảnh hưởng tích cực đến chỉ số."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Báo Dân trí tổ chức hội thảo về việc thực thi ESG bằng khoa học công nghệ",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bao-dan-tri-to-chuc-hoi-thao-ve-viec-thuc-thi-esg-bang-khoa-hoc-cong-nghe-20251101012505040.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/01/thumb-1jpg-1761934928438.jpg\" /></a>(Dân trí) - Hội thảo “Thực thi ESG bằng khoa học công nghệ - Từ dữ liệu tới hành động” do báo Dân trí tổ chức diễn ra ngày 26/11 tại Hà Nội, nằm trong khuôn khổ Diễn đàn ESG Việt Nam 2025."
-    },
-    {
-      "id": 3,
-      "title": "Hộ dân được hỗ trợ đến 2 triệu đồng khi lắp điện mặt trời mái nhà?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ho-dan-duoc-ho-tro-den-2-trieu-dong-khi-lap-dien-mat-troi-mai-nha-20251103124339054.htm\"><img src=\"https://icdn.dantri.com.vn/2025/07/19/nguoi-dan-duoc-ho-tro-toi-25-trieu-dong-lap-dien-mat-troi-mai-nha-1752943610403.jpg\" /></a>(Dân trí) - Bộ Công Thương đề xuất hỗ trợ 500.000 đồng đến 1 triệu đồng cho hộ gia đình lắp điện mặt trời mái nhà tự dùng, cộng thêm 1 triệu đồng nếu có pin lưu trữ đạt tối thiểu 2kWh."
     }
   ]
 }
