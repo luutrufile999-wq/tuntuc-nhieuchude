@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ trợ cấp một phần tem phiếu thực phẩm khi chính phủ tiếp tục đóng cửa",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-tro-cap-mot-phan-tem-phieu-thuc-pham-khi-chinh-phu-tiep-tuc-dong-cua-20251104141300769.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/04/tro-capafp11zonjpg-1762240276750.jpg\" /></a>(Dân trí) - Nhà Trắng sẽ gửi các khoản thanh toán một phần cho 42 triệu người Mỹ phụ thuộc vào tem phiếu thực phẩm để mua nhu yếu phẩm, khi chính phủ tiếp tục đóng cửa."
+    },
+    {
+      "id": 2,
       "title": "Chiến sự Ukraine 4/11: Pokrovsk rất nguy cấp, lực lượng Kiev ra sức phá vây",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-411-pokrovsk-rat-nguy-cap-luc-luong-kiev-ra-suc-pha-vay-20251104115118965.htm\"><img src=\"https://icdn.dantri.com.vn/2024/01/01/chien-su-nga-ukraine-anhminhhoaskynews011-crop-1704076689175.jpeg\" /></a>(Dân trí) - Mặc dù phía Ukraine báo cáo rằng Pokrovsk ổn định, nhưng hình ảnh từ thực địa cho thấy tình hình rất nguy cấp. Bộ binh Nga đã tràn ngập phía bắc thành phố."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ukraine dần \"tự lực cánh sinh\" vũ khí, sắp xuất khẩu trong thời chiến",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-dan-tu-luc-canh-sinh-vu-khi-sap-xuat-khau-trong-thoi-chien-20251104072952431.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/04/ukraine-dan-tu-luc-canh-sinh-vu-khi-sap-xuat-khau-trong-thoi-chien-cropped-1762216095980.jpg\" /></a>(Dân trí) - Ukraine đang đẩy nhanh hoạt động sản xuất vũ khí trong nước nhằm giảm phụ thuộc vào các đối tác phương Tây."
-    },
-    {
-      "id": 3,
-      "title": "Sập tháp cổ ở Rome khi trùng tu, 1 người chết",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/sap-thap-co-o-rome-khi-trung-tu-1-nguoi-chet-20251104103404634.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/04/thapreuters11zonjpg-1762227138871.jpg\" /></a>(Dân trí) - Một công nhân thiệt mạng khi tháp thời trung cổ Torre dei Conti bất ngờ đổ sập một phần ở trung tâm Rome, Italy."
     }
   ]
 }
