@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tay \"buôn tiền\" mang tên Thế Giới Di Động",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tay-buon-tien-mang-ten-the-gioi-di-dong-20251104082251581.htm\"><img src=\"https://icdn.dantri.com.vn/2023/03/23/tai-lieu-mwg-crop-1679542760925.jpeg\" /></a>(Dân trí) - Tiếp cận được dòng vốn giá rẻ, Thế Giới Di Động nhiều năm nay bắt đầu cho vay lại và kiếm hàng trăm tỷ đồng chênh lệch lãi suất. Dù thế, vay ngắn hạn cũng tăng với chi phí trả lãi hàng nghìn tỷ đồng."
+    },
+    {
+      "id": 2,
       "title": "Vàng miếng SJC tăng, vàng nhẫn có nhiều giá",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-tang-vang-nhan-co-nhieu-gia-20251104072352300.htm\"><img src=\"https://icdn.dantri.com.vn/2024/01/23/giai-vaing-63-ainh-tieiin-tuaiin-1705990791166.jpg\" /></a>(Dân trí) - Giá vàng nhẫn niêm yết tại các thương hiệu lớn chênh lệch rõ rệt, có nơi tăng có nơi giảm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Sửa Luật Thuế thu nhập cá nhân: Những nội dung được điều chỉnh",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sua-luat-thue-thu-nhap-ca-nhan-nhung-noi-dung-duoc-dieu-chinh-20251103220824351.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/19/giao-dich-ngan-hangthanh-dong-51jpg-1760874446489.jpg?watermark=true\" /></a>(Dân trí) - Luật Thuế thu nhập cá nhân dự kiến cơ cấu lại biểu thuế lũy tiến từng phần; bổ sung các khoản được giảm trừ liên quan đến chi phí giáo dục, y tế..."
-    },
-    {
-      "id": 3,
-      "title": "Tư nhân làm đường sắt tốc độ cao Bắc - Nam: Cần rõ cơ chế, sở hữu tài sản",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tu-nhan-lam-duong-sat-toc-do-cao-bac-nam-can-ro-co-che-so-huu-tai-san-20251103192757441.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/03/image4-17621563860531790017782-cropped-1762172370216.jpg\" /></a>(Dân trí) - Theo Phó Thủ tướng Trần Hồng Hà, cơ chế, chính sách cho đường sắt tốc độ cao cần xác lập mối quan hệ hài hòa giữa quyền lợi và trách nhiệm, đảm bảo an ninh, an toàn tài chính."
     }
   ]
 }
