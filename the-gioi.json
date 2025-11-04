@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bão Kalmaegi làm ngập nhà cửa ở Philippines, 40 người chết",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/bao-kalmaegi-lam-ngap-nha-cua-o-philippines-40-nguoi-chet-20251104214650277.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/04/4-cropped-1762267504200.jpg\" /></a>(Dân trí) - Bão Kalmaegi dù đã suy yếu một phần trước khi đổ bộ vào đất liền vẫn gây thiệt hại nghiêm trọng cho Philippines."
+    },
+    {
+      "id": 2,
       "title": "Nga lên lộ trình phát triển ngành đất hiếm",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-len-lo-trinh-phat-trien-nganh-dat-hiem-20251104210634750.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/04/putinafp11zonjpg-1762265097029.jpg\" /></a>(Dân trí) - Tổng thống Vladimir Putin chỉ đạo chính phủ Nga phê duyệt một lộ trình cho việc phát triển dài hạn hoạt động khai thác và sản xuất kim loại hiếm và đất hiếm trước ngày 1/12."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Phương Tây có phương án hiệu quả giúp Ukraine bảo vệ bầu trời",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/phuong-tay-co-phuong-an-hieu-qua-giup-ukraine-bao-ve-bau-troi-20251104144505100.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/04/chien-su-nga-ukriane-uavtele-cropped-1762239029358.jpg\" /></a>(Dân trí) - Ukraine đã nhận được nhiều hệ thống phòng không khác nhau từ các đối tác phương Tây để bảo vệ không phận trước UAV Geran và tên lửa hành trình của Nga."
-    },
-    {
-      "id": 3,
-      "title": "Tình báo Ukraine lần đầu nói về chiến dịch đặc biệt ở điểm nóng Pokrovsk",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tinh-bao-ukraine-lan-dau-noi-ve-chien-dich-dac-biet-o-diem-nong-pokrovsk-20251104180352205.htm\"><img src=\"https://icdn.dantri.com.vn/2023/05/17/kirill-budanovafp-edited-crop-1684329493264.jpeg\" /></a>(Dân trí) - Tình báo Ukraine xác nhận đang tiến hành một chiến dịch đặc biệt ở điểm nóng giao tranh Pokrovsk để ngăn đà tiến công của Nga."
     }
   ]
 }
