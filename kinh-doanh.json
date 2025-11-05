@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Dầu Nga mất khách xịn, ước tính 400.000 thùng bị kẹt trên biển mỗi ngày",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dau-nga-mat-khach-xin-uoc-tinh-400000-thung-bi-ket-tren-bien-moi-ngay-20251105171756703.htm\"><img src=\"https://icdn.dantri.com.vn/2024/05/29/tong-thong-nga-putin-crop-1716971341549.jpeg\" /></a>(Dân trí) - Sau khi bị Mỹ và châu Âu siết chặt lệnh cấm, dầu Nga đang mất chỗ đứng ngay tại Trung Quốc - thị trường lớn nhất và từng là điểm tựa xuất khẩu của Moscow kể từ khi nổ ra xung đột ở Ukraine."
+    },
+    {
+      "id": 2,
       "title": "23 nhà đầu tư điện gió, mặt trời đề nghị đối thoại do bị chậm thanh toán",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/23-nha-dau-tu-dien-gio-mat-troi-de-nghi-doi-thoai-do-bi-cham-thanh-toan-20251105162208814.htm\"><img src=\"https://icdn.dantri.com.vn/2025/06/17/dien-trungnamnamanhdji0873jpg-1750145417207.jpg?watermark=true\" /></a>(Dân trí) - 23 nhà đầu tư nước ngoài trong lĩnh vực điện gió, điện mặt trời kiến nghị được đối thoại với lãnh đạo các Bộ ngành vì nhiều dự án chưa được hoặc chậm thanh toán, dẫn đến nguy cơ phá sản."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Đề nghị có cơ chế khen thưởng người nộp thuế nhiều",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/de-nghi-co-co-che-khen-thuong-nguoi-nop-thue-nhieu-20251105171422639.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/05/z719200174697892cb37fd75e44b2ece7a14546bc77713-cropped-1762336852756.jpg\" /></a>(Dân trí) - Cho biết ở nhiều nước, người đóng thuế nhiều nhất được xem là \"công dân số một\", đại biểu Nguyễn Anh Trí đề xuất cần có cơ chế khen thưởng cho người nộp thuế thu nhập cá nhân nhiều."
-    },
-    {
-      "id": 3,
-      "title": "Bitcoin \"xuyên thủng\" mốc quan trọng 100.000 USD, thị trường có vẫn đỏ lửa?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bitcoin-xuyen-thung-moc-quan-trong-100000-usd-thi-truong-co-van-do-lua-20251105121222914.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/05/bitcoin-xuyen-thung-moc-quan-trong-thi-truong-co-tiep-tuc-do-lua-cropped-1762318742311.jpg\" /></a>(Dân trí) - Giá bitcoin đã rơi thủng mốc 100.000 USD, thấp nhất kể từ cuối tháng 6, khi thị trường tiền điện tử bước vào một đợt điều chỉnh mạnh."
     }
   ]
 }
