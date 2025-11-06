@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hành lý xách tay quá cân, hãng bay quốc tế ứng xử ra sao?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hanh-ly-xach-tay-qua-can-hang-bay-quoc-te-ung-xu-ra-sao-20251103122937223.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/03/chiec-can-dat-o-cua-ra-may-bay-noi-gi-ve-vi-the-cua-hang-hang-khong-cropped-1762147529034.jpg\" /></a>(Dân trí) - Các hãng hàng không trên thế giới áp dụng những quy định khác nhau đối với hành lý xách tay vượt quá cân nặng cho phép."
+    },
+    {
+      "id": 2,
       "title": "Vingroup của tỷ phú Vượng sắp có thương vụ lớn nhất lịch sử chứng khoán",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vingroup-cua-ty-phu-vuong-sap-co-thuong-vu-lon-nhat-lich-su-chung-khoan-20251106132035494.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/06/vingroup-cua-ty-phu-vuong-sap-co-thuong-vu-lon-nhat-lich-su-chung-khoan-1762409559614.jpg\" /></a>(Dân trí) - Vingroup dự kiến phát hành 3,85 tỷ cổ phiếu thưởng để tăng vốn điều lệ, trong bối cảnh giá cổ phiếu VIC đã tăng gấp 5 lần kể từ đầu năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nhà đầu tư nước ngoài bán ròng gần 22.200 tỷ đồng trong một tháng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nha-dau-tu-nuoc-ngoai-ban-rong-gan-22200-ty-dong-trong-mot-thang-20251106105654808.htm\"><img src=\"https://icdn.dantri.com.vn/2023/09/17/ttck-3-crop-1628783385277-1694961724688.jpeg\" /></a>(Dân trí) - Hiện HoSE có 50 doanh nghiệp có vốn hóa hơn 1 tỷ USD, trong đó có 3 doanh nghiệp có vốn hóa trên 10 tỷ USD."
-    },
-    {
-      "id": 3,
-      "title": "Bitcoin lao dốc sau khi Tổng thống Trump đưa lời cảnh báo",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bitcoin-lao-doc-sau-khi-tong-thong-trump-dua-loi-canh-bao-20251106105248543.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/06/bitcoin-lao-doc-khi-tong-thong-trump-canh-bao-trung-quoc-dang-choi-lon-cropped-1762400386288.jpg\" /></a>(Dân trí) - Giá bitcoin tiếp tục rời xa ngưỡng tâm lý 100.000 USD, trong khi Tổng thống Trump cảnh báo Trung Quốc đang đặt mục tiêu trở thành “trung tâm tiền mã hóa” của thế giới."
     }
   ]
 }
