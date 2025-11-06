@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá xăng quay đầu giảm, dầu diesel tăng",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-xang-quay-dau-giam-dau-diesel-tang-20251106142625925.htm\"><img src=\"https://icdn.dantri.com.vn/2025/01/22/gia-xangmquan-edited-1737484482269.jpeg\" /></a>(Dân trí) - Trong kỳ điều chỉnh ngày 6/11, giá xăng quay đầu giảm. Trong khi đó, giá dầu diesel tiếp tục tăng."
+    },
+    {
+      "id": 2,
       "title": "Hành lý xách tay quá cân, hãng bay quốc tế ứng xử ra sao?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hanh-ly-xach-tay-qua-can-hang-bay-quoc-te-ung-xu-ra-sao-20251103122937223.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/03/chiec-can-dat-o-cua-ra-may-bay-noi-gi-ve-vi-the-cua-hang-hang-khong-cropped-1762147529034.jpg\" /></a>(Dân trí) - Các hãng hàng không trên thế giới áp dụng những quy định khác nhau đối với hành lý xách tay vượt quá cân nặng cho phép."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Vingroup của tỷ phú Vượng sắp có thương vụ lớn nhất lịch sử chứng khoán",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vingroup-cua-ty-phu-vuong-sap-co-thuong-vu-lon-nhat-lich-su-chung-khoan-20251106132035494.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/06/vingroup-cua-ty-phu-vuong-sap-co-thuong-vu-lon-nhat-lich-su-chung-khoan-1762409559614.jpg\" /></a>(Dân trí) - Vingroup dự kiến phát hành 3,85 tỷ cổ phiếu thưởng để tăng vốn điều lệ, trong bối cảnh giá cổ phiếu VIC đã tăng gấp 5 lần kể từ đầu năm."
-    },
-    {
-      "id": 3,
-      "title": "Nhà đầu tư nước ngoài bán ròng gần 22.200 tỷ đồng trong một tháng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nha-dau-tu-nuoc-ngoai-ban-rong-gan-22200-ty-dong-trong-mot-thang-20251106105654808.htm\"><img src=\"https://icdn.dantri.com.vn/2023/09/17/ttck-3-crop-1628783385277-1694961724688.jpeg\" /></a>(Dân trí) - Hiện HoSE có 50 doanh nghiệp có vốn hóa hơn 1 tỷ USD, trong đó có 3 doanh nghiệp có vốn hóa trên 10 tỷ USD."
     }
   ]
 }
