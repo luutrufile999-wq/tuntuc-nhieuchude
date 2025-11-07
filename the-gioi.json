@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Trung Quốc biên chế tàu sân bay mới",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-bien-che-tau-san-bay-moi-20251107132759940.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/07/tau-san-bay-phuc-kienxinhuajpg-1762496779517.jpg\" /></a>(Dân trí) - Trung Quốc đã biên chế tàu sân bay đầu tiên do nước này tự thiết kế sau nhiều tháng thử nghiệm trên biển và đặt tên là Phúc Kiến."
+    },
+    {
+      "id": 2,
       "title": "Chiến sự Ukraine 7/11: Rộ tin 700 binh sĩ Ukraine đã đầu hàng ở Pokrovsk",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-711-ro-tin-700-binh-si-ukraine-da-dau-hang-o-pokrovsk-20251107121722629.htm\"><img src=\"https://icdn.dantri.com.vn/2024/01/23/chien-su-nga-ukraine-anhminhhoaskynews032-crop-1705978232441.jpeg\" /></a>(Dân trí) - Khoảng 700 binh sĩ Ukraine, tương đương quân số của 2 tiểu đoàn, dường như đã đầu hàng gần Pokrovsk trong 1 tháng qua. Đây có lẽ là con số kỷ lục kể từ đầu năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Trump tiết lộ tín hiệu mới về chấm dứt xung đột Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-tiet-lo-tin-hieu-moi-ve-cham-dut-xung-dot-ukraine-20251107113827810.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/18/trumpzelenskynhatrangthang10reuters-1-cropped-1760799115047.jpg\" /></a>(Dân trí) - Cả Tổng thống Mỹ Donald Trump và Đặc phái viên Steve Witkoff đều ghi nhận tiến triển trong việc tìm kiếm giải pháp cho cuộc xung đột Ukraine."
-    },
-    {
-      "id": 3,
-      "title": "NATO đảo ngược tình thế trong cuộc đua sản xuất đạn dược với Nga",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nato-dao-nguoc-tinh-the-trong-cuoc-dua-san-xuat-dan-duoc-voi-nga-20251107113326754.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/07/nato-tuyen-bo-dao-nguoc-tinh-the-trong-cuoc-dua-san-xuat-dan-duoc-voi-nga-cropped-1762489860577.jpg\" /></a>(Dân trí) - Tổng Thư ký NATO Mark Rutte tuyên bố khối quân sự này hiện đang sản xuất đạn dược nhiều hơn Nga, với hàng chục dây chuyền sản xuất mới và sản lượng đạt mức cao nhất “trong nhiều thập kỷ qua\"."
     }
   ]
 }

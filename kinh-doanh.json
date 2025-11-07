@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Những tỷ phú nào của Việt Nam có tham vọng \"bay\" vào vũ trụ?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhung-ty-phu-nao-cua-viet-nam-co-tham-vong-bay-vao-vu-tru-20251107104521842.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/07/112600362ifat-with-metadata-1-cropped-1762486871443.jpg\" /></a>(Dân trí) - Việt Nam đã có hai đơn vị là VinSpace và ThaiSpace thể hiện khát vọng vượt ra khỏi những lĩnh vực quen thuộc để chạm tới ngành công nghiệp vũ trụ."
+    },
+    {
+      "id": 2,
       "title": "Elon Musk chính thức “ẵm” gói thưởng 1.000 tỷ USD",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/elon-musk-chinh-thuc-am-goi-thuong-1000-ty-usd-20251107100232158.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/07/11062025-musk-pay-package-scaled-cropped-1762483786876.jpg\" /></a>(Dân trí) - Cổ đông Tesla thông qua gói thù lao kỷ lục 1.000 tỷ USD cho Elon Musk. Đây không chỉ là tiền thưởng, mà là “ván cược” để giữ ông tập trung phát triển AI và robot trong Tesla."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Hơn 190.000 doanh nghiệp âm thầm rời khỏi thị trường từ đầu năm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hon-190000-doanh-nghiep-am-tham-roi-khoi-thi-truong-tu-dau-nam-20251107083445099.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/07/hotcold-edited-1748756678043jpg-1762479069591.jpg\" /></a>(Dân trí) - Trong 10 tháng đầu năm, có 190.600 doanh nghiệp rút khỏi thị trường, trong khi 255.900 doanh nghiệp khác đăng ký thành lập mới hoặc quay trở lại hoạt động."
-    },
-    {
-      "id": 3,
-      "title": "Chuyên gia WGC: 500 tấn vàng trong dân là số liệu đã lỗi thời",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chuyen-gia-wgc-500-tan-vang-trong-dan-la-so-lieu-da-loi-thoi-20251107000522470.htm\"><img src=\"https://icdn.dantri.com.vn/2024/07/22/gia-vang-hai-long-24-1-edited-1721667350777.jpeg\" /></a>(Dân trí) - Đại diện Hội đồng Vàng thế giới cho rằng hiện tại không có cơ sở để có thể ước lượng chính xác về số vàng mà người dân Việt Nam nắm giữ."
     }
   ]
 }
