@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hàng giả chiếm tỷ lệ không đáng kể trên sàn thương mại điện tử",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hang-gia-chiem-ty-le-khong-dang-ke-tren-san-thuong-mai-dien-tu-20251108164426318.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/thu-truong-bo-cong-thuong-noi-gi-ve-hang-gia-hang-nhai-tren-san-tmdt-cropped-1762595381464.jpg\" /></a>(Dân trí) - Theo Thứ trưởng Bộ Công Thương, các doanh nghiệp trên sàn thương mại điện tử hầu như không có hàng giả, hàng nhái, chỉ có một số ít, nhưng tỷ lệ không đáng kể."
+    },
+    {
+      "id": 2,
       "title": "Kinh tế Việt Nam khởi sắc, loạt tổ chức quốc tế nâng dự báo tăng trưởng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/kinh-te-viet-nam-khoi-sac-loat-to-chuc-quoc-te-nang-du-bao-tang-truong-20251108150508267.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/nhieu-to-chuc-quoc-te-nang-hang-du-bao-tang-truong-cua-viet-nam-1762588202427.jpg\" /></a>(Dân trí) - Các tổ chức quốc tế như HSBC, UOB, Standard Chartered và ADB đồng loạt nâng dự báo tăng trưởng GDP của Việt Nam lên mức 6,7-7,9% trong năm nay, phản ánh niềm tin vào đà phục hồi kinh tế vĩ mô."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thủ tướng yêu cầu hoàn tất cơ chế Trung tâm tài chính quốc tế trước 20/11",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-yeu-cau-hoan-tat-co-che-trung-tam-tai-chinh-quoc-te-truoc-2011-20251108094834621.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/thu-tuong-chot-thoi-gian-van-hanh-trung-tam-tai-chinh-quoc-te-1762569926412.jpg\" /></a>(Dân trí) - Thủ tướng Phạm Minh Chính vừa ký Công điện số 211 yêu cầu các bộ, ngành cùng TPHCM và Đà Nẵng khẩn trương hoàn thiện cơ chế, chính sách và chuẩn bị hạ tầng cho Trung tâm tài chính quốc tế Việt Nam."
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng SJC vượt 148 triệu đồng/lượng, thu hẹp chênh lệch với thế giới",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-sjc-vuot-148-trieu-dongluong-thu-hep-chenh-lech-voi-the-gioi-20251108085016485.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/06/vangjpg-1762423414696.jpg\" /></a>(Dân trí) - Có thời điểm, giá vàng trong nước cao hơn vàng thế giới đến 21,5 triệu đồng/lượng."
     }
   ]
 }
