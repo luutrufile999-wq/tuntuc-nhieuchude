@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thủ tướng yêu cầu hoàn tất cơ chế Trung tâm tài chính quốc tế trước 20/11",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-yeu-cau-hoan-tat-co-che-trung-tam-tai-chinh-quoc-te-truoc-2011-20251108094834621.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/thu-tuong-chot-thoi-gian-van-hanh-trung-tam-tai-chinh-quoc-te-1762569926412.jpg\" /></a>(Dân trí) - Thủ tướng Phạm Minh Chính vừa ký Công điện số 211 yêu cầu các bộ, ngành cùng TPHCM và Đà Nẵng khẩn trương hoàn thiện cơ chế, chính sách và chuẩn bị hạ tầng cho Trung tâm tài chính quốc tế Việt Nam."
+    },
+    {
+      "id": 2,
       "title": "Giá vàng SJC vượt 148 triệu đồng/lượng, thu hẹp chênh lệch với thế giới",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-sjc-vuot-148-trieu-dongluong-thu-hep-chenh-lech-voi-the-gioi-20251108085016485.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/06/vangjpg-1762423414696.jpg\" /></a>(Dân trí) - Có thời điểm, giá vàng trong nước cao hơn vàng thế giới đến 21,5 triệu đồng/lượng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Một quốc gia chi số tiền gấp gần 35 lần để mua cà phê Việt",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mot-quoc-gia-chi-so-tien-gap-gan-35-lan-de-mua-ca-phe-viet-20251108070654290.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/img9030-cropped-1762559776748.jpg\" /></a>(Dân trí) - Trong 10 tháng năm 2025, Mexico - quốc gia xuất khẩu cà phê lớn thứ 8 thế giới - bất ngờ chi số tiền gấp gần 35 lần so với cùng kỳ năm ngoái để mua cà phê Việt Nam."
-    },
-    {
-      "id": 3,
-      "title": "Đồng Nai giảm lãi suất vay nhà ở xã hội xuống còn 5,4%/năm",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dong-nai-giam-lai-suat-vay-nha-o-xa-hoi-xuong-con-54nam-20251107203908899.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/09/happyhomepr11vinhomes-kien-tao-chuan-muc-moi-cho-noxhdldocx-1754722744437.jpeg\" /></a>(Dân trí) - Ngân hàng Chính sách Xã hội Đồng Nai vừa giảm lãi suất cho vay mua, thuê mua nhà ở xã hội từ mức 6,6% xuống 5,4%/năm, giúp hơn 1.200 khách hàng giảm áp lực trả nợ và ổn định cuộc sống."
     }
   ]
 }
