@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bão chồng bão, Philippines cảnh báo nguy hiểm",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/bao-chong-bao-philippines-canh-bao-nguy-hiem-20251108133531604.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/philahi11zonjpg-1762583623705.jpg\" /></a>(Dân trí) - Cơ quan khí tượng của Philippines cảnh báo lũ nghiêm trọng có thể nhấn chìm các cộng đồng ven biển khi bão Fung-wong tiến về bờ biển phía Đông nước này."
+    },
+    {
+      "id": 2,
       "title": "Chiến sự Ukraine 8/11: Lực lượng Kiev đã ngừng kháng cự  tại Pokrovsk",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-811-luc-luong-kiev-da-ngung-khang-cu-tai-pokrovsk-20251108114336741.htm\"><img src=\"https://icdn.dantri.com.vn/2024/03/20/chien-su-nga-ukraine-anhminhhoaskynews076-crop-1710921956818.jpeg\" /></a>(Dân trí) - Theo nhà phân tích người Đức Julian Röpke thuộc báo Bild, quân đội Nga tiến đến các điểm phía tây bắc, đông bắc và cực bắc Pokrovsk. Ukraine coi như chính thức thất thủ tại đây."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Campuchia đột kích hang ổ lừa đảo trực tuyến, bắt 658 nghi phạm",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/campuchia-dot-kich-hang-o-lua-dao-truc-tuyen-bat-658-nghi-pham-20251108111648901.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/campuchia-dot-kich-hang-o-lua-dao-truc-tuyen-bat-658-nghi-pham-cropped-1762575309900.jpg\" /></a>(Dân trí) - Phần lớn nghi phạm bị Campuchia bắt giữ trong 2 cơ sở lừa đảo trực tuyến là người nước ngoài."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine chặn Nga điều quân tiếp viện, cố thủ giữ \"mặt trận nóng nhất\"",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-chan-nga-dieu-quan-tiep-vien-co-thu-giu-mat-tran-nong-nhat-20251108104112640.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/linhukrainedanhchanmuctieutrenkhonggetty-cropped-1762573018948.jpg\" /></a>(Dân trí) - Ukraine tăng cường nỗ lực phòng vệ tại Pokrovsk, ngăn Nga kiểm soát hoàn toàn thành trì chiến lược này."
     }
   ]
 }
