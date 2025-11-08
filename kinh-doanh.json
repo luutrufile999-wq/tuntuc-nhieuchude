@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Cuộc đua khốc liệt của các \"ông lớn\" thương mại điện tử: Ai được, ai mất?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cuoc-dua-khoc-liet-cua-cac-ong-lon-thuong-mai-dien-tu-ai-duoc-ai-mat-20251106002125615.htm\"><img src=\"https://icdn.dantri.com.vn/2024/07/17/livestream-crop-1721202324630.jpeg\" /></a>(Dân trí) - Các \"ông lớn\" thương mại điện tử đang bước vào cuộc đua khốc liệt chưa từng có với hàng loạt chiến lược mới. Người mua hưởng lợi, trong khi người bán đối mặt áp lực chi phí và lợi nhuận."
+    },
+    {
+      "id": 2,
       "title": "Năm 2025, huy động vốn từ thị trường trái phiếu ước đạt 1 triệu tỷ đồng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nam-2025-huy-dong-von-tu-thi-truong-trai-phieu-uoc-dat-1-trieu-ty-dong-20251108171447521.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/btc1-1762591890979358173379-edited-1762596516396.jpg\" /></a>(Dân trí) - Theo Thứ trưởng Bộ Tài chính, thị trường chứng khoán phát triển sẽ tạo nền tảng thuận lợi cho doanh nghiệp huy động vốn, đặc biệt là thông qua phát hành cổ phiếu IPO và trái phiếu."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Hàng giả chiếm tỷ lệ không đáng kể trên sàn thương mại điện tử",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hang-gia-chiem-ty-le-khong-dang-ke-tren-san-thuong-mai-dien-tu-20251108164426318.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/thu-truong-bo-cong-thuong-noi-gi-ve-hang-gia-hang-nhai-tren-san-tmdt-cropped-1762595381464.jpg\" /></a>(Dân trí) - Theo Thứ trưởng Bộ Công Thương, các doanh nghiệp trên sàn thương mại điện tử hầu như không có hàng giả, hàng nhái, chỉ có một số ít, nhưng tỷ lệ không đáng kể."
-    },
-    {
-      "id": 3,
-      "title": "Kinh tế Việt Nam khởi sắc, loạt tổ chức quốc tế nâng dự báo tăng trưởng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/kinh-te-viet-nam-khoi-sac-loat-to-chuc-quoc-te-nang-du-bao-tang-truong-20251108150508267.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/nhieu-to-chuc-quoc-te-nang-hang-du-bao-tang-truong-cua-viet-nam-1762588202427.jpg\" /></a>(Dân trí) - Các tổ chức quốc tế như HSBC, UOB, Standard Chartered và ADB đồng loạt nâng dự báo tăng trưởng GDP của Việt Nam lên mức 6,7-7,9% trong năm nay, phản ánh niềm tin vào đà phục hồi kinh tế vĩ mô."
     }
   ]
 }
