@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga nêu điều kiện thử vũ khí hạt nhân",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-neu-dieu-kien-thu-vu-khi-hat-nhan-20251110054520100.htm\"><img src=\"https://icdn.dantri.com.vn/2024/12/27/kremlinreuters11zon-1735248329842.jpg\" /></a>(Dân trí) - Điện Kremlin cho biết, Nga không có ý định vi phạm các nghĩa vụ theo thỏa thuận quốc tế cấm thử hạt nhân, nhưng sẽ nối lại thử nghiệm nếu cần."
+    },
+    {
+      "id": 2,
       "title": "Người Mỹ lo lắng khi Chính phủ đóng cửa kéo dài",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nguoi-my-lo-lang-khi-chinh-phu-dong-cua-keo-dai-20251109172756814.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/09/2025-11-07t222440z1945042714rc2mrhal495zrtrmadp3usa-shutdown-hungerjpg-1762683939876.jpg\" /></a>(Dân trí) - Việc đóng cửa Chính phủ Mỹ dài ngày không chỉ dừng lại ở các dịch vụ hàng ngày, mà còn đang làm gián đoạn các lĩnh vực dài hạn như khoa học và giáo dục."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ngoại trưởng Nga tuyên bố sẵn sàng gặp người đồng cấp Mỹ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ngoai-truong-nga-tuyen-bo-san-sang-gap-nguoi-dong-cap-my-20251109185656333.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/09/ngoai-truong-nga-tuyen-bo-san-sang-gap-nguoi-dong-cap-my-1762689193249.jpg\" /></a>(Dân trí) - Ngoại trưởng Nga Sergei Lavrov hôm 9/11 cho biết ông sẵn sàng gặp Ngoại trưởng Mỹ Marco Rubio, nhưng khẳng định Moscow sẽ không từ bỏ những điều kiện cốt lõi để chấm dứt chiến sự Ukraine."
-    },
-    {
-      "id": 3,
-      "title": "Trung Quốc đình chỉ lệnh cấm xuất khẩu kim loại quan trọng sang Mỹ",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-dinh-chi-lenh-cam-xuat-khau-kim-loai-quan-trong-sang-my-20251109184126565.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/09/trung-quoc-dinh-chi-lenh-cam-xuat-khau-kim-loai-quan-trong-sang-my-1762688144193.jpg\" /></a>(Dân trí) - Trung Quốc thông báo tạm dừng lệnh cấm xuất khẩu sang Mỹ với những kim loại quan trọng."
     }
   ]
 }
