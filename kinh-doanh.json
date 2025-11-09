@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Phạt 2 doanh nghiệp vàng gần 1,8 tỷ đồng vì vi phạm phòng chống rửa tiền",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/phat-2-doanh-nghiep-vang-gan-18-ty-dong-vi-vi-pham-phong-chong-rua-tien-20251109113040449.htm\"><img src=\"https://icdn.dantri.com.vn/2023/09/26/gia-vang-125-anh-tien-tuan-1695662681460.jpg\" /></a>(Dân trí) - Hai công ty vàng bạc đá quý ở miền Tây bị xử phạt gần 1,8 tỷ đồng do vi phạm quy định về phòng chống rửa tiền."
+    },
+    {
+      "id": 2,
       "title": "Doanh nghiệp Việt bước chân vào lĩnh vực hàng không vũ trụ",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/doanh-nghiep-viet-buoc-chan-vao-linh-vuc-hang-khong-vu-tru-20251109081800228.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/13/ty-phu-pham-nhat-vuong-chia-se-voi-bloomberg-anh-bloomberg-cropped-1760345240020.jpg\" /></a>(Dân trí) - Tuần qua, giới doanh nghiệp dậy sóng: Tỷ phú Phạm Nhật Vượng lập công ty công nghệ vũ trụ, Quốc Cường Gia Lai trả 1.100 tỷ đồng nợ, Vietcap đổi tướng sau 18 năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Dự báo giá vàng sau tuần đi ngang quanh ngưỡng 4.000 USD/ounce",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-gia-vang-sau-tuan-di-ngang-quanh-nguong-4000-usdounce-20251109014021878.htm\"><img src=\"https://icdn.dantri.com.vn/2024/02/27/gia-vang-hai-long-22-1709027009988.jpg\" /></a>(Dân trí) - Sau chuỗi tăng mạnh, giá vàng thế giới đang dao động quanh mốc 4.000 USD/ounce. Đây là nhịp nghỉ tạm thời hay tín hiệu đảo chiều trong bối cảnh lãi suất, địa chính trị và tâm lý tiêu dùng biến động?"
-    },
-    {
-      "id": 3,
-      "title": "Cà phê được giá, nông dân Tây Nguyên trúng lớn mùa \"vàng nâu\"",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ca-phe-duoc-gia-nong-dan-tay-nguyen-trung-lon-mua-vang-nau-20251108204234556.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/08/z720331383905978172cf362d73eae91f1bd70e58b20fa-cropped-1762608173514.jpg\" /></a>(Dân trí) - Không còn lo \"được mùa mất giá\", nông dân ở Gia Lai, một trong những thủ phủ cà phê của Việt Nam, phấn khởi trước vụ mùa được cả giá lẫn năng suất."
     }
   ]
 }
