@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Huyền thoại Warren Buffett sắp công bố lời chia tay trong bức thư cuối",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/huyen-thoai-warren-buffett-sap-cong-bo-loi-chia-tay-trong-buc-thu-cuoi-20251110160031590.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/10/huyen-thoai-dau-tu-warren-buffett-sap-cong-bo-thu-chia-tay-cropped-1762763787103.jpg\" /></a>(Dân trí) - Bức thư cuối cùng của Warren Buffett với tư cách CEO được giới đầu tư theo dõi sát sao, không chỉ về giá trị tình cảm mà còn vì những gợi ý về hướng đi tương lai của tập đoàn sau khi ông rời ghế."
+    },
+    {
+      "id": 2,
       "title": "Cổ phiếu liên quan 2 tỷ phú đẩy chỉ số chứng khoán đi xuống",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/co-phieu-lien-quan-2-ty-phu-day-chi-so-chung-khoan-di-xuong-20251110155708102.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/04/chungkhoan2-cropped-1762244477533.jpg\" /></a>(Dân trí) - Chỉ số VN-Index giảm sâu dưới mốc 1.600 điểm, trong đó cổ phiếu FPT và VHM đồng loạt tạo áp lực lớn lên thị trường."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Học theo Tesla, phố Wall chạy đua \"trói chân\" CEO bằng siêu tiền thưởng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hoc-theo-tesla-pho-wall-chay-dua-troi-chan-ceo-bang-sieu-tien-thuong-20251110142551674.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/10/stk022elonmuskcvirginiafjpg-1762758658615.jpg\" /></a>(Dân trí) - Từ Thung lũng Silicon đến phố Wall, các tập đoàn đang đua nhau “trói chân” CEO bằng gói thưởng khổng lồ."
-    },
-    {
-      "id": 3,
-      "title": "Loạt nhà máy điện bị cắt công suất, công ty vận hành lý giải do mưa bão",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/loat-nha-may-dien-bi-cat-cong-suat-cong-ty-van-hanh-ly-giai-do-mua-bao-20251110140731673.htm\"><img src=\"https://icdn.dantri.com.vn/2025/06/17/dien-trungnamnamanhdji0909jpg-1750145417303.jpg?watermark=true\" /></a>(Dân trí) - Công ty Vận hành hệ thống điện và Thị trường điện Quốc gia cho biết, việc cắt giảm công suất nhiều nhà máy do mưa bão khiến thủy điện xả lũ lớn, nguồn tăng mạnh trong khi phụ tải giảm, gây thừa điện."
     }
   ]
 }
