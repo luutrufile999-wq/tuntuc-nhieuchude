@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ukraine đình chỉ đàm phán hòa bình với Nga",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-dinh-chi-dam-phan-hoa-binh-voi-nga-20251113055710961.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/13/nga-ukrainetass-cropped-1762988162010.jpg\" /></a>(Dân trí) - Ukraine đã chính thức đình chỉ đàm phán với Nga vì các cuộc hòa đàm không đạt được tiến triển đáng kể, Thứ trưởng Ngoại giao Ukraine Sergey Kislitsa cho biết."
+    },
+    {
+      "id": 2,
       "title": "Nga cảnh báo nguy cơ xung đột trực tiếp với phương Tây",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-canh-bao-nguy-co-xung-dot-truc-tiep-voi-phuong-tay-20251112234201976.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/12/peskovtass-11-cropped-1762965604229.jpg\" /></a>(Dân trí) - Điện Kremlin cảnh báo cứng rắn việc các nước phương Tây tái vũ trang để chuẩn bị cho những cuộc xung đột tiềm tàng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Động lực hối thúc Nga quyết chiến với Ukraine giành pháo đài Pokrovsk",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/dong-luc-hoi-thuc-nga-quyet-chien-voi-ukraine-gianh-phao-dai-pokrovsk-20251112214506786.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/12/linhngaphonghoalucveukrainesputnik-cropped-1762958418593.jpg\" /></a>(Dân trí) - Việc kiểm soát Pokrovsk sẽ giúp Nga đạt được những mục tiêu quan trọng trong chiến dịch quân sự tại Ukraine."
-    },
-    {
-      "id": 3,
-      "title": "Phiên bản tiêm kích Su-57 mới nhất của Nga lộ diện, thu hút sự chú ý",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/phien-ban-tiem-kich-su-57-moi-nhat-cua-nga-lo-dien-thu-hut-su-chu-y-20251112150947099.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/11/nga-he-lo-hinh-anh-hiem-hoi-ve-tiem-kich-bong-ma-bau-troi-su-57-cropped-1762831494241.jpg\" /></a>(Dân trí) - Nga đã có bước tiến đáng kể trong lĩnh vực hàng không quân sự với phiên bản Su-57 mới nhất, được tối ưu hóa cho nhiệm vụ chế áp hệ thống phòng không đối phương."
     }
   ]
 }
