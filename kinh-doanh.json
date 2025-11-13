@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hơn 99% khách hàng tại miền Trung - Tây Nguyên được cấp điện trở lại",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hon-99-khach-hang-tai-mien-trung-tay-nguyen-duoc-cap-dien-tro-lai-20251113122947514.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/13/gia-laicong-nhan-dien-xuyen-dem-khoi-phuc-thap-sang-vung-tam-bao-kalmaegidien-luc-mien-trung-1-cropped-1763011571485.jpg\" /></a>(Dân trí) - Hơn 1,6 triệu khách hàng tại miền Trung - Tây Nguyên đã được cấp điện trở lại. EVNCPC huy động hơn 2.800 cán bộ, công nhân khắc phục sự cố, phấn đấu khôi phục hoàn toàn."
+    },
+    {
+      "id": 2,
       "title": "Cần cấm lợi dụng danh tiếng, hình ảnh phản cảm để bán hàng online",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/can-cam-loi-dung-danh-tieng-hinh-anh-phan-cam-de-ban-hang-online-20251113172741941.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/13/huynh-thi-phucjpg-1763029297813.jpg\" /></a>(Dân trí) - Đại biểu Quốc hội đề nghị bổ sung quy định cấm lợi dụng hình ảnh, danh tiếng để chào mời, bán hàng trá hình trên mạng xã hội, cho rằng hành vi này đang thao túng niềm tin và đẩy người dùng vào rủi ro."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ ngừng sản xuất đồng xu 1 cent sau hơn hai thế kỷ lưu hành",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/my-ngung-san-xuat-dong-xu-1-cent-sau-hon-hai-the-ky-luu-hanh-20251113191125055.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/13/1-cropped-1763034783909.jpg\" /></a>(Dân trí) - Sau hơn 230 năm, Mỹ dừng sản xuất đồng 1 cent vì chi phí đúc gấp 4 lần giá trị. Quyết định này giúp tiết kiệm hàng chục triệu USD nhưng lại dấy lên tranh cãi và xáo trộn trong ngành bán lẻ."
-    },
-    {
-      "id": 3,
-      "title": "Người Hàn đau đầu với mỹ phẩm giả \"Made in Korea\" xuất xứ từ Trung Quốc",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nguoi-han-dau-dau-voi-my-pham-gia-made-in-korea-xuat-xu-tu-trung-quoc-20251113155230335.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/13/f1e67fa3-f40e-482a-b711-05be85a96824jpg-1763022987911.jpg\" /></a>(Dân trí) - Một lọ kem Sulwhasoo giả được nhập lậu, rao bán như hàng thật. Thiệt hại từ mỹ phẩm K-beauty giả tăng 24 lần, phơi bày một mạng lưới làm nhái tinh vi mà người tiêu dùng khó lòng nhận biết."
     }
   ]
 }
