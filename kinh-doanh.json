@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Công ty Ba Huân nợ thuế hơn 51 tỷ đồng, bị cưỡng chế ngừng thủ tục hải quan",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cong-ty-ba-huan-no-thue-hon-51-ty-dong-bi-cuong-che-ngung-thu-tuc-hai-quan-20251113103336220.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/13/nha-may-ba-huan-binh-chanh-7-edited-1763004606493.jpg\" /></a>(Dân trí) - Công ty Ba Huân gắn liền thương hiệu với các loại trứng gia cầm, nợ thuế hơn 51 tỷ đồng và bị áp dụng biện pháp cưỡng chế dừng làm thủ tục hải quan."
+    },
+    {
+      "id": 2,
       "title": "Phó Thủ tướng ra tối hậu thư thúc tiến độ cao tốc, sân bay, đường vành đai",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pho-thu-tuong-ra-toi-hau-thu-thuc-tien-do-cao-toc-san-bay-duong-vanh-dai-20251112213041951.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/13/duong-vanh-dai-3-0830-cropped-1763001703423.jpg\" /></a>(Dân trí) - Một chỉ đạo quyết liệt vừa được Phó Thủ tướng Chính phủ Trần Hồng Hà ban hành thông qua văn bản số 1444/TTg-CN nhằm đẩy nhanh tiến độ hàng loạt dự án hạ tầng trọng điểm quốc gia."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tỷ phú AI Alexandr Wang tiết lộ bí quyết tạo nên thế hệ Bill Gates mới",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ty-phu-ai-alexandr-wang-tiet-lo-bi-quyet-tao-nen-the-he-bill-gates-moi-20251112202419858.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/12/z3wq-2025-09-26t102930425h58x-cropped-1762952107408.jpg\" /></a>(Dân trí) - Ở tuổi 28, Alexandr Wang đã là tỷ phú, Giám đốc AI của Meta. Anh có lời khuyên đắt giá cho thế hệ trẻ: Hãy dành 10.000 giờ cho \"vibe coding\" để sở hữu lợi thế tuyệt đối trong tương lai."
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng miếng tăng gần 2 triệu đồng/lượng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-mieng-tang-gan-2-trieu-dongluong-20251113090554087.htm\"><img src=\"https://icdn.dantri.com.vn/2024/06/10/mua-vang-tai-ngan-hangthanh-dong28-crop-edited-crop-1717957184147.jpeg\" /></a>(Dân trí) - Giá vàng thế giới lên cao nhất 3 tuần, có thời điểm vượt 4.200 USD/ounce kéo giá vàng trong nước tăng cao."
     }
   ]
 }
