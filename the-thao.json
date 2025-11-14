@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Alcaraz làm nên lịch sử với ngôi số một thế giới lần thứ hai",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/alcaraz-lam-nen-lich-su-voi-ngoi-so-mot-the-gioi-lan-thu-hai-20251114100257590.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/14/alcaraz-lam-nen-lich-su-voi-ngoi-so-mot-the-gioi-lan-thu-hai-cropped-1763089173858.jpg\" /></a>(Dân trí) - Carlos Alcaraz giành danh hiệu tay vợt số một thế giới 2025 sau chiến thắng trước Lorenzo Musetti vào rạng sáng 14/11. Anh trở thành tay vợt trẻ nhất lịch sử hai lần lên ngôi số một thế giới."
+    },
+    {
+      "id": 2,
       "title": "Truyền thông thế giới phản ứng về tấm thẻ đỏ chưa từng có của Ronaldo",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/truyen-thong-the-gioi-phan-ung-ve-tam-the-do-chua-tung-co-cua-ronaldo-20251114093410926.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/14/103864775-15289423-image-a-4517-cropped-1763087346506.jpg\" /></a>(Dân trí) - Báo chí thế giới đồng loạt bình luận trước tấm thẻ đỏ lần đầu tiên của Cristiano Ronaldo ở đội tuyển quốc gia, khi Bồ Đào Nha nhận thất bại 0-2 trước đội chủ nhà Ireland."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Xác định 29 đội bóng giành vé tham dự World Cup 2026",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/xac-dinh-29-doi-bong-gianh-ve-tham-du-world-cup-2026-20251114100646793.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/14/xac-dinh-29-doi-bong-gianh-ve-tham-du-world-cup-2026-1763089229603.jpg\" /></a>(Dân trí) - Sau loạt trận đêm qua, FIFA đã xác định được đội bóng thứ 29 giành quyền tham dự World Cup 2026, đó là đội tuyển Pháp."
-    },
-    {
-      "id": 3,
-      "title": "Siêu phẩm của tuyển thủ Indonesia được đề cử giải FIFA Puskas",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/sieu-pham-cua-tuyen-thu-indonesia-duoc-de-cu-giai-fifa-puskas-20251114072953524.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/14/rizky-ridho-persija-jakarta-v-arema-fifa-puskas-award-2025-nomineeh264-000000-000030gif-1763079926004.gif\" /></a>(Dân trí) - Bàn thắng giúp Ridho nhận đề cử là cú sút xa tuyệt đẹp vào lưới Arema, ghi bàn cho Persija ở mùa giải trước tại giải bóng đá Ngoại hạng Indonesia."
     }
   ]
 }
