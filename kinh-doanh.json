@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "AI làm khó các gã khổng lồ nhưng lại giúp doanh nghiệp nhỏ thăng hoa",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ai-lam-kho-cac-ga-khong-lo-nhung-lai-giup-doanh-nghiep-nho-thang-hoa-20251029110555156.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/29/ai-jobs-cropped-1761709955033.jpg\" /></a>(Dân trí) - Khi các tập đoàn công nghệ lớn sa thải hàng chục nghìn nhân viên vì cắt giảm chi phí đầu tư cho AI, nhiều doanh nghiệp nhỏ lại dùng chính công nghệ này để mở rộng, tăng năng suất và tuyển thêm người."
+    },
+    {
+      "id": 2,
       "title": "Sản phẩm tái chế hút giới trẻ tại Ngày hội Việt Nam Xanh",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/san-pham-tai-che-hut-gioi-tre-tai-ngay-hoi-viet-nam-xanh-20251115170440346.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/15/anh-2nguoi-dan-quan-tam-san-pham-thoi-trang-lam-tu-xo-soi-la-dua-cropped-1763200839651.jpg\" /></a>(Dân trí) - Từ những chiếc lưới cũ đến bã cà phê, mọi vật tưởng bỏ đi đều được “hồi sinh” tại Ngày hội Việt Nam Xanh 2025, nơi tinh thần sống xanh lan tỏa và truyền cảm hứng cho cộng đồng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ phẩm Doctor Magic nhập khẩu của Mailisa: Hé lộ nhà sản xuất",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/my-pham-doctor-magic-nhap-khau-cua-mailisa-he-lo-nha-san-xuat-20251115035302519.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/15/untitled-project-22-cropped-1763181663639.jpg\" /></a>(Dân trí) - Chuỗi thẩm mỹ viện Mailisa khẳng định phân phối độc quyền mỹ phẩm Doctor Magic nhập khẩu từ Hong Kong (Trung Quốc). Đơn vị sản xuất là công ty sản xuất, chuyên gia công mỹ phẩm."
-    },
-    {
-      "id": 3,
-      "title": "Mỹ miễn thuế nhiều nông sản: Cà phê, hồ tiêu... Việt Nam hưởng lợi",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/my-mien-thue-nhieu-nong-san-ca-phe-ho-tieu-viet-nam-huong-loi-20251115142404609.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/15/my-chinh-thuc-mien-thue-doi-ung-voi-ca-phe-cacao-va-loat-nong-san-cropped-1763190407634.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump vừa ký sắc lệnh miễn thuế quan đối với hàng loạt mặt hàng nông sản."
     }
   ]
 }
