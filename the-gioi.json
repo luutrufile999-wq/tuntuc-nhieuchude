@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bà Michelle Obama nói nước Mỹ \"chưa sẵn sàng\" cho một nữ tổng thống",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ba-michelle-obama-noi-nuoc-my-chua-san-sang-cho-mot-nu-tong-thong-20251116114033015.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/16/michelle-cropped-1763267910511.jpg\" /></a>(Dân trí) - Trong cuộc trò chuyện đăng trên kênh YouTube, cựu đệ nhất phu nhân Michelle Obama nói rằng, nước Mỹ chưa sẵn sàng cho một nữ tổng thống và nhận định rằng đất nước \"cần phải trưởng thành hơn nữa\"."
+    },
+    {
+      "id": 2,
       "title": "Biểu tình “Gen Z” bùng phát tại Mexico",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/bieu-tinh-gen-z-bung-phat-tai-mexico-20251116113550883.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/16/mexicoreuters-cropped-1763267668303.jpg\" /></a>(Dân trí) - Cảnh sát đã sử dụng hơi cay để giải tán cuộc biểu tình bên ngoài dinh Tổng thống Mexico."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chiến sự Ukraine 16/11: Nga tiếp tục siết chặt \"vòng kim cô\" ở Pokrovsk",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-1611-nga-tiep-tuc-siet-chat-vong-kim-co-o-pokrovsk-20251116120355404.htm\"><img src=\"https://icdn.dantri.com.vn/2024/03/08/chien-su-nga-ukraine-anhminhhoaskynews066-crop-1709862643034.jpeg\" /></a>(Dân trí) - \"Vòng kim cô\" của quân đội Nga quanh Mirnograd ngày càng siết chặt. Lực lượng Ukraine hiểu rằng số phận thành phố chỉ còn vài ngày nữa là sẽ được định đoạt, sụp đổ giống như Pokrovsk lân cận."
-    },
-    {
-      "id": 3,
-      "title": "Nga công phá dữ dội mặt trận Zaporizhia, Ukraine rút quân khỏi loạt cứ điểm",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-cong-pha-du-doi-mat-tran-zaporizhia-ukraine-rut-quan-khoi-loat-cu-diem-20251116104748729.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/16/nga-cong-pha-du-doi-mat-tran-zaporizhzhia-ukraine-rut-quan-khoi-loat-cu-diem-1763264585793.jpg\" /></a>(Dân trí) - Lực lượng Ukraine xác nhận rút quân khỏi một số khu vực trong bối cảnh Nga tiến công mạnh ở mặt trận Zaporizhia."
     }
   ]
 }
