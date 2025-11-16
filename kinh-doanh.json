@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thái Lan áp thuế hàng giá rẻ nhập khẩu, bảo vệ doanh nghiệp nội",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thai-lan-ap-thue-hang-gia-re-nhap-khau-bao-ve-doanh-nghiep-noi-20251116105935647.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/16/tl-cropped-1763265246678.jpg\" /></a>(Dân trí) - Từ 1/1/2026, Thái Lan sẽ thu 10% thuế nhập khẩu hàng giá rẻ dưới 1.500 baht, thay vì miễn thuế, nhằm bảo vệ doanh nghiệp vừa và nhỏ trước làn sóng hàng nhập khẩu giá thấp."
+    },
+    {
+      "id": 2,
       "title": "Làm việc kiểu tùy hứng và lệ thuộc AI, cơn địa chấn mới chốn công sở",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lam-viec-kieu-tuy-hung-va-le-thuoc-ai-con-dia-chan-moi-chon-cong-so-20251103091853428.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/03/1747746619637-cropped-1762133845931.jpg\" /></a>(Dân trí) - Trào lưu làm việc theo cảm hứng đang khuấy đảo thế giới công sở, hứa hẹn giải phóng con người khỏi những công việc nhàm chán. Nhưng đằng sau lớp vỏ hào nhoáng ấy là gì?"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mailisa giải thể loạt công ty; nhiều doanh nghiệp biến động nhân sự",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mailisa-giai-the-loat-cong-ty-nhieu-doanh-nghiep-bien-dong-nhan-su-20251116072038835.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/16/mailisa-giai-the-loat-cong-ty-nhieu-doanh-nghiep-bien-dong-nhan-su-1763252345789.jpg\" /></a>(Dân trí) - Điều bất thường ở hệ sinh thái doanh nghiệp của vợ chồng Mailisa, biến động nhân sự tại VinMetal, ABBank, 2 doanh nghiệp vàng bị phạt... là những thông tin nổi bật tuần qua."
-    },
-    {
-      "id": 3,
-      "title": "Dự báo giá vàng thế giới sau tuần biến động",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-gia-vang-the-gioi-sau-tuan-bien-dong-20251116011030612.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/26/gia-vang-mieng-sjc-giam-ve-duoi-121-trieu-dongluong-edited-1756203418140.jpg?watermark=true\" /></a>(Dân trí) - Bất định từ kinh tế Mỹ với khoảng trống dữ liệu sau đợt đóng cửa Chính phủ và tâm lý thận trọng của nhà đầu tư khiến thị trường thiếu đồng thuận về xu hướng giá vàng tuần tới."
     }
   ]
 }
