@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Báo Trung Quốc đánh giá khả năng U22 Việt Nam giành chức vô địch",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-trung-quoc-danh-gia-kha-nang-u22-viet-nam-gianh-chuc-vo-dich-20251118000634436.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/18/bao-trung-quoc-danh-gia-kha-nang-u22-viet-nam-len-ngoi-vo-dich-edited-1763398845912.jpg\" /></a>(Dân trí) - Tờ 163 (Trung Quốc) tỏ ra dè chừng khi cho rằng U22 Việt Nam hoàn toàn có khả năng gây bất ngờ trước U22 Hàn Quốc để giành chức vô địch giải giao hữu Panda Cup."
+    },
+    {
+      "id": 2,
       "title": "Tranh cãi tuyển Bồ Đào Nha chơi hay hơn khi vắng Cristiano Ronaldo",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/tranh-cai-tuyen-bo-dao-nha-choi-hay-hon-khi-vang-cristiano-ronaldo-20251117221654788.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/17/2af62fb6-7e7d-4e1f-897a-ccadc8cd-cropped-1763392186771.jpg\" /></a>(Dân trí) - Chiến thắng đậm đà với tỷ số 9-1 của Bồ Đào Nha trước Armenia ở vòng loại World Cup khi không có Cristiano Ronaldo đã khiến truyền thông và người hâm mộ tranh cãi về ảnh hưởng của CR7."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "U22 Việt Nam chuẩn bị phương án đánh bại U22 Hàn Quốc",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/u22-viet-nam-chuan-bi-phuong-an-danh-bai-u22-han-quoc-20251117220250927.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/17/u22vn2vff17-11-25-cropped-1763393996274.jpg\" /></a>(Dân trí) - U22 Việt Nam trở lại sân tập, chuẩn bị phương án đánh bại U22 Hàn Quốc ở lượt trận cuối cùng Panda Cup 2025 diễn ra vào 14h30 ngày mai (18/11) ở Trung Quốc."
-    },
-    {
-      "id": 3,
-      "title": "Tuyển Việt Nam bất ngờ nhận tin vui từ FIFA dù chưa thi đấu",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/tuyen-viet-nam-bat-ngo-nhan-tin-vui-tu-fifa-du-chua-thi-dau-20251117192558345.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/17/tuyen-viet-nam-bat-ngo-nhan-tin-vui-tu-fifa-du-chua-thi-dau-1763382144250.jpg\" /></a>(Dân trí) - Theo cập nhật mới nhất, đội tuyển Việt Nam đã tăng 1 bậc trên bảng xếp hạng FIFA, lên xếp thứ 110 thế giới dù chưa ra sân trong trận đấu với Lào."
     }
   ]
 }
