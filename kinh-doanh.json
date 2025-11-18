@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "VN-Index tăng gần 6 điểm, nhưng số cổ phiếu giảm vẫn chiếm ưu thế",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vn-index-tang-gan-6-diem-nhung-so-co-phieu-giam-van-chiem-uu-the-20251118163546151.htm\"><img src=\"https://icdn.dantri.com.vn/2025/05/06/huukhoa-6-of-9-1-1746500380394.jpg\" /></a>(Dân trí) - VN-Index tăng 5,5 điểm nhưng số lượng cổ phiếu giảm vẫn nhiều hơn tăng. Nhóm Vingroup và các mã ngân hàng hỗ trợ chỉ số, trong khi khối ngoại giao dịch gần như cân bằng."
+    },
+    {
+      "id": 2,
       "title": "Công nghệ mở lối cho doanh nghiệp sản xuất, xuất khẩu thực thi ESG",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cong-nghe-mo-loi-cho-doanh-nghiep-san-xuat-xuat-khau-thuc-thi-esg-20251112133858870.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/12/unnamed-3-cropped-1762929598815.jpg\" /></a>(Dân trí) - Nhiều doanh nghiệp sản xuất, xuất khẩu đang đẩy mạnh ứng dụng khoa học công nghệ trong quản trị và sản xuất nhằm thực thi hiệu quả các tiêu chí ESG, hướng tới phát triển bền vững và hội nhập sâu rộng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Huy động 500 tấn vàng trong dân: Chuyên gia nói có thể nhưng cần thời gian",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/huy-dong-500-tan-vang-trong-dan-chuyen-gia-noi-co-the-nhung-can-thoi-gian-20251118123400893.htm\"><img src=\"https://icdn.dantri.com.vn/2025/02/08/san-pham-vang-202513-1738948350645.jpg\" /></a>(Dân trí) - Có một lượng vàng lớn đang ở trong dân, ước tính khoảng 300-500 tấn. Chuyên gia nói để huy động được số vàng này cần quá trình dài hơi, thận trọng."
-    },
-    {
-      "id": 3,
-      "title": "Bộ trưởng Tài chính nói về tình trạng người dân bị ép mua bảo hiểm",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-truong-tai-chinh-noi-ve-tinh-trang-nguoi-dan-bi-ep-mua-bao-hiem-20251118125018112.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/18/202511180917569168z7235644883189fd75a1409027b5c6e2156e9455b9bae4jpg-1763444264980.jpg\" /></a>(Dân trí) - Bộ trưởng Bộ Tài chính Nguyễn Văn Thắng thừa nhận thời gian qua có tình trạng nhân viên ngân hàng tư vấn dịch vụ kèm sản phẩm bảo hiểm, gây nhầm lẫn giữa sản phẩm bảo hiểm và ngân hàng."
     }
   ]
 }
