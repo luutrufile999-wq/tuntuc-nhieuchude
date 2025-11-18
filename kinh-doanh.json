@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thương mại điện tử Việt Nam: Cuộc đua tỷ đô tăng tốc",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thuong-mai-dien-tu-viet-nam-cuoc-dua-ty-do-tang-toc-20251117174509998.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/17/thumb-1png-1763375737059.png\" /></a>(Dân trí) - Thương mại điện tử Việt Nam tăng trưởng nhanh, dự kiến đạt 26-28 tỷ USD năm nay. Tuy nhiên, ngành này cũng đối mặt nhiều thách thức như chi phí vận chuyển cao, gian lận, cạnh tranh khốc liệt."
+    },
+    {
+      "id": 2,
       "title": "Bitcoin liên tục rơi thẳng đứng, nhà đầu tư tháo chạy",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bitcoin-lien-tuc-roi-thang-dung-nha-dau-tu-thao-chay-20251118113930453.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/18/bitcoin-lien-tuc-roi-thang-dung-nha-dau-tu-hoang-loan-cropped-1763398891699.jpg\" /></a>(Dân trí) - Giá bitcoin tiếp tục lao dốc, lùi về vùng 90.000 USD/BTC. Nhà đầu tư mới đang hoảng loạn và bán tháo khiến thị trường có thể rung lắc mạnh trong thời gian tới."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Cuối năm các công ty mạnh tay \"chia tiền\", có bên chi đến 6.200 tỷ đồng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cuoi-nam-cac-cong-ty-manh-tay-chia-tien-co-ben-chi-den-6200-ty-dong-20251118091839933.htm\"><img src=\"https://icdn.dantri.com.vn/2024/05/20/giao-dich-ngan-hang-25tien-tuan-1716169720591.jpg\" /></a>(Dân trí) - Trong tuần này, đặc biệt có nhiều doanh nghiệp lớn góp mặt vào danh sách chia cổ tức như VEAM, Viglacera, Mía Đường Cao Bằng, Bia Sài Gòn - Miền Trung và Bia Sài Gòn - Miền Tây."
-    },
-    {
-      "id": 3,
-      "title": "Ngân hàng rao bán 2 khoản nợ liên quan FLC, giá khởi điểm hơn 200 tỷ đồng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ngan-hang-rao-ban-2-khoan-no-lien-quan-flc-gia-khoi-diem-hon-200-ty-dong-20251118091319442.htm\"><img src=\"https://icdn.dantri.com.vn/2023/04/30/giao-dich-ngan-hang-8tien-tuan-edited-1682843239518.jpeg\" /></a>(Dân trí) - 2 khoản nợ lớn được bảo đảm bằng loạt bất động sản đứng tên Tập đoàn FLC được ngân hàng đem đấu giá. Ngân hàng cảnh báo rủi ro pháp lý và tranh chấp liên quan đến các tài sản này."
     }
   ]
 }

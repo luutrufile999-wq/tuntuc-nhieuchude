@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ông Thaksin bị yêu cầu nộp thuế 540 triệu USD",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ong-thaksin-bi-yeu-cau-nop-thue-540-trieu-usd-20251118113924142.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/18/thaksinafp11zonjpg-1763440668779.jpg\" /></a>(Dân trí) - Tòa án Tối cao Thái Lan đã ra lệnh buộc cựu Thủ tướng Thaksin Shinawatra phải nộp lại tiền thuế được cho là lên tới 540 triệu USD liên quan đến việc bán công ty viễn thông của ông."
+    },
+    {
+      "id": 2,
       "title": "Mỹ rút tên lửa Typhon khỏi Nhật Bản",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-rut-ten-lua-typhon-khoi-nhat-ban-20251118111258621.htm\"><img src=\"https://icdn.dantri.com.vn/2025/09/16/ten-luareuters11zon-cropped-cropped-1757996196564.jpg\" /></a>(Dân trí) - Mỹ đã rút hệ thống tên lửa Typhon khỏi căn cứ ở Nhật Bản sau khi hệ thống này được triển khai cho cuộc tập trận chung hồi tháng 9."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ “bật đèn xanh” bán F-35 cho Ả rập Xê út, cán cân quyền lực sẽ thay đổi?",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-bat-den-xanh-ban-f-35-cho-a-rap-xe-ut-can-can-quyen-luc-se-thay-doi-20251118111216221.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/18/my-bat-den-xanh-ban-f-35-cho-a-rap-xe-ut-can-can-quyen-luc-se-thay-doi-1763438481085.jpg\" /></a>(Dân trí) - Việc Tổng thống Donald Trump “bật đèn xanh” bán máy bay chiến đấu F-35 của Mỹ cho Ả rập Xê út có thể làm thay đổi cán cân quyền lực trong khu vực."
-    },
-    {
-      "id": 3,
-      "title": "Chiến sự Ukraine 18/11: Trận chiến Pokrovsk bước vào giai đoạn quyết định",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-1811-tran-chien-pokrovsk-buoc-vao-giai-doan-quyet-dinh-20251118103139590.htm\"><img src=\"https://icdn.dantri.com.vn/2024/01/16/chien-su-nga-ukraine-anhminhhoaskynews026-crop-1705368084343.jpeg\" /></a>(Dân trí) - Trận chiến Pokrovsk đang dần kết thúc. Lực lượng Ukraine đã suy yếu tại Mirnograd lân cận, nhưng vẫn tiến hành nỗ lực phản công nhằm phá vỡ vòng vây của quân Nga."
     }
   ]
 }
