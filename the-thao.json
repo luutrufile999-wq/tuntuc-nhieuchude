@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thủ quân U22 Việt Nam đứt dây chằng, lỡ hẹn SEA Games",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/thu-quan-u22-viet-nam-dut-day-chang-lo-hen-sea-games-20251119131938194.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/19/van-truongdocx-1763533085839.jpeg\" /></a>(Dân trí) - Tiền vệ Nguyễn Văn Trường báo tin dữ với HLV Kim Sang Sik sau khi gặp chấn thương nặng ở trận U22 Việt Nam thua U22 Hàn Quốc 0-1 tại Panda Cup 2025 tối 18/11."
+    },
+    {
+      "id": 2,
       "title": "Báo chí thế giới dự đoán kết quả trận tuyển Việt Nam chạm trán Lào",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ket-qua-tran-tuyen-viet-nam-cham-tran-lao-20251119123038535.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/19/bao-chi-the-gioi-du-doan-ket-qua-tran-tuyen-viet-nam-gap-lao-1763529942607.jpg\" /></a>(Dân trí) - Nhiều tờ báo trên thế giới đã đưa ra dự đoán kết quả trận đấu giữa đội tuyển Việt Nam và Lào diễn ra vào lúc 19h hôm nay (19/11) tại vòng loại Asian Cup 2027."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Báo Trung Quốc chỉ nguyên nhân đội nhà mất chức vô địch vào tay Hàn Quốc",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-trung-quoc-chi-nguyen-nhan-doi-nha-mat-chuc-vo-dich-vao-tay-han-quoc-20251119103306316.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/19/tai-xuongjpg-1763522830149.jpg\" /></a>(Dân trí) - Truyền thông Trung Quốc đã không giấu nổi sự thất vọng khi đội nhà để tuột chức vô địch vào tay U22 Hàn Quốc, bất chấp việc đã từng đánh bại đối thủ này tại Panda Cup 2025."
-    },
-    {
-      "id": 3,
-      "title": "Xác định 42 đội bóng giành vé tham dự World Cup 2026",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/xac-dinh-42-doi-bong-gianh-ve-tham-du-world-cup-2026-20251119103540588.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/19/xac-dinh-42-doi-bong-gianh-ve-tham-du-world-cup-2026-cropped-1763523257100.jpg\" /></a>(Dân trí) - Sau loạt trận đêm qua và sáng nay, FIFA đã xác định được 42 đội bóng tham dự World Cup 2026. Còn lại, 6 tấm vé vớt còn lại được xác định vào tháng 3 năm sau."
     }
   ]
 }
