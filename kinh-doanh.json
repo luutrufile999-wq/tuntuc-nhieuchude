@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng miếng tăng 1,7 triệu đồng/lượng, rủi ro lướt sóng tăng cao",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-mieng-tang-17-trieu-dongluong-rui-ro-luot-song-tang-cao-20251120073104540.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/04/ve-de-xuat-danh-thue-thu-nhap-ca-nhan-voi-giao-dich-vang-mieng-1762267966397.jpg\" /></a>(Dân trí) - Giá vàng trong nước lại đảo chiều tăng, trở lại mốc 151 triệu đồng/lượng, tương tự xu hướng của giá vàng thế giới."
+    },
+    {
+      "id": 2,
       "title": "Lộ rõ bất cập khi nhiều hộ kinh doanh dùng QR cá nhân để nhận thanh toán",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lo-ro-bat-cap-khi-nhieu-ho-kinh-doanh-dung-qr-ca-nhan-de-nhan-thanh-toan-20251119190918521.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/19/lo-ro-bat-cap-khi-nhieu-ho-kinh-doanh-dung-qr-ca-nhan-de-nhan-thanh-toan-1763554056627.jpg\" /></a>(Dân trí) - Thanh toán QR Code ngày càng phổ biến nhưng nhiều hộ kinh doanh vẫn dùng mã QR cá nhân để nhận tiền, gây khó khăn cho quản lý và làm giảm tính minh bạch của giao dịch."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nhà đầu tư sợ hãi bán tháo, El Salvador mạnh tay bắt đáy bitcoin",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nha-dau-tu-so-hai-ban-thao-el-salvador-manh-tay-bat-day-bitcoin-20251119192919524.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/19/di-nguoc-tam-ly-so-hai-cua-toan-thi-truong-el-salvador-manh-tay-bat-day-cropped-1763554714176.jpg\" /></a>(Dân trí) - Giữa lúc thị trường tiền mã hoá lao dốc và nhà đầu tư ồ ạt bán tháo, El Salvador vẫn tranh thủ mua vào lượng lớn bitcoin."
-    },
-    {
-      "id": 3,
-      "title": "Doanh thu 200 triệu/năm sẽ phải nộp thuế: Hộ kinh doanh có đang bị thiệt?",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/doanh-thu-200-trieunam-se-phai-nop-thue-ho-kinh-doanh-co-dang-bi-thiet-20251119181510095.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/19/nguyen-van-chijpg-1763550183642.jpg\" /></a>(Dân trí) - Quy định đánh thuế hộ kinh doanh có doanh thu trên 200 triệu đồng/năm đang gây tranh luận tại Quốc hội, liệu có tạo gánh nặng và bất công so với người làm công ăn lương?"
     }
   ]
 }
