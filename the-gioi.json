@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga trao trả 1.000 thi thể binh sĩ Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-trao-tra-1000-thi-the-binh-si-ukraine-20251120205216029.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/20/nga-ukrainesputnik11zonjpg-1763646623207.jpg\" /></a>(Dân trí) - Ukraine và Nga hôm 20/11 đã tiến hành một cuộc trao trả các thi thể binh sĩ thiệt mạng trong bối cảnh hòa đàm vẫn chưa đạt được nhiều tiến triển."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Putin không dùng AI trong công việc",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-putin-khong-dung-ai-trong-cong-viec-20251120202221591.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/20/putinrobotreuters11zon-cropped-1763644786660.jpg\" /></a>(Dân trí) - Điện Kremlin cho biết, Tổng thống Nga Vladimir Putin không sử dụng trí tuệ nhân tạo (AI) trong công việc thường nhật của mình."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Châu Âu lên tiếng về kế hoạch hòa bình Ukraine  28 điểm",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chau-au-len-tieng-ve-ke-hoach-hoa-binh-ukraine-28-diem-20251120181054000.htm\"><img src=\"https://icdn.dantri.com.vn/2025/05/06/ukraineafp-crop-1746519669806.jpeg\" /></a>(Dân trí) - Liên minh châu Âu (EU) hoan nghênh mọi nỗ lực nhằm chấm dứt xung đột ở Ukraine, nhưng bất kỳ kế hoạch nào như vậy cũng phải có sự tham gia của cả Ukraine lẫn châu Âu."
-    },
-    {
-      "id": 3,
-      "title": "Nga sẵn sàng đàm phán trực tiếp với Ukraine, nêu hướng chấm dứt xung đột",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-san-sang-dam-phan-truc-tiep-voi-ukraine-neu-huong-cham-dut-xung-dot-20251120175049935.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/01/peskovreutersjpg-1759318966187.jpg\" /></a>(Dân trí) - Người phát ngôn Điện Kremlin Dmitry Peskov tuyên bố, Nga vẫn sẵn sàng tham gia các cuộc đàm phán hòa bình trực tiếp với Ukraine."
     }
   ]
 }
