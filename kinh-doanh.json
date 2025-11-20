@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thị trường nghiêng về sắc đỏ, VN-Index vẫn tăng gần 7 điểm",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-nghieng-ve-sac-do-vn-index-van-tang-gan-7-diem-20251120152635725.htm\"><img src=\"https://icdn.dantri.com.vn/2025/02/15/chungkhoan2-crop-1739590355256.jpeg\" /></a>(Dân trí) - Cổ phiếu Vietjet tăng trần, cùng với đà tăng của mã Vingroup đã ảnh hưởng tích cực tới chỉ số chung."
+    },
+    {
+      "id": 2,
       "title": "Giá xăng giảm nhẹ, dầu hỏa tăng mạnh",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-xang-giam-nhe-dau-hoa-tang-manh-20251120143009421.htm\"><img src=\"https://icdn.dantri.com.vn/2024/10/31/nguoi-dan-do-xang1-edited-1730358058849.jpeg\" /></a>(Dân trí) - Trong kỳ điều chỉnh ngày 20/11, giá xăng giảm nhẹ trong khi dầu hỏa tăng đáng kể. Từ đầu năm đến nay, xăng RON 95 đã 26 lần tăng và 22 lần giảm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Làn sóng sa thải tấn công gen Z, kinh tế Mỹ bốc hơi 12 tỷ USD",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lan-song-sa-thai-tan-cong-gen-z-kinh-te-my-boc-hoi-12-ty-usd-20251120102912400.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/20/2676525-gen-z-are-fear-layoffsjpg-1763609191443.jpg\" /></a>(Dân trí) - Năm 2025 tưởng chừng yên ả với xu hướng “án binh bất động”, nhưng các đợt sa thải từ tập đoàn lớn đang giáng mạnh vào Gen Z, khiến nhóm này thiệt hại thu nhập và kéo giảm tiêu dùng toàn thị trường."
-    },
-    {
-      "id": 3,
-      "title": "66 cổ phiếu bị cắt margin, có nhiều doanh nghiệp của các tỷ phú nổi tiếng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/66-co-phieu-bi-cat-margin-co-nhieu-doanh-nghiep-cua-cac-ty-phu-noi-tieng-20251120122204904.htm\"><img src=\"https://icdn.dantri.com.vn/2025/09/04/bo-de-xuat-ap-thue-20-tren-lai-ban-chung-khoan-hang-nam-1756976065055.jpg\" /></a>(Dân trí) - Nhà đầu tư sẽ không được sử dụng hạn mức tín dụng (đòn bẩy tài chính-margin) do công ty chứng khoán cấp để mua 66 mã cổ phiếu bị xếp vào danh sách chứng khoán không đủ điều kiện giao dịch ký quỹ này."
     }
   ]
 }
