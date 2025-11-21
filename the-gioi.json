@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga nêu thương vong của quân đội Ukraine sau hơn 3 năm xung đột",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-neu-thuong-vong-cua-quan-doi-ukraine-sau-hon-3-nam-xung-dot-20251121110619526.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/21/nga-neu-thuong-vong-cua-ukraine-sau-hon-3-nam-xung-dot-1763696860573.jpg\" /></a>(Dân trí) - Đại sứ Nga tại Liên hợp quốc tuyên bố tình hình trên tiền tuyến vẫn còn khó khăn đối với lực lượng vũ trang Ukraine."
+    },
+    {
+      "id": 2,
       "title": "Ukraine đồng ý thảo luận kế hoạch hòa bình 28 điểm do Mỹ đề xuất",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-dong-y-thao-luan-ke-hoach-hoa-binh-28-diem-do-my-de-xuat-20251121105037341.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/07/zelenskyreuters11zon-cropped-1759794935192.jpg\" /></a>(Dân trí) - Tổng thống Ukraine Volodymyr Zelensky đã đồng ý khẩn trương thảo luận về kế hoạch hòa bình 28 điểm do Mỹ đề xuất, đồng thời khẳng định mong muốn một nền hòa bình thực sự."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga cảnh báo NATO về “khu vực đối đầu”",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-canh-bao-nato-ve-khu-vuc-doi-dau-20251121070001833.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/21/nga-canh-bao-nato-bien-bien-baltic-thanh-khu-vuc-doi-dau-1763683005008.jpg\" /></a>(Dân trí) - Bộ Ngoại giao Nga cảnh báo NATO đã biến biển Baltic thành khu vực đối đầu quân sự khi tăng cường hiện diện tại đây."
-    },
-    {
-      "id": 3,
-      "title": "Mỹ mở rộng dỡ bỏ thuế quan nông sản",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-mo-rong-do-bo-thue-quan-nong-san-20251121092905697.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/21/thuecnbc-cropped-1763692030914.jpg\" /></a>(Dân trí) - Mỹ bãi bỏ thuế quan đối với một loạt hàng nông sản Brazil, trong đó có thịt bò, cà phê và các sản phẩm khác, xóa bỏ mức thuế cao từng áp dụng vào mùa hè vừa qua."
     }
   ]
 }
