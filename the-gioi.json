@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga cảnh báo NATO về “khu vực đối đầu”",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-canh-bao-nato-ve-khu-vuc-doi-dau-20251121070001833.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/21/nga-canh-bao-nato-bien-bien-baltic-thanh-khu-vuc-doi-dau-1763683005008.jpg\" /></a>(Dân trí) - Bộ Ngoại giao Nga cảnh báo NATO đã biến biển Baltic thành khu vực đối đầu quân sự khi tăng cường hiện diện tại đây."
+    },
+    {
+      "id": 2,
       "title": "Mỹ mở rộng dỡ bỏ thuế quan nông sản",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-mo-rong-do-bo-thue-quan-nong-san-20251121092905697.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/21/thuecnbc-cropped-1763692030914.jpg\" /></a>(Dân trí) - Mỹ bãi bỏ thuế quan đối với một loạt hàng nông sản Brazil, trong đó có thịt bò, cà phê và các sản phẩm khác, xóa bỏ mức thuế cao từng áp dụng vào mùa hè vừa qua."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ xem xét hành động với Nigeria sau cảnh báo của Tổng thống Trump",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-xem-xet-hanh-dong-voi-nigeria-sau-canh-bao-cua-tong-thong-trump-20251121074818060.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/24/trumpreutersjpg-1761316351408.jpg\" /></a>(Dân trí) - Mỹ đang xem xét các biện pháp như áp lệnh trừng phạt nhằm hối thúc chính phủ Nigeria bảo vệ tốt hơn cho cộng đồng Cơ đốc giáo."
-    },
-    {
-      "id": 3,
-      "title": "Australia hỗ trợ Việt Nam chuyển đổi năng lượng xanh trong chăn nuôi",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/australia-ho-tro-viet-nam-chuyen-doi-nang-luong-xanh-trong-chan-nuoi-20251121003624565.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/21/may-phat-dienjpg-1763659304953.jpg\" /></a>(Dân trí) - Dự án “Năng lượng sinh học trong các trang trại chăn nuôi\" mà Australia hỗ trợ mang lại những đóng góp tích cực giúp Việt Nam hướng tới mục tiêu giảm phát thải ròng bằng 0."
     }
   ]
 }
