@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bitcoin rơi mạnh về vùng 80.000 USD, nhiều nhà đầu tư \"cháy tài khoản\"",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bitcoin-roi-manh-ve-vung-80000-usd-nhieu-nha-dau-tu-chay-tai-khoan-20251122162523593.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/22/bitcoinjpeg-1763802706862.jpeg\" /></a>(Dân trí) - Bitcoin tiếp tục lao dốc, lùi sát mốc 80.000 USD. Gần 890 tỷ USD giá trị thị trường bị thổi bay trong chưa đầy 6 tuần."
+    },
+    {
+      "id": 2,
       "title": "Doanh nghiệp khó vì thủ tục chồng chéo, tắc vốn do chậm hoàn thuế",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/doanh-nghiep-kho-vi-thu-tuc-chong-cheo-tac-von-do-cham-hoan-thue-20251116164554763.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/16/doanh-nghiep-loay-hoay-voi-thu-tuc-hanh-chinh-1763283953567.jpg\" /></a>(Dân trí) - Nhiều doanh nghiệp Việt Nam đang \"kẹt\" dòng vốn, sản xuất chậm tiến độ do thủ tục hành chính rườm rà, từ hoàn thuế, cấp phép đến quy định đầu tư năng lượng chưa thống nhất."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "TPHCM lần đầu trưng bày hơn 1.500 hiện vật tiền Việt Nam qua các thời kỳ",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tphcm-lan-dau-trung-bay-hon-1500-hien-vat-tien-viet-nam-qua-cac-thoi-ky-20251122144645227.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/22/dongtienvietnamtrinhnguyen24jpg-1763796221708.jpg?watermark=true\" /></a>(Dân trí) - Hơn 1.500 đồng tiền quý hiếm lần đầu được giới thiệu tại TPHCM, tái hiện dòng chảy lịch sử Việt Nam từ kháng chiến đến thời kỳ hội nhập hiện đại."
-    },
-    {
-      "id": 3,
-      "title": "Xuất nhập khẩu tăng tốc, Việt Nam hướng tới mục tiêu 900 tỷ USD",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/xuat-nhap-khau-tang-toc-viet-nam-huong-toi-muc-tieu-900-ty-usd-20251121190224305.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/21/ky-luc-xuat-nhap-khau-vuot-800-ty-usd-1763726369991.jpg\" /></a>(Dân trí) - Tính đến ngày 15/11, tổng kim ngạch xuất nhập khẩu của Việt Nam đã vượt 800 tỷ USD, cao nhất từ trước đến nay."
     }
   ]
 }
