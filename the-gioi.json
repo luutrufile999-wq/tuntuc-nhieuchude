@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Robot Trung Quốc lập kỷ lục đi bộ 100km",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/robot-trung-quoc-lap-ky-luc-di-bo-100km-20251123165210462.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/23/robotglobal-edited-1763891421856.jpg\" /></a>(Dân trí) - Công ty công nghệ Trung Quốc AgiBot cho biết robot của họ đã hoàn thành thử thách đi bộ xuyên tỉnh dài 100km và được Tổ chức Kỷ lục Thế giới Guinness công nhận."
+    },
+    {
+      "id": 2,
       "title": "Myanmar đột kích hang ổ lừa đảo, bắt gần 1.600 người nước ngoài",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/myanmar-dot-kich-hang-o-lua-dao-bat-gan-1600-nguoi-nuoc-ngoai-20251123151709359.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/23/lua-daoafp011zonjpg-1763885791469.jpg\" /></a>(Dân trí) - Quân đội Myanmar cho biết , 5 ngày qua,, họ đã bắt giữ gần 1.600 người nước ngoài trong chiến dịch trấn áp nhằm vào một trung tâm lừa đảo trực tuyến khét tiếng ở biên giới với Thái Lan."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ có thể liệt băng đảng Venezuela vào danh sách khủng bố",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-co-the-liet-bang-dang-venezuela-vao-danh-sach-khung-bo-20251123141623485.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/23/tauus-navy11zon-cropped-1763882100971.jpg\" /></a>(Dân trí) - Mỹ có thể liệt băng đảng Cartel de los Soles vào danh sách tổ chức khủng bố, mở đường cho các hành động mới của Mỹ nhằm vào Venezuela."
-    },
-    {
-      "id": 3,
-      "title": "Australia giúp Việt Nam bảo vệ rừng trước nguy cơ từ sinh vật ngoại lai",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/australia-giup-viet-nam-bao-ve-rung-truoc-nguy-co-tu-sinh-vat-ngoai-lai-20251123130013928.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/23/img4815-cropped-1763875785528.jpg\" /></a>(Dân trí) - Dự án của Trung tâm nghiên cứu Nông nghiệp Quốc tế Australia (ACIAR) đang hỗ trợ cho Việt Nam bảo vệ sức khỏe rừng khỏi nguy cơ từ những sinh vật ngoại lai."
     }
   ]
 }
