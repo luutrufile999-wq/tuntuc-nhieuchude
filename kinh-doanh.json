@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Sắp bỏ thuế khoán, chuyên gia đề nghị nâng ngưỡng chịu thuế hộ kinh doanh",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sap-bo-thue-khoan-chuyen-gia-de-nghi-nang-nguong-chiu-thue-ho-kinh-doanh-20251122180842678.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/01/chinh-sach-thue-moi-can-thoi-gian-ra-dong-de-ho-kinh-doanh-kip-thich-nghi-1762002454111.jpg\" /></a>(Dân trí) - Khi ngành thuế chuẩn bị chuyển toàn bộ hộ kinh doanh sang cơ chế kê khai từ năm sau, nhiều chuyên gia cho rằng ngưỡng chịu thuế 200 triệu đồng/năm đã lỗi thời và cần được điều chỉnh."
+    },
+    {
+      "id": 2,
       "title": "Hé lộ đơn vị nhập hàng cho Mailisa",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/he-lo-don-vi-nhap-hang-cho-mailisa-20251122182811327.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/22/nhung-co-may-sieu-loi-nhuan-kinh-doanh-tren-niem-tin-cua-mailisa-cropped-1763810764293.jpg\" /></a>(Dân trí) - Loạt tin tức doanh nghiệp được quan tâm trong tuần qua, gồm “át chủ bài” đứng sau nhập hàng cho Mailisa, bầu Đức trải lòng về 3 ân nhân, cổ đông ngoại góp vốn tại công ty của ông Phạm Nhật Vượng..."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nhập lậu mỹ phẩm giá rẻ, thu lời nghìn tỷ: Mailisa vẫn đang bán hàng?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhap-lau-my-pham-gia-re-thu-loi-nghin-ty-mailisa-van-dang-ban-hang-20251123003234832.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/23/nhap-lau-my-pham-gia-re-thu-loi-nghin-ty-mailisa-van-dang-ban-hang-cropped-cropped-1763832454328.jpg\" /></a>(Dân trí) - Website chính thức của thẩm mỹ viện Mailisa vẫn đang hiển thị đầy đủ các sản phẩm và cho phép khách hàng đặt mua như bình thường."
-    },
-    {
-      "id": 3,
-      "title": "Dự báo giá vàng sau 2 tuần giảm liên tiếp",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-gia-vang-sau-2-tuan-giam-lien-tiep-20251123000300698.htm\"><img src=\"https://icdn.dantri.com.vn/2025/07/31/gia-vang-75-anh-tien-tuan-edited-1753897431547.jpg?watermark=true\" /></a>(Dân trí) - Thị trường vàng điều chỉnh sau giai đoạn tăng nóng năm nay. Tuần tới, loạt dữ liệu kinh tế Mỹ được công bố trong 3 ngày đầu tuần dự kiến sẽ tiếp tục chi phối diễn biến của kim loại quý."
     }
   ]
 }
