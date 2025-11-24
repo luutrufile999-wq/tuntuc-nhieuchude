@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Công chức thuế phải “4 xin, 4 luôn”, tuyệt đối cấm sách nhiễu người dân",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cong-chuc-thue-phai-4-xin-4-luon-tuyet-doi-cam-sach-nhieu-nguoi-dan-20251123141745907.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/23/cuc-thue-cam-cong-chuc-sach-nhieu-voi-vinh-nguoi-nop-thue-cropped-1763882207033.jpg\" /></a>(Dân trí) - Các đơn vị thuế được yêu cầu thực hiện bộ tiêu chí “4 xin, 4 luôn”: Xin chào, xin lỗi, xin cảm ơn, xin phép; luôn mỉm cười, luôn nhẹ nhàng, luôn lắng nghe và luôn sẵn sàng giúp đỡ."
+    },
+    {
+      "id": 2,
       "title": "Nga mở kho vàng 2.300 tấn: Lần đầu bán vàng vật chất và toan tính phía sau",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nga-mo-kho-vang-2300-tan-lan-dau-ban-vang-vat-chat-va-toan-tinh-phia-sau-20251124094629923.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/620196-cropped-1763952106666.jpg\" /></a>(Dân trí) - Nga lần đầu bán vàng vật chất từ kho dự trữ, hé lộ áp lực dòng tiền giữa bối cảnh doanh thu dầu khí sụt giảm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Fed bất ngờ đổi hướng, bitcoin và thị trường crypto nín thở chờ sóng mới",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/fed-bat-ngo-doi-huong-bitcoin-va-thi-truong-crypto-nin-tho-cho-song-moi-20251124090712624.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/federal-reserve-measures-do-nothing-for-bitcoins-pricepng-1763949649256.png\" /></a>(Dân trí) - Cú sập kinh hoàng của bitcoin cuối tuần qua khiến thị trường crypto hoang mang. Liệu động thái đảo chiều bất ngờ từ Fed có cứu được đồng tiền số lớn nhất thế giới?"
-    },
-    {
-      "id": 3,
-      "title": "Hàng Việt Nam vào Mỹ vượt 126 tỷ USD, cao nhất lịch sử",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hang-viet-nam-vao-my-vuot-126-ty-usd-cao-nhat-lich-su-20251124003502026.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/hang-viet-nam-vao-my-vuot-126-ty-usd-muc-cao-nhat-lich-su-1763919152197.jpg\" /></a>(Dân trí) - Trong 10 tháng đầu năm, xuất khẩu của Việt Nam sang Mỹ đạt kỷ lục 126,17 tỷ USD, tăng 27,7% so với cùng kỳ và tiếp tục giữ vị trí thị trường lớn nhất, chiếm hơn 30% tổng kim ngạch."
     }
   ]
 }
