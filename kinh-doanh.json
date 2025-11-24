@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thủ tướng: Ngành ngân hàng góp phần phát triển đất nước nhanh và bền vững",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-nganh-ngan-hang-gop-phan-phat-trien-dat-nuoc-nhanh-va-ben-vung-20251124183354663.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/115382444728636286-cropped-1763983246542.jpg\" /></a>(Dân trí) - Thủ tướng Phạm Minh Chính nhấn mạnh vai trò của ngành ngân hàng trong việc phát triển đất nước nhanh và bền vững, đồng thời tặng đơn vị này 32 từ."
+    },
+    {
+      "id": 2,
       "title": "Một công ty bao bì Việt \"trong tay\" người Thái muốn rời sàn chứng khoán",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mot-cong-ty-bao-bi-viet-trong-tay-nguoi-thai-muon-roi-san-chung-khoan-20251124160150553.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/sovijpg-1763974741424.jpg\" /></a>(Dân trí) - Sovi từng thuộc top 5 nhà cung cấp bao bì lớn nhất phía Nam, cung ứng sản phẩm cho các tập đoàn tiêu dùng như Unilever, Pepsico và Nestlé. Năm 2020, Thái Lan đã thâu tóm hơn 94% công ty này."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nhóm cổ phiếu liên quan 2 tỷ phú tăng bốc",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhom-co-phieu-lien-quan-2-ty-phu-tang-boc-20251124160200544.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/3-dai-gia-8-cropped-1763974831537.jpg\" /></a>(Dân trí) - Cổ phiếu liên quan tỷ phú Phạm Nhật Vượng gồm VIC, VRE có giao dịch tích cực, giá tăng mạnh. Còn mã VJC liên quan tỷ phú Nguyễn Thị Phương Thảo đã tăng 60% trong 3 tháng."
-    },
-    {
-      "id": 3,
-      "title": "Vụ buôn lậu 546kg vàng từ Trung Quốc về Việt Nam: Hồ sơ công ty đứng sau",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vu-buon-lau-546kg-vang-tu-trung-quoc-ve-viet-nam-ho-so-cong-ty-dung-sau-20251124164454258.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/vu-buon-lau-546-kg-vang-ho-so-cong-ty-dung-sau-1763977163234.jpg\" /></a>(Dân trí) - Lợi dụng chênh lệch giá vàng nguyên liệu trong nước cao, giá vàng nguyên liệu tại Trung Quốc thấp hơn, bị can Trần Thị Hoàn và các đồng phạm đã buôn lậu hơn 546kg vàng, trị giá hơn 1.208 tỷ đồng."
     }
   ]
 }
