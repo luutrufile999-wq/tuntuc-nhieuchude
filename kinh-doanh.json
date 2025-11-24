@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thị trường bitcoin đang “bi quan cực độ”",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-bitcoin-dang-bi-quan-cuc-do-20251124100159959.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/06/bitcoin-lao-doc-khi-tong-thong-trump-canh-bao-trung-quoc-dang-choi-lon-cropped-1762400386288.jpg\" /></a>(Dân trí) - Khi bitcoin giảm mạnh, các nhà đầu tư trung và ngắn hạn đang dẫn dắt đà bán tháo. Đa số đều thua lỗ."
+    },
+    {
+      "id": 2,
       "title": "Công chức thuế phải “4 xin, 4 luôn”, tuyệt đối cấm sách nhiễu người dân",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cong-chuc-thue-phai-4-xin-4-luon-tuyet-doi-cam-sach-nhieu-nguoi-dan-20251123141745907.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/23/cuc-thue-cam-cong-chuc-sach-nhieu-voi-vinh-nguoi-nop-thue-cropped-1763882207033.jpg\" /></a>(Dân trí) - Các đơn vị thuế được yêu cầu thực hiện bộ tiêu chí “4 xin, 4 luôn”: Xin chào, xin lỗi, xin cảm ơn, xin phép; luôn mỉm cười, luôn nhẹ nhàng, luôn lắng nghe và luôn sẵn sàng giúp đỡ."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga mở kho vàng 2.300 tấn: Lần đầu bán vàng vật chất và toan tính phía sau",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nga-mo-kho-vang-2300-tan-lan-dau-ban-vang-vat-chat-va-toan-tinh-phia-sau-20251124094629923.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/620196-cropped-1763952106666.jpg\" /></a>(Dân trí) - Nga lần đầu bán vàng vật chất từ kho dự trữ, hé lộ áp lực dòng tiền giữa bối cảnh doanh thu dầu khí sụt giảm."
-    },
-    {
-      "id": 3,
-      "title": "Fed bất ngờ đổi hướng, bitcoin và thị trường crypto nín thở chờ sóng mới",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/fed-bat-ngo-doi-huong-bitcoin-va-thi-truong-crypto-nin-tho-cho-song-moi-20251124090712624.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/federal-reserve-measures-do-nothing-for-bitcoins-pricepng-1763949649256.png\" /></a>(Dân trí) - Cú sập kinh hoàng của bitcoin cuối tuần qua khiến thị trường crypto hoang mang. Liệu động thái đảo chiều bất ngờ từ Fed có cứu được đồng tiền số lớn nhất thế giới?"
     }
   ]
 }
