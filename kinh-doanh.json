@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Người mua vàng lỗ 6,2 triệu đồng/lượng nếu “đu đỉnh”",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nguoi-mua-vang-lo-62-trieu-dongluong-neu-du-dinh-20251124001317427.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/29/xoa-bo-co-che-doc-quyen-vang-mieng-gia-vang-sap-het-thoi-tau-luon-1756402092710.jpg\" /></a>(Dân trí) - Nếu khách hàng mua vàng miếng ở vùng giá đỉnh là 154,6 triệu đồng/lượng thì hiện tại các “nhà vàng” chỉ thu mua với giá 148,4 triệu đồng/lượng, tức lỗ 6,2 triệu đồng/lượng."
+    },
+    {
+      "id": 2,
       "title": "Cảnh báo tín đồ thẻ tín dụng: Lãi suất đồng loạt tăng, có nơi tới 40%/năm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/canh-bao-tin-do-the-tin-dung-lai-suat-dong-loat-tang-co-noi-toi-40nam-20251123190819651.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/23/the-tin-dung-cropped-1763899576983.jpg\" /></a>(Dân trí) - Hàng loạt ngân hàng tăng mạnh lãi suất thẻ tín dụng trong tháng 11, có nơi lên gần 40%/năm, đúng thời điểm nhu cầu chi tiêu cuối năm tăng cao và các nhà băng chịu áp lực tối ưu NIM."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nhà nước muốn bán vốn hãng mì quốc dân “2 con tôm”, mức giá gây chú ý",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nha-nuoc-muon-ban-von-hang-mi-quoc-dan-2-con-tom-muc-gia-gay-chu-y-20251122093728006.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/23/2-con-tom-cropped-1763897755028.jpg\" /></a>(Dân trí) - Tháng 12, Vinataba dự kiến thoái vốn tại loạt doanh nghiệp, trong đó gây chú ý nhất là thương vụ bán trọn lô 20% cổ phần Miliket với giá khởi điểm 119.500 đồng/cổ phần."
-    },
-    {
-      "id": 3,
-      "title": "Đề xuất phạt đến 200 triệu đồng với vi phạm trong lĩnh vực tài sản mã hóa",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/de-xuat-phat-den-200-trieu-dong-voi-vi-pham-trong-linh-vuc-tai-san-ma-hoa-20251121153323638.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/22/bitcoinjpeg-1763802706862.jpeg\" /></a>(Dân trí) - Bộ Tài chính lấy ý kiến dự thảo nghị định xử phạt vi phạm hành chính trong lĩnh vực tài sản mã hóa, trong đó nhiều hành vi có thể bị phạt tới 200 triệu đồng và bị đình chỉ hoạt động đến 12 tháng."
     }
   ]
 }
