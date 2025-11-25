@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Pháp nêu phương án đưa binh sĩ phương Tây tới Ukraine hậu chiến sự",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/phap-neu-phuong-an-dua-binh-si-phuong-tay-toi-ukraine-hau-chien-su-20251125172703829.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/25/phap-neu-phuong-an-dua-binh-si-phuong-tay-toi-ukraine-hau-chien-su-1764065906473.jpg\" /></a>(Dân trí) - Nhà lãnh đạo Pháp nói về kịch bản phương Tây có thể đưa quân tới Ukraine sau khi xung đột Nga - Ukraine khép lại."
+    },
+    {
+      "id": 2,
       "title": "\"Lằn ranh đỏ\" của Ukraine về lãnh thổ khi Mỹ đề xuất thỏa thuận hòa bình",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/lan-ranh-do-cua-ukraine-ve-lanh-tho-khi-my-de-xuat-thoa-thuan-hoa-binh-20251125141700257.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/25/van-de-lanh-tho-ukraine-trong-thoa-thuan-hoa-binh-28-diem-cua-my-1764054831919.jpg\" /></a>(Dân trí) - Vấn đề lãnh thổ là một trong những nội dung gây tranh cãi trong đề xuất hòa bình 28 điểm của Mỹ nhằm giải quyết cuộc xung đột Ukraine."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giám đốc Rosneft: Nga sở hữu tài nguyên thiên nhiên vượt 100.000 tỷ USD",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/giam-doc-rosneft-nga-so-huu-tai-nguyen-thien-nhien-vuot-100000-ty-usd-20251125143416176.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/25/ngaatlas11zonjpg-1764055788284.jpg\" /></a>(Dân trí) - Tổng giá trị tài nguyên thiên nhiên của Nga có thể gần gấp đôi của Mỹ, Giám đốc điều hành Rosneft (Nga) Igor Sechin ước tính."
-    },
-    {
-      "id": 3,
-      "title": "Lũ lụt ảnh hưởng 1,9 triệu người, Thái Lan điều tàu sân bay chở đồ cứu trợ",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/lu-lut-anh-huong-19-trieu-nguoi-thai-lan-dieu-tau-san-bay-cho-do-cuu-tro-20251125142804003.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/25/lu-lut-anh-huong-19-trieu-nguoi-thai-lan-dieu-tau-san-bay-cho-do-cuu-tro-1764055065906.jpg\" /></a>(Dân trí) - Thái Lan ngày 25/11 chuẩn bị điều một tàu sân bay chở hàng cứu trợ và các đội y tế tới miền nam nước này, nơi mưa to tiếp tục làm trầm trọng thêm đợt lũ lụt tồi tệ nhất trong nhiều năm."
     }
   ]
 }
