@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giám đốc WEF: Người trẻ cần chuẩn bị để làm việc chung với người máy",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/giam-doc-wef-nguoi-tre-can-chuan-bi-de-lam-viec-chung-voi-nguoi-may-20251125191556646.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/25/ai-avar-cropped-1764072616154.jpg\" /></a>(Dân trí) - Lãnh đạo WEF cho rằng 1/3 công việc tương lai sẽ do con người và máy móc phối hợp tạo ra. Người trẻ Việt Nam cần chuyển từ cạnh tranh sang hợp tác với AI, phát triển tư duy liên ngành."
+    },
+    {
+      "id": 2,
       "title": "Công bố kế hoạch đưa Đà Lạt thành “Thủ phủ Cà phê Toàn cầu”",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cong-bo-ke-hoach-dua-da-lat-thanh-thu-phu-ca-phe-toan-cau-20251125200144259.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/02/anh-2ca-phe-thu-hoachjpg-1762050630796.jpg\" /></a>(Dân trí) - Với Lễ hội Di sản Cà phê Toàn cầu 2025, Lâm Đồng đặt mục tiêu biến Đà Lạt thành trung tâm thưởng thức và trải nghiệm cà phê đặc sản hàng đầu thế giới."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Dự kiến tính thuế trên lãi cho toàn bộ hộ kinh doanh vượt ngưỡng chịu thuế",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-kien-tinh-thue-tren-lai-cho-toan-bo-ho-kinh-doanh-vuot-nguong-chiu-thue-20251125171945819.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/01/chinh-sach-thue-moi-can-thoi-gian-ra-dong-de-ho-kinh-doanh-kip-thich-nghi-1762002696971.jpg\" /></a>(Dân trí) - Bộ Tài chính dự kiến báo cáo Chính phủ phương án thu thuế trên thu nhập (doanh thu - chi phí) đối với tất cả hộ kinh doanh có doanh thu trên ngưỡng không chịu thuế."
-    },
-    {
-      "id": 3,
-      "title": "Bộ Tài chính: Sẽ nghiên cứu nâng ngưỡng chịu thuế cho hộ kinh doanh",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-tai-chinh-se-nghien-cuu-nang-nguong-chiu-thue-cho-ho-kinh-doanh-20251125173303701.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/28/cuc-thue-chi-dao-tang-toc-ho-tro-ho-kinh-doanh-trien-khai-hoa-don-dien-tu-cropped-edited-1756355135754.jpg?watermark=true\" /></a>(Dân trí) - Bộ Tài chính sẽ nghiên cứu điều chỉnh nâng ngưỡng chịu thuế cho hộ kinh doanh lên phù hợp, đảm bảo sự công bằng tương đối với cá nhân có thu nhập từ tiền lương, tiền công."
     }
   ]
 }
