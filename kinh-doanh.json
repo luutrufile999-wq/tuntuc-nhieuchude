@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Lãnh đạo Vietjet chia sẻ cách hãng bay \"xanh hóa\" bầu trời",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lanh-dao-vietjet-chia-se-cach-hang-bay-xanh-hoa-bau-troi-20251126150703626.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/ac3c9bbccd25417b1834jpg-1764144174402.jpg?watermark=true\" /></a>(Dân trí) - Ông Tạ Hữu Thanh, đại diện Vietjet, chia sẻ nỗ lực của hãng trong ứng dụng công nghệ, tích hợp ESG và lan tỏa lối sống xanh trong ngành hàng không."
+    },
+    {
+      "id": 2,
       "title": "Doanh nghiệp phải ứng dụng AI, chuyển đổi xanh để giữ lợi thế cạnh tranh",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/doanh-nghiep-phai-ung-dung-ai-chuyen-doi-xanh-de-giu-loi-the-canh-tranh-20251126142418036.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/p1-cropped-1764141566951.jpg\" /></a>(Dân trí) - Tại Diễn đàn Kinh tế mùa thu 2025, các chuyên gia toàn cầu nhấn mạnh doanh nghiệp Việt phải đẩy mạnh sản xuất thông minh, đáp ứng tiêu chuẩn xanh để không tụt lại trong chuỗi cung ứng quốc tế."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Doanh nghiệp không làm ESG thì mất cơ hội, làm sớm thì có lợi thế sớm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/doanh-nghiep-khong-lam-esg-thi-mat-co-hoi-lam-som-thi-co-loi-the-som-20251126144549400.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/z72643884795279395e6dc4025da660ccd5bd0b95dea2ejpg-1764142874694.jpg\" /></a>(Dân trí) - Theo ông Mạc Quốc Anh, ESG không chỉ là nhiệm vụ tuân thủ mà còn là giá trị gia tăng cho thương hiệu, thể hiện trách nhiệm với xã hội và môi trường."
-    },
-    {
-      "id": 3,
-      "title": "Thứ trưởng Nguyễn Thị Hà: ESG trở thành chuẩn mực phát triển sống còn",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-truong-nguyen-thi-ha-esg-tro-thanh-chuan-muc-phat-trien-song-con-20251126144636697.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/z726433926283261c9c77525ef239568de05eafb4108f9jpg-1764142890775.jpg\" /></a>(Dân trí) - Thứ trưởng Bộ Nội vụ Nguyễn Thị Hà đánh giá chủ đề hội thảo ESG do báo Dân trí tổ chức rất thực tiễn, có ý nghĩa với cả doanh nghiệp và cơ quan quản lý Nhà nước."
     }
   ]
 }
