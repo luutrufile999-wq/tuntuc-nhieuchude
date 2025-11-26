@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Nga ra chỉ thị mới tại các khu vực sáp nhập ở Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-nga-ra-chi-thi-moi-tai-cac-khu-vuc-sap-nhap-o-ukraine-20251126111115456.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/tong-thong-nga-ra-chi-thi-moi-o-cac-khu-vuc-sap-nhap-tai-ukraine-1764129887539.jpg\" /></a>(Dân trí) - Tổng thống Nga ký sắc lệnh liên quan tới các khu vực ở Ukraine mà Moscow tuyên bố sáp nhập thông qua các cuộc trưng cầu dân ý gây tranh cãi 3 năm trước."
+    },
+    {
+      "id": 2,
       "title": "Chiến sự Ukraine 26/11: Rộ tin Kiev dừng giải vây Pokrovsk - Mirnograd",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-2611-ro-tin-kiev-dung-giai-vay-pokrovsk-mirnograd-20251126105208333.htm\"><img src=\"https://icdn.dantri.com.vn/2024/05/10/chien-su-nga-ukraine-anhminhhoareuters012-crop-1715305958494.jpeg\" /></a>(Dân trí) - Quân đội Ukraine dường như đã không thành công trong việc phá vỡ vòng vây Pokrovsk - Mirnograd và ra lệnh dừng chiến dịch, cân nhắc triển khai binh lực tới các mặt trận khác."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Công ty tư nhân đầu tiên sản xuất hàng loạt tên lửa siêu vượt âm",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/cong-ty-tu-nhan-dau-tien-san-xuat-hang-loat-ten-lua-sieu-vuot-am-20251126105548995.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/cong-ty-tu-nhan-dau-tien-tren-the-gioi-san-xuat-hang-loat-ten-lua-sieu-vuot-am-cropped-1764129190373.jpg\" /></a>(Dân trí) - Một doanh nghiệp hàng không vũ trụ tư nhân ở Trung Quốc đã trở thành công ty đầu tiên trên thế giới sản xuất hàng loạt một loại tên lửa siêu vượt âm được mô tả là có chi phí thấp nhưng hiệu suất cao."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Trump: Nga - Ukraine đang thảo luận về trao đổi lãnh thổ",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-nga-ukraine-dang-thao-luan-ve-trao-doi-lanh-tho-20251126095401294.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/18/trumpreutersjpg-1763427397673.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump cho biết Nga và Ukraine đang thảo luận về việc trao đổi lãnh thổ, trong khi Mỹ đề xuất thỏa thuận hòa bình."
     }
   ]
 }
