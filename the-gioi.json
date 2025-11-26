@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Jakarta trở thành siêu đô thị đông dân nhất thế giới",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/jakarta-tro-thanh-sieu-do-thi-dong-dan-nhat-the-gioi-20251126154936763.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/indonesiaepa11zonjpg-1764146885235.jpg\" /></a>(Dân trí) - Một báo cáo mới của Liên hợp quốc cho thấy thủ đô Jakarta của Indonesia là thành phố đông dân nhất thế giới với 41,9 triệu người sinh sống."
+    },
+    {
+      "id": 2,
       "title": "Băng nhóm lừa thanh niên Thái Lan trộm hơn 5 tỷ đồng của mẹ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/bang-nhom-lua-thanh-nien-thai-lan-trom-hon-5-ty-dong-cua-me-20251126103046789.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/chinese-scam-cropped-1764127692855.jpg\" /></a>(Dân trí) - Cảnh sát Thái Lan bắt giữ một người đàn ông Trung Quốc, truy nã hai người khác bị cáo buộc điều hành đường dây lừa đảo dụ dỗ một thanh niên 19 tuổi ăn cắp tiền mặt và đồ vật có giá trị của gia đình."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Lũ lụt nghiêm trọng càn quét các nước Đông Nam Á",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/lu-lut-nghiem-trong-can-quet-cac-nuoc-dong-nam-a-20251126150132082.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/thai-cropped-1764143922051.jpg\" /></a>(Dân trí) - Người dân Indonesia, Thái Lan, Malaysia đối mặt với hàng loạt khó khăn do lũ lụt kéo dài suốt nhiều ngày."
-    },
-    {
-      "id": 3,
-      "title": "Mưa lớn chưa từng có trong 300 năm, Thái Lan ban bố thảm họa ở miền Nam",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/mua-lon-chua-tung-co-trong-300-nam-thai-lan-ban-bo-tham-hoa-o-mien-nam-20251126150407923.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/thai-lanreuters3jpg-1764143566540.jpg\" /></a>(Dân trí) - Thái Lan đã tuyên bố tỉnh Songkhla ở miền Nam nước này là khu vực thảm họa sau khi mưa lớn kỷ lục kéo theo tình trạng ngập lụt nghiêm trọng."
     }
   ]
 }
