@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thủ tướng: Việt Nam sẵn sàng là “phòng thí nghiệm xanh và số” của khu vực",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-viet-nam-san-sang-la-phong-thi-nghiem-xanh-va-so-cua-khu-vuc-20251126194040211.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/screen-shot-2025-11-26-at-19-cropped-1764160641549.jpg\" /></a>(Dân trí) - Để kêu gọi các đối tác, tổ chức quốc tế và WEF tiếp tục đồng hành, hỗ trợ Việt Nam về các vấn đề phát triển chung, Thủ tướng nhấn mạnh Việt Nam sẵn sàng là “phòng thí nghiệm xanh và số” của khu vực."
+    },
+    {
+      "id": 2,
       "title": "\"ESG chỉ có ý nghĩa khi biến dữ liệu thành hành động thực chất\"",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/esg-chi-co-y-nghia-khi-bien-du-lieu-thanh-hanh-dong-thuc-chat-20251126190729199.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/689581018854769266-1jpg-1764156216957.jpg?watermark=true\" /></a>(Dân trí) - Theo ông Phạm Tuấn Anh, ESG đang bước vào giai đoạn hành động, nơi công nghệ và dữ liệu không chỉ để báo cáo mà trở thành nền tảng cho doanh nghiệp ra quyết định và tạo giá trị thực cho xã hội."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Toàn cảnh hội thảo thực thi ESG bằng khoa học công nghệ",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/toan-canh-hoi-thao-thuc-thi-esg-bang-khoa-hoc-cong-nghe-20251126184818921.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/hoi-thao-esg-dantri-60-edited-1764161493836.jpg\" /></a>(Dân trí) - Hội thảo “Thực thi ESG bằng khoa học công nghệ - Từ nhận thức đến hành động” do báo Dân trí tổ chức với sự góp mặt của đội ngũ các chuyên gia hàng đầu và đại diện lãnh đạo nhiều doanh nghiệp."
-    },
-    {
-      "id": 3,
-      "title": "TPHCM mở đợt truy quét hàng giả quy mô lớn, phát hiện 348 vụ vi phạm",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tphcm-mo-dot-truy-quet-hang-gia-quy-mo-lon-phat-hien-348-vu-vi-pham-20251124102957437.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/qltt-cropped-1763954852354.jpg\" /></a>(Dân trí) - Chỉ sau gần một tháng ra quân, lực lượng quản lý thị trường TPHCM đã phát hiện 348 vụ vi phạm."
     }
   ]
 }
