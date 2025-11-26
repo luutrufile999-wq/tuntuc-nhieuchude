@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "TPHCM hợp tác với WEF, bước vào giai đoạn mới của sản xuất thông minh",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tphcm-hop-tac-voi-wef-buoc-vao-giai-doan-moi-cua-san-xuat-thong-minh-20251126161932465.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/wef-cropped-1764148621053.jpg\" /></a>(Dân trí) - WEF khẳng định sẽ đồng hành cùng Việt Nam và TPHCM trong mục tiêu thúc đẩy tăng trưởng bền vững, củng cố vị thế của thành phố trong nền kinh tế toàn cầu."
+    },
+    {
+      "id": 2,
       "title": "PVN ứng dụng công nghệ thực thi ESG, thúc đẩy năng lượng bền vững",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pvn-ung-dung-cong-nghe-thuc-thi-esg-thuc-day-nang-luong-ben-vung-20251126154018595.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/z7264473198772c3e6055072aaaf49688ea29dcb45dcc6jpg-1764146298930.jpg?watermark=true\" /></a>(Dân trí) - Lãnh đạo PVN cho biết tập đoàn đang tăng tốc ứng dụng công nghệ để chuẩn hóa dữ liệu, nâng cao quản trị và thúc đẩy chuyển dịch năng lượng bền vững."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chứng khoán tăng 20 điểm, lực đẩy từ nhóm cổ phiếu đại gia",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chung-khoan-tang-20-diem-luc-day-tu-nhom-co-phieu-dai-gia-20251126151713953.htm\"><img src=\"https://icdn.dantri.com.vn/2024/07/01/chungkhoan1-crop-1719788750074.jpeg\" /></a>(Dân trí) - Nhóm cổ phiếu liên quan try phú Phạm Nhật Vượng, đại gia ngân hàng, bán lẻ... giúp thị trường chứng khoán tăng điểm mạnh mẽ."
-    },
-    {
-      "id": 3,
-      "title": "Lãnh đạo Vietjet chia sẻ cách hãng bay \"xanh hóa\" bầu trời",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lanh-dao-vietjet-chia-se-cach-hang-bay-xanh-hoa-bau-troi-20251126150703626.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/ac3c9bbccd25417b1834jpg-1764144174402.jpg?watermark=true\" /></a>(Dân trí) - Ông Tạ Hữu Thanh, đại diện Vietjet, chia sẻ nỗ lực của hãng trong ứng dụng công nghệ, tích hợp ESG và lan tỏa lối sống xanh trong ngành hàng không."
     }
   ]
 }
