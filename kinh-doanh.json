@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Loạt phát ngôn ấn tượng tại hội thảo thực thi ESG bằng khoa học công nghệ",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/loat-phat-ngon-an-tuong-tai-hoi-thao-thuc-thi-esg-bang-khoa-hoc-cong-nghe-20251127113436284.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/thumb-2png-1764219462494.png\" /></a>(Dân trí) - ESG ngày càng mang tính sống còn; tích hợp AI vào ESG không phải chi phí mà là cơ hội lớn… là những chia sẻ nổi bật tại hội thảo về thực thi ESG bằng khoa học công nghệ chiều 26/11."
+    },
+    {
+      "id": 2,
       "title": "Thu giữ hàng nghìn túi hiệu Hermes, Chanel, Louis Vuitton giả",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-giu-hang-nghin-tui-hieu-hermes-chanel-louis-vuitton-gia-20251127084010973.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/220251126171426-cropped-1764207410425.jpg\" /></a>(Dân trí) - Lực lượng hải quan tại cửa khẩu Hữu Nghị phát hiện 2 lô hàng quá cảnh từ Trung Quốc đi Campuchia cất giấu hàng nghìn sản phẩm dép, túi xách, giày, balo và tai nghe giả mạo nhiều thương hiệu nổi tiếng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thủ tướng đối thoại với giám đốc WEF, 60 phút bàn chiến lược cho Việt Nam",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-doi-thoai-voi-giam-doc-wef-60-phut-ban-chien-luoc-cho-viet-nam-20251127075324461.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/tt-wef-cropped-1764204608153.jpg\" /></a>(Dân trí) - Thủ tướng nêu 3 giai đoạn của Việt Nam và nêu khoa học công nghệ sẽ đưa Việt Nam trở thành nước phát triển."
-    },
-    {
-      "id": 3,
-      "title": "Tổng nợ xấu phình to, ngân hàng mạnh tay trích lập dự phòng rủi ro",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tong-no-xau-phinh-to-ngan-hang-manh-tay-trich-lap-du-phong-rui-ro-20251118111232281.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/18/no-xau-cropped-1763439008816.jpg\" /></a>(Dân trí) - Việc tăng trích lập diễn ra trong bối cảnh nợ xấu toàn ngành tăng 19% lên hơn 274.000 tỷ đồng, phản ánh xu hướng chủ động củng cố “bộ đệm” an toàn trước áp lực tín dụng."
     }
   ]
 }
