@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bangladesh thu giữ 10 kg vàng trong tủ đồ của cựu Thủ tướng Hasina",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/bangladesh-thu-giu-10-kg-vang-trong-tu-do-cua-cuu-thu-tuong-hasina-20251127091532560.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/hasina-cropped-1764209591431.jpg\" /></a>(Dân trí) - Các quan chức chống tham nhũng ở Bangladesh tuyên bố đã thu giữ khoảng 10 kg vàng trị giá khoảng 1,3 triệu USD từ các két ngân hàng thuộc sở hữu của cựu Thủ tướng Sheikh Hasina."
+    },
+    {
+      "id": 2,
       "title": "Nhân chứng kể lại vụ hỏa hoạn như \"ngày tận thế\" ở chung cư Hong Kong",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nhan-chung-ke-lai-vu-hoa-hoan-nhu-ngay-tan-the-o-chung-cu-hong-kong-20251127093608863.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/chayafp11zon-cropped-1764210666525.jpg\" /></a>(Dân trí) - Đám cháy tại cụm chung cư ở Tai Po, Hong Kong lan nhanh và dữ dội đến mức nỗ lực cứu hộ ngay lập tức gần như là không thể."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Quân đội Guinea-Bissau tuyên bố đảo chính, phế truất Tổng thống",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/quan-doi-guinea-bissau-tuyen-bo-dao-chinh-phe-truat-tong-thong-20251127091852292.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/quan-doi-guinea-bissau-tuyen-bo-dao-chinh-phe-truat-tong-thong-cropped-1764209703580.jpg\" /></a>(Dân trí) - Các binh sĩ ở Guinea-Bissau đã thông báo họ đang giành “quyền kiểm soát toàn bộ” quốc gia Tây Phi này, 3 ngày sau cuộc bầu cử mà cả 2 ứng cử viên tổng thống chính đều tuyên bố chiến thắng."
-    },
-    {
-      "id": 3,
-      "title": "Sự kết hợp thời tiết bất thường khiến Đông Nam Á hứng chịu lũ lụt kỷ lục",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/su-ket-hop-thoi-tiet-bat-thuong-khien-dong-nam-a-hung-chiu-lu-lut-ky-luc-20251127085539979.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/su-ket-hop-bat-thuong-khien-dong-nam-a-hung-chiu-mua-va-lu-lut-ky-luc-cropped-1764208380397.jpg\" /></a>(Dân trí) - Theo các chuyên gia về khí tượng, sự kết hợp bất thường của 2 hiện tượng khí hậu là nguyên nhân gây ra mưa và lũ lụt kỷ lục tại Đông Nam Á trong thời gian qua."
     }
   ]
 }
