@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thái Lan bác tin 100 người chết do lũ lụt",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/thai-lan-bac-tin-100-nguoi-chet-do-lu-lut-20251127191259328.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/thai-lanreuters1-cropped-1764245440328.jpg\" /></a>(Dân trí) - Thái Lan bác bỏ thông tin lan truyền trên mạng rằng bệnh viện ở tâm lũ Hat Yai, miền Nam nước này, đã tiếp nhận khoảng 100 thi thể nạn nhân tử vong do lũ."
+    },
+    {
+      "id": 2,
       "title": "Nga - Ukraine đánh \"giáp lá cà\", giằng co từng tòa nhà ở Pokrovsk",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-ukraine-danh-giap-la-ca-giang-co-tung-toa-nha-o-pokrovsk-20251127172931921.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/nga-ukraine-danh-giap-la-ca-giang-co-tung-toa-nha-o-pokrovsk-1764238880623.jpg\" /></a>(Dân trí) - Trận chiến trong đô thị giữa Nga và Ukraine vẫn diễn ra quyết liệt khi một bên quyết giành quyền kiểm soát và bên còn lại bám trụ tới cùng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Cư dân hé lộ điểm bất thường trong thảm họa cháy chung cư ở Hong Kong",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/cu-dan-he-lo-diem-bat-thuong-trong-tham-hoa-chay-chung-cu-o-hong-kong-20251127171243502.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/cu-dan-tiet-lo-diem-bat-thuong-trong-tham-hoa-chay-chung-cu-hong-kong-cropped-1764238230608.jpg\" /></a>(Dân trí) - Cư dân đã chia sẻ những điểm mà họ cho là bất thường trong vụ cháy khu chung cư khiến 55 người thiệt mạng ở Hong Kong."
-    },
-    {
-      "id": 3,
-      "title": "Ám ảnh những cuộc gọi cầu cứu trong thảm kịch cháy chung cư ở Hong Kong",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/am-anh-nhung-cuoc-goi-cau-cuu-trong-tham-kich-chay-chung-cu-o-hong-kong-20251127170002156.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/hong-kongreuters11zonjpg-1764237447511.jpg\" /></a>(Dân trí) - Những cư dân mắc kẹt trong các tòa nhà bốc cháy ở Tai Po, Hong Kong đã liên lạc với người thân và lực lượng cứu hộ để cầu cứu, song việc tiếp cận họ rất khó khăn."
     }
   ]
 }
