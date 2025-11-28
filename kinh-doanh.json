@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thế Giới Di Động bác thông tin thâu tóm hàng loạt doanh nghiệp",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/the-gioi-di-dong-bac-thong-tin-thau-tom-hang-loat-doanh-nghiep-20251127204933487.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/linhpng-1764294877382.png\" /></a>(Dân trí) - Thế Giới Di Động bác bỏ tin đồn thâu tóm doanh nghiệp, cho biết đây chỉ là hiểu nhầm và đã được giải thích tại buổi gặp gỡ nhà đầu tư mới đây."
+    },
+    {
+      "id": 2,
       "title": "Chân dung doanh nghiệp \"nổ\" có 100 tỷ USD làm đường sắt cao tốc Bắc - Nam",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chan-dung-doanh-nghiep-no-co-100-ty-usd-lam-duong-sat-cao-toc-bac-nam-20251128000332751.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/chan-dung-doanh-nghiep-no-co-100-ty-usd-lam-duong-sat-cao-toc-bac-nam-edited-1764262994309.jpg\" /></a>(Dân trí) - Liên minh Mekolor - Great USA đăng ký làm việc nhưng không đến cuộc họp về dự án đường sắt tốc độ cao Bắc - Nam. Doanh nghiệp này \"to\" đến cỡ nào?"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Sắp gỡ vướng thuế VAT, hàng nghìn tỷ đồng vốn doanh nghiệp chờ khai thông",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sap-go-vuong-thue-vat-hang-nghin-ty-dong-von-doanh-nghiep-cho-khai-thong-20251128012300474.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/thue-vat-khien-doanh-nghiep-ket-von-nghin-ty-sap-co-giai-phap-thao-go-1764267702265.jpg\" /></a>(Dân trí) - Dự án Luật sửa đổi, bổ sung một số điều của Luật Thuế Giá trị gia tăng nhằm tháo gỡ vướng mắc về hoàn thuế, qua đó giúp doanh nghiệp sớm giải phóng nguồn lực tài chính và phục hồi sản xuất sau bão lũ."
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng biến động mạnh, tăng 3 triệu đồng/lượng từ đầu tuần",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-bien-dong-manh-tang-3-trieu-dongluong-tu-dau-tuan-20251128010237754.htm\"><img src=\"https://icdn.dantri.com.vn/2025/07/10/gia-vang-mieng-sjc-giam-ve-duoi-121-trieu-dongluong-1752082254854.jpg\" /></a>(Dân trí) - Giá vàng thế giới tăng mạnh kéo giá trong nước đi lên. Kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) giảm lãi suất tháng vào 12 tiếp tục giúp vàng trở thành tài sản được ưa chuộng."
     }
   ]
 }
