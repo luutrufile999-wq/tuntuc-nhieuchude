@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hong Kong để tang 3 ngày cho các nạn nhân trong vụ cháy chung cư",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/hong-kong-de-tang-3-ngay-cho-cac-nan-nhan-trong-vu-chay-chung-cu-20251129060339942.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/29/hong-kong-hkfp1-cropped-1764370883434.jpg\" /></a>(Dân trí) - Hong Kong sẽ để tang 3 ngày sau vụ cháy chung cư nghiêm trọng nhất 70 năm qua tại Tai Po khiến ít nhất 128 người thiệt mạng."
+    },
+    {
+      "id": 2,
       "title": "Nga ra tuyên bố quan trọng về đàm phán hòa bình Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-ra-tuyen-bo-quan-trong-ve-dam-phan-hoa-binh-ukraine-20251129051750462.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/29/kremlintass-cropped-1764368170716.jpg\" /></a>(Dân trí) - Điện Kremlin cho biết, tại thời điểm này, Nga sẽ chỉ đàm phán với Mỹ về vấn đề Ukraine."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chánh văn phòng Tổng thống Ukraine từ chức sau khi bị khám nhà",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chanh-van-phong-tong-thong-ukraine-tu-chuc-sau-khi-bi-kham-nha-20251128224036788.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/chanh-van-phong-tong-thong-ukraine-tu-chuc-sau-khi-bi-kham-nha-cropped-1764344125186.jpg\" /></a>(Dân trí) - Andriy Yermak, người đứng đầu Văn phòng Tổng thống Ukraine, đã nộp đơn từ chức sau khi các cơ quan chống tham nhũng khám nhà ông vào ngày 28/11."
-    },
-    {
-      "id": 3,
-      "title": "Hong Kong bắt 8 người nghi liên quan tới thảm kịch cháy chung cư",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/hong-kong-bat-8-nguoi-nghi-lien-quan-toi-tham-kich-chay-chung-cu-20251128212630253.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/hong-kong-bat-8-nguoi-nghi-lien-quan-toi-tham-kich-chay-chung-cu-1764339690881.jpg\" /></a>(Dân trí) - Cơ quan giám sát chống tham nhũng của Hong Kong cho biết họ đã bắt giữ 8 người vào ngày 28/11 bị nghi liên quan đến vụ cháy tại một khu chung cư khiến ít nhất 128 người thiệt mạng."
     }
   ]
 }
