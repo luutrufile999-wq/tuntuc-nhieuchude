@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Cổ phiếu Pomina tăng trần nhờ \"hiệu ứng Vingroup\"",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/co-phieu-pomina-tang-tran-nho-hieu-ung-vingroup-20251128155418935.htm\"><img src=\"https://icdn.dantri.com.vn/2024/12/21/chungkhoan2-crop-1734742217550.jpeg\" /></a>(Dân trí) - Thị trường chứng khoán ngày 28/11 tăng hơn 6 điểm, dẫn dắt bởi VIC. Cổ phiếu Pomina cũng tăng trần sau thông tin được VinMetal hỗ trợ vay vốn 0%."
+    },
+    {
+      "id": 2,
       "title": "Buôn bán động vật hoang dã liên quan gì đến rửa tiền, ESG?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/buon-ban-dong-vat-hoang-da-lien-quan-gi-den-rua-tien-esg-20251128111635170.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/buon-ban-dong-vat-hoang-da-lien-quan-gi-den-rua-tien-esg-cropped-1764303224465.jpg\" /></a>(Dân trí) - Buôn bán động vật hoang dã là lĩnh vực có rủi ro rửa tiền cao nhất trong nhóm tội phạm về môi trường. Hoạt động trái phép này cũng tạo ra các rủi ro liên quan đến ESG."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Bắt đầu mùa Black Friday: Giảm giá đến 80% nhưng vẫn ít khách",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bat-dau-mua-black-friday-giam-gia-den-80-nhung-van-it-khach-20251128140234357.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/z7271215889436e4a753f7894bbc949165676dc8934927-edited-1764312999654.jpg?watermark=true\" /></a>(Dân trí) - Cảnh tượng đông đúc, nhộn nhịp, xếp thành hàng dài để săn giảm giá không còn diễn ra, dù nhiều thương hiệu lớn giảm giá sâu. Khách hàng thừa nhận đã thay đổi thói quen mua sắm."
-    },
-    {
-      "id": 3,
-      "title": "AI đang định hình lại mùa mua sắm 2025: Từ tìm đồ giảm giá đến săn quà tặng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ai-dang-dinh-hinh-lai-mua-mua-sam-2025-tu-tim-do-giam-gia-den-san-qua-tang-20251128103228930.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/screenshot-2025-11-28-100116png-1764298900918.png\" /></a>(Dân trí) - Mùa mua sắm 2025 chứng kiến bước ngoặt khi AI làm thay mọi công đoạn, từ gợi ý sản phẩm, tóm tắt đánh giá đến theo dõi giá. Người dùng chỉ còn việc bấm mua."
     }
   ]
 }
