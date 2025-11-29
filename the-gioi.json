@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Màn thể hiện gây thất vọng khiến UAV Mỹ bị \"đắp chiếu\" ở Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/man-the-hien-gay-that-vong-khien-uav-my-bi-dap-chieu-o-ukraine-20251129211857697.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/29/uav-cropped-1764425664037.jpg\" /></a>(Dân trí) - UAV Altius do một công ty Mỹ sản xuất đã bị Ukraine dừng sử dụng sau màn thể hiện không mấy ấn tượng trên chiến trường."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Mỹ cảnh báo phong tỏa không phận Venezuela",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-my-canh-bao-phong-toa-khong-phan-venezuela-20251129202807656.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/29/tong-thong-my-canh-bao-phong-toa-khong-phan-venezuela-1764422725819.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump ngày 29/11 cảnh báo vùng trời phía trên và xung quanh Venezuela có thể sẽ bị đóng hoàn toàn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Bão bất thường gây thiệt hại nghiêm trọng ở Indonesia, 303 người chết",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/bao-bat-thuong-gay-thiet-hai-nghiem-trong-o-indonesia-303-nguoi-chet-20251129194003623.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/29/bao-bat-thuong-gay-thiet-hai-nghiem-trong-o-indonesia-303-nguoi-chet-1764419789217.jpg\" /></a>(Dân trí) - Số người thiệt mạng do lũ lụt và sạt lở đất sau các trận mưa bão ở đảo Sumatra của Indonesia đã tăng lên 303, trong khi hàng trăm người khác vẫn mất tích."
-    },
-    {
-      "id": 3,
-      "title": "Động thái của Trung Quốc sau thảm kịch cháy chung cư ở Hong Kong",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/dong-thai-cua-trung-quoc-sau-tham-kich-chay-chung-cu-o-hong-kong-20251129190825757.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/29/dong-thai-cua-trung-quoc-sau-tham-kich-chay-chung-cu-o-hong-kong-1764417939932.jpg\" /></a>(Dân trí) - Trung Quốc ngày 29/11 thông báo tiến hành một cuộc kiểm tra quy mô lớn đối với các tiêu chuẩn phòng cháy chữa cháy ở các tòa nhà cao tầng trên toàn quốc sau vụ cháy chung cư ở Hong Kong."
     }
   ]
 }
