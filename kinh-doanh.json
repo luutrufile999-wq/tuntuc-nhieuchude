@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thủ tướng: Ngành logistics phải tăng trưởng 15-16%/năm trong 5 năm tới",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-nganh-logistics-phai-tang-truong-15-16nam-trong-5-nam-toi-20251129131057665.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/29/2-edited-1764396554853.jpg\" /></a>(Dân trí) - Thủ tướng yêu cầu logistics Việt Nam tăng trưởng nhanh gấp 1,5 lần GDP, kéo chi phí xuống 11-12% và phát triển các trung tâm trung chuyển quốc tế."
+    },
+    {
+      "id": 2,
       "title": "Kinh tế Nga khó chồng khó: Người dân mệt mỏi vì giá cả leo thang",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/kinh-te-nga-kho-chong-kho-nguoi-dan-met-moi-vi-gia-ca-leo-thang-20251128000316414.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/27/security-russia-nukes-ap17054355333699jpg-1764260098003.jpg\" /></a>(Dân trí) - Doanh thu dầu khí lao dốc cùng lạm phát tăng cao đang khiến \"tấm khiên\" kinh tế Nga rạn nứt. Người dân bắt đầu thấm thía nỗi đau tài chính khi giỏ hàng thiết yếu ngày càng vơi đi."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng thế giới tăng mạnh, vượt 4.200 USD/ounce",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-tang-manh-vuot-4200-usdounce-20251128201100698.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/vang-cropped-1764335354619.jpg\" /></a>(Dân trí) - Giá vàng thế giới dự tiếp đà tăng, trước kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) sẽ hạ lãi suất vào tháng tới."
-    },
-    {
-      "id": 3,
-      "title": "Giá bán vàng miếng SJC tăng tiến sát 155 triệu đồng/lượng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-ban-vang-mieng-sjc-tang-tien-sat-155-trieu-dongluong-20251129065624303.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/18/sjcjpg-1763422894576.jpg\" /></a>(Dân trí) - Giá vàng trong nước tiếp đà tăng theo xu hướng chung của thế giới. Hiện giá vàng thế giới đã lên mức cao nhất 2 tuần."
     }
   ]
 }
