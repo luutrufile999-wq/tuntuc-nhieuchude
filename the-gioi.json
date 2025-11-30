@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ công bố kết quả đàm phán hòa bình với Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-cong-bo-ket-qua-dam-phan-hoa-binh-voi-ukraine-20251201052207598.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/01/dam-phan-afp11zonjpg-1764541238531.jpg\" /></a>(Dân trí) - Cuộc đàm phán hòa bình giữa Mỹ và phái đoàn Ukraine diễn ra hiệu quả, mang tính xây dựng, nhưng vẫn còn nhiều việc cần làm để đạt được một thỏa thuận hòa bình nhằm chấm dứt xung đột Nga - Ukraine."
+    },
+    {
+      "id": 2,
       "title": "Hungary cảnh báo “cơn địa chấn chính trị” ở châu Âu",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/hungary-canh-bao-con-dia-chan-chinh-tri-o-chau-au-20251130195757241.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/30/hungary-canh-bao-con-dia-chan-chinh-tri-o-chau-au-1764507390157.jpg\" /></a>(Dân trí) - Thủ tướng Hungary Viktor Orban cảnh báo \"cơn địa chấn chính trị\" ở châu Âu liên quan tới cuộc xung đột ở Ukraine."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Vụ cháy chung cư Hong Kong: Số người chết tăng lên 146",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/vu-chay-chung-cu-hong-kong-so-nguoi-chet-tang-len-146-20251130182702200.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/30/vu-chay-chung-cu-hong-kong-146-nguoi-chet-thi-the-rai-rac-khap-toa-nha-cropped-1764501892093.jpg\" /></a>(Dân trí) - Số người chết trong vụ cháy khu chung cư ở Hong Kong đã tăng lên 146 khi nhiều thi thể được đưa ra khỏi các tòa nhà."
-    },
-    {
-      "id": 3,
-      "title": "Kế hoạch đặc biệt của Venezuela khi Mỹ cảnh báo phong tỏa không phận",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ke-hoach-dac-biet-cua-venezuela-khi-my-canh-bao-phong-toa-khong-phan-20251130165136492.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/30/venezuela-trien-khai-bien-phap-dac-biet-sau-canh-bao-cua-my-ve-phong-toa-khong-phan-1764496026851.jpg\" /></a>(Dân trí) - Venezuela đã triển khai \"kế hoạch đặc biệt\" về xuất cảnh và hồi hương công dân sau tuyên bố của Tổng thống Mỹ Donald Trump về đóng cửa không phận."
     }
   ]
 }
