@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Diễn biến mới từ hãng bay Việt sau vụ Airbus cảnh báo 6.000 máy bay A320",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dien-bien-moi-tu-hang-bay-viet-sau-vu-airbus-canh-bao-6000-may-bay-a320-20251130111142103.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/30/cang-hang-khong-qt-noi-bai-mua-dich-11-edited-1764475769670.jpg\" /></a>(Dân trí) - Vietjet và Vietnam Airlines đều cho biết đã cập nhật xong phần mềm tại tất cả tàu bay Airbus A320/A321. Các chuyến bay trong thời gian tới sẽ không bị ảnh hưởng."
+    },
+    {
+      "id": 2,
       "title": "Lãi suất tăng dồn dập, tiền gửi người dân vào ngân hàng lập kỷ lục mới",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lai-suat-tang-don-dap-tien-gui-nguoi-dan-vao-ngan-hang-lap-ky-luc-moi-20251130005952505.htm\"><img src=\"https://icdn.dantri.com.vn/2024/07/27/vpbank-giao-dich37-edited-1722013831584.jpeg\" /></a>(Dân trí) - Lãi suất tăng trở lại sau thời gian dài đi ngang. Tiền gửi của dân cư tính đến cuối tháng 9 đạt kỷ lục 7,83 triệu tỷ đồng, tăng gần 11% so với đầu năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Đà Nẵng thu hút vốn đầu tư vào khu thương mại tự do và hạ tầng logistics",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/da-nang-thu-hut-von-dau-tu-vao-khu-thuong-mai-tu-do-va-ha-tang-logistics-20251128182257711.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/a2-edited-1764328669722.jpg\" /></a>(Dân trí) - Thành phố Đà Nẵng xúc tiến thu hút vốn đầu tư vào khu thương mại tự do và hạ tầng logistics, để định hình tốc độ tăng trưởng và sức cạnh tranh của thành phố trong nhiều thập kỷ tới."
-    },
-    {
-      "id": 3,
-      "title": "Đề xuất loạt chính sách mở đường cho điện gió ngoài khơi bùng nổ",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/de-xuat-loat-chinh-sach-mo-duong-cho-dien-gio-ngoai-khoi-bung-no-20251129233344002.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/29/diengio-1681985523080221865154-cropped-1764433859614.jpg\" /></a>(Dân trí) - Hội đồng Năng lượng gió toàn cầu đề xuất mở rộng nhà đầu tư điện gió ngoài khơi, bỏ yêu cầu vốn điều lệ, đến ưu tiên tiêu chí năng lực, kinh nghiệm để thu hút vốn và bảo đảm triển khai dự án hiệu quả."
     }
   ]
 }
