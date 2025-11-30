@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Vụ cháy chung cư Hong Kong: Số người chết tăng lên 146",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/vu-chay-chung-cu-hong-kong-so-nguoi-chet-tang-len-146-20251130182702200.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/30/vu-chay-chung-cu-hong-kong-146-nguoi-chet-thi-the-rai-rac-khap-toa-nha-cropped-1764501892093.jpg\" /></a>(Dân trí) - Số người chết trong vụ cháy khu chung cư ở Hong Kong đã tăng lên 146 khi nhiều thi thể được đưa ra khỏi các tòa nhà."
+    },
+    {
+      "id": 2,
       "title": "Kế hoạch đặc biệt của Venezuela khi Mỹ cảnh báo phong tỏa không phận",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ke-hoach-dac-biet-cua-venezuela-khi-my-canh-bao-phong-toa-khong-phan-20251130165136492.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/30/venezuela-trien-khai-bien-phap-dac-biet-sau-canh-bao-cua-my-ve-phong-toa-khong-phan-1764496026851.jpg\" /></a>(Dân trí) - Venezuela đã triển khai \"kế hoạch đặc biệt\" về xuất cảnh và hồi hương công dân sau tuyên bố của Tổng thống Mỹ Donald Trump về đóng cửa không phận."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Lũ lụt càn quét các nước Đông Nam Á, hàng trăm người thiệt mạng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/lu-lut-can-quet-cac-nuoc-dong-nam-a-hang-tram-nguoi-thiet-mang-20251130144332034.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/30/indojpg-1764488191135.jpg\" /></a>(Dân trí) - Hàng trăm người đã thiệt mạng và mất tích ở Đông Nam Á, khi các trận lũ lụt càn quét khu vực này."
-    },
-    {
-      "id": 3,
-      "title": "F-16 Ukraine gây khó cho Nga: \"Biết người, biết ta trăm trận không nguy\"",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/f-16-ukraine-gay-kho-cho-nga-biet-nguoi-biet-ta-tram-tran-khong-nguy-20251130120935496.htm\"><img src=\"https://icdn.dantri.com.vn/2024/09/21/tiem-kich-f-16-ukraine-ngaafp-crop-1726893486708.jpeg\" /></a>(Dân trí) - Moscow có lẽ không ngờ rằng, chỉ với một số ít tiêm kích F-16 trong tay, không quân Ukraine đang ngày càng hoạt động hiệu quả, đã bắn hạ nhiều tên lửa hành trình và UAV tấn công của Nga."
     }
   ]
 }
