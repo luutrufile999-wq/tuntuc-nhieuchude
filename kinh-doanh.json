@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chứng khoán vượt 1.700 điểm, nhà đầu tư vẫn chưa được vui",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chung-khoan-vuot-1700-diem-nha-dau-tu-van-chua-duoc-vui-20251201151515905.htm\"><img src=\"https://icdn.dantri.com.vn/2024/04/22/chungkhoan4-crop-1713756859344.jpeg\" /></a>(Dân trí) - Dù thị trường chung tăng điểm, số lượng cổ phiếu giảm giá vẫn áp đảo. Lực đẩy chỉ số tập trung vào nhóm cổ phiếu \"họ\" Vingroup."
+    },
+    {
+      "id": 2,
       "title": "Trà sữa 0 đồng tại Trung Quốc: Ông lớn lỗ tỷ USD, shipper hốt bạc",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tra-sua-0-dong-tai-trung-quoc-ong-lon-lo-ty-usd-shipper-hot-bac-20251201102826079.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/01/f7c5a87f-e2b3-4863-bbe2-c1b48e9a55fcfcfbd21bjpg-1764558920775.jpg\" /></a>(Dân trí) - Trà sữa 0 đồng, ăn trưa miễn phí, shipper kiếm gấp 5 lần ngày thường, nhưng phía sau “thiên đường mua sắm” là cuộc đua đốt tiền tỷ USD của Meituan, Alibaba và JD.com để giành thị phần giao nhanh."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Công ty bảo hiểm Nhật Bản chi hơn 5.000 tỷ đồng mua MVI Life tại Việt Nam",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cong-ty-bao-hiem-nhat-ban-chi-hon-5000-ty-dong-mua-mvi-life-tai-viet-nam-20251201133336446.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/01/mvi-cropped-1764570750255.jpg\" /></a>(Dân trí) - MVI Life, tiền thân là Aviva Việt Nam, chỉ vừa được Tập đoàn Manulife mua lại vào năm 2021."
-    },
-    {
-      "id": 3,
-      "title": "Giá bạc vượt đỉnh, \"tay to\" mạnh tay gom hàng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-bac-vuot-dinh-tay-to-manh-tay-gom-hang-20251201100306761.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/01/bac-cropped-1764558103821.jpg\" /></a>(Dân trí) - Nhu cầu tăng vọt, các nhà đầu tư đổ xô gom bạc. Dữ liệu cho thấy bạc mới kết thúc tuần giao dịch ở mức giá kỷ lục."
     }
   ]
 }
