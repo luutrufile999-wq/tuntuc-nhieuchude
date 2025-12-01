@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "\"Vua thép\" từng bị hoài nghi khi lấn sân sang nông nghiệp, giờ ra sao?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vua-thep-tung-bi-hoai-nghi-khi-lan-san-sang-nong-nghiep-gio-ra-sao-20251201200659776.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/01/dsc00126-edited-1764593962947.jpg\" /></a>(Dân trí) - Nông nghiệp đóng góp lợi nhuận lớn thứ 2 cho tập đoàn Hòa Phát, chỉ sau thép. Sau một thập kỷ, doanh nghiệp có lợi nhuận nghìn tỷ đồng mỗi năm."
+    },
+    {
+      "id": 2,
       "title": "Tận dụng sân bay Long Thành để phát triển logistics ở Đồng Nai",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tan-dung-san-bay-long-thanh-de-phat-trien-logistics-o-dong-nai-20251201170914626.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/26/sanbaylongthanhhuukhoa-3-cropped-1764146351077.jpg\" /></a>(Dân trí) - Với tầm vóc của sân bay Long Thành, Đồng Nai đặt mục tiêu trở thành điểm trung chuyển hàng hóa quan trọng của khu vực và cả nước, từ đó nâng cao năng lực cạnh tranh của nền kinh tế."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chứng khoán vượt 1.700 điểm, nhà đầu tư vẫn chưa được vui",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chung-khoan-vuot-1700-diem-nha-dau-tu-van-chua-duoc-vui-20251201151515905.htm\"><img src=\"https://icdn.dantri.com.vn/2024/04/22/chungkhoan4-crop-1713756859344.jpeg\" /></a>(Dân trí) - Dù thị trường chung tăng điểm, số lượng cổ phiếu giảm giá vẫn áp đảo. Lực đẩy chỉ số tập trung vào nhóm cổ phiếu \"họ\" Vingroup."
-    },
-    {
-      "id": 3,
-      "title": "Trà sữa 0 đồng tại Trung Quốc: Ông lớn lỗ tỷ USD, shipper hốt bạc",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tra-sua-0-dong-tai-trung-quoc-ong-lon-lo-ty-usd-shipper-hot-bac-20251201102826079.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/01/f7c5a87f-e2b3-4863-bbe2-c1b48e9a55fcfcfbd21bjpg-1764558920775.jpg\" /></a>(Dân trí) - Trà sữa 0 đồng, ăn trưa miễn phí, shipper kiếm gấp 5 lần ngày thường, nhưng phía sau “thiên đường mua sắm” là cuộc đua đốt tiền tỷ USD của Meituan, Alibaba và JD.com để giành thị phần giao nhanh."
     }
   ]
 }
