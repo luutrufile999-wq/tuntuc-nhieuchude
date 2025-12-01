@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hong Kong bắt thêm nghi phạm vụ cháy chung cư, nêu lý do lửa lan nhanh",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/hong-kong-bat-them-nghi-pham-vu-chay-chung-cu-neu-ly-do-lua-lan-nhanh-20251201163327302.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/01/hong-kong-bat-them-nghi-pham-vu-chay-chung-cu-neu-ly-do-lua-lan-nhanh-1764581416272.jpg\" /></a>(Dân trí) - Giới chức Hong Kong cho biết hôm 1/12 rằng họ đã bắt giữ 13 người vì tình nghi ngộ sát trong cuộc điều tra về vụ hỏa hoạn thảm khốc nhất của thành phố trong nhiều thập niên."
+    },
+    {
+      "id": 2,
       "title": "Máy bay “Ngày tận thế” của Mỹ biến mất trên Đại Tây Dương",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/may-bay-ngay-tan-the-cua-my-bien-mat-tren-dai-tay-duong-20251201160845732.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/01/may-bay-ngay-tan-theus-navy-cropped-1764580033089.jpg\" /></a>(Dân trí) - Một máy bay “Ngày tận thế” của Hải quân Mỹ đã biến mất sau khi thực hiện một nhiệm vụ bí ẩn xuyên Đại Tây Dương cuối tuần qua."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Hé lộ những vướng mắc sau cuộc họp của Mỹ, Ukraine về kế hoạch hòa bình",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/he-lo-nhung-vuong-mac-sau-cuoc-hop-cua-my-ukraine-ve-ke-hoach-hoa-binh-20251201144545238.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/01/rubioafp11zon-1jpg-1764574966560.jpg\" /></a>(Dân trí) - Trong cuộc đàm phán giữa phái đoàn Ukraine và Mỹ tại Florida ngày 30/11, một dự thảo thỏa thuận hòa bình nhằm chấm dứt xung đột giữa Nga và Ukraine vẫn chưa được hoàn tất."
-    },
-    {
-      "id": 3,
-      "title": "Tiêm kích Mirage và F-16 Ukraine né cú ra đòn của Su-35 Nga thế nào?",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tiem-kich-mirage-va-f-16-ukraine-ne-cu-ra-don-cua-su-35-nga-the-nao-20251201141648997.htm\"><img src=\"https://icdn.dantri.com.vn/2025/03/31/f-16-ukraine-vs-su-35-ngagrowlingsidewinder-crop-1743407326632.jpeg\" /></a>(Dân trí) - Nhiều nguồn tin Ukraine liên tục cảnh báo rằng các chiến đấu cơ F-16 và Mirage 2000 do phương Tây cung cấp hoàn toàn không thể sánh được với những tiêm kích tiên tiến của Nga như Su-35."
     }
   ]
 }
