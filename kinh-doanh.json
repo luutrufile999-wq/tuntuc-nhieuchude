@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Cổ phiếu Sabeco tăng trần, Habeco giảm nhẹ trong phiên thị trường hưng phấn",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/co-phieu-sabeco-tang-tran-habeco-giam-nhe-trong-phien-thi-truong-hung-phan-20251202155358590.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/screenshot-2025-12-02-155153-cropped-1764665537642.jpg\" /></a>(Dân trí) - Cổ phiếu SAB (Sabeco) tăng trần trong khi mã BHN (Habeco) giảm điểm trong phiên giao dịch hôm nay (2/12). Trước đó, Nhà máy Bia Hà Nội xảy ra hỏa hoạn vào ngày 1/12."
+    },
+    {
+      "id": 2,
       "title": "Máy bay A320 của Airbus gặp vấn đề mới sau sự cố phần mềm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/may-bay-a320-cua-airbus-gap-van-de-moi-sau-su-co-phan-mem-20251202160722084.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/belugaxl-airbus-may-bay-airbus-crop-cropped-1764666348057.jpg\" /></a>(Dân trí) - Airbus phát hiện thêm một vấn đề mới chỉ vài ngày sau chiến dịch thu hồi và cập nhật phần mềm lớn nhất trong lịch sử dòng A320."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Việt Nam chi hơn nửa tỷ USD nhập khẩu thịt từ Ấn Độ",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/viet-nam-chi-hon-nua-ty-usd-nhap-khau-thit-tu-an-do-20251202145707674.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/viet-nam-chi-hon-nua-ty-usd-nhap-thit-an-do-cropped-1764661657421.jpg\" /></a>(Dân trí) - Trong 10 tháng, Ấn Độ vẫn là thị trường cung cấp thịt và các sản phẩm từ thịt lớn nhất cho Việt Nam với số lượng đạt 150.200 tấn, trị giá 535,52 triệu USD."
-    },
-    {
-      "id": 3,
-      "title": "Elon Musk dự báo sốc: Con người sẽ không cần làm việc sau 20 năm nữa",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/elon-musk-du-bao-soc-con-nguoi-se-khong-can-lam-viec-sau-20-nam-nua-20251202135445916.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/106965909-1635265647645-gettyimages-1229892823-afp-8wa6cm-cropped-1764657639361.jpg\" /></a>(Dân trí) - Trong khi gen Z đang lo mất việc bởi AI, Elon Musk lại vẽ ra một viễn cảnh gây sốc: Chưa tới 20 năm nữa, khái niệm \"đi làm\" vì mưu sinh sẽ biến mất, trở thành một thú vui tùy chọn như trồng rau."
     }
   ]
 }
