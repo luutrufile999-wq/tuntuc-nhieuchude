@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Na Uy xây hầm đường bộ xuyên biển dài và sâu nhất thế giới",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/na-uy-xay-ham-duong-bo-xuyen-bien-dai-va-sau-nhat-the-gioi-20251202195252687.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/hamskanskaa11zon-cropped-1764679890798.jpg\" /></a>(Dân trí) - Đường hầm dưới biển dài và sâu nhất thế giới đang được xây dựng tại Na Uy, nhằm rút ngắn thời gian di chuyển giữa các thành phố lớn và trở thành một phần của tuyến cao tốc không phà."
+    },
+    {
+      "id": 2,
       "title": "Nga công bố chi tiết chương trình đàm phán với Mỹ về hòa bình Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-cong-bo-chi-tiet-chuong-trinh-dam-phan-voi-my-ve-hoa-binh-ukraine-20251202190005719.htm\"><img src=\"https://icdn.dantri.com.vn/2025/04/15/kremlindpa-crop-1744671432694.jpeg\" /></a>(Dân trí) - Điện Kremlin cho biết, phái đoàn Mỹ gồm 2 đại diện sẽ thảo luận với giới chức Nga về kế hoạch hòa bình Ukraine tại Moscow vào hôm nay 2/12."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tàu hàng Nga bị tấn công ở Biển Đen",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tau-hang-nga-bi-tan-cong-o-bien-den-20251202182705870.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/tau-hang-nga-bi-tan-cong-o-bien-den-1764674702459.jpg\" /></a>(Dân trí) - Một tàu hàng treo cờ Nga đã bị tấn công ở Biển Đen khi đang trên đường đến Georgia."
-    },
-    {
-      "id": 3,
-      "title": "Nga nêu điều kiện chấm dứt xung đột Ukraine sau đề xuất hòa bình của Mỹ",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-neu-dieu-kien-cham-dut-xung-dot-ukraine-sau-de-xuat-hoa-binh-cua-my-20251202181000883.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/14/peskovtass-cropped-1760380125773.jpg\" /></a>(Dân trí) - Điện Kremlin tuyên bố một thỏa thuận hòa bình phải giải quyết tận gốc nguyên nhân của cuộc xung đột Ukraine."
     }
   ]
 }
