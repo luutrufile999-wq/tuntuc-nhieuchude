@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mưa lũ ở Indonesia: 631 người thiệt mạng, hơn 1 triệu người sơ tán",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/mua-lu-o-indonesia-631-nguoi-thiet-mang-hon-1-trieu-nguoi-so-tan-20251202150009275.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/2025-12-02t063717z355490118rc228ia3f1qjrtrmadp3asia-weather-indonesiajpg-1764662776504.jpg\" /></a>(Dân trí) - Hơn 3,2 triệu người tại Indonesia đã bị ảnh hưởng bởi lũ lụt kinh hoàng, trong đó ít nhất 631 người thiệt mạng, 472 người vẫn mất tích và 1 triệu người phải sơ tán."
+    },
+    {
+      "id": 2,
       "title": "40% chuyến bay từ Trung Quốc đến Nhật Bản bị hủy trong tháng 12",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/40-chuyen-bay-tu-trung-quoc-den-nhat-ban-bi-huy-trong-thang-12-20251202141823721.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/hang-khongafp11zonjpg-1764659696954.jpg\" /></a>(Dân trí) - Khoảng 40% số chuyến bay theo lịch trình từ Trung Quốc đến Nhật Bản trong tháng 12 đã bị hủy trong bối cảnh căng thẳng giữa 2 nước."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga sao chép mô hình đội phòng không cơ động của Ukraine?",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-sao-chep-mo-hinh-doi-phong-khong-co-dong-cua-ukraine-20251202140042031.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/phao-phong-khong-ukraine-danh-chan-uav-ngaup-cropped-1764655572068.jpg\" /></a>(Dân trí) - Cường độ các cuộc không kích của Ukraine ngày càng gia tăng ở sâu trong hậu phương, chủ yếu nhắm vào các nhà máy lọc dầu và kho chứa, đòi hỏi Nga phải có một giải pháp nhanh chóng và hiệu quả."
-    },
-    {
-      "id": 3,
-      "title": "Lý do Trung Quốc quyết định tăng thuế với bao cao su và thuốc tránh thai",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ly-do-trung-quoc-quyet-dinh-tang-thue-voi-bao-cao-su-va-thuoc-tranh-thai-20251202141309249.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/ly-do-trung-quoc-tang-thue-voi-bao-cao-su-va-thuoc-tranh-thai-1764659233804.jpg\" /></a>(Dân trí) - Trung Quốc sẽ áp thuế giá trị gia tăng (VAT) đối với các loại thuốc và thiết bị tránh thai, bao gồm cả bao cao su, trong một nỗ lực mới nhằm đảo ngược tỷ lệ sinh ở quốc gia tỷ dân."
     }
   ]
 }
