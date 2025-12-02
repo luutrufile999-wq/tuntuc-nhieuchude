@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hoa khôi bóng chuyền cầm cờ cho đoàn thể thao Việt Nam ở SEA Games",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/hoa-khoi-bong-chuyen-cam-co-cho-doan-the-thao-viet-nam-o-sea-games-20251202212114102.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/lethanhthuy-cropped-1764685166360.jpg\" /></a>(Dân trí) - Phụ công xinh đẹp Lê Thanh Thúy là một trong hai vận động viên (VĐV) được vinh dự cầm cờ cho đoàn thể thao Việt Nam ở lễ khai mạc SEA Games 33."
+    },
+    {
+      "id": 2,
       "title": "Thua U17 Việt Nam, bóng đá trẻ Malaysia chìm trong bão chỉ trích",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/thua-u17-viet-nam-bong-da-tre-malaysia-chim-trong-bao-chi-trich-20251202203804235.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/u17-viet-nam-u17-malaysia-cropped-1764682388444.jpg\" /></a>(Dân trí) - Thua U17 Việt Nam, U17 Malaysia tiếp tục lỡ hẹn với sân chơi châu lục. Chuỗi thất bại của các đội trẻ đẩy Liên đoàn bóng đá Malaysia (FAM) vào tâm bão chỉ trích và áp lực cải tổ."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Động thái bất ngờ, nghi ngờ Malaysia bỏ cuộc kháng cáo lên CAS",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/dong-thai-bat-ngo-nghi-ngo-malaysia-bo-cuoc-khang-cao-len-cas-20251202200954153.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/dong-thai-bat-ngo-nghi-ngo-malaysia-bo-cuoc-chap-nhan-an-phat-cua-fifa-1764680854065.jpg\" /></a>(Dân trí) - Sau khi FIFA bác đơn kháng cáo của Liên đoàn bóng đá Malaysia (FAM) liên quan đến 7 cầu thủ nhập tịch, FAM vẫn chưa gửi đơn kháng cáo lên Tòa án trọng tài thể thao (CAS)."
-    },
-    {
-      "id": 3,
-      "title": "HLV U22 Thái Lan tuyên bố sẽ thắng mọi đối thủ tại SEA Games 33",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/hlv-u22-thai-lan-tuyen-bo-se-thang-moi-doi-thu-tai-sea-games-33-20251202183414190.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/hlvu22lao2fat2-12-25jpeg-1764674932882.jpeg\" /></a>(Dân trí) - HLV Thawatchai Damrong-Ongtrakul của U22 Thái Lan tuyên bố đội bóng trẻ xứ sở chùa vàng có thể đánh bại mọi đối thủ, qua đó vô địch SEA Games 33."
     }
   ]
 }
