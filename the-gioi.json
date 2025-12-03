@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "EU vạch lộ trình từ bỏ hoàn toàn khí đốt Nga",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/eu-vach-lo-trinh-tu-bo-hoan-toan-khi-dot-nga-20251203161326329.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/03/eu-vach-lo-trinh-tu-bo-hoan-toan-khi-dot-nga-cropped-1764753009858.jpg\" /></a>(Dân trí) - Hội đồng Liên minh châu Âu và Nghị viện châu Âu đã đạt được một thỏa thuận chính trị về lộ trình từ bỏ khí đốt của Nga."
+    },
+    {
+      "id": 2,
       "title": "20.000 viên đạn của quân đội Đức bị đánh cắp",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/20000-vien-dan-cua-quan-doi-duc-bi-danh-cap-20251203155104209.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/03/quandoiducgettyjpg-1764751733840.jpg\" /></a>(Dân trí) - 20.000 viên đạn dành cho quân đội Đức đã bị đánh cắp trong quá trình vận chuyển."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ngoại trưởng Mỹ nêu trở ngại chính với kế hoạch hòa bình Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ngoai-truong-my-neu-tro-ngai-chinh-voi-ke-hoach-hoa-binh-ukraine-20251203154417725.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/24/rubioafp11zonjpg-1763940534555.jpg\" /></a>(Dân trí) - Trở ngại chính đối với một thỏa thuận hòa bình giữa Moscow và Kiev là một dải đất ở Donbass, miền Đông Ukraine, Ngoại trưởng Mỹ Marco Rubio cho biết."
-    },
-    {
-      "id": 3,
-      "title": "Cư dân chật vật sau vụ cháy chung cư ở Hong Kong",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/cu-dan-chat-vat-sau-vu-chay-chung-cu-o-hong-kong-20251203150414473.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/03/hong-kongscmp11zonjpg-1764748879291.jpg\" /></a>(Dân trí) - Một tuần sau vụ hỏa hoạn nghiêm trọng ở cụm chung cư Wang Fuk Court, quận Taipo, Hong Kong, một số cư dân đã trở lại nhà để thu dọn đồ đạc, trong khi những người khác vật lộn xây dựng lại cuộc sống."
     }
   ]
 }
