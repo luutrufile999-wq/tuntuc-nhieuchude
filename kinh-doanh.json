@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chứng khoán Việt Nam rất sôi động, cơ hội đầu tư xanh được quan tâm",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chung-khoan-viet-nam-rat-soi-dong-co-hoi-dau-tu-xanh-duoc-quan-tam-20251203213054998.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/05/chungkhoan2-cropped-1754383193579.jpg\" /></a>(Dân trí) - Theo Chủ tịch UBCKNN, nhà đầu tư trong nước và quốc tế dành sự quan tâm lớn tới cơ hội đầu tư xanh tại Việt Nam, nhất là khi ESG ngày càng quan trọng."
+    },
+    {
+      "id": 2,
       "title": "Cá nuôi hồ lần đầu xuất khẩu sang Nhật Bản làm sushi, nông dân mừng rỡ",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ca-nuoi-ho-lan-dau-xuat-khau-sang-nhat-ban-lam-sushi-nong-dan-mung-ro-20251202192654574.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/ca-dieu-hong-nuoi-ho-o-gia-lai-lan-dau-xuat-khau-qua-nhat-banminh-thong-2-cropped-cropped-1764678199322.jpg\" /></a>(Dân trí) - Một container cá điêu hồng đầu tiên được nuôi tại hồ Định Bình (tỉnh Gia Lai) vừa được doanh nghiệp thu mua, chế biến theo tiêu chuẩn sushi để xuất khẩu sang Nhật Bản."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Phó giám đốc Sở Tài chính làm quyền chủ tịch Công ty Xổ số Sóc Trăng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pho-giam-doc-so-tai-chinh-lam-quyen-chu-tich-cong-ty-xo-so-soc-trang-20251201133155535.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/01/cong-ty-xo-so-soc-trangctvjpg-1764570298465.jpg\" /></a>(Dân trí) - Phó giám đốc Sở Tài chính TP Cần Thơ được biệt phái và phân công làm quyền Chủ tịch Công ty Xổ số kiến thiết Sóc Trăng."
-    },
-    {
-      "id": 3,
-      "title": "Xuất nhập khẩu vượt kỷ lục 800 tỷ USD, sức cạnh tranh hàng Việt tăng mạnh",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/xuat-nhap-khau-vuot-ky-luc-800-ty-usd-suc-canh-tranh-hang-viet-tang-manh-20251130165912367.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/30/xuat-nhap-khau-vuot-ky-luc-800-ty-usd-suc-canh-tranh-hang-viet-tang-manh-1764496468615.jpg\" /></a>(Dân trí) - Xuất nhập khẩu Việt Nam vượt kỷ lục nhờ đà tăng mạnh của công nghiệp chế biến và nông sản. Chuyên gia đánh giá năng lực sản xuất, cạnh tranh và xuất siêu của Việt Nam đang cải thiện rõ rệt."
     }
   ]
 }
