@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "MrBeast và những điều kỳ lạ về việc xây đế chế 5 tỷ USD",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mrbeast-va-nhung-dieu-ky-la-ve-viec-xay-de-che-5-ty-usd-20251204100500023.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/04/r1363mrbeast1feature-cropped-1764816638645.jpg\" /></a>(Dân trí) - MrBeast sở hữu đế chế 5 tỷ USD nhưng lại lỗ nặng mảng nội dung. Từ bán chocolate đến tham vọng mở ngân hàng, đâu là chiến lược thực sự sau những video triệu view?"
+    },
+    {
+      "id": 2,
       "title": "\"Cơn điên\" AI và cuộc chiến chip nhớ: Khi gã khổng lồ cũng phải van nài",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/con-dien-ai-va-cuoc-chien-chip-nho-khi-ga-khong-lo-cung-phai-van-nai-20251204090530974.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/04/fn3tww6p6fothg3tvn3tpybruijpg-1764813178813.jpg\" /></a>(Dân trí) - Cơn khát AI đang hút cạn nguồn chip nhớ toàn cầu. Khi các ông lớn phải van nài nguồn cung, một đợt bão giá thiết bị điện tử chưa từng có đang âm thầm ập đến túi tiền của bạn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng trong nước đi ngang, vẫn cao hơn thế giới 19 triệu đồng/lượng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-di-ngang-van-cao-hon-the-gioi-19-trieu-dongluong-20251204073700188.htm\"><img src=\"https://icdn.dantri.com.vn/2025/09/14/httpscdnphotodantricomvn5mkd6utyxumogyvvgakqvqesxlcthumbw136020240802vang-miengsjcvang-mieng-sjcdoji-edited-1722617749401jpeg-1757790297774.jpeg\" /></a>(Dân trí) - Giá vàng miếng SJC và vàng nhẫn gần như không thay đổi. Vàng miếng SJC đang được mua vào ở mức 152,5 triệu đồng/lượng, bán ra tại 154,5 triệu đồng/lượng."
-    },
-    {
-      "id": 3,
-      "title": "Ngân hàng cũng \"đau đầu\" vì tiền?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ngan-hang-cung-dau-dau-vi-tien-20251203091248148.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/tien-114manh-quan-edited-1764641745992.jpg\" /></a>(Dân trí) - Ngân hàng Nhà nước \"bơm\" mạnh tiền trong bối cảnh áp lực thanh khoản của các ngân hàng lớn. Câu hỏi đặt ra là liệu các ngân hàng thương mại đang hoạt động dựa trên \"lượng oxy\" từ Ngân hàng Nhà nước."
     }
   ]
 }
