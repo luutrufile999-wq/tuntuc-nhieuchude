@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "\"Cơn điên\" AI và cuộc chiến chip nhớ: Khi gã khổng lồ cũng phải van nài",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/con-dien-ai-va-cuoc-chien-chip-nho-khi-ga-khong-lo-cung-phai-van-nai-20251204090530974.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/04/fn3tww6p6fothg3tvn3tpybruijpg-1764813178813.jpg\" /></a>(Dân trí) - Cơn khát AI đang hút cạn nguồn chip nhớ toàn cầu. Khi các ông lớn phải van nài nguồn cung, một đợt bão giá thiết bị điện tử chưa từng có đang âm thầm ập đến túi tiền của bạn."
+    },
+    {
+      "id": 2,
       "title": "Giá vàng trong nước đi ngang, vẫn cao hơn thế giới 19 triệu đồng/lượng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-di-ngang-van-cao-hon-the-gioi-19-trieu-dongluong-20251204073700188.htm\"><img src=\"https://icdn.dantri.com.vn/2025/09/14/httpscdnphotodantricomvn5mkd6utyxumogyvvgakqvqesxlcthumbw136020240802vang-miengsjcvang-mieng-sjcdoji-edited-1722617749401jpeg-1757790297774.jpeg\" /></a>(Dân trí) - Giá vàng miếng SJC và vàng nhẫn gần như không thay đổi. Vàng miếng SJC đang được mua vào ở mức 152,5 triệu đồng/lượng, bán ra tại 154,5 triệu đồng/lượng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ngân hàng cũng \"đau đầu\" vì tiền?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ngan-hang-cung-dau-dau-vi-tien-20251203091248148.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/tien-114manh-quan-edited-1764641745992.jpg\" /></a>(Dân trí) - Ngân hàng Nhà nước \"bơm\" mạnh tiền trong bối cảnh áp lực thanh khoản của các ngân hàng lớn. Câu hỏi đặt ra là liệu các ngân hàng thương mại đang hoạt động dựa trên \"lượng oxy\" từ Ngân hàng Nhà nước."
-    },
-    {
-      "id": 3,
-      "title": "6 lý do nhà đầu tư nên chọn Gia Lai",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/6-ly-do-nha-dau-tu-nen-chon-gia-lai-20251202154926934.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/02/thumbpng-1764664719866.png\" /></a>(Dân trí) - Gia Lai nổi bật với vị trí chiến lược, hạ tầng đồng bộ, tài nguyên phong phú, kinh tế năng động, hoạch định đột phá và chính sách cởi mở, trở thành điểm đến đầu tư giàu tiềm năng cho doanh nghiệp."
     }
   ]
 }
