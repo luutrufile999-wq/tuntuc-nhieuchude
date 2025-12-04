@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Nga nói về chiến dịch quân sự, nỗ lực chấm dứt xung đột Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-nga-noi-ve-chien-dich-quan-su-no-luc-cham-dut-xung-dot-ukraine-20251205060825847.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/05/putintass-cropped-1764889611431.jpg\" /></a>(Dân trí) - Tổng thống Nga Vladimir Putin nêu lý do mở chiến dịch quân sự tại Ukraine, đồng thời đề cập đến nỗ lực chấm dứt xung đột của Mỹ trong cuộc phỏng vấn với truyền thông Ấn Độ."
+    },
+    {
+      "id": 2,
       "title": "UAV “lạ” bám theo chuyên cơ của Tổng thống Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/uav-la-bam-theo-chuyen-co-cua-tong-thong-ukraine-20251205052022328.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/05/zelenskygov-cropped-1764886709409.jpg\" /></a>(Dân trí) - Bốn máy bay không người lái (UAV) không rõ nguồn gốc đã bám theo đường bay của chuyên cơ chở Tổng thống Ukraine Volodymyr Zelensky trong chuyến thăm Ireland."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga lên tiếng sau khi Ukraine động thổ xây nhà máy quân sự ở Đan Mạch",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-len-tieng-sau-khi-ukraine-dong-tho-xay-nha-may-quan-su-o-dan-mach-20251204215837390.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/04/nga-len-tieng-sau-khi-ukraine-xay-nha-may-quan-su-o-dan-mach-1764860143025.jpg\" /></a>(Dân trí) - Nga bình luận về việc Đan Mạch trở thành quốc gia NATO đầu tiên cho phép Ukraine đặt nhà máy sản xuất quân sự."
-    },
-    {
-      "id": 3,
-      "title": "Bỉ cảnh báo châu Âu về \"hậu quả thảm khốc\" nếu tịch thu tài sản Nga",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/bi-canh-bao-chau-au-ve-hau-qua-tham-khoc-neu-tich-thu-tai-san-nga-20251204210116204.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/04/bi-canh-bao-eu-ve-hau-qua-tham-khoc-neu-tich-thu-tai-san-nga-cropped-1764856664931.jpg\" /></a>(Dân trí) - Ngoại trưởng Bỉ Maxime Prevot cảnh báo về “những hậu quả thảm khốc” từ đề xuất của EU nhằm dùng tài sản Nga bị đóng băng để cấp cho Ukraine khoản vay “bồi thường”."
     }
   ]
 }
