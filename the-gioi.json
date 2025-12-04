@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ấn Độ chi 2 tỷ USD thuê tàu ngầm hạt nhân Nga",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/an-do-chi-2-ty-usd-thue-tau-ngam-hat-nhan-nga-20251204181834120.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/04/tau-ngamnaval-cropped-1764847022705.jpg\" /></a>(Dân trí) - Ấn Độ sẽ trả khoảng 2 tỷ USD để thuê một tàu ngầm chạy bằng năng lượng hạt nhân từ Nga sau nhiều năm đàm phán."
+    },
+    {
+      "id": 2,
       "title": "Lỗi nghiêm trọng khiến lô xe tăng Séc tính gửi cho Ukraine bị \"đắp chiếu\"",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/loi-nghiem-trong-khien-lo-xe-tang-sec-tinh-gui-cho-ukraine-bi-dap-chieu-20251204173621486.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/04/loi-nghiem-trong-khien-lo-xe-tang-sec-tinh-gui-cho-ukraine-bi-dap-chieu-cropped-1764844468165.jpg\" /></a>(Dân trí) - Cộng hòa Séc đã có ý định viện trợ khoảng 30 xe tăng T-72M4CZ cho Ukraine, nhưng phiên bản nâng cấp sâu của T-72 Liên Xô này mắc lỗi nghiêm trọng tới mức không thể khắc phục."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nam Phi sẽ \"tạm dừng tham gia G20\" 1 năm vì căng thẳng với Mỹ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nam-phi-se-tam-dung-tham-gia-g20-1-nam-vi-cang-thang-voi-my-20251204170125055.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/04/nam-phi-noi-se-tam-dung-tham-gia-g20-vi-cang-thang-voi-my-cropped-1764842294541.jpg\" /></a>(Dân trí) - Nam Phi cho biết sẽ tạm dừng tham gia các hoạt động ở G20 vào năm tới khi Mỹ trở thành chủ tịch luân phiên của nhóm."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Putin lên tiếng sau đàm phán với Mỹ về chấm dứt xung đột Ukraine",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-putin-len-tieng-sau-dam-phan-voi-my-ve-cham-dut-xung-dot-ukraine-20251204161052456.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/04/putinreuters-cropped-1764839335070.jpg\" /></a>(Dân trí) - Tổng thống Nga Vladimir Putin thừa nhận việc tìm kiếm sự đồng thuận để giải quyết vấn đề Ukraine không dễ dàng."
     }
   ]
 }
