@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "TPHCM tìm lời giải xử lý khí thải cho hàng triệu xe diesel",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tphcm-tim-loi-giai-xu-ly-khi-thai-cho-hang-trieu-xe-diesel-20251205213023500.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/16/xe-containerjpg-1755279063664.jpg\" /></a>(Dân trí) - Trước áp lực ô nhiễm từ hoạt động vận tải, giới chuyên gia nhận định ứng dụng công nghệ xử lý khí thải là bước đi cấp thiết để đáp ứng lộ trình siết chuẩn Euro 4-5 từ năm 2026."
+    },
+    {
+      "id": 2,
       "title": "Các ngân hàng Trung Quốc âm thầm mua và \"cất giữ\" USD",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cac-ngan-hang-trung-quoc-am-tham-mua-va-cat-giu-usd-20251205105128517.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/05/usd-cropped-cropped-1764906632721.jpg\" /></a>(Dân trí) - Đây được xem là một nỗ lực “bất thường” nhằm kiềm chế sức mạnh của đồng nhân dân tệ."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Quốc Cường Gia Lai xoay xở sao để trả hơn 1.783 tỷ đồng cho Vạn Thịnh Phát?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/quoc-cuong-gia-lai-xoay-xo-sao-de-tra-hon-1783-ty-dong-cho-van-thinh-phat-20251205170203512.htm\"><img src=\"https://icdn.dantri.com.vn/2024/07/30/cuong-1-crop-1722312152902.jpeg\" /></a>(Dân trí) - Quốc Cường Gia Lai dự kiến chuyển nhượng vốn góp tại các công ty con, công ty liên kết; hợp tác, đầu tư kinh doanh các sản phẩm, dự án bất động sản với các nhà đầu tư có năng lực."
-    },
-    {
-      "id": 3,
-      "title": "Hà Nội cấm xe máy xăng theo giờ vào vành đai 1, hãng xe công nghệ nói gì?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ha-noi-cam-xe-may-xang-theo-gio-vao-vanh-dai-1-hang-xe-cong-nghe-noi-gi-20251205160025837.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/05/hang-xe-cong-nghe-noi-gi-ve-quy-dinh-cam-xe-may-xang-vao-vanh-dai-1-ha-noi-1764924629937.jpg\" /></a>(Dân trí) - Hà Nội và TPHCM chuẩn bị áp dụng vùng phát thải thấp từ 2026, riêng Hà Nội cấm xe máy xăng theo khung giờ hoặc khu vực. Một số hãng xe công nghệ lo thiếu hạ tầng sạc, chi phí cao và lộ trình quá gấp."
     }
   ]
 }
