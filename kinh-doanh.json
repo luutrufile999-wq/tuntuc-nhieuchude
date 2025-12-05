@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hà Nội cấm xe máy xăng theo giờ vào vành đai 1, hãng xe công nghệ nói gì?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ha-noi-cam-xe-may-xang-theo-gio-vao-vanh-dai-1-hang-xe-cong-nghe-noi-gi-20251205160025837.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/05/hang-xe-cong-nghe-noi-gi-ve-quy-dinh-cam-xe-may-xang-vao-vanh-dai-1-ha-noi-1764924629937.jpg\" /></a>(Dân trí) - Hà Nội và TPHCM chuẩn bị áp dụng vùng phát thải thấp từ 2026, riêng Hà Nội cấm xe máy xăng theo khung giờ hoặc khu vực. Một số hãng xe công nghệ lo thiếu hạ tầng sạc, chi phí cao và lộ trình quá gấp."
+    },
+    {
+      "id": 2,
       "title": "VIC giảm một nửa thị giá rồi tăng trần, tỷ phú Phạm Nhật Vượng đón tin vui",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vic-giam-mot-nua-thi-gia-roi-tang-tran-ty-phu-pham-nhat-vuong-don-tin-vui-20251205160808593.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/13/ty-phu-pham-nhat-vuong-chia-se-voi-bloomberg-anh-bloomberg-cropped-1760345240020.jpg\" /></a>(Dân trí) - VIC tăng trần sau khi giá được điều chỉnh một nửa do chốt quyền nhận cổ phiếu thưởng 1:1. Sau thương vụ tăng vốn này, Vingroup thành công ty phi tài chính có vốn điều lệ lớn nhất sàn chứng khoán."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Khai thác Bitcoin tại Trung Quốc đang “hồi sinh”?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khai-thac-bitcoin-tai-trung-quoc-dang-hoi-sinh-20251205134445039.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/05/bitcoin-cropped-1764916985641.jpg\" /></a>(Dân trí) - Theo Reuters, trong khoảng 2 năm qua, hoạt động khai thác Bitcoin đã trở lại ở các tỉnh Tân Cương và Tứ Xuyên."
-    },
-    {
-      "id": 3,
-      "title": "Không lập hóa đơn có thể bị phạt tới 80 triệu đồng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khong-lap-hoa-don-co-the-bi-phat-toi-80-trieu-dong-20251205135838149.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/05/khong-lap-hoa-don-bi-phat-toi-80-trieu-dong-1764917809142.jpg\" /></a>(Dân trí) - Từ 16/1/2026, người bán không lập hóa đơn với số lượng từ 50 số trở lên có thể bị xử phạt tới 80 triệu đồng."
     }
   ]
 }
