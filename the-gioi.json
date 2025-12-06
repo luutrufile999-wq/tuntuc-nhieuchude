@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tây Ban Nha nghi bùng phát dịch tả lợn do rò rỉ virus từ phòng thí nghiệm",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tay-ban-nha-nghi-bung-phat-dich-ta-lon-do-ro-ri-virus-tu-phong-thi-nghiem-20251206142348157.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/06/dich-ta-lonepaa11zonjpg-1765005728026.jpg\" /></a>(Dân trí) - Tây Ban Nha đang nỗ lực trấn an các đối tác thương mại sau khi dịch tả lợn bùng phát."
+    },
+    {
+      "id": 2,
       "title": "Mỹ, Ukraine công bố kết quả tham vấn kế hoạch hòa bình",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-ukraine-cong-bo-ket-qua-tham-van-ke-hoach-hoa-binh-20251206135605932.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/06/ukrainexjpg-1765004049673.jpg\" /></a>(Dân trí) - Ukraine và Mỹ đều phát tín hiệu lạc quan sau 2 ngày thảo luận về kế hoạch hòa bình nhằm chấm dứt cuộc xung đột kéo dài hơn 3 năm qua giữa Ukraine và Nga."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chiến sự Ukraine 6/12: Nga dồn toàn bộ sức mạnh vào cuộc đột phá Huliaipole",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-612-nga-don-toan-bo-suc-manh-vao-cuoc-dot-pha-huliaipole-20251206113710809.htm\"><img src=\"https://icdn.dantri.com.vn/2024/07/02/chien-su-nga-ukraine-anhminhhoaskynews131-crop-1719882926286.jpeg\" /></a>(Dân trí) - Quân đội Nga đã dồn toàn bộ sức mạnh vào cuộc tấn công Huliaipole ở Zaporizhia nhằm chiếm được thành phố này vào cuối năm nay. Phía Ukraine đang triển khai thêm binh lực để ngăn chặn đối phương."
-    },
-    {
-      "id": 3,
-      "title": "Nga cảnh báo bước đi tiếp theo nếu Ukraine từ chối thỏa thuận hòa bình",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-canh-bao-buoc-di-tiep-theo-neu-ukraine-tu-choi-thoa-thuan-hoa-binh-20251206113010282.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/06/peskovtass-cropped-1764995299130.jpg\" /></a>(Dân trí) - Nga tuyên bố sẽ tiếp tục chiến dịch quân sự đặc biệt tại Ukraine nếu không đạt được các mục tiêu bằng biện pháp hòa bình."
     }
   ]
 }
