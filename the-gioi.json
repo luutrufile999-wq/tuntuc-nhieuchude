@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thông điệp gửi thế giới của Tổng thống Trump qua chiến lược an ninh mới",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/thong-diep-gui-the-gioi-cua-tong-thong-trump-qua-chien-luoc-an-ninh-moi-20251206185142065.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/28/trump-r-cropped-1764302212231.jpg\" /></a>(Dân trí) - Tài liệu dài 33 trang không chỉ phác thảo tầm nhìn “Nước Mỹ trên hết” của Tổng thống Donald Trump, mà còn gây chấn động dư luận với lập trường gay gắt về NATO, châu Âu và cuộc xung đột ở Ukraine."
+    },
+    {
+      "id": 2,
       "title": "Đệ nhất phu nhân Pháp thăm chú gấu trúc “con đỡ đầu” ở Trung Quốc",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/de-nhat-phu-nhan-phap-tham-chu-gau-truc-con-do-dau-o-trung-quoc-20251206160851345.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/06/phapcsn11zon-cropped-1765011990691.jpg\" /></a>(Dân trí) - Cuối chuyến thăm Trung Quốc, Đệ nhất phu nhân Pháp Brigitte Macron đã tới thăm Yuan Men, một chú gấu trúc được sinh ra tại Pháp mà bà coi là “con đỡ đầu”."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tây Ban Nha nghi bùng phát dịch tả lợn do rò rỉ virus từ phòng thí nghiệm",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tay-ban-nha-nghi-bung-phat-dich-ta-lon-do-ro-ri-virus-tu-phong-thi-nghiem-20251206142348157.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/06/dich-ta-lonepaa11zonjpg-1765005728026.jpg\" /></a>(Dân trí) - Tây Ban Nha đang nỗ lực trấn an các đối tác thương mại sau khi dịch tả lợn bùng phát."
-    },
-    {
-      "id": 3,
-      "title": "Mỹ, Ukraine công bố kết quả tham vấn kế hoạch hòa bình",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-ukraine-cong-bo-ket-qua-tham-van-ke-hoach-hoa-binh-20251206135605932.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/06/ukrainexjpg-1765004049673.jpg\" /></a>(Dân trí) - Ukraine và Mỹ đều phát tín hiệu lạc quan sau 2 ngày thảo luận về kế hoạch hòa bình nhằm chấm dứt cuộc xung đột kéo dài hơn 3 năm qua giữa Ukraine và Nga."
     }
   ]
 }
