@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỗi tháng có hơn 25.000 doanh nghiệp thành lập mới",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/moi-thang-co-hon-25000-doanh-nghiep-thanh-lap-moi-20251207140845690.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/16/doanh-nghiep-loay-hoay-voi-thu-tuc-hanh-chinh-1763283953567.jpg\" /></a>(Dân trí) - Trong 11 tháng, cả nước có 275.600 doanh nghiệp đăng ký thành lập mới và quay trở lại hoạt động. Tổng số vốn đăng ký bổ sung là 5,6 triệu tỷ đồng, tăng 104,3% so với cùng kỳ năm 2024."
+    },
+    {
+      "id": 2,
       "title": "Elon Musk lo AI cướp việc, sếp LinkedIn tung số liệu chứng minh ngược lại",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/elon-musk-lo-ai-cuop-viec-sep-linkedin-tung-so-lieu-chung-minh-nguoc-lai-20251207115042796.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/07/gettyimages-1499013145-1-e1764947276562-cropped-1765081941636.jpg\" /></a>(Dân trí) - Trái với dự báo bi quan của Elon Musk, dữ liệu LinkedIn cho thấy nơi dùng AI nhiều nhất lại đang khát nhân sự nhất. Tuy nhiên, để trụ lại, người lao động cần trang bị \"vũ khí\" thích nghi mới."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nợ xấu hạ nhiệt nhưng rủi ro vẫn \"ẩn mình\" ở năng lượng và vay mua nhà",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/no-xau-ha-nhiet-nhung-rui-ro-van-an-minh-o-nang-luong-va-vay-mua-nha-20251207101548890.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/07/bank-cropped-1765077254111.jpg\" /></a>(Dân trí) - Dù nợ xấu toàn ngành chững lại, rủi ro vẫn tiềm ẩn lớn ở mảng năng lượng và vay mua nhà. Đây là thách thức buộc các ngân hàng phải thận trọng kiểm soát chất lượng tài sản thời gian tới."
-    },
-    {
-      "id": 3,
-      "title": "Sau gạo ngon nhất thế giới, Việt Nam sắp ra mắt gạo dược liệu ngừa bệnh tật",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sau-gao-ngon-nhat-the-gioi-viet-nam-sap-ra-mat-gao-duoc-lieu-ngua-benh-tat-20251207085035604.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/07/anh-1-ong-tu-lua-mua-ben-canh-ruong-lua-nvcjpg-1765071454409.jpg\" /></a>(Dân trí) - Không dừng lại ở danh hiệu ngon nhất thế giới, ngành lúa gạo đang phát triển các giống có dược tính. Sản phẩm mới này tập trung vào chỉ số đường huyết thấp, giúp người dùng chủ động phòng ngừa bệnh."
     }
   ]
 }
