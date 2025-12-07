@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ nêu 2 trở ngại đang cản đường thỏa thuận hòa bình Nga - Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-neu-2-tro-ngai-dang-can-duong-thoa-thuan-hoa-binh-nga-ukraine-20251207184543328.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/07/my-neu-2-tro-ngai-dang-can-duong-thoa-thuan-hoa-binh-nga-ukraine-cropped-1765107671114.jpg\" /></a>(Dân trí) - Quan chức cấp cao của Mỹ nêu ra 2 vấn đề chính đang cản trở thỏa thuận hòa bình giữa Nga và Ukraine."
+    },
+    {
+      "id": 2,
       "title": "Campuchia triệt phá đường dây lừa đảo trực tuyến",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/campuchia-triet-pha-duong-day-lua-dao-truc-tuyen-20251207165932607.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/07/campuchiakhmer-cropped-1765101515476.jpg\" /></a>(Dân trí) - Giới chức Campuchia đã bắt giữ 7 người Hàn Quốc và 2 người Campuchia trong một cuộc truy quét trung tâm lừa đảo trực tuyến tại Phnom Penh."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Bên trong căn cứ ngầm tối mật của Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ben-trong-can-cu-ngam-toi-mat-cua-ukraine-20251207150811505.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/07/ukrainesky-news-cropped-1765094796351.jpg\" /></a>(Dân trí) - Ẩn sâu dưới lòng đất ở miền Đông Ukraine là một căn cứ quân sự bí mật đến mức bất kỳ binh sĩ nào bước ra ngoài cũng phải thay quần áo dân sự để tránh bị chú ý."
-    },
-    {
-      "id": 3,
-      "title": "Châu Âu sục sôi khi tỷ phú Elon Musk kêu gọi “bãi bỏ” EU",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chau-au-suc-soi-khi-ty-phu-elon-musk-keu-goi-bai-bo-eu-20251207142723142.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/07/elon-musktelegraph11zon-cropped-1765092329437.jpg\" /></a>(Dân trí) - Tỷ phú Mỹ Elon Musk đã kêu gọi “bãi bỏ” Liên minh châu Âu (EU) sau khi khối này phạt nền tảng mạng xã hội X của ông 120 triệu euro."
     }
   ]
 }
