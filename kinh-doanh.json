@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Trung Quốc lắp 300.000 robot/năm: Cuộc đua không đối thủ",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/trung-quoc-lap-300000-robotnam-cuoc-dua-khong-doi-thu-20251206211455467.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/06/2aa45e15-4dd6-4177-a19c-13ddc4273503d4fd0288-cropped-1765028886143.jpg\" /></a>(Dân trí) - Với 300.000 robot mới - nhiều hơn cả thế giới cộng lại, Trung Quốc đang gửi lời cảnh báo đanh thép. Phương Tây đối mặt nguy cơ tụt hậu rõ rệt nếu không tăng tốc trong cuộc đua tự động hóa này."
+    },
+    {
+      "id": 2,
       "title": "Những điều \"lạ\" ở loạt doanh nghiệp xin làm đường sắt cao tốc",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhung-dieu-la-o-loat-doanh-nghiep-xin-lam-duong-sat-cao-toc-20251207022357976.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/07/4730672189113515909830266973118089273073051n-edited-1765048798225.jpg\" /></a>(Dân trí) - Nhiều bất ngờ ở loạt doanh nghiệp xin làm đường sắt cao tốc Bắc - Nam, biến động ngành nghề kinh doanh của một số \"ông lớn\"... là những thông tin doanh nghiệp được quan tâm tuần qua."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Dự báo giá vàng sau tuần biến động mạnh mẽ",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-gia-vang-sau-tuan-bien-dong-manh-me-20251207004456358.htm\"><img src=\"https://icdn.dantri.com.vn/2023/09/25/gia-vang-75-anh-tien-tuan-1695577399584.jpg\" /></a>(Dân trí) - Giá vàng thế giới dao động biên độ rộng khi giới đầu tư tập trung vào quyết định lãi suất của Fed sắp tới."
-    },
-    {
-      "id": 3,
-      "title": "Tài khoản chứng khoán mở mới thấp nhất 4 tháng, dòng tiền lớn \"mất hút\"",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tai-khoan-chung-khoan-mo-moi-thap-nhat-4-thang-dong-tien-lon-mat-hut-20251206192344135.htm\"><img src=\"https://icdn.dantri.com.vn/2023/11/07/chung-khoanttck-hai-long-crop-1699374398382.jpeg\" /></a>(Dân trí) - Theo VSDC, lượng tài khoản mở mới tháng 11 tụt xuống mức thấp nhất 4 tháng qua. Dù VN-Index tăng điểm, thanh khoản lại \"bốc hơi\" hơn 35% so với tháng trước do thiếu vắng dòng tiền lớn."
     }
   ]
 }
