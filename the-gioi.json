@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Ukraine nói về vấn đề nhượng lãnh thổ trong đàm phán hòa bình",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-ukraine-noi-ve-van-de-nhuong-lanh-tho-trong-dam-phan-hoa-binh-20251208191554932.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/tong-thong-ukraine-noi-ve-van-de-lanh-tho-trong-dam-phan-hoa-binh-1765195891750.jpg\" /></a>(Dân trí) - Tổng thống Ukraine Volodymyr Zelensky thừa nhận các nhà đàm phán vẫn bất đồng về vấn đề nhượng bộ lãnh thổ trong kế hoạch hòa bình do Mỹ đề xuất."
+    },
+    {
+      "id": 2,
       "title": "Indonesia cần hơn 3 tỷ USD để phục hồi sau thảm họa lũ lụt lịch sử",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/indonesia-can-hon-3-ty-usd-de-phuc-hoi-sau-tham-hoa-lu-lut-lich-su-20251208150813236.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/image-11-cropped-1765181097900.jpg\" /></a>(Dân trí) - Chính phủ Indonesia ngày 8/12 cho biết đảo Sumatra cần ít nhất 51.820 tỷ rupiah (khoảng 3,11 tỷ USD) để tái thiết sau loạt lũ lụt và sạt lở đất nghiêm trọng nhất trong nhiều năm qua."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "120.000 binh sĩ Nga hội quân, mặt trận Đông Nam Ukraine rung lắc mạnh",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/120000-binh-si-nga-hoi-quan-mat-tran-dong-nam-ukraine-rung-lac-manh-20251208175438873.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/3-cropped-1765191105538.jpg\" /></a>(Dân trí) - Nga tập hợp số lượng lớn binh sĩ ở mặt trận Đông Nam, tiếp tục gây áp lực cho Ukraine khi hai nước đang trong quá trình thương lượng thỏa thuận hòa bình."
-    },
-    {
-      "id": 3,
-      "title": "Điểm đặc biệt về Triều Tiên trong chiến lược an ninh quốc gia mới của Mỹ",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/diem-dac-biet-ve-trieu-tien-trong-chien-luoc-an-ninh-quoc-gia-moi-cua-my-20251208154517228.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/diem-dac-biet-ve-trieu-tien-trong-chien-luoc-an-ninh-moi-cua-my-cropped-1765183301591.jpg\" /></a>(Dân trí) - Bản chiến lược an ninh quốc gia mới của Mỹ đánh dấu một sự thay đổi đáng kể liên quan tới vấn đề Triều Tiên, làm dấy lên hy vọng về giải pháp ngoại giao trong tương lai gần."
     }
   ]
 }
