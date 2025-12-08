@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Đại sứ Nga tại Triều Tiên qua đời",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/dai-su-nga-tai-trieu-tien-qua-doi-20251208220148542.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/dai-su-nga-tai-trieu-tien-qua-doi-cropped-1765206022398.jpg\" /></a>(Dân trí) - Bộ Ngoại giao Nga thông báo Đại sứ Nga tại Triều Tiên Alexander Matsegora đã qua đời ở tuổi 70."
+    },
+    {
+      "id": 2,
       "title": "Ukraine tuyên bố \"có thể nghe lén\" các quan chức cấp cao Nga",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-co-the-nghe-len-cac-quan-chuc-cap-cao-nga-20251208210236116.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/image-63-cropped-1765202346603.jpg\" /></a>(Dân trí) - \"Kiev có khả năng nghe lén các quan chức cấp cao của Nga\", Giám đốc Cơ quan Tình báo quốc phòng Ukraine (HUR), ông Kirill Budanov tuyên bố."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Toà án Trung Quốc đòi Malaysia Airlines bồi thường cho nạn nhân vụ MH370",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/toa-an-trung-quoc-doi-malaysia-airlines-boi-thuong-cho-nan-nhan-vu-mh370-20251208203808726.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/image-62-cropped-1765200861441.jpg\" /></a>(Dân trí) - Một tòa án ở Bắc Kinh (Trung Quốc) đã yêu cầu Malaysia Airlines bồi thường cho 8 gia đình hành khách mất tích trên chuyến bay MH370 hơn 2,9 triệu nhân dân tệ (hơn 410.000 USD) cho mỗi trường hợp."
-    },
-    {
-      "id": 3,
-      "title": "Ông Zelensky gặp các đồng minh châu Âu sau chỉ trích của ông Donald Trump",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ong-zelensky-gap-cac-dong-minh-chau-au-sau-chi-trich-cua-ong-donald-trump-20251208153735434.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/image-12-cropped-1765182922840.jpg\" /></a>(Dân trí) - Tổng thống Ukraine dự kiến gặp lãnh đạo các nước châu Âu tại London (Anh) vào cuối ngày 8/12, sau khi bị người đồng cấp Mỹ chỉ trích liên quan bản đề xuất hòa bình mà Washington đưa ra."
     }
   ]
 }
