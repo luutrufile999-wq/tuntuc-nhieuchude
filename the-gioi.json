@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ukraine hé lộ kế hoạch hòa bình 20 điểm, nêu vấn đề nhạy cảm nhất",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-he-lo-ke-hoach-hoa-binh-20-diem-neu-van-de-nhay-cam-nhat-20251209052530040.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/zelenskyrbc0-cropped-1765232599353.jpg\" /></a>(Dân trí) - Tổng thống Ukraine Volodymyr Zelensky cho biết, kế hoạch hòa bình do Mỹ đề xuất nhằm chấm dứt xung đột với Nga đã được rút xuống 20 điểm, các thỏa hiệp là có thể nhưng không phải vấn đề lãnh thổ."
+    },
+    {
+      "id": 2,
       "title": "Động đất mạnh 7,6 độ tại Nhật Bản, cảnh báo sóng thần",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/dong-dat-manh-76-do-tai-nhat-ban-canh-bao-song-than-20251208222926981.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/dong-dat-manh-76-do-tai-nhat-ban-canh-bao-song-than-cropped-1765207589452.jpg\" /></a>(Dân trí) - Động đất mạnh 7,6 độ ở ngoài khơi Nhật Bản dẫn đến cảnh báo sóng thần hôm 8/12."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Đại sứ Nga tại Triều Tiên qua đời",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/dai-su-nga-tai-trieu-tien-qua-doi-20251208220148542.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/dai-su-nga-tai-trieu-tien-qua-doi-cropped-1765206022398.jpg\" /></a>(Dân trí) - Bộ Ngoại giao Nga thông báo Đại sứ Nga tại Triều Tiên Alexander Matsegora đã qua đời ở tuổi 70."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine tuyên bố \"có thể nghe lén\" các quan chức cấp cao Nga",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-co-the-nghe-len-cac-quan-chuc-cap-cao-nga-20251208210236116.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/image-63-cropped-1765202346603.jpg\" /></a>(Dân trí) - \"Kiev có khả năng nghe lén các quan chức cấp cao của Nga\", Giám đốc Cơ quan Tình báo quốc phòng Ukraine (HUR), ông Kirill Budanov tuyên bố."
     }
   ]
 }
