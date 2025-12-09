@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Báo Philippines bình luận khi đội nhà thắng kịch tính tuyển nữ Việt Nam",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-philippines-binh-luan-khi-doi-nha-thang-kich-tinh-tuyen-nu-viet-nam-20251209113959048.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/z73060392017471ec595e7ca0b6a47cc0d0aea94a07542-edited-1765255019833.jpg?watermark=true\" /></a>(Dân trí) - Các tờ báo Philippines tỏ ra hân hoan khi chứng kiến đội nhà giành chiến thắng 1-0 trước tuyển nữ Việt Nam ở môn bóng đá nữ SEA Games 33 diễn ra vào tối qua (8/12)."
+    },
+    {
+      "id": 2,
       "title": "Rực rỡ sắc màu SEA Games 33 trước giờ khai mạc",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/ruc-ro-sac-mau-sea-games-33-truoc-gio-khai-mac-20251209111016374.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/truoc-gio-g2535jpg-1765250729037.jpg\" /></a>(Dân trí) - Ít giờ trước Lễ khai mạc SEA Games 33 tại Thái Lan, mọi công tác chuẩn bị đã hoàn tất, sẵn sàng cho một lễ khai mạc hoành tráng, mãn nhãn và đầy ấn tượng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Những môn thể thao có thể giành HCV đầu tiên cho Việt Nam ở SEA Games 33",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/nhung-mon-the-thao-co-the-gianh-hcv-dau-tien-cho-viet-nam-o-sea-games-33-20251209103620722.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/boivn4t9-12-25png-1765250995100.png\" /></a>(Dân trí) - Sau ngày khai mạc hôm nay (9/12), Đại hội Thể thao Đông Nam Á sẽ bước vào những màn tranh tài cực kỳ căng thẳng. Thể thao Việt Nam (TTVN) dự kiến cũng sẽ gặt hái huy chương vàng (HCV) từ ngày mai."
-    },
-    {
-      "id": 3,
-      "title": "HLV Amorim tiết lộ lý do giúp Man Utd thắng “hủy diệt”",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/hlv-amorim-tiet-lo-ly-do-giup-man-utd-thang-huy-diet-20251209110543110.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/hlv-amorim-tiet-lo-ly-do-giup-man-utd-thang-huy-diet-edited-cropped-1765252993278.jpg\" /></a>(Dân trí) - HLV Ruben Amorim cho biết cuộc họp khẩn trong phòng thay đồ giữa hiệp đã mở đường giúp Man Utd giành chiến thắng 4-1 trước Wolves ngay tại sân Molineux."
     }
   ]
 }

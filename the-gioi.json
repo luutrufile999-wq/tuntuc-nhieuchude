@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chiến sự Ukraine 9/12: Lực lượng Kiev gặp thế bất lợi ở Seversk",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-912-luc-luong-kiev-gap-the-bat-loi-o-seversk-20251209112155226.htm\"><img src=\"https://icdn.dantri.com.vn/2024/03/04/chien-su-nga-ukraine-zelensky-anhminhhoaskynews063-crop-1709519393656.jpeg\" /></a>(Dân trí) - Quân đội Ukraine gần như đã mất Seversk khi chỉ trong 24 giờ qua. Bằng các đợt đột kích táo bạo, lực lượng Nga chiếm hàng loạt con phố ở trung tâm và đang phát triển về phía tây."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Nga đề xuất sáng kiến mới để tăng tỷ lệ sinh",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-nga-de-xuat-sang-kien-moi-de-tang-ty-le-sinh-20251209111144253.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/tong-thong-nga-de-xuat-sang-kien-moi-de-tang-ty-le-sinh-cropped-1765253415227.jpg\" /></a>(Dân trí) - Tổng thống Nga Vladimir Putin đã đề xuất một sáng kiến mới nhằm nâng tỷ lệ sinh tại Nga, kêu gọi các biện pháp khuyến khích vai trò của người cha trong gia đình."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Trump cảnh báo cứng rắn châu Âu",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-canh-bao-cung-ran-chau-au-20251209103402930.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/18/trumpreutersjpg-1763427397673.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump cảnh báo châu Âu đang đi theo hướng “rất xấu” sau khi khu vực này được đề cập trong chiến lược an ninh quốc gia mới của Mỹ."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine cáo buộc Nga tập kích đập nước, cô lập hậu cần chủ chốt",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-cao-buoc-nga-tap-kich-dap-nuoc-co-lap-hau-can-chu-chot-20251209100910307.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/ukraine-cao-buoc-nga-tap-kich-dap-nuoc-co-lap-hau-can-chu-chot-cua-kiev-cropped-1765249559460.jpg\" /></a>(Dân trí) - Ukraine cáo buộc Nga bắn hỏa lực vào đập nước quan trọng ở tỉnh Kharkov, động thái mà các chuyên gia cho rằng dường như là nỗ lực của Moscow nhằm cắt tuyến hậu cần quan trọng của Kiev."
     }
   ]
 }
