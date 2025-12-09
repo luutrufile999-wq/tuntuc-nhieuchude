@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ đề nghị bán cho Ba Lan 250 thiết giáp Stryker với giá 1 USD",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-de-nghi-ban-cho-ba-lan-250-thiet-giap-stryker-voi-gia-1-usd-20251209205925612.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/my-de-nghi-ban-cho-ba-lan-250-thiet-giap-stryker-voi-gia-1-usd-cropped-1765288607213.jpg\" /></a>(Dân trí) - Ba Lan đang xem xét tiếp nhận khoảng 250 xe chiến đấu bọc thép Stryker đã qua thực chiến từ Mỹ với mức giá mang tính tượng trưng 1 USD."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Trump kêu gọi bầu cử ở Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-keu-goi-bau-cu-o-ukraine-20251209195252390.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/trump-zelensky-cropped-1765285315484.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump cho rằng Tổng thống Ukraine Volodymyr Zelensky nên chấp nhận kế hoạch hòa bình do Washington đề xuất và tiến hành bầu cử."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Rơi máy bay vận tải quân sự An-22 ở Nga",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/roi-may-bay-van-tai-quan-su-an-22-o-nga-20251209182034167.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/an22wiki-cropped-1765279118400.jpg\" /></a>(Dân trí) - Một máy bay vận tải quân sự An-22 của Nga với 7 người trên khoang đã rơi tại tỉnh miền trung Ivanovo."
-    },
-    {
-      "id": 3,
-      "title": "Cháy tòa nhà văn phòng 7 tầng ở Indonesia, 20 người thiệt mạng",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chay-toa-nha-van-phong-7-tang-o-indonesia-20-nguoi-thiet-mang-20251209171024552.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/chay-toa-nha-van-phong-7-tang-o-indonesia-20-nguoi-thiet-mang-1765274773413.jpg\" /></a>(Dân trí) - Một vụ cháy đã bùng phát tại một tòa nhà 7 tầng ở thủ đô Jakarta của Indonesia vào ngày 9/12, với 20 người được xác nhận đã thiệt mạng."
     }
   ]
 }
