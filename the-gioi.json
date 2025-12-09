@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Cháy tòa nhà văn phòng 7 tầng ở Indonesia, 20 người thiệt mạng",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chay-toa-nha-van-phong-7-tang-o-indonesia-20-nguoi-thiet-mang-20251209171024552.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/chay-toa-nha-van-phong-7-tang-o-indonesia-20-nguoi-thiet-mang-1765274773413.jpg\" /></a>(Dân trí) - Một vụ cháy đã bùng phát tại một tòa nhà 7 tầng ở thủ đô Jakarta của Indonesia vào ngày 9/12, với 20 người được xác nhận đã thiệt mạng."
+    },
+    {
+      "id": 2,
       "title": "Kiều bào Ba Lan tặng vườn rau trị giá 250 triệu đồng cho đảo Trường Sa Lớn",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/kieu-bao-ba-lan-tang-vuon-rau-tri-gia-250-trieu-dong-cho-dao-truong-sa-lon-20251208161009330.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/1-cropped-1765184598578.jpg\" /></a>(Dân trí) - Câu lạc bộ Hoàng Sa - Trường Sa tại Ba Lan đã đề xuất, vận động và triển khai dự án nhằm tặng vườn rau xanh cho đảo Trường Sa Lớn, hành động thể hiện tấm lòng luôn hướng về biển đảo quê hương."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga nêu mục tiêu tiếp sau Pokrovsk",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-neu-muc-tieu-tiep-sau-pokrovsk-20251209150917035.htm\"><img src=\"https://icdn.dantri.com.vn/2023/01/12/valery-gerasimovepa-1673492704352.jpg\" /></a>(Dân trí) - Quân đội Nga coi việc kiểm soát Pokrovsk sẽ là bước đi mang tính quyết định đối với kế hoạch kiểm soát toàn bộ vùng Donbass của Ukraine. Trong khi đó, Kiev tuyên bố không nhượng bộ về lãnh thổ."
-    },
-    {
-      "id": 3,
-      "title": "Trung Quốc thử nghiệm công nghệ liên kết tàu bằng tín hiệu không dây",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-thu-nghiem-cong-nghe-lien-ket-tau-bang-tin-hieu-khong-day-20251209142840986.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/09/trung-quoc-thu-cong-nghe-giup-7-tau-cho-luong-hang-bang-35-thap-eiffel-1765264985825.jpg\" /></a>(Dân trí) - Trung Quốc đã thử nghiệm một hệ thống đường sắt liên kết nhiều đoàn tàu hàng thông qua hệ thống không dây thay vì móc nối vật lý, cho phép tăng tải trọng đáng kể."
     }
   ]
 }
