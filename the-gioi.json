@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga nói chính sách của Tổng thống Trump đã ngăn chặn Thế chiến III",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-noi-chinh-sach-cua-tong-thong-trump-da-ngan-chan-the-chien-iii-20251210114809569.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/09/trumpretuerws-cropped-1759965641395.jpg\" /></a>(Dân trí) - Quan chức Nga cho rằng các chính sách của Tổng thống Mỹ Donald Trump đã làm giảm nguy cơ xảy ra một cuộc chiến tranh thế giới mới."
+    },
+    {
+      "id": 2,
       "title": "Nhật Bản cảnh báo nguy cơ xảy ra siêu động đất trong vài ngày tới",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nhat-ban-canh-bao-nguy-co-xay-ra-sieu-dong-dat-trong-vai-ngay-toi-20251210113151701.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/10/nhat-banafp11zon-1jpg-1765341025385.jpg\" /></a>(Dân trí) - Nhật Bản cảnh báo trong tương lai nước này nguy cơ xảy ra một trận động mạnh mạnh từ 8 độ trở lên có thể kéo theo sóng thần và gây thiệt hại nghiêm trọng về người và tài sản."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chiến sự Ukraine 10/12: Rộ tin Nga đã kiểm soát 70% thành phố Seversk",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-1012-ro-tin-nga-da-kiem-soat-70-thanh-pho-seversk-20251210105232078.htm\"><img src=\"https://icdn.dantri.com.vn/2024/04/24/chien-su-nga-ukraine-anhminhhoaafp005-crop-1713924356861.jpeg\" /></a>(Dân trí) - Binh sĩ Nga tiếp tục vượt qua quân đội Ukraine trong khu vực đô thị nhằm giành quyền kiểm soát Seversk. Khoảng 70% diện tích thành phố được cho là đã nằm trong tay  lực lượng Moscow."
-    },
-    {
-      "id": 3,
-      "title": "Su-27 Ukraine rơi khi chiến đấu: Phi đội \"rắn hổ mang\" sắp kiệt quệ",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/su-27-ukraine-roi-khi-chien-dau-phi-doi-ran-ho-mang-sap-kiet-que-20251210105659620.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/10/su-27-ukraine-roi-khi-chien-dau-phi-doi-ran-ho-mang-sap-kiet-que-1765338754939.jpg\" /></a>(Dân trí) - Các chuyên gia cảnh báo nguy cơ Ukraine sắp kiệt quệ tiêm kích Su-27, dòng máy bay uy lực và hiệu quả hàng đầu trong kho vũ khí của Kiev."
     }
   ]
 }
