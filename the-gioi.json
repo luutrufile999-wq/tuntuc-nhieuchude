@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga cập nhật tiến độ sản xuất vaccine ung thư",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-cap-nhat-tien-do-san-xuat-vaccine-ung-thu-20251210094500112.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/10/nga-cap-nhat-tien-do-san-xuat-vaccine-ung-thu-cropped-1765334580111.jpg\" /></a>(Dân trí) - Quan chức Nga cập nhật tới công chúng về quá trình sản xuất và thử nghiệm vaccine ung thư do các nhà khoa học nước này nghiên cứu và phát triển."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Trump cảnh báo châu Âu về loạt vấn đề \"nóng\"",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-canh-bao-chau-au-ve-loat-van-de-nong-20251210085328353.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/10/trump-cropped-1765331499386.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump tiếp tục chỉ trích châu Âu trong bối cảnh quan hệ giữa đồng minh lâu năm có dấu hiệu rạn nứt."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ukraine rút quân một phần khỏi khu vực Pokrovsk",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-rut-quan-mot-phan-khoi-khu-vuc-pokrovsk-20251210083404933.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/01/pokrovskkyiv-independent11zonjpg-1761951762523.jpg\" /></a>(Dân trí) - Ukraine vẫn kiểm soát một phần thành phố Pokrovsk ở tỉnh Donetsk, nhưng một số đơn vị đã được lệnh rút khỏi những vị trí không còn khả thi, tư lệnh quân đội Ukraine cho biết."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine thừa nhận khó vào NATO, muốn được đảm bảo an ninh như Điều 5",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-thua-nhan-kho-vao-nato-muon-duoc-dam-bao-an-ninh-nhu-dieu-5-20251210082222329.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/10/ukraine-thua-nhan-kho-vao-nato-muon-duoc-dam-bao-an-ninh-nhu-dieu-5-1765329589318.jpg\" /></a>(Dân trí) - Ukraine thừa nhận rằng nước này hiện không có cơ hội gia nhập Liên minh Bắc Đại Tây Dương, nhưng Kiev đang thương lượng để được đảm bảo an ninh mạnh mẽ như Điều 5 NATO."
     }
   ]
 }
