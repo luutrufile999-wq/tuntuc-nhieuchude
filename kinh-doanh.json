@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Vé Tết cháy hàng sớm, hãng bay đồng loạt thêm tàu, thêm chuyến",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ve-tet-chay-hang-som-hang-bay-dong-loat-them-tau-them-chuyen-20251208224416051.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/08/ve-tet-chay-hang-som-hang-bay-dong-loat-chay-da-mua-cao-diem-cropped-1765207835959.jpg?watermark=true\" /></a>(Dân trí) - Với kỳ nghỉ kéo dài 9 ngày, nhu cầu đi lại dịp Tết Nguyên đán 2026 dự báo tăng trưởng hai con số. Ngay từ tháng 10, nhiều đường bay trọng điểm đã ghi nhận tỷ lệ lấp đầy trên 80%."
+    },
+    {
+      "id": 2,
       "title": "2,3 triệu hộ kinh doanh sẽ không còn phải nộp thuế từ năm sau",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/23-trieu-ho-kinh-doanh-se-khong-con-phai-nop-thue-tu-nam-sau-20251210111527049.htm\"><img src=\"https://icdn.dantri.com.vn/2023/05/11/vpbank-giao-dich42-edited-1683747640459.jpeg\" /></a>(Dân trí) - Từ đầu năm 2026, ngưỡng doanh thu tính thuế của hộ kinh doanh sẽ được nâng từ 100 triệu lên 500 triệu đồng/năm. Dự kiến khoảng 2,3 triệu hộ kinh doanh sẽ không còn phải nộp thuế."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Biểu thuế thu nhập cá nhân còn 5 bậc, nhiều người ra khỏi diện nộp thuế",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bieu-thue-thu-nhap-ca-nhan-con-5-bac-nhieu-nguoi-ra-khoi-dien-nop-thue-20251210095533952.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/19/giao-dich-ngan-hangthanh-dong-45jpg-1763525781005.jpg?watermark=true\" /></a>(Dân trí) - Biểu thuế thu nhập cá nhân từ 7 xuống 5 bậc, mức thuế cao nhất vẫn giữ 35%, giúp giảm nghĩa vụ thuế cho người làm công và đưa nhiều cá nhân thu nhập trung bình - thấp ra khỏi diện phải nộp thuế."
-    },
-    {
-      "id": 3,
-      "title": "Dự báo đáng chú ý về giá xăng ngày mai",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-dang-chu-y-ve-gia-xang-ngay-mai-20251210012557198.htm\"><img src=\"https://icdn.dantri.com.vn/2025/02/13/nguoi-dan-do-xang14-edited-1739430902457.jpeg\" /></a>(Dân trí) - Nhiều doanh nghiệp dự báo giá xăng dầu trong nước sẽ cùng giảm trong kỳ điều hành ngày 11/12, trong đó giá xăng có thể quay đầu giảm 200-400 đồng/lít."
     }
   ]
 }
