@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ukraine tuyên bố giành lại một phần Kupiansk, bao vây lực lượng Nga",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-gianh-lai-mot-phan-kupiansk-bao-vay-luc-luong-nga-20251212213230950.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/12/zelenskyreutersjpg-1765549696442.jpg\" /></a>(Dân trí) - Lực lượng Ukraine thông báo giành lại một phần Kupiansk, sau khi Nga tuyên bố kiểm soát thành phố chiến lược này."
+    },
+    {
+      "id": 2,
       "title": "Ukraine tấn công 2 tàu chở thiết bị quân sự của Nga ở Biển Caspi",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tan-cong-2-tau-cho-thiet-bi-quan-su-cua-nga-o-bien-caspi-20251212202031238.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/12/image-66-cropped-1765545490471.jpg\" /></a>(Dân trí) - Lực lượng đặc nhiệm Ukraine hôm 12/12 cho biết họ đã tiến hành chiến dịch phối hợp nhằm tấn công 2 tàu chở thiết bị quân sự của Nga trên Biển Caspi."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Israel cấm điện thoại di động trong trường tiểu học",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/israel-cam-dien-thoai-di-dong-trong-truong-tieu-hoc-20251212195918916.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/12/israel-cam-dien-thoai-di-dong-trong-truong-tieu-hoc-1765544189328.jpg\" /></a>(Dân trí) - Israel sẽ cấm trẻ em sử dụng điện thoại di động trong các trường tiểu học từ tháng 2 năm sau."
-    },
-    {
-      "id": 3,
-      "title": "Điện Kremlin lên tiếng khi Ukraine đề xuất trưng cầu dân ý về lãnh thổ",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/dien-kremlin-len-tieng-khi-ukraine-de-xuat-trung-cau-dan-y-ve-lanh-tho-20251212192230985.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/12/dien-kremlin-len-tieng-khi-ukraine-de-xuat-trung-cau-dan-y-ve-lanh-tho-cropped-1765541582330.jpg\" /></a>(Dân trí) - Điện Kremlin tuyên bố toàn bộ vùng Donbass là của Nga sau khi Tổng thống Ukraine đề xuất tổ chức trưng cầu dân ý về lãnh thổ."
     }
   ]
 }
