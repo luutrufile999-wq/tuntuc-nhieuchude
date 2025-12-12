@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chiến sự Ukraine 12/12: Nga tuyên bố kiểm soát thành phố Seversk",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-1212-nga-tuyen-bo-kiem-soat-thanh-pho-seversk-20251212084633822.htm\"><img src=\"https://icdn.dantri.com.vn/2024/05/10/chien-su-nga-ukraine-anhminhhoareuters012-crop-1715305958494.jpeg\" /></a>(Dân trí) - Tổng Tham mưu trưởng các lực lượng vũ trang Nga Valery Gerasimov hôm 11/12 báo cáo với Tổng thống Vladimir Putin rằng lực lượng Moscow đã đánh bật quân đội Ukraine và chính thức giành được Seversk."
+    },
+    {
+      "id": 2,
       "title": "Venezuela phản ứng cứng rắn sau vụ Mỹ bắt giữ tàu dầu",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/venezuela-phan-ung-cung-ran-sau-vu-my-bat-giu-tau-dau-20251212113413306.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/29/tongthongvenezuelamaduroreutersjpg-1764379346653.jpg\" /></a>(Dân trí) - Các quan chức Venezuela đã chỉ trích gay gắt Mỹ về vụ bắt giữ tàu chở dầu giữa lúc căng thẳng leo thang."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Vận động viên thoát hiểm ở độ cao 4.500m khi dù mắc vào đuôi máy bay",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/van-dong-vien-thoat-hiem-o-do-cao-4500m-khi-du-mac-vao-duoi-may-bay-20251212112229202.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/12/du-luonatsb-cropped-1765513251784.jpg\" /></a>(Dân trí) - Một vận động viên Australia đã may mắn thoát hiểm khi dù lượn bị mắc vào đuôi máy bay độ cao hơn 4.500m."
-    },
-    {
-      "id": 3,
-      "title": "\"Vải tàng hình\" có thể giúp binh sĩ Ukraine thoát khỏi vòng vây cô lập",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/vai-tang-hinh-co-the-giup-binh-si-ukraine-thoat-khoi-vong-vay-co-lap-20251212110740329.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/12/vai-tang-hinh-co-the-giup-binh-si-ukraine-thoat-khoi-vong-vay-co-lap-cropped-1765512324455.jpg\" /></a>(Dân trí) - Một công ty Ukraine đã phát triển được tấm ngụy trang nhiệt loại mới, hiệu quả hơn để tránh UAV hoạt động ban đêm, khiến họ có thể \"tàng hình\" để tránh bị phát hiện."
     }
   ]
 }
