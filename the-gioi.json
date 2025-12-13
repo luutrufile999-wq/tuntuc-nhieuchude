@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ tiếp tục nới lỏng trừng phạt với Belarus",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-tiep-tuc-noi-long-trung-phat-voi-belarus-20251213204601692.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/13/my-tiep-tuc-noi-long-trung-phat-voi-belarus-1765633340752.jpg\" /></a>(Dân trí) - Quan chức Mỹ thông báo dỡ bỏ các biện pháp trừng phạt với Belarus, đồng minh thân thiết của Nga."
+    },
+    {
+      "id": 2,
       "title": "Quan chức EU muốn Nga hạn chế quy mô quân đội, giảm ngân sách quân sự",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/quan-chuc-eu-muon-nga-han-che-quy-mo-quan-doi-giam-ngan-sach-quan-su-20251213195307569.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/13/quan-chuc-eu-muon-nga-han-che-quy-mo-quan-doi-giam-ngan-sach-quan-su-1765630160720.jpg\" /></a>(Dân trí) - Nhà ngoại giao hàng đầu của EU cho rằng Nga cần có những hành động cụ thể để tạo ra hòa bình bền vững ở Ukraine."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Những quan chức được hưởng lương cao nhất Nhà Trắng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nhung-quan-chuc-duoc-huong-luong-cao-nhat-nha-trang-20251213145348754.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/13/tiet-lo-nhung-quan-chuc-duoc-huong-luong-cao-nhat-nha-trang-cropped-1765612355136.jpg\" /></a>(Dân trí) - Nhà Trắng công khai mức lương mà các quan chức trong chính quyền Mỹ nhận được mỗi năm."
-    },
-    {
-      "id": 3,
-      "title": "Mỹ sẵn sàng đảm bảo an ninh cho Ukraine dựa vào điều 5 NATO?",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-san-sang-dam-bao-an-ninh-cho-ukraine-dua-vao-dieu-5-nato-20251213160044057.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/13/bao-my-washington-san-sang-dam-bao-an-ninh-cho-ukraine-dua-vao-dieu-5-nato-cropped-1765616245524.jpg\" /></a>(Dân trí) - Chính quyền Tổng thống Mỹ Donald Trump được cho sẵn sàng cung cấp cho Ukraine các bảo đảm an ninh có tính ràng buộc pháp lý dựa trên Điều 5 của Hiệp ước NATO, truyền thông Mỹ cho biết."
     }
   ]
 }
