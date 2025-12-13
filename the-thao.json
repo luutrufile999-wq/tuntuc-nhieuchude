@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Báo Thái Lan phát sốt vì vẻ đẹp như thiên thần của VĐV Việt Nam",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-thai-lan-phat-sot-vi-ve-dep-nhu-thien-than-cua-vdv-viet-nam-20251213131929376.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/13/bao-thai-lan-phat-sot-vi-ve-dep-xinh-nhu-thien-than-cua-vdv-viet-nam-1765606391022.jpg\" /></a>(Dân trí) - Nhiều tờ báo Thái Lan đồng loạt lên tiếng ca ngợi vẻ đẹp như thần tiên tỉ tỉ của vận động viên (VĐV) điền kinh Nguyễn Khánh Linh của Việt Nam."
+    },
+    {
+      "id": 2,
       "title": "CĐV Indonesia nổi giận khi đội nhà nhập tịch ồ ạt nhưng vẫn bị loại sớm",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/cdv-indonesia-noi-gian-khi-doi-nha-nhap-tich-o-at-nhung-van-bi-loai-som-20251213114645418.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/13/cdv-indonesia-noi-gian-khi-doi-nha-nhap-tich-o-at-nhung-van-bi-loai-som-edited-1765601010635.jpg\" /></a>(Dân trí) - Dù triệu tập đội hình gồm nhiều cầu thủ nhập tịch nhưng U22 Indonesia vẫn gây thất vọng khi bị loại sớm ở SEA Games 33."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Võ sĩ Việt Nam “lật kèo” phút cuối, đối thủ thất thần từ thắng thành thua",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/vo-si-viet-nam-lat-keo-phut-cuoi-doi-thu-that-than-tu-thang-thanh-thua-20251213093144018.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/13/vo-si-viet-nam-lat-keo-phut-cuoi-doi-thu-that-than-tu-thang-thanh-thua-cropped-1765592975035.jpg\" /></a>(Dân trí) - Võ sĩ Đinh Công Khoa đã có pha “lật kèo” giành chiến thắng ngoạn mục ở bán kết môn taekwondo SEA Games 33."
-    },
-    {
-      "id": 3,
-      "title": "HLV Indra Sjafri lên tiếng sau cú sốc bị loại của U22 Indonesia",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/hlv-indra-sjafri-len-tieng-sau-cu-soc-bi-loai-cua-u22-indonesia-20251213081806599.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/13/hlv-indonesiajpg-1765588034885.jpg\" /></a>(Dân trí) - HLV Indra Sjafri lên tiếng xin lỗi và nhận trách nhiệm sau khi U22 Indonesia phải sớm chia tay SEA Games 2025 do thua U22 Malaysia về số bàn thắng ghi được."
     }
   ]
 }
