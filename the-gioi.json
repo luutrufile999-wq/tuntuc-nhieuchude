@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ lần đầu \"khoe\" tên lửa siêu vượt âm có tầm bắn 3.500km",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-lan-dau-khoe-ten-lua-sieu-vuot-am-co-tam-ban-3500km-20251215160409790.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/15/dark-eagle-cropped-1765789270440.jpg\" /></a>(Dân trí) - Mỹ hé lộ một số thông tin về tên lửa siêu vượt âm Dark Eagle mà nước này đang phát triển."
+    },
+    {
+      "id": 2,
       "title": "Cảnh tượng như “vùng chiến sự” trong vụ xả súng ở bãi biển Australia",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/canh-tuong-nhu-vung-chien-su-trong-vu-xa-sung-o-bai-bien-australia-20251215153516347.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/15/bondiabc-news11zon-cropped-1765788403305.jpg\" /></a>(Dân trí) - Hai nhân viên ứng cứu khẩn cấp có mặt tại hiện trường ngay sau vụ xả súng hàng loạt ngày 14/12 ở Sydney đã mô tả một khung cảnh tượng đầy đau đớn và hỗn loạn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Khoảnh khắc vận tải cơ Nga gẫy đôi trên không rồi rơi xuống hồ nước",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/khoanh-khac-van-tai-co-nga-gay-doi-tren-khong-roi-roi-xuong-ho-nuoc-20251215152537726.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/15/khoanh-khac-van-tai-co-nga-gay-doi-tren-khong-roi-roi-xuong-ho-nuoc-cropped-1765786900805.jpg\" /></a>(Dân trí) - Truyền thông Nga đăng đoạn video ghi lại vụ tai nạn của máy bay vận tải Nga An-22 hồi tuần trước."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine tuyên bố phá hủy đường \"độn thổ\" của lực lượng Nga ở Kupiansk",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-pha-huy-duong-don-tho-cua-luc-luong-nga-o-kupiansk-20251215144835675.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/15/don-thoyoutube11zon-cropped-1765784797765.jpg\" /></a>(Dân trí) - Ukraine tuyên bố đã phá hủy đường ống được coi là \"kênh hậu cần có tầm quan trọng sống còn” đối với lực lượng Nga để thâm nhập vào Kupiansk."
     }
   ]
 }
