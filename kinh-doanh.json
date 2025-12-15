@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Số lượng tỷ phú thế giới tăng lên mức kỷ lục",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/so-luong-ty-phu-the-gioi-tang-len-muc-ky-luc-20251215110428095.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/15/ty-phu-cropped-1765771399958.jpg\" /></a>(Dân trí) - Toàn cầu hiện có số lượng tỷ phú nhiều nhất từ trước đến nay, với 2.919 người, Reuters ghi nhận từ báo cáo của ngân hàng UBS (Thụy Sĩ)."
+    },
+    {
+      "id": 2,
       "title": "Nhiều ngân hàng hoàn thành sớm kế hoạch lợi nhuận năm 2025",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhieu-ngan-hang-hoan-thanh-som-ke-hoach-loi-nhuan-nam-2025-20251215083813603.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/07/giao-dich-ngan-hang-31tien-tuan-cropped-1759823269317.jpg\" /></a>(Dân trí) - Tính đến thời điểm hiện tại, nhiều ngân hàng đã hoàn thành chỉ tiêu lợi nhuận cả năm 2025, trong khi các tổ chức tín dụng khác đang tăng tốc để cán đích kế hoạch đề ra."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Cảng Hải Phòng lần đầu cán mốc 2 triệu TEU trong một năm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cang-hai-phong-lan-dau-can-moc-2-trieu-teu-trong-mot-nam-20251215070829713.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/15/cang-hai-phong-cropped-1765757217032.jpg\" /></a>(Dân trí) - Cảng Hải Phòng đón TEU thứ 2 triệu trong năm 2025 tại Cảng quốc tế TIL, đánh dấu lần đầu sau hơn 150 năm hình thành và phát triển đạt sản lượng trên 2 triệu TEU."
-    },
-    {
-      "id": 3,
-      "title": "Nhà nước tạm ứng chi phí phá sản cho doanh nghiệp khó khăn",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nha-nuoc-tam-ung-chi-phi-pha-san-cho-doanh-nghiep-kho-khan-20251215074452417.htm\"><img src=\"https://icdn.dantri.com.vn/2020/08/10/hoanh-trang-roi-pha-san-ong-chu-tre-am-tham-bien-mat-1-1597037629415.jpg\" /></a>(Dân trí) - Luật Phục hồi, phá sản vừa được Quốc hội thông qua cho phép ngân sách tạm ứng chi phí phá sản trong một số trường hợp, ưu tiên phục hồi doanh nghiệp và rút ngắn thời gian xử lý khi không còn tài sản."
     }
   ]
 }
