@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Đảng Pheu Thai cử cháu trai ông Thaksin làm ứng viên thủ tướng",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/dang-pheu-thai-cu-chau-trai-ong-thaksin-lam-ung-vien-thu-tuong-20251216143404086.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/16/dang-pheu-thai-cu-chau-trai-ong-thaksin-shinawatra-lam-ung-vien-thu-tuong-cropped-1765870055704.jpg\" /></a>(Dân trí) - Ông Yodchanan Wongsawat, cháu trai cựu Thủ tướng Thaksin Shinawatra, được đảng Pheu Thai chọn làm 1 trong 3 ứng viên cho vị trí lãnh đạo chính phủ trong cuộc bầu cử sắp diễn ra."
+    },
+    {
+      "id": 2,
       "title": "Phát hiện cờ IS trong xe nghi phạm vụ xả súng thảm sát ở Australia",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/phat-hien-co-is-trong-xe-nghi-pham-vu-xa-sung-tham-sat-o-australia-20251216125303114.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/16/nghi-pham-reuters11zon-cropped-1765864265782.jpg\" /></a>(Dân trí) - Giới chức Australia nghi ngờ vụ xả súng ở bãi biển Bondi bị thúc đẩy bởi \"hệ tư tưởng Tổ chức Nhà nước Hồi giáo tự xưng\"."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tung loạt mũi giáp công khắp tiền tuyến 1.000km, Nga vướng bài toán khó",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tung-loat-mui-giap-cong-khap-tien-tuyen-1000km-nga-vuong-bai-toan-kho-20251216120007468.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/16/binhsilucluonglykhaidonetskkhaih-cropped-1765860998057.jpg\" /></a>(Dân trí) - Viện Nghiên cứu Chiến tranh (ISW) có trụ sở tại Mỹ cảnh báo Nga có nguy cơ kéo căng lực lượng vì họ mở hàng loạt mũi tiến công trên khắp các mặt trận ở Ukraine."
-    },
-    {
-      "id": 3,
-      "title": "Giây phút cận kề cái chết của người hùng trong thảm kịch xả súng Australia",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/giay-phut-can-ke-cai-chet-cua-nguoi-hung-trong-tham-kich-xa-sung-australia-20251216115231075.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/15/khoanh-khac-nguoi-hung-lieu-minh-tuoc-vu-khi-cua-ke-xa-sung-o-australia-cropped-1765756018479.jpg\" /></a>(Dân trí) - Ahmed al-Ahmed đã lường trước khả năng sẽ mất mạng, nhưng vẫn liều mình lao vào khống chế nghi phạm trong vụ xả súng ở Australia."
     }
   ]
 }
