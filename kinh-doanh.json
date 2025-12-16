@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "5 điểm nhấn của thị trường chứng khoán Việt Nam trong năm qua",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/5-diem-nhan-cua-thi-truong-chung-khoan-viet-nam-trong-nam-qua-20251216105456018.htm\"><img src=\"https://icdn.dantri.com.vn/2023/11/07/chung-khoanttck-hai-long-crop-1699374398382.jpeg\" /></a>(Dân trí) - VN-Index năm nay tăng 38% so với cuối năm trước với giá trị giao dịch bình quân gần 29.440 tỷ đồng/phiên. Quy mô vốn hóa vượt 9,68 triệu tỷ đồng, tương đương 84,1% GDP ước tính năm 2024."
+    },
+    {
+      "id": 2,
       "title": "Thị trường xuất hiện lãi suất tiết kiệm lên tới 8,3%/năm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-xuat-hien-lai-suat-tiet-kiem-len-toi-83nam-20251216073156316.htm\"><img src=\"https://icdn.dantri.com.vn/2023/04/20/vpbank-giao-dich29-edited-1681965295546.jpeg\" /></a>(Dân trí) - Một ngân hàng tư nhân tăng mạnh lãi suất tiền gửi tại tất cả kỳ hạn, với mức lãi suất tiền gửi tiết kiệm cao nhất lên tới 8,3%/năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Bitcoin thủng mốc then chốt, nỗi lo mùa đông tiền số quay lại",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bitcoin-thung-moc-then-chot-noi-lo-mua-dong-tien-so-quay-lai-20251216092924796.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/16/8f6f1620-c6f3-11f0-bfff-510cf3c81f4c-cropped-1765851857027.jpg\" /></a>(Dân trí) - Bitcoin rơi về vùng 85.000-86.000 USD khi thanh khoản suy yếu, đòn bẩy bị xả mạnh và rủi ro vĩ mô gia tăng, làm dấy lên lo ngại thị trường tiền số bước vào một “mùa đông” mới."
-    },
-    {
-      "id": 3,
-      "title": "Đề xuất hộ kinh doanh phải khai báo toàn bộ tài khoản ngân hàng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/de-xuat-ho-kinh-doanh-phai-khai-bao-toan-bo-tai-khoan-ngan-hang-20251216082543976.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/16/de-xuat-ho-kinh-doanh-phai-khai-bao-toan-bo-tai-khoan-ngan-hang-1765848285951.jpg\" /></a>(Dân trí) - Bộ Tài chính đề xuất hộ và cá nhân kinh doanh thông báo cho cơ quan thuế toàn bộ số tài khoản ngân hàng sử dụng trong hoạt động sản xuất, kinh doanh nhằm tăng cường quản lý thuế, minh bạch dòng tiền."
     }
   ]
 }
