@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Doanh nghiệp Việt sẵn sàng ứng dụng AI, thúc đẩy ngành Cloud đạt 1,5 tỷ USD",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/doanh-nghiep-viet-san-sang-ung-dung-ai-thuc-day-nganh-cloud-dat-15-ty-usd-20251217084701004.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/17/ai-ung-dung-cropped-1765935787908.jpg\" /></a>(Dân trí) - Sẵn sàng nhập cuộc nhưng để biến AI từ mô hình thử nghiệm thành hiệu quả kinh doanh thực tế không phải chuyện dễ. Dưới đây là 3 thách thức lớn nhất mà chuyên gia cảnh báo."
+    },
+    {
+      "id": 2,
       "title": "Giá dầu thế giới thủng mốc 60 USD/thùng, giá xăng ngày mai dự báo giảm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-dau-the-gioi-thung-moc-60-usdthung-gia-xang-ngay-mai-du-bao-giam-20251217012228061.htm\"><img src=\"https://icdn.dantri.com.vn/2024/10/09/nguoi-dan-do-xang12-edited-1728409081066.jpeg\" /></a>(Dân trí) - Giá dầu thế giới vừa rơi xuống mức thấp nhất từ tháng 5, thủng mốc 60 USD/thùng. Theo đà này, giá xăng dầu trong nước ngày mai 18/12 được dự báo giảm tiếp."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng quay đầu giảm mạnh, người mua lỗ 3,6 triệu đồng/lượng sau một ngày",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-quay-dau-giam-manh-nguoi-mua-lo-36-trieu-dongluong-sau-mot-ngay-20251217000911584.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/29/xoa-bo-co-che-doc-quyen-vang-mieng-gia-vang-sap-het-thoi-tau-luon-edited-1756402119927.jpg?watermark=true\" /></a>(Dân trí) - Mức giảm 1,6 triệu đồng cộng với chênh lệch giá mua - bán 2 triệu đồng đã khiến người mua vàng lỗ 3,6 triệu đồng/lượng sau một ngày."
-    },
-    {
-      "id": 3,
-      "title": "Thủ tướng: Tăng trưởng hai con số là mục tiêu khả thi và có cơ sở",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-tang-truong-hai-con-so-la-muc-tieu-kha-thi-va-co-co-so-20251216225107868.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/16/thu-tuong-tang-truong-hai-con-so-la-co-nen-tang-co-du-dia-va-kha-thi-1765899945668.jpg\" /></a>(Dân trí) - Đánh giá kinh tế 2025 là gam màu sáng với mức tăng trên 8%, Thủ tướng khẳng định Việt Nam có đủ nền tảng, dư địa và quyết tâm để phấn đấu đạt tăng trưởng hai con số."
     }
   ]
 }
