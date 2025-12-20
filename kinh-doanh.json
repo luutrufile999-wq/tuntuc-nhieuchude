@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Gen Z đổi gu, muốn nhận bitcoin làm quà dịp lễ",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gen-z-doi-gu-muon-nhan-bitcoin-lam-qua-dip-le-20251220105653806.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/golden-coin-cryptocurrency-cropped-1766202954971.jpg\" /></a>(Dân trí) - Không phải đồ hiệu hay tiền mặt, 45% gen Z Mỹ muốn nhận tiền số làm quà dù giá bitcoin vừa giảm mạnh từ đỉnh. Đằng sau lựa chọn có phần ngông cuồng này là một tư duy tài chính hoàn toàn mới."
+    },
+    {
+      "id": 2,
       "title": "TPHCM sắp ra mắt Trung tâm tài chính quốc tế: Kỳ vọng dòng vốn 280 tỷ USD",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tphcm-sap-ra-mat-trung-tam-tai-chinh-quoc-te-ky-vong-dong-von-280-ty-usd-20251220143848722.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/hoi-thao-cropped-1766216233407.jpg\" /></a>(Dân trí) - Trung tâm tài chính quốc tế TPHCM chính thức ra mắt sẽ đánh dấu bước ngoặt đưa Việt Nam lên bản đồ tài chính toàn cầu, giải bài toán nhu cầu vốn 280 tỷ USD mỗi năm cho nền kinh tế."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Lãi suất tăng, giấc mơ mua nhà của người trẻ hẹp dần",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lai-suat-tang-giac-mo-mua-nha-cua-nguoi-tre-hep-dan-20251217165937012.htm\"><img src=\"https://icdn.dantri.com.vn/2025/05/29/dbqh-lo-rui-ro-va-lam-dung-chinh-sach-khi-cho-vay-lai-suat-dac-biet-0-edited-1748484570655.jpg\" /></a>(Dân trí) - Với tình hình lãi huy động đầu vào tiếp tục tăng, chuyên gia dự báo lãi suất cho vay sẽ tiếp tục đi lên từ nay đến cuối năm với biên độ rộng hơn."
-    },
-    {
-      "id": 3,
-      "title": "Kim ngạch xuất nhập khẩu dự kiến vượt 900 tỷ USD, động lực từ đâu?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/kim-ngach-xuat-nhap-khau-du-kien-vuot-900-ty-usd-dong-luc-tu-dau-20251220101152197.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/kim-ngach-xuat-nhap-khau-vuot-900-ty-usd-dong-luc-tu-dau-1766200211613.jpg\" /></a>(Dân trí) - Đến 15/12, tổng kim ngạch xuất nhập khẩu của Việt Nam đạt 883,7 tỷ USD, dự kiến vượt 900 tỷ USD vào cuối năm, qua đó đưa Việt Nam gia nhập nhóm 15 cường quốc thương mại toàn cầu."
     }
   ]
 }
