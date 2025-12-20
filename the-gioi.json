@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ bắt tàu dầu ngoài khơi Venezuela sau tuyên bố phong tỏa",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-bat-tau-dau-ngoai-khoi-venezuela-sau-tuyen-bo-phong-toa-20251221054438881.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/21/taux11zon-cropped-1766270618144.jpg\" /></a>(Dân trí) - Mỹ bắt giữ thêm một tàu chở dầu ngoài khơi Venezuela, gia tăng sức ép lên Caracas sau khi Tổng thống Donald Trump tuyên bố áp đặt lệnh phong tỏa đối với các tàu vận chuyển dầu bị trừng phạt."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Zelensky: Ukraine đang chuẩn bị hạ tầng cho bầu cử",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-zelensky-ukraine-dang-chuan-bi-ha-tang-cho-bau-cu-20251220211651153.htm\"><img src=\"https://icdn.dantri.com.vn/2024/08/20/zelenskyreuters-1724112511912.jpeg\" /></a>(Dân trí) - Tổng thống Ukraine Volodymyr Zelensky cho biết Bộ Ngoại giao nước này đã bắt đầu chuẩn bị hạ tầng cho cuộc bầu cử trong tương lai."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ lên kế hoạch biến Gaza thành thiên đường nghỉ dưỡng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-len-ke-hoach-bien-gaza-thanh-thien-duong-nghi-duong-20251220202010983.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/04/gaza-cropped-1759527725571.jpg\" /></a>(Dân trí) - Dự án biến Dải Gaza thành thiên đường nghỉ dưỡng có thể khiến Washington cam kết tài trợ khoảng 20% chi phí tái thiết vùng đất này trong vòng 10 năm."
-    },
-    {
-      "id": 3,
-      "title": "Mỹ công bố video dội hơn 100 quả bom vào mục tiêu IS ở Syria",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-cong-bo-video-doi-hon-100-qua-bom-vao-muc-tieu-is-o-syria-20251220193700586.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/afgyixgif-1766234154536.gif\" /></a>(Dân trí) - Lực lượng Mỹ đã tấn công hơn 70 mục tiêu bị cáo buộc là của Tổ chức Nhà nước Hồi giáo tự xưng (IS) ở Syria bằng hơn 100 quả bom."
     }
   ]
 }
