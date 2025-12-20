@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bộ trưởng Nguyễn Mạnh Hùng: Kinh tế số chỉ mới đang “số hoá hoạt động cũ”",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-truong-nguyen-manh-hung-kinh-te-so-chi-moi-dang-so-hoa-hoat-dong-cu-20251220195247294.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/ttg-1766194582569659278935jpg-1766237251011.jpg\" /></a>(Dân trí) - Do đó, nhiệm vụ của giai đoạn tới là phải làm sâu hơn, tạo ra giá trị gia tăng nhiều hơn, đột phá hơn; thông qua kiến tạo một không gian số rộng lớn, tổng thể."
+    },
+    {
+      "id": 2,
       "title": "Trung Quốc bất ngờ phát hiện kho vàng khổng lồ dưới đáy biển",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/trung-quoc-bat-ngo-phat-hien-kho-vang-khong-lo-duoi-day-bien-20251220173933736.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/trung-quoc-phat-hien-mo-vang-duoi-bien-lon-nhat-chau-a-cropped-1766226295122.jpg\" /></a>(Dân trí) - Trung Quốc vừa phát hiện mỏ vàng dưới đáy biển, nâng tổng trữ lượng tại Lai Châu (tỉnh Sơn Đông) lên hơn 3.900 tấn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thủ tướng: Nghị quyết 68 đã đạt được nhiều kết quả nổi bật",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-nghi-quyet-68-da-dat-duoc-nhieu-ket-qua-noi-bat-20251220170659522.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/thu-tuong-nghi-quyet-68-da-dat-duoc-nhieu-ket-qua-noi-bat-1766224994192.jpg\" /></a>(Dân trí) - Thủ tướng Phạm Minh Chính nhấn mạnh rằng đây là Nghị quyết có ý nghĩa đặc biệt quan trọng, cùng với các quyết sách của Bộ Chính trị trên các lĩnh vực then chốt khác."
-    },
-    {
-      "id": 3,
-      "title": "Người dân được quyền chọn mua điện: EVN lo cạnh tranh làm tăng giá",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nguoi-dan-duoc-quyen-chon-mua-dien-evn-lo-canh-tranh-lam-tang-gia-20251220163059599.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/2022209911jpg-1766222679680.jpg\" /></a>(Dân trí) - EVN lo ngại việc vận hành thị trường bán lẻ điện cạnh tranh từ năm 2027 có thể đẩy giá điện tăng, tạo chênh lệch vùng miền và ảnh hưởng người dân nếu thiếu cơ chế giám sát, điều tiết phù hợp."
     }
   ]
 }
