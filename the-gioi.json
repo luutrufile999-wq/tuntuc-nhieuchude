@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ukraine hé lộ hỗ trợ sống còn của Mỹ về tình báo",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-he-lo-ho-tro-song-con-cua-my-ve-tinh-bao-20251220163644593.htm\"><img src=\"https://icdn.dantri.com.vn/2023/05/17/kirill-budanovafp-edited-crop-1684329493264.jpeg\" /></a>(Dân trí) - Ukraine phụ thuộc nghiêm trọng vào Mỹ trong 2 lĩnh vực tình báo then chốt là ảnh vệ tinh và hệ thống cảnh báo sớm trước các mối đe dọa tên lửa đạn đạo."
+    },
+    {
+      "id": 2,
       "title": "Mỹ lên kế hoạch phát triển \"Hạm đội vàng”",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-len-ke-hoach-phat-trien-ham-doi-vang-20251220152136258.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/tau-myus11zon-edited-1766218792078.jpg\" /></a>(Dân trí) - Hải quân Mỹ thông báo đang theo đuổi một chương trình tàu hộ vệ mới, dựa trên thiết kế nội địa, trong khuôn khổ kế hoạch “Hạm đội Vàng” của Tổng thống Donald Trump."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "NATO khẳng định viện trợ quân sự cho Ukraine không suy giảm",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nato-khang-dinh-vien-tro-quan-su-cho-ukraine-khong-suy-giam-20251220141444036.htm\"><img src=\"https://icdn.dantri.com.vn/2023/02/19/my-vien-tro-ukraineus-1676824628695.jpg\" /></a>(Dân trí) - Bất chấp thay đổi trong chính sách của Mỹ kể từ khi Tổng thống Donald Trump trở lại Nhà Trắng, NATO khẳng định dòng chảy viện trợ quân sự dành cho Ukraine không hề bị gián đoạn hay suy giảm về quy mô."
-    },
-    {
-      "id": 3,
-      "title": "Chiến sự Ukraine 20/12: Diễn biến mới nhất ở Pokrovsk - Mirnograd",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-2012-dien-bien-moi-nhat-o-pokrovsk-mirnograd-20251220111615002.htm\"><img src=\"https://icdn.dantri.com.vn/2024/11/05/chien-su-nga-ukraine-anhminhhoaskynews179-crop-1730776300798.jpeg\" /></a>(Dân trí) - Theo hướng Dobropillya, quân đội Nga đang hoàn tất chiến dịch tấn công Pokrovsk khi sự kháng cự có tổ chức của Ukraine ở Mirnograd gần như đã tan rã."
     }
   ]
 }

@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Người dân được quyền chọn mua điện: EVN lo cạnh tranh làm tăng giá",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nguoi-dan-duoc-quyen-chon-mua-dien-evn-lo-canh-tranh-lam-tang-gia-20251220163059599.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/2022209911jpg-1766222679680.jpg\" /></a>(Dân trí) - EVN lo ngại việc vận hành thị trường bán lẻ điện cạnh tranh từ năm 2027 có thể đẩy giá điện tăng, tạo chênh lệch vùng miền và ảnh hưởng người dân nếu thiếu cơ chế giám sát, điều tiết phù hợp."
+    },
+    {
+      "id": 2,
       "title": "Vừa bị phạt 1,1 tỷ đồng, Chứng khoán EVS còn bị thu hồi nhiều giấy phép",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vua-bi-phat-11-ty-dong-chung-khoan-evs-con-bi-thu-hoi-nhieu-giay-phep-20251220154213683.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/evs-cropped-1766220072339.jpg\" /></a>(Dân trí) - Sau án phạt kỷ lục 1,1 tỷ đồng, Chứng khoán EVS tiếp tục bị UBCKNN thu hồi hai giấy phép hoạt động phái sinh. Đồng thời, doanh nghiệp đang rốt ráo xử lý hàng trăm tỷ đồng nợ khó đòi."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Quảng Ninh đề xuất gỡ khó cho dự án điện khí LNG hơn 2,2 tỷ USD",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/quang-ninh-de-xuat-go-kho-cho-du-an-dien-khi-lng-hon-22-ty-usd-20251220153734396.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/lng-quang-ninh-cropped-1766219765867.jpg\" /></a>(Dân trí) - Tỉnh Quảng Ninh đề nghị Bộ Công Thương sớm tháo gỡ vướng mắc về cơ chế, chính sách cho Dự án Nhà máy Điện khí LNG Quảng Ninh liên quan đến khung pháp lý, hợp đồng mua bán điện."
-    },
-    {
-      "id": 3,
-      "title": "Gen Z đổi gu, muốn nhận bitcoin làm quà dịp lễ",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gen-z-doi-gu-muon-nhan-bitcoin-lam-qua-dip-le-20251220105653806.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/20/golden-coin-cryptocurrency-cropped-1766202954971.jpg\" /></a>(Dân trí) - Không phải đồ hiệu hay tiền mặt, 45% gen Z Mỹ muốn nhận tiền số làm quà dù giá bitcoin vừa giảm mạnh từ đỉnh. Đằng sau lựa chọn có phần ngông cuồng này là một tư duy tài chính hoàn toàn mới."
     }
   ]
 }
