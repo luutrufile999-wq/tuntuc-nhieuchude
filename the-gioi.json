@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ukraine chỉ ra sai lầm khiến nỗ lực tuyển quân chưa hiệu quả",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-chi-ra-sai-lam-khien-no-luc-tuyen-quan-chua-hieu-qua-20251221093738929.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/21/ukraine-chi-ra-sai-lam-khien-no-luc-tuyen-quan-chua-hieu-qua-cropped-1766284307138.jpg\" /></a>(Dân trí) - Quan chức Ukraine cho rằng chiến dịch tuyển tân binh của nước này chưa đạt được hiệu quả như kỳ vọng vì những sai lầm trong nội bộ."
+    },
+    {
+      "id": 2,
       "title": "Người đầu tiên trên thế giới có tài sản hơn 700 tỷ USD",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nguoi-dau-tien-tren-the-gioi-co-tai-san-hon-700-ty-usd-20251221071221917.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/21/elon-muskforbes11zonjpg-1766275844029.jpg\" /></a>(Dân trí) - Nhà sáng lập kiêm giám đốc điều hành Tesla Elon Musk đã trở thành người đầu tiên trên thế giới sở hữu khối tài sản hơn 700 tỷ USD."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ukraine nêu điều kiện để tham gia đàm phán 3 bên với Nga và Mỹ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-neu-dieu-kien-de-tham-gia-dam-phan-3-ben-voi-nga-va-my-20251221070950590.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/21/ukraine-neu-dieu-kien-de-tham-gia-dam-phan-3-ben-voi-nga-va-my-1766275532694.jpg\" /></a>(Dân trí) - Ukraine nhận được đề xuất của Mỹ về việc tổ chức đàm phán chung 3 bên vơi sự tham gia của Nga."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine nêu “lằn ranh đỏ” trong đàm phán hòa bình",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-neu-lan-ranh-do-trong-dam-phan-hoa-binh-20251221062219362.htm\"><img src=\"https://icdn.dantri.com.vn/2025/02/04/zelenskyafp-1738629914295.jpg\" /></a>(Dân trí) - Tổng thống Ukraine Volodymyr Zelensky cho biết Kiev đã chính thức chuyển tới Mỹ lập trường của mình về những vấn đề cốt lõi vẫn chưa thể thỏa hiệp trong các cuộc đàm phán hòa bình tiềm năng với Nga."
     }
   ]
 }
