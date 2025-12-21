@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ nêu điều kiện chấm dứt chiến dịch phong tỏa tàu dầu ra vào Venezuela",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-neu-dieu-kien-cham-dut-chien-dich-phong-toa-tau-dau-ra-vao-venezuela-20251221150416490.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/21/taux0-cropped-1766304162911.jpg\" /></a>(Dân trí) - Washington sẽ tiếp tục bắt giữ các tàu chở dầu rời khỏi Venezuela cho đến khi nước này “trả lại toàn bộ các tài sản của Mỹ”."
+    },
+    {
+      "id": 2,
       "title": "Nga sẵn sàng đối thoại với Pháp về Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-san-sang-doi-thoai-voi-phap-ve-ukraine-20251221142723048.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/21/putin-macronafp11zon-cropped-1766301942324.jpg\" /></a>(Dân trí) - Người phát ngôn Điện Kremlin Dmitry Peskov cho biết Tổng thống Nga Vladimir Putin sẵn sàng đối thoại với Tổng thống Pháp Emmanuel Macron."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giám đốc tình báo Mỹ: Có thế lực đang muốn Washington xung đột với Nga",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/giam-doc-tinh-bao-my-co-the-luc-dang-muon-washington-xung-dot-voi-nga-20251221115743033.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/21/m-cropped-1766292648664.jpg\" /></a>(Dân trí) - Người đứng đầu cộng đồng tình báo Mỹ cảnh báo các nỗ lực nhằm làm gia tăng nguy cơ xung đột giữa 2 cường quốc quân sự hàng đầu thế giới."
-    },
-    {
-      "id": 3,
-      "title": "Chiến sự Ukraine 21/12: Nga bất ngờ đột phá ở Sumy, Ukraine rút lui",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-2112-nga-bat-ngo-dot-pha-o-sumy-ukraine-rut-lui-20251221112827859.htm\"><img src=\"https://icdn.dantri.com.vn/2024/04/20/chien-su-nga-ukriane-anhminhhoa-reuters004-crop-1713578857197.jpeg\" /></a>(Dân trí) - Trên hướng Sumy, lực lượng Nga bất ngờ vượt biên giới, nhanh chóng chiếm được ngôi làng Vysoke trước sự kháng cự yếu ớt của đối phương. Quân đội Ukraine rút lui vào các khu rừng lớn phía tây."
     }
   ]
 }
