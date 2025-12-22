@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ukraine tấn công xuyên biên giới, tuyên bố phá hủy 2 tiêm kích Nga",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tan-cong-xuyen-bien-gioi-tuyen-bo-pha-huy-2-tiem-kich-nga-20251222212404916.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/30-27-ezgifcom-cropgif-1766413322548.gif\" /></a>(Dân trí) - Ukraine tuyên bố 2 máy bay chiến đấu của Nga đã bị phá hủy sau một cuộc tấn công vào sân bay quân sự."
+    },
+    {
+      "id": 2,
       "title": "Tiêm kích Su-57 của Nga lần đầu tiên cất cánh với động cơ thế hệ 5",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tiem-kich-su-57-cua-nga-lan-dau-tien-cat-canh-voi-dong-co-the-he-5-20251222201227344.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/su-57-cropped-1766408870710.jpg\" /></a>(Dân trí) - Tiêm kích Su-57 của Nga được trang bị động cơ thế hệ thứ 5 tiên tiến Izdeliye 177, với sức mạnh vượt trội, đã chính thức thực hiện chuyến bay thử nghiệm đầu tiên."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thái Lan - Campuchia nối lại đàm phán thỏa thuận ngừng bắn",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/thai-lan-campuchia-noi-lai-dam-phan-thoa-thuan-ngung-ban-20251222202054436.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/thailan-cropped-1766409564235.jpg\" /></a>(Dân trí) - Các quan chức quốc phòng của Thái Lan và Campuchia sẽ gặp nhau để thảo luận về khả năng nối lại lệnh ngừng bắn giữa hai nước."
-    },
-    {
-      "id": 3,
-      "title": "Mỹ nói về nhượng bộ lãnh thổ Ukraine trong đàm phán hòa bình",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-noi-ve-nhuong-bo-lanh-tho-ukraine-trong-dam-phan-hoa-binh-20251222193338719.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/21/vancereuters-cropped-1755761785109.jpg\" /></a>(Dân trí) - Phó Tổng thống Mỹ JD Vance cho rằng vấn đề nhượng bộ lãnh thổ của Ukraine ở vùng Donbass đang cản trở tiến trình giải quyết xung đột."
     }
   ]
 }
