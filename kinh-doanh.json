@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hãng xe công nghệ Be lên tiếng về doanh thu một tài xế hơn 1,6 tỷ đồng/năm",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hang-xe-cong-nghe-be-len-tieng-ve-doanh-thu-mot-tai-xe-hon-16-ty-dongnam-20251222215007132.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/z7354494422999a98a23d5480da21e71e59989de033914-edited-1766414784247.jpg\" /></a>(Dân trí) - Be Group cho biết con số tài xế beBike tạo doanh thu hơn 1,6 tỷ đồng là tổng doanh thu phát sinh trên nền tảng từ nhiều dịch vụ, được công bố theo đúng bản chất từng chỉ số."
+    },
+    {
+      "id": 2,
       "title": "Cổ phiếu công ty bất động sản liên quan Shark Hưng bị bán tháo",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/co-phieu-cong-ty-bat-dong-san-lien-quan-shark-hung-bi-ban-thao-20251222183658938.htm\"><img src=\"https://icdn.dantri.com.vn/2024/11/12/shark-hung-crop-1731396625883.jpeg\" /></a>(Dân trí) - Trái ngược với đà tăng của thị trường phiên 22/12, cổ phiếu CRE bị bán tháo với thanh khoản đột biến. Đà sụt giảm diễn ra trong bối cảnh lợi nhuận của Cen Land chưa tìm lại được thời hoàng kim."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Những cuộc thảo luận sôi nổi bên lề Diễn đàn ESG Việt Nam 2025",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhung-cuoc-thao-luan-soi-noi-ben-le-dien-dan-esg-viet-nam-2025-20251222181255254.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/7e52b0eabdcc32926bddjpg-1766404728829.jpg\" /></a>(Dân trí) - Chiều 22/12 tại Hà Nội, bên lề Diễn đàn ESG Việt Nam 2025, nhiều diễn giả và đại diện doanh nghiệp đã trao đổi trực tiếp về ứng dụng khoa học công nghệ, chuyển đổi số trong thực thi ESG."
-    },
-    {
-      "id": 3,
-      "title": "Bộ Công Thương chính thức triển khai hệ thống truy xuất nguồn gốc từ 23/12",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-cong-thuong-chinh-thuc-trien-khai-he-thong-truy-xuat-nguon-goc-tu-2312-20251222171101590.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/truy-xuat-nguon-goc-cropped-1766398177405.jpg\" /></a>(Dân trí) - Từ ngày 23/12, Bộ Công Thương chính thức vận hành hệ thống truy xuất nguồn gốc verigoods.vn giúp minh bạch thông tin sản phẩm, bảo vệ người tiêu dùng và hỗ trợ doanh nghiệp."
     }
   ]
 }

@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Những quyết định quan trọng liên quan đến giải đấu Masters Tournament",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/nhung-quyet-dinh-quan-trong-lien-quan-den-giai-dau-masters-tournament-20251222175220364.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/scottie122-12-25-cropped-1766400456273.jpg\" /></a>(Dân trí) - Ban tổ chức (BTC) của giải đấu danh giá nhất làng golf thế giới Masters Tournament đã có những quyết định quan trọng, liên quan đến kỳ giải năm sau."
+    },
+    {
+      "id": 2,
       "title": "Công bố danh sách U23 Việt Nam tham dự giải châu Á",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/cong-bo-danh-sach-u23-viet-nam-tham-du-giai-chau-a-20251222184809297.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/cong-bo-danh-sach-u23-viet-nam-tham-du-giai-chau-a-1766403711791.jpg\" /></a>(Dân trí) - Tối 22/12, HLV Kim Sang Sik đã công bố danh sách cầu thủ tập trung tham dự giải U23 châu Á. Ngoài 23 cầu thủ vừa giành Huy chương vàng (HCV) SEA Games, U23 Việt Nam sẽ bổ sung hai cầu thủ."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tuyển Việt Nam nhận tin vui từ FIFA, Malaysia lĩnh đòn đau khi bị xử thua",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/tuyen-viet-nam-nhan-tin-vui-tu-fifa-malaysia-linh-don-dau-khi-bi-xu-thua-20251222192930352.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/tuyen-viet-nam-nhan-tin-vui-tu-fifa-malaysia-linh-don-dau-khi-bi-xu-thua-1766406171633.jpg\" /></a>(Dân trí) - Theo bảng xếp hạng FIFA tháng 12, đội tuyển Việt Nam đã tăng 3 bậc lên xếp thứ 107 thế giới. Trong khi đó, Malaysia bị tụt 5 bậc sau khi bị FIFA xử thua 0-3 trong ba trận giao hữu."
-    },
-    {
-      "id": 3,
-      "title": "VĐV Thái Lan nhận bức xúc vì bị cắt giảm tiền thưởng HCV SEA Games",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/vdv-thai-lan-nhan-buc-xuc-vi-bi-cat-giam-tien-thuong-hcv-sea-games-20251222154142328.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/vdv-thai-lanjpg-1765340867728jpg-1766392721796.jpg\" /></a>(Dân trí) - Nhiều vận động viên (VĐV) Thái Lan đã cảm thấy bất ngờ xen lẫn thất vọng khi số tiền thưởng cho các tấm huy chương mà họ giành được ở SEA Games 33 đã bị cắt giảm nghiêm trọng so với lời hứa trước đó."
     }
   ]
 }

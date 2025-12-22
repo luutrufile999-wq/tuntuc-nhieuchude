@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ tuyên bố \"đột phá\" trong đàm phán về Ukraine, Nga lên tiếng",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-tuyen-bo-dot-pha-trong-dam-phan-ve-ukraine-nga-len-tieng-20251223054603524.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/21/dam-phankremlin11zon-cropped-1766307457107.jpg\" /></a>(Dân trí) - Mỹ và Nga đang đưa ra những tuyên bố trái ngược về kết quả sau các cuộc đàm phán về giải pháp cho cuộc xung đột Ukraine cuối tuần qua."
+    },
+    {
+      "id": 2,
       "title": "Nghị sĩ Mỹ cảnh báo Nga, dọa cấp tên lửa Tomahawk cho Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nghi-si-my-canh-bao-nga-doa-cap-ten-lua-tomahawk-cho-ukraine-20251222223042375.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/nghi-si-my-canh-bao-cap-ten-lua-tomahawk-cho-ukraine-1766417260777.jpg\" /></a>(Dân trí) - Thượng nghị sĩ Mỹ Lindsey Graham kêu gọi tăng cường áp lực lên Nga nếu Moscow từ chối chấp nhận giải pháp hòa bình."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Iran tập trận hàng loạt, nói \"không thương lượng\" về chương trình tên lửa",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-tap-tran-hang-loat-noi-khong-thuong-luong-ve-chuong-trinh-ten-lua-20251222212804741.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/image-78-cropped-cropped-1766413450848.jpg\" /></a>(Dân trí) - Quân đội Iran ngày 22/12 cho biết đã tiến hành cuộc tập trận tên lửa ở nhiều thành phố khác nhau, trong động thái mà Tehran tuyên bố là \"hoàn toàn mang tính phòng thủ\"."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine tấn công xuyên biên giới, tuyên bố phá hủy 2 tiêm kích Nga",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tan-cong-xuyen-bien-gioi-tuyen-bo-pha-huy-2-tiem-kich-nga-20251222212404916.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/30-27-ezgifcom-cropgif-1766413322548.gif\" /></a>(Dân trí) - Ukraine tuyên bố 2 máy bay chiến đấu của Nga đã bị phá hủy sau một cuộc tấn công vào sân bay quân sự."
     }
   ]
 }
