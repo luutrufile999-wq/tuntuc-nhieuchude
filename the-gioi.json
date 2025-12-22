@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ chặn máy bay tiến gần dinh thự của Tổng thống Trump",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-chan-may-bay-tien-gan-dinh-thu-cua-tong-thong-trump-20251222144108556.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/image-31png-1766389011145.png\" /></a>(Dân trí) - Các tiêm kích F-16 của quân đội Mỹ đã xuất kích vào cuối tuần qua để chặn các máy bay dân sự xuất hiện gần khu nghỉ dưỡng Mar-a-Lago ở Palm Beach (bang Florida) của Tổng thống Donald Trump."
+    },
+    {
+      "id": 2,
       "title": "Tướng Nga bị ám sát tại Moscow",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tuong-nga-bi-am-sat-tai-moscow-20251222144825165.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/bomriaa11zon-cropped-1766391266351.jpg\" /></a>(Dân trí) - Một quả bom gài trên ô tô đã khiến một sĩ quan cao cấp thuộc Bộ Tổng tham mưu Nga thiệt mạng ngày 22/12."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "ASEAN họp bàn nhằm hạ nhiệt căng thẳng Thái Lan - Campuchia",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/asean-hop-ban-nham-ha-nhiet-cang-thang-thai-lan-campuchia-20251222144451422.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/22/asean-edited-1766389326784.jpg\" /></a>(Dân trí) - Các Ngoại trưởng Đông Nam Á nhóm họp tại Malaysia nhằm tìm cách khôi phục lệnh ngừng bắn giữa Thái Lan và Campuchia sau 2 tuần giao tranh khiến ít nhất 60 người thiệt mạng."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine giăng bẫy Nga bất thành, gió đổi chiều ở Dobropolye",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-giang-bay-nga-bat-thanh-gio-doi-chieu-o-dobropolye-20251222142646141.htm\"><img src=\"https://icdn.dantri.com.vn/2025/04/11/chien-su-nga-ukraine-anhminhhoatrendsresearch-crop-1744361323290.jpeg\" /></a>(Dân trí) - Khu vực Dobropolye đang chứng kiến một sự thay đổi đáng kể, khi quân đội Nga được cho là đã lật ngược thế cờ trước lực lượng Ukraine và đột phá mạnh mẽ về phía Druzhkovka."
     }
   ]
 }
