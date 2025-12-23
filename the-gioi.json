@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Israel tuyên bố sẽ không bao giờ rút quân hoàn toàn khỏi Dải Gaza",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/israel-tuyen-bo-se-khong-bao-gio-rut-quan-hoan-toan-khoi-dai-gaza-20251223214728320.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/23/israel-tuyen-bo-se-khong-bao-gio-rut-quan-hoan-toan-khoi-dai-gaza-1766500929232.jpg\" /></a>(Dân trí) - Quan chức cấp cao Israel khẳng định sẽ lập một đơn vị quân sự - dân sự tại Dải Gaza."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Ukraine thông báo kết quả đàm phán kế hoạch hòa bình với Mỹ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-ukraine-thong-bao-ket-qua-dam-phan-ke-hoach-hoa-binh-voi-my-20251223192853387.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/23/ukrianepravda11zon-cropped-1766492860897.jpg\" /></a>(Dân trí) - Tổng thống Volodymyr Zelensky cho biết một số dự thảo văn kiện, trong đó có các tài liệu về bảo đảm an ninh, đã được chuẩn bị sau các cuộc đàm phán với phía Mỹ về việc chấm dứt xung đột Ukraine - Nga."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tình báo NATO nghi ngờ Nga đang phát triển vũ khí vô hiệu hóa Starlink",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tinh-bao-nato-nghi-ngo-nga-dang-phat-trien-vu-khi-vo-hieu-hoa-starlink-20251223183347634.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/23/ve-tinhradio-cropped-1766489561248.jpg\" /></a>(Dân trí) - Các cơ quan tình báo của NATO nghi ngờ Nga đang phát triển các loại vũ khí mới nhằm vào vệ tinh, đặc biệt là hệ thống liên lạc vệ tinh Starlink của tỷ phú Elon Musk."
-    },
-    {
-      "id": 3,
-      "title": "Nga phóng dồn dập hơn 670 tên lửa và UAV, lưới điện Ukraine \"sập nguồn\"",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-phong-don-dap-hon-670-ten-lua-va-uav-luoi-dien-ukraine-sap-nguon-20251223180532068.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/23/nga-phong-hon-670-ten-lua-uav-ukraine-ton-that-lon-1766487637695.jpg\" /></a>(Dân trí) - Nga đã tiến hành cuộc không kích quy mô lớn vào Ukraine trước thềm Giáng sinh, gây tổn thất lớn về hạ tầng."
     }
   ]
 }
