@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ngoại giao “không cà vạt” của Trung Quốc",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ngoai-giao-khong-ca-vat-cua-trung-quoc-20251223111203075.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/23/tap-macronreuters1-edited-1766462889655.jpg\" /></a>(Dân trí) - Trung Quốc được cho là đang áp dụng phong cách ngoại giao “không cà vạt” hay phong cách thoải mái, không quá nghi thức để làm mềm đi những cạnh sắc của bối cảnh địa chính trị."
+    },
+    {
+      "id": 2,
       "title": "Chiến sự Ukraine 23/12: Lực lượng Kiev có hành động đáng chú ý ở Pokrovsk",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-2312-luc-luong-kiev-co-hanh-dong-dang-chu-y-o-pokrovsk-20251223115106560.htm\"><img src=\"https://icdn.dantri.com.vn/2025/04/14/chien-su-nga-ukraine-putin-anhminhhoaipis-crop-1744621478835.jpeg\" /></a>(Dân trí) - Quân đội Ukraine đã tung một đoàn xe thiết giáp, bao gồm cả xe tăng M1 Abrams, đột phá ở Pokrovsk nhằm tạo hành lang cho các đơn vị mắc kẹt rút lui hoặc nếu thuận lợi có thể giành lại cả thành phố."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Mỹ ra tuyên bố mới về kế hoạch sáp nhập Greenland",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-my-ra-tuyen-bo-moi-ve-ke-hoach-sap-nhap-greenland-20251223094007424.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/18/trumpreutersjpg-1763427397673.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump tiếp tục khẳng định mong muốn kiểm soát đảo Greenland, bất chấp sự phản đối của Đan Mạch."
-    },
-    {
-      "id": 3,
-      "title": "Nga tung biến thể mới của xe tăng \"nồi đồng cối đá\" ra chiến trường Ukraine",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-tung-bien-the-moi-cua-xe-tang-noi-dong-coi-da-ra-chien-truong-ukraine-20251223103531153.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/23/nga-tung-bien-the-moi-cua-xe-tang-noi-dong-coi-da-ra-chien-truong-cropped-1766460733122.jpg\" /></a>(Dân trí) - Ukraine phát hiện Nga đã bắt đầu đưa xe tăng được lắp lớp bảo vệ phiên bản mới ra tiền tuyến để đối phó với UAV của Kiev."
     }
   ]
 }
