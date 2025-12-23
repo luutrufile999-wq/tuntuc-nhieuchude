@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Yêu cầu ngân hàng đáp ứng tốt nhu cầu thanh toán dịp cuối năm",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/yeu-cau-ngan-hang-dap-ung-tot-nhu-cau-thanh-toan-dip-cuoi-nam-20251223192116429.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/15/tien-101manh-quan-1-edited-1755235505618.jpg?watermark=true\" /></a>(Dân trí) - Các ngân hàng được yêu cầu đảm bảo hoạt động thanh toán an toàn, thông suốt, tăng cường phòng ngừa rủi ro, gian lận, đáp ứng tốt nhu cầu thanh toán trong thời gian tới."
+    },
+    {
+      "id": 2,
       "title": "Báo Dân trí đã đưa ESG đến với doanh nghiệp một cách bài bản và thực chất",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bao-dan-tri-da-dua-esg-den-voi-doanh-nghiep-mot-cach-bai-ban-va-thuc-chat-20251223182058758.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/23/dien-dan-esg-viet-nam-185jpg-1766488567032.jpg?watermark=true\" /></a>(Dân trí) - Diễn đàn ESG Việt Nam 2025 và Vietnam ESG Awards 2025 do báo Dân trí tổ chức được nhiều chuyên gia, doanh nghiệp đánh giá là cầu nối giúp hiểu đúng, làm thật ESG."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Vinatex báo lãi cao thứ 2 lịch sử, thận trọng trước \"sương mù\" thuế quan",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vinatex-bao-lai-cao-thu-2-lich-su-than-trong-truoc-suong-mu-thue-quan-20251223162324423.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/23/mng07074-2048x1365-edited-1766481639210.jpg\" /></a>(Dân trí) - Lãnh đạo Vinatex khẳng định chuyển đổi xanh là xu hướng dài hạn của ngành dệt may, song doanh nghiệp cần tiếp cận thận trọng, linh hoạt trước những biến động lớn của bối cảnh quốc tế."
-    },
-    {
-      "id": 3,
-      "title": "Kinh tế tư nhân là động lực then chốt đưa Thủ đô bứt phá",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/kinh-te-tu-nhan-la-dong-luc-then-chot-dua-thu-do-but-pha-20251223144948559.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/23/kinh-te-tu-nhan-la-dong-luc-then-chot-dua-thu-do-but-pha-edited-cropped-1766475606662.jpg\" /></a>(Dân trí) - Phó Thủ tướng nhấn mạnh từ nay đến 2030, cộng đồng doanh nghiệp tư nhân cần đóng vai trò tiên phong trong đổi mới mô hình tăng trưởng, tạo đòn bẩy để Thủ đô phát triển vượt trội."
     }
   ]
 }
