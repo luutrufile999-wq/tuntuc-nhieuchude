@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Điện Kremlin nói gì về nội dung đàm phán gần đây với Mỹ?",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/dien-kremlin-noi-gi-ve-noi-dung-dam-phan-gan-day-voi-my-20251224192626870.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/24/image-79-cropped-1766579097080.jpg\" /></a>(Dân trí) - Điện Kremlin ngày 24/12 cho biết vẫn giữ nguyên chính sách không tiết lộ chi tiết các cuộc đàm phán đang diễn ra với Mỹ về hòa bình Ukraine."
+    },
+    {
+      "id": 2,
       "title": "Thái Lan - Campuchia bắt đầu đàm phán ngừng bắn",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/thai-lan-campuchia-bat-dau-dam-phan-ngung-ban-20251224193345844.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/24/thai-lan-cropped-1766579542844.jpg\" /></a>(Dân trí) - Các quan chức quân sự Thái Lan và Campuchia đã bắt đầu đàm phán vào ngày 24/12 nhằm hạ nhiệt căng thẳng ở biên giới."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thủ tướng lâm thời Thái Lan chính thức tranh cử",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/thu-tuong-lam-thoi-thai-lan-chinh-thuc-tranh-cu-20251224165619763.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/24/ttthailandpng-1766569480077.png\" /></a>(Dân trí) - Thủ tướng lâm thời Thái Lan Anutin Charnvirakul đã được đảng Bhumjaithai (Tự hào Thái Lan) chọn làm ứng viên thủ tướng của đảng này trong cuộc tổng tuyển cử dự kiến diễn ra vào đầu tháng 2/2026."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine công bố kế hoạch hòa bình 20 điểm chấm dứt xung đột với Nga",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-cong-bo-ke-hoach-hoa-binh-20-diem-cham-dut-xung-dot-voi-nga-20251224175856651.htm\"><img src=\"https://icdn.dantri.com.vn/2024/09/05/zelenskyreuters-1725471106183.jpg\" /></a>(Dân trí) - Tổng thống Ukraine Volodymyr Zelensky lần đầu tiên công bố kế hoạch hòa bình 20 điểm, bao gồm các điều khoản cụ thể nhằm giải quyết cuộc xung đột với Nga."
     }
   ]
 }
