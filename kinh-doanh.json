@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Đấu giá cổ phần Nhà nước: Nơi \"ế\" chỏng chơ, nơi giá tăng gấp 10 lần",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dau-gia-co-phan-nha-nuoc-noi-e-chong-cho-noi-gia-tang-gap-10-lan-20251224093352546.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/24/2-con-tom-cropped-1766543527529.jpg\" /></a>(Dân trí) - VNPT vừa hủy bán lô cổ phiếu MSB trị giá 3.400 tỷ đồng vì vắng khách. Trái ngược cảnh đìu hiu này, cổ phần Giày Thượng Đình và Miliket lại được săn đón, thu về nguồn tiền kỷ lục."
+    },
+    {
+      "id": 2,
       "title": "Cảnh báo \"bẫy\" biến gói tập gym thành khoản vay tín dụng ngầm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/canh-bao-bay-bien-goi-tap-gym-thanh-khoan-vay-tin-dung-ngam-20251224081828258.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/17/screen-shot-2025-08-17-at-100915-am-edited-1755400840711.jpg\" /></a>(Dân trí) - Các gói tập gym “trả góp nhẹ nhàng”, “tập trước trả sau” đang được quảng bá rầm rộ, nhưng phía sau là nguy cơ người tiêu dùng vô tình ký hợp đồng vay tín dụng qua ứng dụng tài chính."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá xăng diễn biến ra sao sau 2 phiên giảm liên tiếp?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-xang-dien-bien-ra-sao-sau-2-phien-giam-lien-tiep-20251224002936382.htm\"><img src=\"https://icdn.dantri.com.vn/2024/09/05/do-xang13-edited-1725520294597.jpeg\" /></a>(Dân trí) - Nhiều doanh nghiệp dự báo giá xăng dầu trong nước sẽ giảm tiếp trong kỳ điều hành ngày 25/12, trong đó giá xăng có thể giảm 500-650 đồng/lít."
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng miếng lên sát 160 triệu đồng/lượng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-mieng-len-sat-160-trieu-dongluong-20251224001031970.htm\"><img src=\"https://icdn.dantri.com.vn/2024/07/19/mua-vang-tai-ngan-hangthanh-dong29-1-1721385392194.jpg?watermark=true\" /></a>(Dân trí) - Giá vàng được dự báo tiếp tục xu hướng tăng trong năm 2026 nhờ lãi suất toàn cầu thấp, USD suy yếu, nhu cầu trú ẩn gia tăng và lực mua từ các tổ chức song bứt phá mạnh như 2 năm trước."
     }
   ]
 }
