@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Trào lưu \"khoe nghèo\" gây làn sóng phẫn nộ ở Hàn Quốc",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trao-luu-khoe-ngheo-gay-lan-song-phan-no-o-han-quoc-20251226144723279.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/26/trao-luu-khoe-ngheo-gay-lan-song-phan-doi-o-han-quoc-1766734825816.jpg\" /></a>(Dân trí) - Một trào lưu mới trên mạng xã hội Hàn Quốc, kết hợp việc phô trương sự giàu có một cách lộ liễu với những ám chỉ mỉa mai về nghèo đói, đang vấp phải tranh cãi."
+    },
+    {
+      "id": 2,
       "title": "Nhật Bản thông qua ngân sách quốc phòng cao kỷ lục",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nhat-ban-thong-qua-ngan-sach-quoc-phong-cao-ky-luc-20251226144606780.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/26/sanae-takaichi-cropped-1766735023250.jpg\" /></a>(Dân trí) - Nội các Thủ tướng Nhật Bản hôm 26/12 đã thông qua ngân sách cao chưa từng có với khoảng 122.300 tỷ yen (785 tỷ USD) cho năm tài chính tiếp theo, trong đó chi tiêu quốc phòng đạt kỷ lục."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Trung Quốc thực hiện ca ghép tai người vào chân đầu tiên trên thế giới",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-thuc-hien-ca-ghep-tai-nguoi-vao-chan-dau-tien-tren-the-gioi-20251226143241770.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/26/trung-quoc-thuc-hien-ca-ghep-tai-nguoi-vao-chan-dau-tien-tren-the-gioi-1766734082891.jpg\" /></a>(Dân trí) - Các bác sĩ phẫu thuật Trung Quốc đã thực hiện ca phẫu thuật đặc biệt đầu tiên trên thế giới, trong đó ghép một tai bị đứt rời của bệnh nhân lên bàn chân, trước khi đưa tai trở lại vị trí ban đầu."
-    },
-    {
-      "id": 3,
-      "title": "Trung Quốc có hơn 50.000km đường sắt cao tốc",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-co-hon-50000km-duong-sat-cao-toc-20251226140601864.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/26/tau-caao-tocunsplash11zonjpg-1766732605186.jpg\" /></a>(Dân trí) - Mạng lưới đường sắt cao tốc của Trung Quốc đã vượt mốc 50.000km về tổng chiều dài khai thác với việc một tuyến mới được khai trương vào ngày 26/12."
     }
   ]
 }
