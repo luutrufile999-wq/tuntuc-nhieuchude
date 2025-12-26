@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ ồ ạt tập kích IS ở Nigeria",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-o-at-tap-kich-is-o-nigeria-20251226095740073.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/26/khong-kichafp-cropped-edited-cropped-1766718876755.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump đã ra lệnh không kích nhằm vào các tay súng Tổ chức Nhà nước Hồi giáo tự xưng (IS) ở Nigeria mà ông cáo buộc đang bức hại người theo đạo Cơ đốc tại quốc gia này."
+    },
+    {
+      "id": 2,
       "title": "Quan chức Ukraine thừa nhận thiếu ngân sách để tổ chức bầu cử",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/quan-chuc-ukraine-thua-nhan-thieu-ngan-sach-de-to-chuc-bau-cu-20251226085202066.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/26/quan-chuc-ukraine-thua-nhan-thieu-ngan-sach-de-to-chuc-bau-cu-cropped-1766713778862.jpg\" /></a>(Dân trí) - Quan chức Ukraine nói rằng nước này đang đối mặt với vấn đề tài chính liên quan tới việc tổ chức cuộc bầu cử trong thời chiến."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ukraine phóng loạt hỏa lực qua biên giới, dồn dập tập kích lãnh thổ Nga",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-phong-loat-hoa-luc-qua-bien-gioi-don-dap-tap-kich-lanh-tho-nga-20251226075025789.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/26/ukraine-cropped-1766710013908.jpg\" /></a>(Dân trí) - Ukraine dồn dập tập kích vào lãnh thổ Nga, với mục tiêu là các cơ sở dầu khí và hạ tầng, bất chấp tiến trình đàm phán đang diễn ra."
-    },
-    {
-      "id": 3,
-      "title": "Nga sẵn sàng ký văn bản cam kết không tấn công NATO",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-san-sang-ky-van-ban-cam-ket-khong-tan-cong-nato-20251226074428276.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/26/nga-san-sang-ky-van-ban-cam-ket-khong-tan-cong-nato-1766709706806.jpg\" /></a>(Dân trí) - Nga khẳng định nước này không có ý định tấn công NATO và sẵn sàng ký văn bản cho cam kết này."
     }
   ]
 }
