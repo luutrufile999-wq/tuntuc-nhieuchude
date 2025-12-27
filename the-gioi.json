@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Phát hiện mới về tên lửa “không thể đánh chặn” của Nga ở Belarus",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/phat-hien-moi-ve-ten-lua-khong-the-danh-chan-cua-nga-o-belarus-20251227092707781.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/27/phat-hien-moi-ve-trien-khai-ten-lua-khong-the-danh-chan-cua-nga-o-belarus-1766802264971.jpg\" /></a>(Dân trí) - Các nhà nghiên cứu cho rằng Nga có khả năng đang triển khai tên lửa siêu vượt âm mới tại căn cứ không quân cũ ở Belarus."
+    },
+    {
+      "id": 2,
       "title": "Mỹ: Mưa xối xả như trút nước gây lũ, dòng sông bùn ở Nam California",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-mua-xoi-xa-nhu-trut-nuoc-gay-lu-dong-song-bun-o-nam-california-20251227091104373.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/27/1jpg-1766801149422.jpg\" /></a>(Dân trí) - Mưa cường độ cao bắt đầu từ Giáng sinh đã khiến nhiều khu vực ở Nam California, Mỹ, đối mặt với lũ quét, gây thiệt hại nhiều nhà cửa."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga không kích rung chuyển Kiev",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-khong-kich-rung-chuyen-kiev-20251227085705196.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/07/ukraine-kievkyiv11zon-cropped-1765061860798.jpg\" /></a>(Dân trí) - Thủ đô Kiev của Ukraine bị không kích bằng tên lửa đạn đạo quy mô lớn của Nga trong đêm 26/12, rạng sáng 27/12 trong bối cảnh các cuộc đàm phán về kế hoạch hòa bình không có nhiều tiến triển."
-    },
-    {
-      "id": 3,
-      "title": "Người cao tuổi Thụy Điển đổ xô học đại học",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nguoi-cao-tuoi-thuy-dien-do-xo-hoc-dai-hoc-20251227092000778.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/27/thuy-dienguardian11zon-edited-1766801739793.jpg\" /></a>(Dân trí) - Những người về hưu ở Thụy Điển với “cơn khát tri thức mãnh liệt” đang tham gia các sự kiện do trường đại học tổ chức với số lượng kỷ lục."
     }
   ]
 }
