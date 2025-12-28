@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nghệ sĩ bức xúc tố BTC show \"Về đây bốn cánh chim trời\" thiếu tôn trọng",
+      "summary": "<a href=\"https://dantri.com.vn/giai-tri/nghe-si-buc-xuc-to-btc-show-ve-day-bon-canh-chim-troi-thieu-ton-trong-20251229004242899.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/29/tran-manh-tuan-cropped-1766943630929.jpg\" /></a>(Dân trí) - Các nghệ sĩ lên tiếng bức xúc khi ban tổ chức concert \"Về đây bốn cánh chim trời\" hủy show phút chót."
+    },
+    {
+      "id": 2,
       "title": "Ban tổ chức \"Về đây bốn cánh chim trời\" lên tiếng vụ hoãn show phút chót",
       "summary": "<a href=\"https://dantri.com.vn/giai-tri/ban-to-chuc-ve-day-bon-canh-chim-troi-len-tieng-vu-hoan-show-phut-chot-20251229001115476.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/29/dem-nhac-ve-day-bon-canh-chim-troi-cropped-1766942493806.jpg\" /></a>(Dân trí) - Sau khi đêm nhạc \"Về đây bốn cánh chim trời\" bất ngờ bị hoãn ngay sát giờ diễn, ban tổ chức đã chính thức lên tiếng xin lỗi khán giả, đồng thời cam kết xử lý các vấn đề liên quan đến vé."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Bắc Bộ xuất hiện sương mù, có nơi rét đậm, rét hại",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/bac-bo-xuat-hien-suong-mu-co-noi-ret-dam-ret-hai-20251228221343022.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/28/mien-bac-troi-ret-co-noi-ret-dam-ret-hai-1766934678124.jpg\" /></a>(Dân trí) - Dự báo ngày hôm nay, miền Bắc nhiệt độ duy trì ở mức thấp, trời rét, riêng vùng núi có nơi xảy ra rét đậm, rét hại."
-    },
-    {
-      "id": 3,
-      "title": "Xe tuần qua: SUV tiền tỷ ra mắt Việt Nam, Toyota là hãng xe tin cậy nhất",
-      "summary": "<a href=\"https://dantri.com.vn/o-to-xe-may/xe-tuan-qua-suv-tien-ty-ra-mat-viet-nam-toyota-la-hang-xe-tin-cay-nhat-20251228104701296.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/28/xe-tuan-qua-suv-tien-ty-ra-mat-viet-nam-toyota-van-la-hang-xe-tin-cay-nhat-anh1jpg-1766893339269.jpg\" /></a>(Dân trí) - Thị trường xe tuần qua chủ yếu vẫn là những câu chuyện giảm giá, nhưng cũng có sản phẩm mới ra mắt khách Việt. Ngoài ra, báo cáo thống kê quốc tế một lần nữa cho thấy Toyota là hãng xe tin cậy nhất."
     }
   ]
 }
