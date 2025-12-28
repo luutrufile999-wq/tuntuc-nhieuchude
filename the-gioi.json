@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Trump tuyên bố Thái Lan - Campuchia ngừng bắn",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-tuyen-bo-thai-lan-campuchia-ngung-ban-20251228223539952.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/28/tong-thong-trump-tuyen-bo-thai-lan-campuchia-ngung-ban-1766935994701.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump thông báo Thái Lan và Campuchia đã ngừng giao tranh sau các cuộc đụng độ biên giới gần đây."
+    },
+    {
+      "id": 2,
       "title": "Nga, Ukraine ngừng bắn quanh nhà máy điện hạt nhân lớn nhất châu Âu",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-ukraine-ngung-ban-quanh-nha-may-dien-hat-nhan-lon-nhat-chau-au-20251228220243191.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/28/nga-ukraine-ngung-ban-quanh-nha-may-dien-hat-nhan-lon-nhat-chau-au-1766934025916.jpg\" /></a>(Dân trí) - Ukraine và Nga đã đạt được thỏa thuận ngừng bắn cục bộ gần nhà máy điện hạt nhân Zaporizhzhia."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ukraine tăng tốc gỡ “điểm nghẽn”, tìm mọi cách chấm dứt cuộc chiến với Nga",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tang-toc-go-diem-nghen-tim-moi-cach-cham-dut-cuoc-chien-voi-nga-20251228192627464.htm\"><img src=\"https://icdn.dantri.com.vn/2025/03/02/trumpzelenskyreuters-1-crop-1740905235409.jpeg\" /></a>(Dân trí) - Tổng thống Ukraine đang tăng cường các cuộc đàm phán cấp cao để tìm kiếm giải pháp cho cuộc xung đột kéo dài gần 4 năm với Nga."
-    },
-    {
-      "id": 3,
-      "title": "Nga cảnh báo “đòn giáng” mạnh với châu Âu",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-canh-bao-don-giang-manh-voi-chau-au-20251228180432688.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/06/lavrovreutersjpg-1759704118720.jpg\" /></a>(Dân trí) - Moscow cảnh báo các quan chức châu Âu rằng bất kỳ cuộc tấn công nào vào lãnh thổ Nga sẽ vấp phải sự đáp trả mạnh mẽ."
     }
   ]
 }
