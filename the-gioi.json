@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga cáo buộc Ukraine tấn công nơi ở của Tổng thống Putin",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-cao-buoc-ukraine-tan-cong-noi-o-cua-tong-thong-putin-20251229230112719.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/17/putinreuters-cropped-1765973038253.jpg\" /></a>(Dân trí) - Nga cáo buộc Ukraine đã tìm cách tấn công dinh thự của Tổng thống Vladimir Putin tại vùng Novgorod."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Ukraine nêu khả năng trưng cầu dân ý về thỏa thuận hòa bình",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-ukraine-neu-kha-nang-trung-cau-dan-y-ve-thoa-thuan-hoa-binh-20251229213553219.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/29/zelenskygetty-cropped-1767018821758.jpg\" /></a>(Dân trí) - Tổng thống Ukraine Volodymyr Zelensky ủng hộ ý tưởng tổ chức trưng cầu dân ý về kế hoạch hòa bình, nhưng cần đi kèm điều kiện ngừng bắn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ngoại trưởng Thái Lan - Campuchia tới Trung Quốc, củng cố lệnh ngừng bắn",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ngoai-truong-thai-lan-campuchia-toi-trung-quoc-cung-co-lenh-ngung-ban-20251229205934715.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/29/ngoai-truong-thai-lan-campuchia-toi-trung-quoc-cung-co-lenh-ngung-ban-cropped-1767016684657.jpg\" /></a>(Dân trí) - Trung Quốc tuyên bố Thái Lan và Campuchia có kế hoạch xây dựng lại lòng tin và từng bước củng cố lệnh ngừng bắn sau nhiều tuần xung đột biên giới."
-    },
-    {
-      "id": 3,
-      "title": "Nga cảnh báo Ukraine mất thêm lãnh thổ, hối thúc rút quân khỏi Donbass",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-canh-bao-ukraine-mat-them-lanh-tho-hoi-thuc-rut-quan-khoi-donbass-20251229191846029.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/07/peskovtass-cropped-1762523666676.jpg\" /></a>(Dân trí) - Điện Kremlin tuyên bố Ukraine nên rút quân khỏi vùng Donbass nếu muốn đạt được thỏa thuận hòa bình."
     }
   ]
 }
