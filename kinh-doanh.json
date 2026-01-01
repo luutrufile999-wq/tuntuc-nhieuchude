@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Những trụ cột giúp kinh tế Việt Nam hiện thực hóa mục tiêu tăng trưởng",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhung-tru-cot-giup-kinh-te-viet-nam-hien-thuc-hoa-muc-tieu-tang-truong-20251230232812634.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/30/chon-3-tu-khoa-nao-cho-kinh-te-viet-nam-nam-2026-1767112028457.jpg\" /></a>(Dân trí) - Các chuyên gia đều nhìn nhận 2026 là giai đoạn bản lề, khi doanh nghiệp đứng trước yêu cầu chuyển đổi mạnh mẽ để tận dụng cơ hội từ thể chế, hạ tầng và xu hướng phát triển xanh."
+    },
+    {
+      "id": 2,
       "title": "Bước ngoặt e-CNY: Khi tiền trong ví điện tử tự \"đẻ\" ra tiền lãi",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/buoc-ngoat-e-cny-khi-tien-trong-vi-dien-tu-tu-de-ra-tien-lai-20251231114623980.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/31/22d3e41f8fbc216670a95552c9558839-cropped-1767155854090.jpg\" /></a>(Dân trí) - Từ ngày 1/1, Trung Quốc chính thức nâng cấp Nhân dân tệ số từ tiền mặt thành tiền gửi sinh lãi. Bước đi này không chỉ thách thức stablecoin mà còn biến e-CNY thành kênh trú ẩn mới cạnh tranh với vàng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "4 nhóm ngành tiềm năng cho dân \"chơi\" chứng khoán năm 2026",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/4-nhom-nganh-tiem-nang-cho-dan-choi-chung-khoan-nam-2026-20260101151705557.htm\"><img src=\"https://icdn.dantri.com.vn/2025/09/15/chuyen-gia-kha-nang-thi-truong-chung-khoan-duoc-nang-hang-dang-den-rat-gan-1757922829548.jpg\" /></a>(Dân trí) - Năm 2026, trong bối cảnh rủi ro lãi suất tăng, vốn rẻ thu hẹp…. các chuyên gia phân tích cùng “lọc” ra 4 nhóm ngành tiềm năng để nhà đầu tư có thể sinh lời trên thị trường chứng khoán."
-    },
-    {
-      "id": 3,
-      "title": "Sau vàng và bạc, đồng là “ngôi sao” tăng giá mới trên thị trường kim loại",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sau-vang-va-bac-dong-la-ngoi-sao-tang-gia-moi-tren-thi-truong-kim-loai-20260101114607293.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/01/dong-cropped-1767242692471.jpg\" /></a>(Dân trí) - Trong khi vàng là nơi trú ẩn an toàn, đồng lại đang bứt phá như một \"thước đo kinh tế\". Sự tăng giá của kim loại đỏ phản ánh kỳ vọng về đà phục hồi và mở rộng sản xuất công nghiệp toàn cầu."
     }
   ]
 }
