@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Venezuela phát tín hiệu sẵn sàng thảo luận với Mỹ",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/venezuela-phat-tin-hieu-san-sang-thao-luan-voi-my-20260102145727804.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/02/venezuela-san-sang-dam-phan-voi-my-ve-chong-ma-tuy-va-dau-mo-cropped-1767340408854.jpg\" /></a>(Dân trí) - Nhà lãnh đạo Venezuela tuyên bố sẵn sàng thảo luận với phía Mỹ về chống buôn bán ma túy, trong bối cảnh căng thẳng giữa 2 nước nóng lên trong thời gian qua."
+    },
+    {
+      "id": 2,
       "title": "Trung Quốc áp thuế thuốc tránh thai, bao cao su để cải thiện tỷ lệ sinh",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-ap-thue-thuoc-tranh-thai-bao-cao-su-de-cai-thien-ty-le-sinh-20260102144521472.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/02/trung-quocafp11zonjpg-1767339736127.jpg\" /></a>(Dân trí) - Trung Quốc đã bãi bỏ chính sách miễn thuế tồn tại suốt 3 thập niên đối với các loại thuốc và thiết bị tránh thai kể từ ngày 1/1, trong những bước đi mới nhằm thúc đẩy tỷ lệ sinh đang suy giảm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chủ tịch Triều Tiên lần đầu đưa con gái tới cung điện thiêng liêng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chu-tich-trieu-tien-lan-dau-dua-con-gai-toi-cung-dien-thieng-lieng-20260102141656607.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/02/chu-tich-trieu-tien-lan-dau-dua-con-gai-toi-cung-dien-thieng-lieng-1767337934913.jpg\" /></a>(Dân trí) - Con gái của Chủ tịch Triều Tiên Kim Jong-un, Kim Ju-ae, đã lần đầu tiên xuất hiện công khai tại Điện Mặt trời Kumsusan, nơi quốc gia Đông Á tưởng niệm các lãnh đạo tiền nhiệm."
-    },
-    {
-      "id": 3,
-      "title": "Nga thay đổi chiến thuật tiến công ở điểm nóng Pokrovsk",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-thay-doi-chien-thuat-tien-cong-o-diem-nong-pokrovsk-20260102140703156.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/12/pok11zonjpg-1762902195847.jpg\" /></a>(Dân trí) - Lực lượng Nga tiếp tục các hoạt động tiến công mạnh mẽ trên hướng Pokrovsk ở tỉnh Donetsk, miền Đông Ukraine và đang tìm cách áp sát thành phố."
     }
   ]
 }
