@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "BYD soán ngôi Tesla, thành hãng xe điện lớn nhất thế giới?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/byd-soan-ngoi-tesla-thanh-hang-xe-dien-lon-nhat-the-gioi-20260104014003643.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/04/tesla-mat-chinh-thuc-ngoi-vuong-xe-dien-vao-tay-doi-thu-byd-cropped-1767465291029.jpg\" /></a>(Dân trí) - BYD lần đầu vượt qua Tesla để vươn lên vị trí nhà sản xuất xe điện lớn nhất thế giới, với doanh số gần 2,3 triệu xe trong năm 2025."
+    },
+    {
+      "id": 2,
       "title": "Cổ phiếu dầu khí hưng phấn, GAS tăng trần",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/co-phieu-dau-khi-hung-phan-gas-tang-tran-20260105153040159.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/05/screenshot-2026-01-05-152654-edited-1767601660051.jpg\" /></a>(Dân trí) - Cổ phiếu GAS tăng trần lên 77.400 đồng/đơn vị. Nhiều mã khác trong ngành dầu khí như OIL, PVS, PLX, PVB, PVC, PVD cũng tăng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "4 điểm nhấn ngành ngân hàng: Xóa độc quyền vàng; xử lý ngân hàng 0 đồng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/4-diem-nhan-nganh-ngan-hang-xoa-doc-quyen-vang-xu-ly-ngan-hang-0-dong-20260103105130580.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/11/giao-dich-ngan-hang-25tien-tuanjpg-1765421198253.jpg\" /></a>(Dân trí) - Những quy định mới không chỉ giúp hệ thống ngân hàng có được hành lang pháp lý xử lý nợ xấu, nâng chuẩn an toàn vốn... mà còn cho phép các đơn vị đủ tiêu chuẩn tham gia vào thị trường vàng."
-    },
-    {
-      "id": 3,
-      "title": "Mít tươi xuất khẩu sang Trung Quốc từ tháng 6 phải đáp ứng yêu cầu gì?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mit-tuoi-xuat-khau-sang-trung-quoc-tu-thang-6-phai-dap-ung-yeu-cau-gi-20260105142642630.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/05/mit-tuoi-xuat-khau-sang-trung-quoc-tu-16-phai-dap-ung-yeu-cau-gi-1767597814187.jpg\" /></a>(Dân trí) - Từ 1/6, Trung Quốc áp dụng quy định kiểm dịch với mít tươi Việt Nam, yêu cầu vùng trồng, cơ sở đóng gói được phê duyệt, áp dụng GAP, IPM và kiểm soát chặt sinh vật gây hại."
     }
   ]
 }
