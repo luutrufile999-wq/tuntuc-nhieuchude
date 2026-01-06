@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Đề xuất có sàn chứng khoán riêng cho các công ty khởi nghiệp còn thua lỗ",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/de-xuat-co-san-chung-khoan-rieng-cho-cac-cong-ty-khoi-nghiep-con-thua-lo-20260106102906550.htm\"><img src=\"https://icdn.dantri.com.vn/2021/12/18/img7483-1639792519351.jpeg\" /></a>(Dân trí) - Đại diện Ủy ban Chứng khoán Nhà nước cũng cho biết Chính phủ đã giao Bộ Tài chính xây dựng một nghị định riêng, hướng dẫn giao dịch với các doanh nghiệp khởi nghiệp sáng tạo."
+    },
+    {
+      "id": 2,
       "title": "Giá vàng miếng SJC tăng 4,3 triệu đồng/lượng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-mieng-sjc-tang-43-trieu-dongluong-20260106074156376.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/29/phat-nang-nguoi-mang-vang-sang-bien-gioi-trai-phap-1767013385166.jpg\" /></a>(Dân trí) - Giá vàng trong nước đang bật tăng mạnh theo xu hướng chung trên thế giới, sau sự kiện tại Venezuela ngay đầu năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nghịch lý dầu mỏ và những con số thú vị: Kẻ giữ kho vàng không phải là vua",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nghich-ly-dau-mo-va-nhung-con-so-thu-vi-ke-giu-kho-vang-khong-phai-la-vua-20260105213454717.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/05/oil-barrels-on-black-background-with-golden-world-map-cropped-1767622535108.jpg\" /></a>(Dân trí) - Bức tranh năng lượng hé lộ một nghịch lý thú vị, đó là kẻ nắm giữ kho dự trữ khổng lồ lại đang lép vế hoàn toàn trước những \"gã khổng lồ\" về công nghệ và tốc độ."
-    },
-    {
-      "id": 3,
-      "title": "Đối diện nguy cơ lớn, \"ông lớn\" dầu khí, khoáng sản khẩn trương tìm cách",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/doi-dien-nguy-co-lon-ong-lon-dau-khi-khoang-san-khan-truong-tim-cach-20260105181512950.htm\"><img src=\"https://icdn.dantri.com.vn/2024/01/09/pvn-1704807544853.jpeg\" /></a>(Dân trí) - Câu chuyện \"nóng\" đang diễn ra trên thị trường chứng khoán đầu năm nay khiến nhiều \"ông lớn\" dầu khí, khoáng sản từ PV GAS, PV GAS D đến Vimico đang tìm hướng xử lý."
     }
   ]
 }
