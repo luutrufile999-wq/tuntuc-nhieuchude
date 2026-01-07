@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Gen Z chê làm sếp, chọn tối giản để hạnh phúc và giàu có hơn",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gen-z-che-lam-sep-chon-toi-gian-de-hanh-phuc-va-giau-co-hon-20260107160851125.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/07/20240420fnd001-cropped-1767775369910.jpg\" /></a>(Dân trí) - 68% gen Z từ chối làm sếp để chọn \"tối giản sự nghiệp\", đó không phải là sự buông xuôi, mà là chiến lược sinh tồn sắc sảo để giàu và an toàn hơn."
+    },
+    {
+      "id": 2,
       "title": "Mua lá chuối không hóa đơn, hộ kinh doanh cần làm gì khi kê khai thuế?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mua-la-chuoi-khong-hoa-don-ho-kinh-doanh-can-lam-gi-khi-ke-khai-thue-20260106133353050.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/06/goi-banh-2-1725973577255525529193jpg-1767681094690.jpg\" /></a>(Dân trí) - Chuyển sang kê khai, nộp thuế điện tử là yêu cầu bắt buộc khi xóa bỏ thuế khoán, song nhiều hộ kinh doanh nhỏ ở Đà Nẵng vẫn lúng túng với hóa đơn đầu vào."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chứng khoán lập đỉnh mới, cổ phiếu dầu khí chiếm sóng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chung-khoan-lap-dinh-moi-co-phieu-dau-khi-chiem-song-20260107154516975.htm\"><img src=\"https://icdn.dantri.com.vn/2025/04/24/huukhoa-3-of-9-1745480588565.jpg\" /></a>(Dân trí) - Sắc xanh lan tỏa khắp thị trường, cổ phiếu dầu khí và ngân hàng được giao dịch tích cực. Giá trị giao dịch sàn HoSE cũng được cải thiện đáng kể."
-    },
-    {
-      "id": 3,
-      "title": "Nestlé thu hồi sữa bột nghi có độc tố: Những lùm xùm về chất lượng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nestle-thu-hoi-sua-bot-nghi-co-doc-to-nhung-lum-xum-ve-chat-luong-20260107143758920.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/07/anh-thumb-nestle-1-cropped-1767772222484.jpg\" /></a>(Dân trí) - Nestlé Việt Nam phải rà soát sữa Beba, Alfamino sau thông tin thu hồi sản phẩm tại Đức. Doanh nghiệp này từng bị xử phạt vì quảng cáo sai lệch ở Việt Nam và bị thu hồi sản phẩm ở nhiều thị trường."
     }
   ]
 }
