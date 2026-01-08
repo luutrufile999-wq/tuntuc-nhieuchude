@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "Trung Quốc lên tiếng sau vụ Campuchia bắt ông trùm Chen Zhi",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-len-tieng-sau-vu-campuchia-bat-ong-trum-chen-zhi-20260108154455503.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/12/tap-doan-prince-lan-dau-len-tieng-bac-cao-buoc-nham-vao-ong-trum-chen-zhi-1762930195621.jpg\" /></a>(Dân trí) - Trung Quốc sẽ công bố thêm thông tin chi tiết về vụ dẫn độ các công dân nước này từ Campuchia."
+    },
+    {
+      "id": 2,
+      "title": "Rủi ro có thể thành thảm kịch trong cuộc đột kích của Mỹ vào Venezuela",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/rui-ro-co-the-thanh-tham-kich-trong-cuoc-dot-kich-cua-my-vao-venezuela-20260108145706790.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/08/quandoimyjpg-1767858580029.jpg\" /></a>(Dân trí) - Khi trực thăng Mỹ bị trúng đạn phải chật vật giữ độ cao trên bầu trời thủ đô của Venezuela, sự thành bại của toàn bộ chiến dịch quân sự trở nên mong manh hơn bao giờ hết."
+    },
+    {
+      "id": 3,
+      "title": "Tổng thống Ukraine dự đoán thời điểm xung đột chấm dứt",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-ukraine-du-doan-thoi-diem-xung-dot-cham-dut-20260108150439740.htm\"><img src=\"https://icdn.dantri.com.vn/2025/02/18/zelenskyreuters12311zon-1739859997201.jpg\" /></a>(Dân trí) - Tổng thống Ukraine Volodymyr Zelensky hy vọng cuộc xung đột với Nga có thể kết thúc trong thời gian Cộng hòa Síp giữ chức Chủ tịch Hội đồng Liên minh châu Âu trong nhiệm kỳ kéo dài đến hết tháng 6."
     }
   ]
 }
