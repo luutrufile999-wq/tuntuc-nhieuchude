@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Doanh nghiệp Nhà nước được lập quỹ đầu tư mạo hiểm, chia cổ phiếu thưởng",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/doanh-nghiep-nha-nuoc-duoc-lap-quy-dau-tu-mao-hiem-chia-co-phieu-thuong-20260108170025384.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/08/nghi-quyet-79-kinh-te-nha-nuoc-la-thanh-phan-quan-trong-cua-nen-kinh-te-cropped-1767866311656.jpg\" /></a>(Dân trí) - Nghị quyết mới khuyến khích doanh nghiệp Nhà nước lập quỹ đầu tư mạo hiểm để làm chủ công nghệ. Đặc biệt, cho phép hình thành quỹ cổ phiếu thưởng để thu hút và giữ chân nhân sự chất lượng cao."
+    },
+    {
+      "id": 2,
       "title": "Thêm Bách Hóa Xanh, Lotte Mart ngưng bán sản phẩm Đồ hộp Hạ Long",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/them-bach-hoa-xanh-lotte-mart-ngung-ban-san-pham-do-hop-ha-long-20260108150700806.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/08/vu-120-tan-lon-benh-duoc-phu-phep-cong-ty-do-hop-ha-long-len-tieng-cropped-1767851916058.jpg\" /></a>(Dân trí) - Bách Hóa Xanh và Lotte Mart là các đơn vị bán lẻ lớn mới nhất gỡ bỏ toàn bộ sản phẩm Đồ hộp Hạ Long khỏi kệ hàng để đảm bảo an toàn thực phẩm, đồng thời yêu cầu nhà cung cấp giải trình chi tiết."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chứng khoán giảm 6 điểm về cuối phiên, cổ phiếu Vietcombank tăng trần",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chung-khoan-giam-6-diem-ve-cuoi-phien-co-phieu-vietcombank-tang-tran-20260108163052656.htm\"><img src=\"https://icdn.dantri.com.vn/2025/05/06/huukhoa-6-of-9-1-1746500380394.jpg\" /></a>(Dân trí) - Thanh khoản thị trường chứng khoán được cải thiện rõ rệt, giá trị giao dịch trên HoSE chạm mốc 40.100 tỷ đồng."
-    },
-    {
-      "id": 3,
-      "title": "Nhiều \"ông lớn\" ngân hàng báo lãi hàng chục nghìn tỷ đồng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhieu-ong-lon-ngan-hang-bao-lai-hang-chuc-nghin-ty-dong-20260108104026033.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/26/giao-dich-ngan-hang-10tien-tuanjpg-1761486758037.jpg\" /></a>(Dân trí) - Dù chưa có báo cáo chính thức, kết quả kinh doanh năm 2025 của các ngân hàng đã dần lộ diện với những con số kỷ lục. Trong đó BIDV, MB ghi nhận lãi tăng trưởng mạnh."
     }
   ]
 }
