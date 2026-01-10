@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Kinh tế Mỹ 2025: Việc làm giảm sâu dưới bóng ma \"hiệu quả\" và AI",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/kinh-te-my-2025-viec-lam-giam-sau-duoi-bong-ma-hieu-qua-va-ai-20260110135858055.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/10/1766760763798-cropped-1768027651403.jpg\" /></a>(Dân trí) - Không chỉ là chu kỳ kinh tế, thị trường việc làm Mỹ đang bị tái cấu trúc bởi \"cuộc đại san phẳng\" của các tài phiệt công nghệ. Khi AI làm thay việc văn phòng, tấm bằng đại học dần mất đi giá trị."
+    },
+    {
+      "id": 2,
       "title": "Lãi suất liên ngân hàng giảm mạnh, hệ thống bớt \"căng\" thanh khoản",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lai-suat-lien-ngan-hang-giam-manh-he-thong-bot-cang-thanh-khoan-20260110191038601.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/29/giao-dich-ngan-hang-19tien-tuanjpg-1767008293661.jpg\" /></a>(Dân trí) - Lãi suất qua đêm hạ nhiệt từ 8,7% xuống còn 3,6% chỉ sau một tuần, phản ánh trạng thái nguồn vốn tại các nhà băng đã cải thiện đáng kể sau cao điểm cuối năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng giám đốc Đồ hộp Hạ Long bị bắt, ai đang là đối tác kinh doanh?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tong-giam-doc-do-hop-ha-long-bi-bat-ai-dang-la-doi-tac-kinh-doanh-20260110181929674.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/09/truoc-vu-130-tan-thit-lon-benh-do-hop-ha-long-dang-lam-an-the-nao-cropped-1767952720549.jpg\" /></a>(Dân trí) - Với 68 năm thâm niên trên thị trường, Đồ hộp Hạ Long đang là nhà cung cấp nguyên vật liệu thực phẩm từ thịt, cá đến vải, sen, đào... đóng hộp cho nhiều thương hiệu lớn."
-    },
-    {
-      "id": 3,
-      "title": "Hé lộ quy trình sản xuất thịt hộp, xúc xích của Công ty Đồ hộp Hạ Long",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/he-lo-quy-trinh-san-xuat-thit-hop-xuc-xich-cua-cong-ty-do-hop-ha-long-20260108175941961.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/08/vu-130-tan-lon-benh-he-lo-quy-trinh-san-xuat-cua-cong-ty-do-hop-ha-long-edited-1767869880504.jpg\" /></a>(Dân trí) - Sau lệnh bắt khẩn cấp Tổng giám đốc Halong Canfoco liên quan vụ 130 tấn thịt lợn bệnh, quy trình sản xuất của nhà máy quy mô 4.440 tấn/năm này đang nhận được sự quan tâm đặc biệt."
     }
   ]
 }
