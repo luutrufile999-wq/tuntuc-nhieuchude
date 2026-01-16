@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tập đoàn bán dẫn hàng đầu thế giới muốn mở rộng tại Việt Nam",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tap-doan-ban-dan-hang-dau-the-gioi-muon-mo-rong-tai-viet-nam-20260116113018827.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/16/tap-doan-ban-dan-hang-dau-the-gioi-muon-mo-rong-tai-viet-nam-1768536805179.jpg\" /></a>(Dân trí) - ASML - tập đoàn bán dẫn hàng đầu thế giới - muốn mở rộng chuỗi cung ứng và sẵn sàng trở thành một phần của ngành công nghiệp bán dẫn Việt Nam."
+    },
+    {
+      "id": 2,
       "title": "Khởi công nhà máy chế tạo chip đầu tiên của Việt Nam",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khoi-cong-nha-may-che-tao-chip-dau-tien-cua-viet-nam-20260116110532903.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/16/khoi-cong-nha-may-che-tao-chip-dau-tien-cua-viet-nam-1768536203386.jpg\" /></a>(Dân trí) - Viettel vừa khởi công xây dựng nhà máy chip đầu tiên tại khu công nghệ cao Hòa Lạc, định hướng trở thành hạ tầng quốc gia phục vụ nghiên cứu, thiết kế, thử nghiệm và sản xuất chip bán dẫn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Đấu giá 40 iPhone 14 Pro Max, giá từ 6,1 triệu đồng/chiếc",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dau-gia-40-iphone-14-pro-max-gia-tu-61-trieu-dongchiec-20260116013047295.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/16/bang-gia-iphone14-promax-giam-manh-1-212346-cropped-1768501730843.jpg\" /></a>(Dân trí) - Một lô tài sản gồm 40 chiếc iPhone 14 ProMax sẽ được tổ chức bán đấu giá vào ngày 21/1 tại Bắc Ninh, với giá khởi điểm 244 triệu đồng, tương đương bình quân khoảng 6,1 triệu đồng/chiếc."
-    },
-    {
-      "id": 3,
-      "title": "Từ gia công đến làm chủ công nghệ: Kỳ vọng mô hình tăng trưởng mới",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tu-gia-cong-den-lam-chu-cong-nghe-ky-vong-mo-hinh-tang-truong-moi-20260114013318871.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/14/tu-gia-cong-den-lam-chu-cong-nghe-ky-vong-mo-hinh-tang-truong-moi-cropped-1768329102239.jpg\" /></a>(Dân trí) - Theo chuyên gia, mô hình tăng trưởng mới cần lấy làm chủ công nghệ, nâng cao giá trị gia tăng làm đích đến, trên nền tảng sản xuất và gia công hiện có."
     }
   ]
 }
