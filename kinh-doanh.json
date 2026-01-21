@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Vé máy bay Tết quá cao, cả nhà tốn 40 triệu, ngậm ngùi lỡ hẹn đoàn viên",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ve-may-bay-tet-qua-cao-ca-nha-ton-40-trieu-ngam-ngui-lo-hen-doan-vien-20260120225003615.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/20/choang-tien-ve-may-bay-tet-gan-40-trieu-dong-nhieu-gia-dinh-khong-ve-que-cropped-1768923735813.jpg\" /></a>(Dân trí) - Dù đã chủ động mua vé Tết Nguyên đán trước cả tháng, nhiều hành khách vẫn không khỏi \"choáng\" trước mặt bằng giá tăng mạnh. Chặng TPHCM - Hà Nội, vé khứ hồi phổ thông đã tiệm cận mức 8 triệu đồng."
+    },
+    {
+      "id": 2,
       "title": "Từ doanh thu nghìn tỷ, \"đại gia\" dệt may giờ sống nhờ sân pickleball",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tu-doanh-thu-nghin-ty-dai-gia-det-may-gio-song-nho-san-pickleball-20260121084055820.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/08/nguoi-viet-chi-hon-510-ty-dong-mua-do-pickleball-trong-nua-nam-1754627290058.jpg\" /></a>(Dân trí) - Từng thu nghìn tỷ mỗi năm, Garmex Sài Gòn hiện chỉ ghi nhận doanh thu 1,8 tỷ đồng năm 2025 và lỗ ròng 24 tỷ. Nguồn thu chính hiện nay đến từ việc cho thuê đất làm sân Pickleball."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Lãi suất tăng liên tục, ngân hàng nào đang trả lãi cao nhất thị trường?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lai-suat-tang-lien-tuc-ngan-hang-nao-dang-tra-lai-cao-nhat-thi-truong-20260121013203076.htm\"><img src=\"https://icdn.dantri.com.vn/2023/04/20/vpbank-giao-dich29-edited-1681965295546.jpeg\" /></a>(Dân trí) - Mặt bằng lãi suất cho thấy sự phân hóa mạnh giữa nhóm ngân hàng quốc doanh và khối ngân hàng tư nhân, đặc biệt ở các kỳ hạn từ 6 tháng trở lên."
-    },
-    {
-      "id": 3,
-      "title": "Dự báo giá xăng dầu ngày mai 22/1: Xăng giảm nhẹ, dầu tăng trở lại",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-gia-xang-dau-ngay-mai-221-xang-giam-nhe-dau-tang-tro-lai-20260121001510275.htm\"><img src=\"https://icdn.dantri.com.vn/2024/10/09/nguoi-dan-do-xang12-edited-1728409081066.jpeg\" /></a>(Dân trí) - Do giá xăng thành phẩm tại Singapore hạ nhiệt, giá xăng trong nước kỳ điều hành 22/1 được dự báo giảm 100-150 đồng/lít, trái ngược với đà tăng của giá dầu diesel."
     }
   ]
 }
