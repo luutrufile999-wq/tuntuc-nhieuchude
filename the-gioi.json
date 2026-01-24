@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ tịch thu dầu từ các tàu bị bắt liên quan đến Venezuela",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-tich-thu-dau-tu-cac-tau-bi-bat-lien-quan-den-venezuela-20260124215615031.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/07/tau-bellareuters11zon-cropped-1767758511097.jpg\" /></a>(Dân trí) - Mỹ đã lấy số dầu có trên các tàu chở dầu liên quan đến Venezuela bị thu giữ và sẽ đưa đi chế biến tại các nhà máy lọc dầu ở Mỹ."
+    },
+    {
+      "id": 2,
       "title": "Phi đội của Nga phá vỡ chiến thuật NATO ở Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/phi-doi-cua-nga-pha-vo-chien-thuat-nato-o-ukraine-20260124203919493.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/24/su35shutterstock11zon-cropped-1769261855501.jpg\" /></a>(Dân trí) - Các máy bay chiến đấu của Nga, đặc biệt là Su-35, dường như khiến các chiến thuật tác chiến của phương Tây không có nhiều tác dụng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Hé lộ kết quả sơ bộ vòng đàm phán 3 bên đầu tiên về Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/he-lo-ket-qua-so-bo-vong-dam-phan-3-ben-dau-tien-ve-ukraine-20260124182230917.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/24/dam-phanafp11zonjpg-1769253624645.jpg\" /></a>(Dân trí) - Vấn đề lãnh thổ vẫn là chủ đề phức tạp nhất trong cuộc đàm phán 3 bên giữa Nga, Mỹ và Ukraine tại Abu Dhabi."
-    },
-    {
-      "id": 3,
-      "title": "Trung Quốc mở cuộc điều tra 2 tướng cấp cao",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-mo-cuoc-dieu-tra-2-tuong-cap-cao-20260124162549698.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/24/trung-quoc-mo-cuoc-dieu-tra-2-tuong-cap-cao-1769246187581.jpg\" /></a>(Dân trí) - Trung Quốc thông báo mở cuộc điều tra nhằm vào 2 tướng nắm vị trí cấp cao trong quân đội nước này."
     }
   ]
 }
