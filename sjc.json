@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Lỗi",
-      "summary": "Lỗi khi cào dữ liệu: 'NoneType' object has no attribute 'find'"
+      "summary": "Lỗi khi cào dữ liệu: 502 Server Error: Bad Gateway for url: https://sjc.com.vn/"
     }
   ]
 }
