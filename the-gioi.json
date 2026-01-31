@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Vũ khí miễn nhiễm với tác chiến điện tử \"làm mưa, làm gió\" ở Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/vu-khi-mien-nhiem-voi-tac-chien-dien-tu-lam-mua-lam-gio-o-ukraine-20260131121317561.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/31/vu-khi-mien-nhiem-voi-tac-chien-dien-tu-lam-mua-lam-gio-o-ukraine-cropped-1769836183234.jpg\" /></a>(Dân trí) - Chiến sự Nga - Ukraine đã cho thấy sự thay đổi không ngừng có chiến trường với những thay đổi liên tục về công nghệ."
+    },
+    {
+      "id": 2,
       "title": "Chiến sự Ukraine 31/1: Nga bất ngờ tấn công sườn bắc, đe dọa Konstantinovka",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-311-nga-bat-ngo-tan-cong-suon-bac-de-doa-konstantinovka-20260131113945998.htm\"><img src=\"https://icdn.dantri.com.vn/2024/05/14/chien-su-nga-ukraine-anhminhhoaskynews100-crop-1715653824870.jpeg\" /></a>(Dân trí) - Quân đội Nga đã bất ngờ tấn công phía bắc Konstantinovka. Cú thọc sâu mạnh mẽ này tạo ra mối đe dọa nghiêm trọng đối với các đơn vị Ukraine đồn trú tại thành phố."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Putin gặp quan chức an ninh cấp cao Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-putin-gap-quan-chuc-an-ninh-cap-cao-iran-20260131104845063.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/31/iran-cropped-1769831120220.jpg\" /></a>(Dân trí) - Tổng thống Nga Vladimir Putin đã có cuộc gặp với quan chức an ninh cấp cao của Iran trong bối cảnh căng thẳng leo thang với Mỹ."
-    },
-    {
-      "id": 3,
-      "title": "Chính phủ Mỹ lại đóng cửa một phần",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chinh-phu-my-lai-dong-cua-mot-phan-20260131110628069.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/31/djpg-1769832211541.jpg\" /></a>(Dân trí) - Thượng viện Mỹ đã thông qua dự luật về ngân sách liên bang nhưng Hạ viện đang nghỉ nên chính phủ Mỹ dự kiến sẽ đóng cửa một phần trong ít nhất vài ngày tới."
     }
   ]
 }
