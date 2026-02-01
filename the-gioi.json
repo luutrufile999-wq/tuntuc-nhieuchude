@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Lãnh tụ tối cao Iran cảnh báo Mỹ về chiến tranh khu vực",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/lanh-tu-toi-cao-iran-canh-bao-my-ve-chien-tranh-khu-vuc-20260201181224836.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/01/lanh-tu-toi-cao-iran-canh-bao-my-ve-nguy-co-chien-tranh-khu-vuc-1769944237739.jpg\" /></a>(Dân trí) - Lãnh tụ tối cao Iran cảnh báo bất kỳ cuộc tấn công nào của Mỹ vào Tehran sẽ châm ngòi cho một cuộc chiến tranh khu vực."
+    },
+    {
+      "id": 2,
       "title": "NASA tổng duyệt chuyến đi đầu tiên đưa người lên Mặt trăng sau hơn 50 năm",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nasa-tong-duyet-chuyen-di-dau-tien-dua-nguoi-len-mat-trang-sau-hon-50-nam-20260201150809374.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/01/nasajpg-1769932944835.jpg\" /></a>(Dân trí) - NASA đã bắt đầu cuộc tổng duyệt đếm ngược kéo dài hai ngày vào hôm 1/2 để chuẩn bị cho sứ mệnh bay lên Mặt trăng có phi hành gia đầu tiên sau 53 năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ nói đàm phán hòa bình mang tính xây dựng, Ukraine nỗ lực đạt kết quả",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-noi-dam-phan-hoa-binh-mang-tinh-xay-dung-ukraine-no-luc-dat-ket-qua-20260201142447946.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/01/image-2026-02-01t141051-cropped-1769930568593.jpg\" /></a>(Dân trí) - Đặc phái viên của Tổng thống Trump, ông Steve Witkoff, bày tỏ lạc quan rằng Nga đang nỗ lực hướng tới thiết lập hòa bình giữa lúc nhà lãnh đạo Ukraine sẵn sàng cho các cuộc gặp gỡ vào tuần tới."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Trump nói về thỏa thuận với Cuba sau lệnh phong tỏa",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-noi-ve-thoa-thuan-voi-cuba-sau-lenh-phong-toa-20260201122458593.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/01/trumpafpjpg-1769923356709.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump tin rằng Mỹ sẽ đạt được thỏa thuận sau lệnh phong tỏa dầu mỏ khiến căng thẳng với Cuba leo thang."
     }
   ]
 }
