@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Sau bạc, đến lượt giá đồng đạt đỉnh",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sau-bac-den-luot-gia-dong-dat-dinh-20260201110735487.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/01/dong-thoi-cropped-1769918783789.jpg\" /></a>(Dân trí) - Đà tăng này đến từ làn sóng nhà đầu tư ồ ạt rót vốn vào thị trường kim loại, trong bối cảnh lo ngại về nguồn cung thắt chặt và sự suy yếu của đồng USD."
+    },
+    {
+      "id": 2,
       "title": "Vì sao Warren Buffett thích bạc hơn vàng?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vi-sao-warren-buffett-thich-bac-hon-vang-20260201000219252.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/31/ai-depiction-of-warren-buffett-standing-near-a-wharehouse-full-of-silver-cropped-1769878300265.jpg\" /></a>(Dân trí) - Giữa lúc giá vàng lao dốc những ngày gần đây, triết lý Warren Buffett lại nóng: Vàng chỉ là \"nỗi sợ\", còn bạc mới là kim loại \"hái ra tiền\" nhờ giá trị thực tế không thể thay thế."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Loạt công ty của các đại gia có lãi trở lại",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/loat-cong-ty-cua-cac-dai-gia-co-lai-tro-lai-20260130103351199.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/11/giao-dich-ngan-hang-25tien-tuanjpg-1765421198253.jpg\" /></a>(Dân trí) - Tuy đối mặt với nhiều thử thách song 2025 cũng là năm nhiều doanh nghiệp trên sàn ghi dấu sự “hồi sinh” trở lại, chủ yếu nhờ kế hoạch tái cấu trúc và tiết giảm chi phí hoạt động hiệu quả."
-    },
-    {
-      "id": 3,
-      "title": "\"Bảng lương\" lãnh đạo đáng chú ý tại công ty Anh trai vượt ngàn chông gai",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bang-luong-lanh-dao-dang-chu-y-tai-cong-ty-anh-trai-vuot-ngan-chong-gai-20260201103732317.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/01/van-hanh-yeah1-cropped-1769916981620.jpg\" /></a>(Dân trí) - Trong khi các thành viên Hội đồng quản trị gồm cả chủ tịch không nhận thù lao, toàn bộ khoản chi đều dồn cho Ban Tổng giám đốc. Riêng CEO Ngô Thị Vân Hạnh nhận hơn 3,4 tỷ đồng trong năm 2025."
     }
   ]
 }
