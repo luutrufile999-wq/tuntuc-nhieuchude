@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Vũ khí đặc biệt giúp Ukraine đối phó UAV của Nga",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/vu-khi-dac-biet-giup-ukraine-doi-pho-uav-cua-nga-20260202134333171.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/02/ukraineafp111zonjpg-1770014396400.jpg\" /></a>(Dân trí) - Những tấm lưới từng được dùng để bảo vệ hoa tulip ở Hà Lan đang có một vòng đời mới: bảo vệ Ukraine khỏi máy bay không người lái (UAV) của Nga."
+    },
+    {
+      "id": 2,
       "title": "Chiến sự Ukraine 2/2: Nga lật ngược thế cờ ở Kupyansk",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-22-nga-lat-nguoc-the-co-o-kupyansk-20260202114937447.htm\"><img src=\"https://icdn.dantri.com.vn/2024/03/20/chien-su-nga-ukraine-anhminhhoaskynews076-crop-1710921956818.jpeg\" /></a>(Dân trí) - Theo hướng Kupyansk, quân đội Nga giành lại thế chủ động và thực hiện thêm các đòn đột kích thọc sâu, giành được nhiều vị trí. Đà phản công của Ukraine đã chững lại đáng kể."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "“Bữa tối khẩn cấp” của châu Âu sau hành động khó đoán của Tổng thống Trump",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/bua-toi-khan-cap-cua-chau-au-sau-hanh-dong-kho-doan-cua-tong-thong-trump-20260202114712149.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/02/lanhdaochauauafp-edited-1770007405987.jpg\" /></a>(Dân trí) - Các nhà lãnh đạo châu Âu đã nhanh chóng họp bàn để tìm cách ứng phó với hàng loạt chính sách khó đoán của Tổng thống Mỹ Donald Trump."
-    },
-    {
-      "id": 3,
-      "title": "Chủ tịch Trung Quốc muốn biến nhân dân tệ thành tiền dự trữ toàn cầu chính",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chu-tich-trung-quoc-muon-bien-nhan-dan-te-thanh-tien-du-tru-toan-cau-chinh-20260202111940009.htm\"><img src=\"https://icdn.dantri.com.vn/2023/05/31/tap-can-binhafp-edited-crop-1685540755437.jpeg\" /></a>(Dân trí) - Chủ tịch Trung Quốc Tập Cận Bình kêu gọi đưa đồng nhân dân tệ thành một trong những đồng tiền dự trữ chính của thế giới, nhằm củng cố vai trò của Bắc Kinh trong hệ thống tài chính toàn cầu."
     }
   ]
 }
