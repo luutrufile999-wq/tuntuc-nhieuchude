@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bitcoin thủng mốc 67.000 USD, nhà đầu tư \"sợ hãi cực độ\"",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bitcoin-thung-moc-67000-usd-nha-dau-tu-so-hai-cuc-do-20260205205826614.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/17/bitcoin-hit-by-lightning-crypto-cropped-1765978071937.jpg\" /></a>(Dân trí) - Bitcoin vừa lao dốc xuống dưới 70.000 USD, mất hơn 45% so với đỉnh tháng 10/2025."
+    },
+    {
+      "id": 2,
       "title": "Tài khoản mở mới tăng gấp đôi, chứng khoán Việt nâng cấp \"luật chơi\"",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tai-khoan-mo-moi-tang-gap-doi-chung-khoan-viet-nang-cap-luat-choi-20260204084334644.htm\"><img src=\"https://icdn.dantri.com.vn/2023/09/17/ttck-3-crop-1628783385277-1694961724688.jpeg\" /></a>(Dân trí) - Số liệu từ VSDC cho thấy nhà đầu tư cá nhân tiếp tục là động lực chính, giúp thị trường đón thêm gần 245.000 tài khoản mới, nâng tổng quy mô lên 12,1 triệu, bất chấp áp lực chốt lời gia tăng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Sở hữu 850 tỷ USD, Elon Musk thừa nhận \"tiền không mua được hạnh phúc\"",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/so-huu-850-ty-usd-elon-musk-thua-nhan-tien-khong-mua-duoc-hanh-phuc-20260206162558807.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/06/elon-musk-sad-1240x698-sp-cropped-1770369557954.jpg\" /></a>(Dân trí) - Sở hữu khối tài sản kỷ lục hơn 850 tỷ USD, Elon Musk lại vừa gây bão khi thừa nhận tiền bạc không mang lại niềm vui. Nghịch lý này của người giàu nhất hành tinh đang khiến giới tài chính xôn xao."
-    },
-    {
-      "id": 3,
-      "title": "Đòi hỏi doanh nghiệp Nhà nước năm nào cũng lãi là thiếu thực tế",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/doi-hoi-doanh-nghiep-nha-nuoc-nam-nao-cung-lai-la-thieu-thuc-te-20260206172649328.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/16/doanh-nghiep-loay-hoay-voi-thu-tuc-hanh-chinh-1763283953567.jpg\" /></a>(Dân trí) - Nhấn mạnh vai trò \"mở đường\", chuyên gia Phạm Chi Lan cho rằng áp đặt chỉ tiêu lợi nhuận hàng năm cho doanh nghiệp Nhà nước là cứng nhắc, bởi nhiều lĩnh vực then chốt cần thời gian dài để hoàn vốn."
     }
   ]
 }
