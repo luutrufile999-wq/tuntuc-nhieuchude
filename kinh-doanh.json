@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Loạt ngân hàng cảnh báo khẩn: Coi chừng \"bốc hơi\" tiền Tết",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/loat-ngan-hang-canh-bao-khan-coi-chung-boc-hoi-tien-tet-20260207213602422.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/25/lua-dao-tinh-cam-bang-ai-kich-ban-mo-heo-duoc-cong-nghiep-hoa-1769334437677.jpg\" /></a>(Dân trí) - Lợi dụng tâm lý săn thưởng và giao dịch sôi động dịp cận Tết, tội phạm công nghệ cao đang tung ra hàng loạt chiêu trò tinh vi. Các ngân hàng lớn vừa phải phát lệnh cảnh báo đỏ tới toàn bộ khách hàng."
+    },
+    {
+      "id": 2,
       "title": "Gu tiêu dùng Trung Quốc đổi khác, thương hiệu phương Tây hụt hơi",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gu-tieu-dung-trung-quoc-doi-khac-thuong-hieu-phuong-tay-hut-hoi-20260207160525434.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/07/b8f3ee58-fa11-4fca-9536-577e1be4f69225bf3fe1jpg-1770454241414.jpg\" /></a>(Dân trí) - Việc Starbucks và Puma bán cổ phần cho đối tác nội địa là minh chứng cho thấy thời kỳ hoàng kim của thương hiệu phương Tây tại Trung Quốc đã kết thúc trước áp lực cạnh tranh khốc liệt."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Elon Musk cảnh báo Mỹ “vỡ nợ 1.000%”: Canh bạc AI và 3 nơi trú ẩn sống còn",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/elon-musk-canh-bao-my-vo-no-1000-canh-bac-ai-va-3-noi-tru-an-song-con-20260207163958296.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/07/137952b6fafc66c9ec95a85cdda2c68b-cropped-1770456491035.jpg\" /></a>(Dân trí) - Nợ công Mỹ tăng 74.000 USD mỗi giây, tiền trả lãi đã vượt ngân sách quốc phòng. Elon Musk cảnh báo nước Mỹ chỉ còn một lối thoát duy nhất là AI và robot hoặc đồng USD sẽ phải trả giá."
-    },
-    {
-      "id": 3,
-      "title": "Warren Buffett cảnh báo điểm yếu cốt tử của vàng giữa cơn sốt kim loại quý",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/warren-buffett-canh-bao-diem-yeu-cot-tu-cua-vang-giua-con-sot-kim-loai-quy-20260207171349753.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/07/warren-buffett-canh-bao-diem-yeu-cot-tu-giua-con-sot-kim-loai-quy-cropped-cropped-1770458919521.jpg\" /></a>(Dân trí) - Trong bối cảnh giá vàng và bạc biến động mạnh, Warren Buffett giữ quan điểm thận trọng và nhấn mạnh rằng kim loại quý tồn tại một “điểm yếu cốt tử” khiến ông không bao giờ xem đây là tài sản cốt lõi."
     }
   ]
 }
