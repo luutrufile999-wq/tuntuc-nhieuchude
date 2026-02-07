@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Người dân dè dặt sắm Tết, siêu thị dồn dập giảm giá",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nguoi-dan-de-dat-sam-tet-sieu-thi-don-dap-giam-gia-20260207205414012.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/07/dan-that-chat-hau-bao-sam-tet-sieu-thi-giam-gia-kich-cau-1770472293497.jpg\" /></a>(Dân trí) - Chỉ còn ít ngày nữa đến Tết Nguyên đán Bính Ngọ nhưng sức mua vẫn chậm. Trước thực tế này, nhiều siêu thị tăng khuyến mãi, giảm giá sâu nhằm kích cầu thị trường Tết."
+    },
+    {
+      "id": 2,
       "title": "Huy động hơn 26.000 tỷ đồng trái phiếu Chính phủ trong tháng 1",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/huy-dong-hon-26000-ty-dong-trai-phieu-chinh-phu-trong-thang-1-20260207210649006.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/26/bond-cropped-1766732366043.jpg\" /></a>(Dân trí) - Tháng đầu năm 2026, thị trường trái phiếu Chính phủ sôi động với hơn 26.000 tỷ đồng huy động thành công. Đáng chú ý, lãi suất trúng thầu các kỳ hạn chủ chốt đồng loạt tăng nhẹ từ 2-10 điểm cơ bản."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Loạt ngân hàng cảnh báo khẩn: Coi chừng \"bốc hơi\" tiền Tết",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/loat-ngan-hang-canh-bao-khan-coi-chung-boc-hoi-tien-tet-20260207213602422.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/25/lua-dao-tinh-cam-bang-ai-kich-ban-mo-heo-duoc-cong-nghiep-hoa-1769334437677.jpg\" /></a>(Dân trí) - Lợi dụng tâm lý săn thưởng và giao dịch sôi động dịp cận Tết, tội phạm công nghệ cao đang tung ra hàng loạt chiêu trò tinh vi. Các ngân hàng lớn vừa phải phát lệnh cảnh báo đỏ tới toàn bộ khách hàng."
-    },
-    {
-      "id": 3,
-      "title": "Gu tiêu dùng Trung Quốc đổi khác, thương hiệu phương Tây hụt hơi",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gu-tieu-dung-trung-quoc-doi-khac-thuong-hieu-phuong-tay-hut-hoi-20260207160525434.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/07/b8f3ee58-fa11-4fca-9536-577e1be4f69225bf3fe1jpg-1770454241414.jpg\" /></a>(Dân trí) - Việc Starbucks và Puma bán cổ phần cho đối tác nội địa là minh chứng cho thấy thời kỳ hoàng kim của thương hiệu phương Tây tại Trung Quốc đã kết thúc trước áp lực cạnh tranh khốc liệt."
     }
   ]
 }
