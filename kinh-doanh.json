@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá thịt heo leo thang dịp cận Tết, có loại tăng tới 70.000 đồng/kg",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-thit-heo-leo-thang-dip-can-tet-co-loai-tang-toi-70000-dongkg-20260209063109652.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/09/z7515688381357fe8de1d20824cb30a85e24a2f746808b-edited-1770593339044.jpg\" /></a>(Dân trí) - Giá thịt heo tại nhiều chợ dân sinh ở TPHCM liên tục leo thang trước Tết. Không chỉ các loại thịt phổ biến, những phần vốn được xem là rẻ tiền cũng tăng mạnh, khiến không ít người tiêu dùng giật mình."
+    },
+    {
+      "id": 2,
       "title": "Trung Quốc âm thầm gom thêm 40.000 ounce vàng giữa lúc giá tăng mạnh",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/trung-quoc-am-tham-gom-them-40000-ounce-vang-giua-luc-gia-tang-manh-20260208174427430.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/08/3d-photo-realistic-image-golden-bricks-with-china-backgroundjpg-1770547175128.jpg\" /></a>(Dân trí) - Ngân hàng Trung ương Trung Quốc (PBOC) vừa kéo dài chuỗi mua vàng sang tháng thứ 15. Bất chấp những biến động  của thị trường, Bắc Kinh vẫn kiên định với mục tiêu đa dạng hóa dự trữ quốc gia."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Hà Nội: Loạt nhà hàng, cơ sở ăn uống bị phạt vì vi phạm an toàn thực phẩm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ha-noi-loat-nha-hang-co-so-an-uong-bi-phat-vi-vi-pham-an-toan-thuc-pham-20260208155738130.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/08/loat-ho-kinh-doanh-an-uong-o-phuong-hoan-kiem-bi-phat-1770540924939.jpg\" /></a>(Dân trí) - UBND phường Hoàn Kiếm (Hà Nội) vừa công bố danh sách 14 nhà hàng, cơ sở kinh doanh ăn uống bị xử phạt vi phạm an toàn thực phẩm trong tháng 1, với mức phạt từ 1,5 triệu đến gần 60 triệu đồng."
-    },
-    {
-      "id": 3,
-      "title": "Nghịch lý cận Tết: Hàng từ nước ngoài về nhanh, giao nội địa quá tải",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nghich-ly-can-tet-hang-tu-nuoc-ngoai-ve-nhanh-giao-noi-dia-qua-tai-20260208114349176.htm\"><img src=\"https://icdn.dantri.com.vn/2024/11/13/shopee-dikabarkan-phk-karyawan-edited-edited-1731484197249.jpeg\" /></a>(Dân trí) - Cận Tết, mua sắm online tăng vọt khiến giao hàng nội địa quá tải, nhiều đơn chậm 5-6 ngày chưa tới tay. Trái lại, hàng xuyên biên giới lại về nhanh bất ngờ."
     }
   ]
 }
