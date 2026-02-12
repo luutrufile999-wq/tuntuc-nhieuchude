@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ rút khỏi căn cứ chiến lược ở Syria",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-rut-khoi-can-cu-chien-luoc-o-syria-20260212183943037.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/12/my-syriaafp11zonjpg-1770896292579.jpg\" /></a>(Dân trí) - Bộ Quốc phòng Syria cho biết các đơn vị quân đội nước này đã tiếp quản căn cứ quân sự al-Tanf sau khi quân đội Mỹ rút đi."
+    },
+    {
+      "id": 2,
       "title": "Ukraine sẽ nhận được tên lửa siêu vượt âm đầu tiên?",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-se-nhan-duoc-ten-lua-sieu-vuot-am-dau-tien-20260212171746835.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/12/ukraine-se-nhan-duoc-ten-lua-sieu-vuot-am-dau-tien-1770891352135.jpg\" /></a>(Dân trí) - Ukraine có thể sẽ nhận được tên lửa siêu vượt âm sau khi ký thỏa thuận với một đồng minh phương Tây."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ điều \"sát thủ săn ngầm\" áp sát Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-dieu-sat-thu-san-ngam-ap-sat-iran-20260212181237696.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/12/my-dieu-sat-thu-san-ngam-ap-sat-iran-cropped-1770894700225.jpg\" /></a>(Dân trí) - Mỹ đã triển khai máy bay trinh sát tới gần biên giới Iran giữa lúc căng thẳng leo thang."
-    },
-    {
-      "id": 3,
-      "title": "Mỹ và Iran sẵn sàng thỏa hiệp về hạt nhân",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-va-iran-san-sang-thoa-hiep-ve-hat-nhan-20260212155856196.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/12/iranpress-tv-edited-1770886631940.jpg\" /></a>(Dân trí) - Ngoại trưởng Thổ Nhĩ Kỳ Hakan Fidan cho biết Mỹ đã phát tín hiệu sẵn sàng linh hoạt về yêu cầu buộc Iran chấm dứt hoạt động làm giàu uranium."
     }
   ]
 }
