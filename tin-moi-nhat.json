@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Miền Bắc trưa hửng nắng, sáng có sương mù",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-su/mien-bac-trua-hung-nang-sang-co-suong-mu-20260215220108628.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/15/mien-bac-trua-hung-nang-sang-co-suong-mu-1771167489244.jpg\" /></a>(Dân trí) - Dự báo ngày 16/2 (tức 30 Tết), nhiều khu vực tại miền Bắc sáng sớm xuất hiện sương mù và sương mù nhẹ rải rác, đến trưa chiều hửng nắng."
+    },
+    {
+      "id": 2,
       "title": "TPHCM khai mạc Đường hoa Nguyễn Huệ: Hàng ngàn người đổ về du xuân",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/tphcm-khai-mac-duong-hoa-nguyen-hue-hang-ngan-nguoi-do-ve-du-xuan-20260215223348960.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/15/14-edited-1771170681782.jpg\" /></a>(Dân trí) - Tối 28 Tết, Đường hoa Nguyễn Huệ Tết Bính Ngọ 2026 chính thức khai mạc trong không khí rộn ràng, thu hút đông đảo người dân và du khách đổ về trung tâm TPHCM du xuân, thưởng lãm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Khởi tố 2 mẹ con dùng chất cấm trong sản xuất giò, chả",
       "summary": "<a href=\"https://dantri.com.vn/phap-luat/khoi-to-2-me-con-dung-chat-cam-trong-san-xuat-gio-cha-20260215224149803.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/15/cong-an-hung-yen-kiem-tra-gio-cha-chua-han-the-1-edited-1771169972284.jpg\" /></a>(Dân trí) - Công an tỉnh Hưng Yên vừa phát hiện số lượng lớn giò, chả, xúc xích chứa hàn the chuẩn bị đưa ra thị trường tiêu thụ dịp Tết Nguyên đán. 2 đối tượng liên quan vi phạm này đã bị khởi tố."
-    },
-    {
-      "id": 3,
-      "title": "Công an Hà Nội điều tra vụ hỗn chiến đêm Valentine ở gầm cầu Vĩnh Tuy",
-      "summary": "<a href=\"https://dantri.com.vn/phap-luat/cong-an-ha-noi-dieu-tra-vu-hon-chien-dem-valentine-o-gam-cau-vinh-tuy-20260215223023142.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/15/screenshot20260215222106facebook-edited-1771169228424.jpg\" /></a>(Dân trí) - Mâu thuẫn trong lúc nhậu nhẹt, 2 nhóm thanh niên đã lao vào đánh nhau, xô xát tại gầm cầu Vĩnh Tuy, Hà Nội. Ít nhất 6 đối tượng đã được làm rõ danh tính."
     }
   ]
 }
