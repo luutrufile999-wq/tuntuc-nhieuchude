@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ukraine tuyên bố phá kế hoạch mưu sát loạt quan chức cấp cao",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-pha-ke-hoach-muu-sat-loat-quan-chuc-cap-cao-20260220185033854.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/20/ukraine-tuyen-bo-pha-ke-hoach-muu-sat-loat-quan-chuc-cap-cao-1771588043039.jpg\" /></a>(Dân trí) - Ukraine tuyên bố bắt hàng loạt nghi phạm trong vụ việc mà Kiev mô tả là nhằm mưu sát quan chức cấp cao nước này."
+    },
+    {
+      "id": 2,
       "title": "Xe chở khách Trung Quốc rơi xuống hồ sâu nhất thế giới vì vỡ băng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/xe-cho-khach-trung-quoc-roi-xuong-ho-sau-nhat-the-gioi-vi-vo-bang-20260220190524536.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/20/xe-cho-khach-trung-quoc-roi-xuong-ho-sau-nhat-the-gioi-vi-vo-bang-cropped-1771588877463.jpg\" /></a>(Dân trí) - Theo giới chức địa phương Nga, có khả năng 7 du khách Trung Quốc và tài xế xe buýt đã thiệt mạng vì rơi xuống hồ Baikal do băng bị vỡ."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Trump “cân não” với các phương án về Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-can-nao-voi-cac-phuong-an-ve-iran-20260220174629199.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/20/trumppbsjpg-1771584295913.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump đang phải cân nhắc nhiều lựa chọn khác nhau về Iran trong bối cảnh các cuộc đàm phán chưa đạt kết quả như mong đợi."
-    },
-    {
-      "id": 3,
-      "title": "Vì sao Ukraine rút loạt đơn vị tinh nhuệ khỏi miền Đông?",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/vi-sao-ukraine-rut-loat-don-vi-tinh-nhue-khoi-mien-dong-20260220165036060.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/20/vi-sao-ukraine-rut-loat-don-vi-tinh-nhue-khoi-mien-dong-cropped-1771580824214.jpg\" /></a>(Dân trí) - Chuyên gia phân tích tính toán của Ukraine khi đưa các đơn vị ra khỏi khu vực miền Đông và chuyển xuống Đông Nam."
     }
   ]
 }
