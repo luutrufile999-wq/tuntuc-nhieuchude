@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Zelensky: Ukraine đã đưa ra nhượng bộ lớn với Nga",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-zelensky-ukraine-da-dua-ra-nhuong-bo-lon-voi-nga-20260220211435314.htm\"><img src=\"https://icdn.dantri.com.vn/2025/03/26/zelenskyreuters-edited-1740850584920-1742982098525.jpeg\" /></a>(Dân trí) - Cả Nga và Ukraine vẫn đang bất đồng quan điểm về vấn đề lãnh thổ khi cuộc chiến sắp kéo dài tới năm thứ 5."
+    },
+    {
+      "id": 2,
       "title": "Ukraine tuyên bố phá kế hoạch mưu sát loạt quan chức cấp cao",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-pha-ke-hoach-muu-sat-loat-quan-chuc-cap-cao-20260220185033854.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/20/ukraine-tuyen-bo-pha-ke-hoach-muu-sat-loat-quan-chuc-cap-cao-1771588043039.jpg\" /></a>(Dân trí) - Ukraine tuyên bố bắt hàng loạt nghi phạm trong vụ việc mà Kiev mô tả là nhằm mưu sát quan chức cấp cao nước này."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Xe chở khách Trung Quốc rơi xuống hồ sâu nhất thế giới vì vỡ băng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/xe-cho-khach-trung-quoc-roi-xuong-ho-sau-nhat-the-gioi-vi-vo-bang-20260220190524536.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/20/xe-cho-khach-trung-quoc-roi-xuong-ho-sau-nhat-the-gioi-vi-vo-bang-cropped-1771588877463.jpg\" /></a>(Dân trí) - Theo giới chức địa phương Nga, có khả năng 7 du khách Trung Quốc và tài xế xe buýt đã thiệt mạng vì rơi xuống hồ Baikal do băng bị vỡ."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Trump “cân não” với các phương án về Iran",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-can-nao-voi-cac-phuong-an-ve-iran-20260220174629199.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/20/trumppbsjpg-1771584295913.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump đang phải cân nhắc nhiều lựa chọn khác nhau về Iran trong bối cảnh các cuộc đàm phán chưa đạt kết quả như mong đợi."
     }
   ]
 }
