@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "\"Vàng ăn được\" đắt khách trước ngày vía Thần Tài",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vang-an-duoc-dat-khach-truoc-ngay-via-than-tai-20260225163203921.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/25/banh-jpg-1772011102485.jpg\" /></a>(Dân trí) - Cận ngày vía Thần Tài, bên cạnh mua vàng lấy vía, không ít người đặt bánh tạo hình hũ vàng, thỏi vàng dâng lễ. Nhu cầu tăng mạnh khiến nhiều cửa hàng quá tải, phải chốt đơn sớm."
-    },
-    {
-      "id": 2,
       "title": "Cổ phiếu vàng bạc diễn biến lạ trước ngày vía Thần Tài",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/co-phieu-vang-bac-dien-bien-la-truoc-ngay-via-than-tai-20260225155556585.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/25/vang-edited-cropped-1772009645971.jpg\" /></a>(Dân trí) - Cổ phiếu Vàng bạc PNJ giảm 0,83% sau 5 phiên tăng liên tục trước và sau nghỉ Tết Nguyên đán. Trong khi đó, STB của Sacombank trở thành cổ phiếu có giá cao nhất ngành ngân hàng."
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Những đại gia Việt đang ôm \"núi\" tiền mặt tỷ USD",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhung-dai-gia-viet-dang-om-nui-tien-mat-ty-usd-20260225105300851.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/13/tien-cropped-1770969271444.jpg\" /></a>(Dân trí) - Việc nắm lượng tiền mặt lớn không chỉ giúp các công ty có chiến lược phòng thủ tốt khi kinh doanh biến động, mà còn tạo ra khoản lãi hàng nghìn tỷ đồng - tương đương mức sinh lời của các ngân hàng."
+    },
+    {
+      "id": 3,
+      "title": "Hồ sơ CEO 9X được tỷ phú Elon Musk bổ nhiệm cho công ty tại Việt Nam",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ho-so-ceo-9x-duoc-ty-phu-elon-musk-bo-nhiem-cho-cong-ty-tai-viet-nam-20260225151903601.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/09/ty-phu-elon-musk-muon-xay-dung-thanh-pho-tu-phat-trien-tren-mat-trang-1770608563188.jpg\" /></a>(Dân trí) - Việc trao quyền điều hành cho một lãnh đạo thế hệ 9X người Việt gây chú ý. Trước đó, các hoạt động của SpaceX tại Đông Nam Á chủ yếu do đội ngũ chuyên gia quốc tế trực tiếp phụ trách."
     }
   ]
 }
