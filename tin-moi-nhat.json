@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hà Nội bắt đầu gia tăng nắng, nhiệt độ cao nhất lên đến 30 độ C",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-su/ha-noi-bat-dau-gia-tang-nang-nhiet-do-cao-nhat-len-den-30-do-c-20260227220125142.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/27/ha-noi-bat-dau-gia-tang-nang-nhiet-do-cao-nhat-len-den-30-do-c-1772204248608.jpg\" /></a>(Dân trí) - Dự báo ngày 28/2, tại Hà Nội bắt đầu gia tăng nắng, nhiệt độ trong ngày cao nhất có thể lên đến 30 độ C."
+    },
+    {
+      "id": 2,
       "title": "Tài xế say xỉn gây gổ, lao xe vào đám đông có thể bị xử lý ra sao?",
       "summary": "<a href=\"https://dantri.com.vn/ban-doc/tai-xe-say-xin-gay-go-lao-xe-vao-dam-dong-co-the-bi-xu-ly-ra-sao-20260227183208967.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/27/a-1772190825706.jpg\" /></a>(Dân trí) - Theo luật sư, ngoài gây rối trật tự công cộng, công an sẽ làm rõ tính chất của hành vi lao xe vào đám đông, từ đó xem xét thêm trách nhiệm của Quốc về việc xâm phạm sức khỏe, tính mạng người khác."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Công nhân tử vong bất thường trong phòng trọ ở TPHCM",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/cong-nhan-tu-vong-bat-thuong-trong-phong-tro-o-tphcm-20260227221639016.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/27/564644a2-5d64-4744-b988-3674f144a1f7jpg-1772205097225.jpg\" /></a>(Dân trí) - Nam công nhân 2 ngày không đến công ty làm việc, đồng nghiệp đến tìm và phát hiện người này đã tử vong trong phòng trọ ở phường Dĩ An (TPHCM)."
-    },
-    {
-      "id": 3,
-      "title": "Tội phạm về trật tự xã hội ở TPHCM giảm sâu dịp Tết Bính Ngọ",
-      "summary": "<a href=\"https://dantri.com.vn/phap-luat/toi-pham-ve-trat-tu-xa-hoi-o-tphcm-giam-sau-dip-tet-binh-ngo-20260227221648573.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/27/4147137571084289110-1-1-edited-cropped-1772205124707.jpg\" /></a>(Dân trí) - Phó Giám đốc Công an TPHCM cho hay, lần đầu tiên trong những năm gần đây, tội phạm về trật tự xã hội giảm hơn 20% so với liền kề và giảm hơn 27% so với cùng kỳ trong tháng Tết."
     }
   ]
 }
