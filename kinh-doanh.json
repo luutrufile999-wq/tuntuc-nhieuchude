@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Lộ diện các ngân hàng rót tỷ USD vào bất động sản",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lo-dien-cac-ngan-hang-rot-ty-usd-vao-bat-dong-san-20260227140701305.htm\"><img src=\"https://icdn.dantri.com.vn/2025/05/12/z658989039944975505d30702ff4deee1f5ecca5d2afe7-1746936597228-1747012953917.jpg\" /></a>(Dân trí) - Tín dụng bất động sản vượt 2 triệu tỷ đồng trong năm 2025 với nhiều ngân hàng rót cả tỷ USD. Tuy nhiên, bước sang đầu năm 2026, dòng vốn này đang có dấu hiệu bị siết chặt."
+    },
+    {
+      "id": 2,
       "title": "Bắt nữ hành khách mang 4,5kg ma túy tại sân bay Tân Sơn Nhất",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bat-nu-hanh-khach-mang-45kg-ma-tuy-tai-san-bay-tan-son-nhat-20260227195623242.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/27/78714283081040503-cropped-1772196438884.jpg\" /></a>(Dân trí) - Lợi dụng thời gian quá cảnh ngắn khoảng 1 giờ, một nữ hành khách người Thái Lan đã cất giấu 4,5kg cocain hòng qua mặt lực lượng hải quan tại Tân Sơn Nhất."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "“Cá mập” bất ngờ tăng tốc gom vàng, cảnh báo nào cho thị trường?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ca-map-bat-ngo-tang-toc-gom-vang-canh-bao-nao-cho-thi-truong-20260227094100870.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/27/ca-map-bat-ngo-tang-toc-gom-vang-canh-bao-nao-cho-thi-truong-cropped-1772159968817.jpg\" /></a>(Dân trí) - Quỹ SPDR Gold Trust vừa mua ròng gần 19 tấn vàng trong 3 phiên. Động thái này diễn ra giữa lúc căng thẳng địa chính trị leo thang, đẩy dự báo giá lên 6.300 USD/ounce."
-    },
-    {
-      "id": 3,
-      "title": "Vingroup muốn huy động lượng lớn trái phiếu quốc tế",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vingroup-muon-huy-dong-luong-lon-trai-phieu-quoc-te-20260227170753935.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/27/vingroup-muon-huy-dong-luong-lon-trai-phieu-quoc-te-1772186679795.jpg\" /></a>(Dân trí) - Tập đoàn Vingroup dự kiến phát hành 350 triệu USD trái phiếu quốc tế niêm yết tại Áo, kèm quyền chọn nhận cổ phiếu của Vinpearl cho các nhà đầu tư."
     }
   ]
 }
