@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Trung Quốc kêu gọi các bên kiềm chế khi tình hình Trung Đông nóng rực",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-keu-goi-cac-ben-kiem-che-khi-tinh-hinh-trung-dong-nong-ruc-20260228211550223.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/28/iran-cropped-1772287979326.jpg\" /></a>(Dân trí) - Trung Quốc kêu gọi các bên kiềm chế khi xung đột giữa Mỹ - Israel và Iran leo thang."
+    },
+    {
+      "id": 2,
       "title": "Hai tàu hải quân Mexico cập cảng viện trợ 1.100 tấn hàng cho Cuba",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/hai-tau-hai-quan-mexico-cap-cang-vien-tro-1100-tan-hang-cho-cuba-20260228225618404.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/28/mjpg-1772294062453.jpg\" /></a>(Dân trí) - Hai tàu hải quân Mexico chở gần 1.100 tấn hàng viện trợ nhân đạo đã đến Cuba vào ngày 28/2."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Iran khẳng định Lãnh tụ tối cao vẫn an toàn sau cuộc không kích của Israel",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-khang-dinh-lanh-tu-toi-cao-van-an-toan-sau-cuoc-khong-kich-cua-israel-20260228222434512.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/28/iran-khameneiafp11zon-cropped-1772292140170.jpg\" /></a>(Dân trí) - Iran cho biết Lãnh tụ tối cao Ali Khamenei của nước này vẫn an toàn, bác bỏ thông tin cho rằng ông có thể đã thiệt mạng sau các cuộc không kích của Mỹ và Israel."
-    },
-    {
-      "id": 3,
-      "title": "“Canh bạc” của Tổng thống Trump khi không kích Iran",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/canh-bac-cua-tong-thong-trump-khi-khong-kich-iran-20260228215604354.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/28/2026-02-28t143334z1668631517rc22vjapka5yrtrmadp3iran-crisis-trump-edited-cropped-1772289500126.jpg\" /></a>(Dân trí) - Trong chiến dịch không kích Iran, Tổng thống Trump tin rằng hành động quyết đoán là cần thiết để bảo vệ Mỹ và đồng minh khỏi vũ khí hạt nhân, nhưng ông cũng đối mặt với những hoài nghi và rủi ro."
     }
   ]
 }
