@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "TPHCM đề nghị 3 nhà mạng nghiên cứu thử nghiệm 6G",
+      "summary": "<a href=\"https://dantri.com.vn/cong-nghe/tphcm-de-nghi-3-nha-mang-nghien-cuu-thu-nghiem-6g-20260228172323459.htm\"><img src=\"https://icdn.dantri.com.vn/2022/07/28/6g-1658987948030.jpg\" /></a>(Dân trí) - TPHCM đề nghị ba tập đoàn viễn thông lớn gồm Viettel, VNPT và MobiFone nghiên cứu, phát triển công nghệ 6G và phối hợp thí điểm tại một khu vực trên địa bàn trong năm 2026."
+    },
+    {
+      "id": 2,
       "title": "Hai bé gái trốn nhà \"ra nước ngoài làm việc\", được tìm thấy trong khách sạn",
       "summary": "<a href=\"https://dantri.com.vn/phap-luat/hai-be-gai-tron-nha-ra-nuoc-ngoai-lam-viec-duoc-tim-thay-trong-khach-san-20260228153001690.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/28/cong-an-giai-cuu-2-thieu-nunghe-anvan-hung-cropped-1772270782708.jpg\" /></a>(Dân trí) - Sau 4 tiếng kể từ khi nhận được trình báo của gia đình, Công an xã Lượng Minh, Nghệ An phát hiện 2 bé gái đang trú tại một khách sạn ở địa phương khác, chờ người dẫn đi nước ngoài."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ninh Bình giao hơn 12.500m2 đất làm dự án 27 tầng",
       "summary": "<a href=\"https://dantri.com.vn/bat-dong-san/ninh-binh-giao-hon-12500m2-dat-lam-du-an-27-tang-20260228164815117.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/25/dai-gia-dieu-cay-le-thanh-than-va-nhung-on-ao-quanh-du-an-ct6-kien-hung-1766661820513.jpg\" /></a>(Dân trí) - Khu đất hơn 12.500m2 tại phường Phủ Lý được cho thuê 50 năm để triển khai dự án thương mại - dịch vụ cao tối đa 27 tầng, tổng vốn dự kiến hơn 575 tỷ đồng."
-    },
-    {
-      "id": 3,
-      "title": "Vụ sập cầu ở Cần Thơ: \"Sau tiếng ầm rất lớn, xe tải rớt xuống sông\"",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/vu-sap-cau-o-can-tho-sau-tieng-am-rat-lon-xe-tai-rot-xuong-song-20260228162738062.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/28/sap-caubao-ky-13-edited-1772268972620.jpg?watermark=true\" /></a>(Dân trí) - Khi xe tải đi qua cầu 30/4 (Cần Thơ), người dân nghe thấy tiếng ầm rất lớn, chạy ra kiểm tra thì phát hiện chiếc xe rớt sông, cầu bị sập và nam tài xế bò ra khỏi cabin."
     }
   ]
 }
