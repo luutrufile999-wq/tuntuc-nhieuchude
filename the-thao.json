@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Siêu máy tính dự đoán đội vô địch Champions League",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-doi-vo-dich-champions-league-20260228124932111.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/28/sieu-may-tinh-du-doan-doi-vo-dich-champions-league-cropped-1772257653808.jpg\" /></a>(Dân trí) - Sau lễ bốc thăm vòng 1/8 Champions League diễn ra vào tối 27/2, siêu máy tính Opta đã đưa ra dự đoán về đội vô địch giải đấu danh giá này."
+    },
+    {
+      "id": 2,
       "title": "VĐV Đào Hồng Sơn: \"Đô vật tử vong ở hội làng vì quá chênh lệch về hạng cân\"",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/vdv-dao-hong-son-do-vat-tu-vong-o-hoi-lang-vi-qua-chenh-lech-ve-hang-can-20260228105146982.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/28/fbimg1772251370134-cropped-1772251405623.jpg\" /></a>(Dân trí) - Đô vật Đào Hồng Sơn cho rằng sự cố một đô vật bị gãy cổ dẫn đến tử vong ở hội vật làng truyền thống Thái Lai (xã Kim Anh, Hà Nội) là điều đáng tiếc và là lời cảnh báo cho Ban tổ chức (BTC) lễ hội."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Sếp bóng đá Malaysia hé lộ về khả năng thắng kiện ở vụ nhập tịch gian lận",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/sep-bong-da-malaysia-he-lo-ve-kha-nang-thang-kien-o-vu-nhap-tich-gian-lan-20260228100644252.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/28/sep-bong-da-malaysia-he-lo-ve-kha-nang-thang-kien-o-vu-nhap-tich-gian-lan-cropped-1772247912804.jpg\" /></a>(Dân trí) - Giám đốc điều hành của tuyển Malaysia, ông Rob Friend, lạc quan về khả năng Liên đoàn bóng đá Malaysia (FAM) có thể ngược dòng ở vụ kháng cáo lên Tòa án trọng tài thể thao (CAS)."
-    },
-    {
-      "id": 3,
-      "title": "Tuyển Việt Nam bị ảnh hưởng thế nào nếu Malaysia lật kèo ở CAS?",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/tuyen-viet-nam-bi-anh-huong-the-nao-neu-malaysia-lat-keo-o-cas-20260227231720620.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/27/tuyen-viet-nam-bi-anh-huong-the-nao-neu-malaysia-lat-keo-o-cas-cropped-1772208786707.jpg\" /></a>(Dân trí) - Nếu Tòa án trọng tài thể thao (CAS) đưa ra phán quyết có lợi thì sẽ giúp Liên đoàn bóng đá Malaysia (FAM) trút bỏ áp lực và đẩy đội tuyển Việt Nam vào thế khó."
     }
   ]
 }
