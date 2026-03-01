@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Vì sao CAS không công bố phán quyết với Malaysia ngay lập tức?",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/vi-sao-cas-khong-cong-bo-phan-quyet-voi-malaysia-ngay-lap-tuc-20260301142432706.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/01/vi-sao-cas-khong-cong-bo-phan-quyet-voi-malaysia-ngay-lap-tuc-1772349754926.jpg\" /></a>(Dân trí) - Theo luật sư thể thao Hairul Vaiyron Othman, Tòa án trọng tài thể thao (CAS) phải xử lý nhiều vụ cùng lúc nên không thể công bố phán quyết với bóng đá Malaysia ngay lập tức."
+    },
+    {
+      "id": 2,
       "title": "C.Ronaldo lập hàng loạt kỷ lục tệ hại khi sút hỏng phạt đền",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/cronaldo-lap-hang-loat-ky-luc-te-hai-khi-sut-hong-phat-den-20260301101657526.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/01/hq720-4-edited-1772334806904.jpg\" /></a>(Dân trí) - C.Ronaldo đá hỏng phạt đền nhưng rất may, Al Nassr vẫn xuất sắc ngược dòng giành chiến thắng 3-1 trước Al Feiha. Kết quả này giúp đội bóng của CR7 vươn lên dẫn đầu giải Saudi Arabia với 61 điểm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Harry Kane tái hiện kỳ tích khi Bayern Munich thắng nghẹt thở Dortmund",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/harry-kane-tai-hien-ky-tich-khi-bayern-munich-thang-nghet-tho-dortmund-20260301095628471.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/01/gettyimages-2263546150-612x612jpg-1772333227244.jpg\" /></a>(Dân trí) - Đêm qua, Harry Kane đã có màn trình diễn chói sáng trên sân Signal Iduna Park, giúp Bayern Munich đánh bại Dortmund 3-2 và nới rộng khoảng cách trong cuộc đua vô địch Bundesliga lên thành 11 điểm."
-    },
-    {
-      "id": 3,
-      "title": "Billiards Việt Nam xuất sắc vào bán kết giải vô địch carom 3 băng thế giới",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/billiards-viet-nam-xuat-sac-vao-ban-ket-giai-vo-dich-carom-3-bang-the-gioi-20260301094002775.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/01/billiards1minhdien1-3-26-cropped-1772332575703.jpg\" /></a>(Dân trí) - Hai tay cơ Trần Quyết Chiến và Trần Thanh Tự thi đấu xuất sắc, giúp đội tuyển Việt Nam đánh bại đội tuyển Thổ Nhĩ Kỳ ở tứ kết giải billiards carom 3 băng vô địch đồng đội thế giới 2026."
     }
   ]
 }
