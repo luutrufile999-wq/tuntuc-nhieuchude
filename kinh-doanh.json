@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Khi thế giới bất ổn vì chiến sự, công sở lại chao đảo vì AI",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khi-the-gioi-bat-on-vi-chien-su-cong-so-lai-chao-dao-vi-ai-20260302142622363.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/02/ai-white-collar-layoffsjpg-1772434997683.jpg\" /></a>(Dân trí) - Giữa lúc kinh tế lao đao vì chiến sự Trung Đông, trí tuệ nhân tạo là \"kẻ cướp cơm\" hay bệ phóng sinh lời cho giới đầu tư?"
+    },
+    {
+      "id": 2,
       "title": "Sầu riêng nghịch vụ \"đắt như tôm tươi\", giá tại vườn lập đỉnh mới",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sau-rieng-nghich-vu-dat-nhu-tom-tuoi-gia-tai-vuon-lap-dinh-moi-20260302165900666.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/02/thu-hoach-sau-rieng-tai-htx-bau-don-tinh-tay-ninh-cropped-1772445399612.jpg\" /></a>(Dân trí) - Dù miền Tây bước vào đợt thu hoạch mới nhưng giá sầu riêng nghịch vụ vẫn neo ở mức cao kỷ lục, tới 200.000 đồng/kg do Việt Nam hiện là nguồn cung duy nhất trên thị trường thế giới."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Bão lửa Trung Đông ảnh hưởng thế nào đến túi tiền của bạn?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bao-lua-trung-dong-anh-huong-the-nao-den-tui-tien-cua-ban-20260302090542225.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/02/ipo-9-cropped-1772417030873.jpg\" /></a>(Dân trí) - Xung đột bùng nổ đẩy giá dầu bứt phá, vàng lập đỉnh. Bão lạm phát sẽ quét qua mâm cơm và sổ đỏ của bạn nhanh hơn những gì bạn có thể tưởng tượng."
-    },
-    {
-      "id": 3,
-      "title": "Xung đột Trung Đông leo thang: Giá dầu vọt đỉnh, chiết khấu nội địa về 0",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/xung-dot-trung-dong-leo-thang-gia-dau-vot-dinh-chiet-khau-noi-dia-ve-0-20260302002634713.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/02/2019-06-13t130954z1530005765rc1ff80f8360rtrmadp3mideast-tanker-cropped-1772446997235.jpg\" /></a>(Dân trí) - Xung đột Mỹ - Israel và Iran leo thang khiến giá dầu thô tăng mạnh, vận tải qua eo biển Hormuz gián đoạn, gây sức ép lên thị trường xăng dầu toàn cầu và trong nước."
     }
   ]
 }
