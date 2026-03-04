@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nhật Bản giành chiến thắng nhọc nhằn ở bảng đấu của tuyển nữ Việt Nam",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/nhat-ban-gianh-chien-thang-nhoc-nhan-o-bang-dau-cua-tuyen-nu-viet-nam-20260304144502726.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/nhat-ban-gianh-chien-thang-nhoc-nhan-o-bang-dau-cua-tuyen-nu-viet-nam-cropped-1772610225596.jpg\" /></a>(Dân trí) - Trong trận ra quân ở bảng C giải bóng đá nữ châu Á, Nhật Bản đã giành chiến thắng nhọc nhằn với tỷ số 2-0 trước Đài Loan (Trung Quốc)."
+    },
+    {
+      "id": 2,
       "title": "Al Nassr ra thông báo đặc biệt về tình trạng của C.Ronaldo",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/al-nassr-ra-thong-bao-dac-biet-ve-tinh-trang-cua-cronaldo-20260304123811006.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/ronaldo-cropped-1772602555114.jpg\" /></a>(Dân trí) - Theo thông báo của CLB Al Nassr, C.Ronaldo không rời khỏi Saudi Arabia, thay vào đó, cầu thủ này tiếp tục ở lại để điều trị chấn thương gân kheo."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Xem trực tiếp trận tuyển nữ Việt Nam gặp Ấn Độ ở đâu?",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/xem-truc-tiep-tran-tuyen-nu-viet-nam-gap-an-do-o-dau-20260304113133022.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/xem-truc-tiep-tran-tuyen-nu-viet-nam-gap-an-do-o-dau-1772598380846.jpg\" /></a>(Dân trí) - Cập nhật kênh trực tiếp bóng đá trận đấu giữa đội tuyển nữ Việt Nam và Ấn Độ ở vòng bảng giải bóng đá nữ châu Á tại sân Perth Rectangular Stadium (Australia) diễn ra vào lúc 18h ngày 4/3."
-    },
-    {
-      "id": 3,
-      "title": "Tuyển nữ Việt Nam - Ấn Độ (18h hôm nay): Khởi đầu giấc mơ World Cup",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/tuyen-nu-viet-nam-an-do-18h-hom-nay-khoi-dau-giac-mo-world-cup-20260304094409191.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/14/huynhnhu5tb14-2-26-cropped-1771044623078.jpg\" /></a>(Dân trí) - Đội tuyển bóng đá nữ Việt Nam tham dự giải vô địch châu Á năm nay với mục tiêu giành vé dự World Cup 2027. Nếu đánh bại đội tuyển Ấn Độ, chúng ta sẽ có bước khởi đầu tốt cho mục tiêu này."
     }
   ]
 }
