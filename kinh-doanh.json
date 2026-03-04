@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giải pháp tăng trưởng cao: Xử lý dứt điểm dự án tồn đọng, không bao che",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/giai-phap-tang-truong-cao-xu-ly-dut-diem-du-an-ton-dong-khong-bao-che-20260304192858608.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/du-an-vuong-mac-ban-an-ket-luan-thanh-tra-xu-ly-ca-nhan-to-chuc-cropped-1772627253257.jpg\" /></a>(Dân trí) - Để tạo đà tăng trưởng kinh tế, Thứ trưởng Bộ Tài chính khẳng định sẽ phân loại và xử lý dứt điểm các dự án ách tắc với nguyên tắc tuyệt đối không dung túng sai phạm."
+    },
+    {
+      "id": 2,
       "title": "Tòa án Tối cao Mỹ bác thuế đối ứng: Doanh nghiệp Việt cần lưu ý gì?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/toa-an-toi-cao-my-bac-thue-doi-ung-doanh-nghiep-viet-can-luu-y-gi-20260304194136828.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/my-2-cropped-1772627898117.jpg\" /></a>(Dân trí) - Tòa án Tối cao Mỹ mới đây đã bác bỏ mức thuế đối ứng do chính quyền Tổng thống Donald Trump ban hành hồi tháng 4 năm ngoái. Đây được xem như một “khoảng thở” tạm thời cho doanh nghiệp xuất khẩu."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Vàng thế giới, trong nước đồng loạt tăng giá sau cú giảm mạnh",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vang-the-gioi-trong-nuoc-dong-loat-tang-gia-sau-cu-giam-manh-20260304192137055.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/1806111659491397161-1jpg-1772626838294.jpg?watermark=true\" /></a>(Dân trí) - Sau cú lao dốc mạnh trong phiên trước, giá vàng thế giới nhanh chóng bật tăng trở lại, kéo theo giá vàng miếng SJC trong nước phục hồi."
-    },
-    {
-      "id": 3,
-      "title": "25 bộ, cơ quan có tỷ lệ giải ngân vốn đầu tư công dưới 1%",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/25-bo-co-quan-co-ty-le-giai-ngan-von-dau-tu-cong-duoi-1-20260304190713580.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/giai-ngan-von-dau-tu-cong-25-bo-co-quan-co-ty-le-duoi-1-1772625940213.jpg\" /></a>(Dân trí) - Đã hết 2 tháng đầu năm nhưng có tới 25 bộ, cơ quan Trung ương gần như chưa phát sinh giải ngân hoặc chỉ đạt dưới 1% kế hoạch, trong khi tổng vốn đầu tư công cả năm trên 1 triệu tỷ đồng."
     }
   ]
 }
