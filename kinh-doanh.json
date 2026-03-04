@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "NHNN lên tiếng về biến động tỷ giá do xung đột Trung Đông",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhnn-len-tieng-ve-bien-dong-ty-gia-do-xung-dot-trung-dong-20260304192028957.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/ty-gia-usdvnd-tang-do-xung-dot-trung-dong-nhnn-noi-gi-1772626696857.jpg\" /></a>(Dân trí) - Trước sức ép từ bên ngoài khiến tỷ giá USD/VND nhích tăng đầu tuần, đại diện NHNN khẳng định thanh khoản vẫn thông suốt."
+    },
+    {
+      "id": 2,
       "title": "Giải pháp tăng trưởng cao: Xử lý dứt điểm dự án tồn đọng, không bao che",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/giai-phap-tang-truong-cao-xu-ly-dut-diem-du-an-ton-dong-khong-bao-che-20260304192858608.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/du-an-vuong-mac-ban-an-ket-luan-thanh-tra-xu-ly-ca-nhan-to-chuc-cropped-1772627253257.jpg\" /></a>(Dân trí) - Để tạo đà tăng trưởng kinh tế, Thứ trưởng Bộ Tài chính khẳng định sẽ phân loại và xử lý dứt điểm các dự án ách tắc với nguyên tắc tuyệt đối không dung túng sai phạm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tòa án Tối cao Mỹ bác thuế đối ứng: Doanh nghiệp Việt cần lưu ý gì?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/toa-an-toi-cao-my-bac-thue-doi-ung-doanh-nghiep-viet-can-luu-y-gi-20260304194136828.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/my-2-cropped-1772627898117.jpg\" /></a>(Dân trí) - Tòa án Tối cao Mỹ mới đây đã bác bỏ mức thuế đối ứng do chính quyền Tổng thống Donald Trump ban hành hồi tháng 4 năm ngoái. Đây được xem như một “khoảng thở” tạm thời cho doanh nghiệp xuất khẩu."
-    },
-    {
-      "id": 3,
-      "title": "Vàng thế giới, trong nước đồng loạt tăng giá sau cú giảm mạnh",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vang-the-gioi-trong-nuoc-dong-loat-tang-gia-sau-cu-giam-manh-20260304192137055.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/1806111659491397161-1jpg-1772626838294.jpg?watermark=true\" /></a>(Dân trí) - Sau cú lao dốc mạnh trong phiên trước, giá vàng thế giới nhanh chóng bật tăng trở lại, kéo theo giá vàng miếng SJC trong nước phục hồi."
     }
   ]
 }
