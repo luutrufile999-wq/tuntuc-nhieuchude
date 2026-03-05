@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Vướng luật mới và thuế, xuất khẩu cá ngừ sang Mỹ hụt hơi",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vuong-luat-moi-va-thue-xuat-khau-ca-ngu-sang-my-hut-hoi-20260305084845550.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/05/ca-ngu-3jpg-1772675033150.jpg\" /></a>(Dân trí) - Đạo luật MMPA có hiệu lực từ 1/1 cùng biến động thuế quan đang tạo rào cản lớn, khiến kim ngạch xuất khẩu cá ngừ của Việt Nam sang Mỹ giảm 6% ngay trong tháng đầu năm."
+    },
+    {
+      "id": 2,
       "title": "Hãng tàu đổi hải trình, doanh nghiệp xuất nhập khẩu \"ngồi trên lửa\"",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hang-tau-doi-hai-trinh-doanh-nghiep-xuat-nhap-khau-ngoi-tren-lua-20260304085119803.htm\"><img src=\"https://icdn.dantri.com.vn/2025/09/25/logistics-viet-nam-cropped-1758787332023.jpg\" /></a>(Dân trí) - Hiện, cước container 40 feet trên một số tuyến đã tăng từ khoảng 1.500 USD lên 3.000-4.000 USD. Phí bảo hiểm rủi ro chiến tranh trong một số trường hợp tăng tới 70%."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Vàng trong nước giảm 4 triệu đồng/lượng, vẫn cao hơn thế giới 21 triệu đồng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vang-trong-nuoc-giam-4-trieu-dongluong-van-cao-hon-the-gioi-21-trieu-dong-20260305073654316.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/29/xoa-bo-co-che-doc-quyen-vang-mieng-gia-vang-sap-het-thoi-tau-luon-1756402092710.jpg\" /></a>(Dân trí) - Vàng trong nước đã có phiên giảm mạnh, cùng xu hướng với thế giới. Dù vậy, vàng trong nước vẫn cao hơn thế giới gần 21 triệu đồng/lượng."
-    },
-    {
-      "id": 3,
-      "title": "Loạt công ty lớn trên sàn thay CEO: Nguyên nhân do đâu?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/loat-cong-ty-lon-tren-san-thay-ceo-nguyen-nhan-do-dau-20260227195806130.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/23/ong-nguyen-duc-thuy-thoi-lam-chu-tich-lpbank-1766454112857.jpg\" /></a>(Dân trí) - Chuyên gia về nhân sự cho biết thực tế việc lãnh đạo cấp cao từ chức phụ thuộc vào từng trường hợp khác nhau, chủ yếu xuất phát từ việc thay đổi chiến lược công ty."
     }
   ]
 }
