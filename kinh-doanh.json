@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Trung Quốc \"xuất khẩu\" tiền rẻ, thâu tóm thị trường cho vay toàn cầu",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/trung-quoc-xuat-khau-tien-re-thau-tom-thi-truong-cho-vay-toan-cau-20260304163108527.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/04/8fda7fd5df8d0fc767be09e9998d2b73jpg-1772615467030.jpg\" /></a>(Dân trí) - Lãi suất chạm đáy ở trong nước đang thúc đẩy các ngân hàng Trung Quốc ồ ạt bơm vốn giá rẻ ra thế giới, làm rung chuyển thị trường cho vay toàn cầu trị giá 9.500 tỷ USD."
+    },
+    {
+      "id": 2,
       "title": "Vướng luật mới và thuế, xuất khẩu cá ngừ sang Mỹ hụt hơi",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vuong-luat-moi-va-thue-xuat-khau-ca-ngu-sang-my-hut-hoi-20260305084845550.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/05/ca-ngu-3jpg-1772675033150.jpg\" /></a>(Dân trí) - Đạo luật MMPA có hiệu lực từ 1/1 cùng biến động thuế quan đang tạo rào cản lớn, khiến kim ngạch xuất khẩu cá ngừ của Việt Nam sang Mỹ giảm 6% ngay trong tháng đầu năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Hãng tàu đổi hải trình, doanh nghiệp xuất nhập khẩu \"ngồi trên lửa\"",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hang-tau-doi-hai-trinh-doanh-nghiep-xuat-nhap-khau-ngoi-tren-lua-20260304085119803.htm\"><img src=\"https://icdn.dantri.com.vn/2025/09/25/logistics-viet-nam-cropped-1758787332023.jpg\" /></a>(Dân trí) - Hiện, cước container 40 feet trên một số tuyến đã tăng từ khoảng 1.500 USD lên 3.000-4.000 USD. Phí bảo hiểm rủi ro chiến tranh trong một số trường hợp tăng tới 70%."
-    },
-    {
-      "id": 3,
-      "title": "Vàng trong nước giảm 4 triệu đồng/lượng, vẫn cao hơn thế giới 21 triệu đồng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vang-trong-nuoc-giam-4-trieu-dongluong-van-cao-hon-the-gioi-21-trieu-dong-20260305073654316.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/29/xoa-bo-co-che-doc-quyen-vang-mieng-gia-vang-sap-het-thoi-tau-luon-1756402092710.jpg\" /></a>(Dân trí) - Vàng trong nước đã có phiên giảm mạnh, cùng xu hướng với thế giới. Dù vậy, vàng trong nước vẫn cao hơn thế giới gần 21 triệu đồng/lượng."
     }
   ]
 }
