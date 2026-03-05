@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Putin cảnh báo dừng cấp khí đốt cho EU ngay lập tức",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-putin-canh-bao-dung-cap-khi-dot-cho-eu-ngay-lap-tuc-20260305144024446.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/19/putinreuters-1jpg-1766145283864.jpg\" /></a>(Dân trí) - Tổng thống Vladimir Putin tuyên bố Nga có thể rút khỏi thị trường khí đốt châu Âu và chuyển hướng nguồn cung sang thị trường khác mà không cần chờ EU cấm nhập khẩu."
+    },
+    {
+      "id": 2,
       "title": "Iran cảnh báo Mỹ vụ đánh chìm tàu chiến khiến 87 người chết",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-canh-bao-my-vu-danh-chim-tau-chien-khien-87-nguoi-chet-20260305142409442.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/05/iran-canh-bao-cung-ran-my-vu-danh-chim-tau-chien-khien-87-nguoi-chet-cropped-1772695282176.jpg\" /></a>(Dân trí) - Ngoại trưởng Iran cảnh báo Mỹ sẽ phải hối hận vì đã đánh chìm một tàu chiến của Tehran ngoài khơi bờ biển Sri Lanka."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Lý do chiến hạm Iran khó \"né\" ngư lôi Mỹ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ly-do-chien-ham-iran-kho-ne-ngu-loi-my-20260305141906013.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/05/alt5pwgif-1772694925694.gif\" /></a>(Dân trí) - Một cuộc tấn công bằng ngư lôi của tàu ngầm Mỹ khiến chiến hạm của Iran bị chìm chỉ sau vài phút."
-    },
-    {
-      "id": 3,
-      "title": "Iran giăng bẫy khiến Mỹ - Israel lãng phí tên lửa triệu USD?",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-giang-bay-khien-my-israel-lang-phi-ten-lua-trieu-usd-20260305140832439.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/05/iran-giang-bay-khien-my-israel-lang-phi-ten-lua-trieu-usd-1772694346100.jpg\" /></a>(Dân trí) - Đoạn video được cho là ghi lại vụ tập kích của Israel nhằm vào mục tiêu Iran làm dấy lên câu hỏi về hiệu quả thực sự của đòn đánh này."
     }
   ]
 }
