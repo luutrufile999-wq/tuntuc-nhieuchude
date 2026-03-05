@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nếu toàn thế giới bán tháo vàng vào ngày mai, điều gì sẽ xảy ra?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/neu-toan-the-gioi-ban-thao-vang-vao-ngay-mai-dieu-gi-se-xay-ra-20260305074820592.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/05/ap24269473168499-e1727288336405-cropped-1772671415752.jpg\" /></a>(Dân trí) - Chắc chắn, nền kinh tế và hệ thống tiền tệ toàn cầu sẽ hứng chịu một cơn địa chấn chưa từng có."
+    },
+    {
+      "id": 2,
       "title": "Bài học đòn bẩy nợ từ ông Trump qua góc nhìn của Warren Buffett",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bai-hoc-don-bay-no-tu-ong-trump-qua-goc-nhin-cua-warren-buffett-20260303135544057.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/03/b1aaad1e504a96dfb2a46a9f8e48bcd3-cropped-1772520545136.jpg\" /></a>(Dân trí) - Bị mê hoặc bởi những khoản vay khổng lồ là cái bẫy chết người. Lời cảnh báo của vị tỷ phú đầu tư không chỉ đúng với giới tinh hoa mà còn là kim chỉ nam cho đại chúng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thêm ngân hàng tăng lãi suất huy động, nhiều kỳ hạn vượt 7%/năm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/them-ngan-hang-tang-lai-suat-huy-dong-nhieu-ky-han-vuot-7nam-20260305150900976.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/22/giao-dich-ngan-hangthanh-dong-56jpg-1769062620849.jpg?watermark=true\" /></a>(Dân trí) - Mặt bằng lãi suất tiết kiệm hiện phân hóa rõ giữa các kỳ hạn, trong đó nhiều ngân hàng đã niêm yết mức trên 6%/năm, thậm chí có nơi lên tới hơn 7%/năm."
-    },
-    {
-      "id": 3,
-      "title": "Giá xăng dầu tăng mạnh, có loại tăng hơn 7.000 đồng/lít",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-xang-dau-tang-manh-co-loai-tang-hon-7000-donglit-20260305141701877.htm\"><img src=\"https://icdn.dantri.com.vn/2025/03/12/do-xang48-edited-1741716529511.jpeg\" /></a>(Dân trí) - Trong kỳ điều chỉnh chiều ngày 5/3, giá xăng dầu đồng loạt tăng mạnh. Trong đó, giá xăng tăng 1.900-2.190 đồng/lít, giá dầu tăng 1.800-7.140 đồng/lít."
     }
   ]
 }
