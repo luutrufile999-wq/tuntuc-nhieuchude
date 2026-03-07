@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nhà sáng lập Sơn Kim Group và những trải lòng về thời trẻ \"đam mê, vất vả\"",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nha-sang-lap-son-kim-group-va-nhung-trai-long-ve-thoi-tre-dam-me-vat-va-20260307155159872.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/07/ba-nguyen-thi-son-5-edited-cropped-cropped-1772872937543.jpg\" /></a>(Dân trí) - Nổi tiếng với vai trò một nữ doanh nhân, nữ luật gia, một nhà quản lý... nhưng ít ai biết bà Nguyễn Thị Sơn đã bước vào con đường khởi nghiệp từ tuổi 18."
+    },
+    {
+      "id": 2,
       "title": "Một tuần chiến sự Trung Đông: Giá dầu bùng nổ, kinh tế toàn cầu rung lắc",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mot-tuan-chien-su-trung-dong-gia-dau-bung-no-kinh-te-toan-cau-rung-lac-20260307165504011.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/07/pjyrz26taboqxp7fe2cgix7ltijpg-1772877003343.jpg\" /></a>(Dân trí) - Chỉ sau một tuần chiến sự Trung Đông, giá dầu tăng vọt, vận tải năng lượng tắc nghẽn và hàng không chao đảo. Khi eo biển Hormuz gần như đóng băng, kinh tế toàn cầu bắt đầu hứng cú sốc."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ nới lỏng trừng phạt, \"cá mập\" tài chính ồ ạt đổ về Venezuela",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/my-noi-long-trung-phat-ca-map-tai-chinh-o-at-do-ve-venezuela-20260307155428039.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/07/o6l7uterybnwjiavstkatlxbh4-cropped-1772872944975.jpg\" /></a>(Dân trí) - Hàng chục quỹ đầu tư quốc tế đang ráo riết lên kế hoạch đến Caracas để gom tài sản và tìm hướng tái cơ cấu khoản nợ 100 tỷ USD. Một kỷ nguyên mở cửa đang thành hình sau những biến động lớn."
-    },
-    {
-      "id": 3,
-      "title": "Loạt công ty bị phạt tiền, có doanh nghiệp của tỷ phú nổi tiếng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/loat-cong-ty-bi-phat-tien-co-doanh-nghiep-cua-ty-phu-noi-tieng-20260304163901188.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/03/sonadezi-chau-duc-va-chung-khoan-tien-phong-bi-xu-phat-1-edited-cropped-1762147703538.jpg\" /></a>(Dân trí) - Nhiều công ty bị xử phạt tiền vì vi phạm công bố thông tin, có doanh nghiệp công nghệ tài chính bị phạt đến 357,5 triệu đồng, song song bị buộc hoàn trả tiền cho nhà đầu tư."
     }
   ]
 }
