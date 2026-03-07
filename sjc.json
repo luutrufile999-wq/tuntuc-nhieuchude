@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Lỗi",
-      "summary": "Lỗi khi cào dữ liệu: 'NoneType' object has no attribute 'find'"
+      "summary": "Lỗi khi cào dữ liệu: HTTPSConnectionPool(host='sjc.com.vn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='sjc.com.vn', port=443): Failed to resolve 'sjc.com.vn' ([Errno -3] Temporary failure in name resolution)\"))"
     }
   ]
 }
