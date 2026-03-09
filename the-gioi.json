@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Châu Âu nhập khẩu vũ khí nhiều nhất thế giới",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chau-au-nhap-khau-vu-khi-nhieu-nhat-the-gioi-20260309145149283.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/09/chau-aureuters11zonjpg-1773042506428.jpg\" /></a>(Dân trí) - Châu Âu trở thành khu vực nhập khẩu vũ khí lớn nhất thế giới trong 5 năm qua khi biến động địa chính trị khiến các nước này có xu hướng dựa vào chính mình nhiều hơn thay vì các cam kết an ninh từ Mỹ."
+    },
+    {
+      "id": 2,
       "title": "Mỹ tính tung lực lượng đặc nhiệm vào Iran thu giữ uranium",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-tinh-tung-luc-luong-dac-nhiem-vao-iran-thu-giu-uranium-20260309143350650.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/09/my-tinh-tung-luc-luong-dac-nhiem-vao-iran-thu-giu-uranium-1773041287129.jpg\" /></a>(Dân trí) - Chính quyền Tổng thống Mỹ Donald Trump được cho là cân nhắc khả năng triển khai lực lượng đặc nhiệm tới Iran để thu giữ uranium được làm giàu gần cấp độ vũ khí."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ dự đoán thời điểm giá xăng dầu sẽ giảm",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-du-doan-thoi-diem-gia-xang-dau-se-giam-20260309142011433.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/09/my-neu-thoi-diem-gia-xang-dau-se-giam-1773040480412.jpg\" /></a>(Dân trí) - Chính quyền Tổng thống Mỹ Donald Trump đang tìm cách trấn an những lo ngại về tình hình giá nhiên liệu tăng vọt vì chiến sự ở Trung Đông."
-    },
-    {
-      "id": 3,
-      "title": "Giới hạn chiến dịch không kích của Mỹ nhằm vào Iran",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/gioi-han-chien-dich-khong-kich-cua-my-nham-vao-iran-20260309122449117.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/09/2026-03-07t230210z893106178rc2wzja8gv7brtrmadp3usa-trumpjpg-1773040497855.jpg\" /></a>(Dân trí) - Mỹ - Israel dường như kỳ vọng các đợt tập kích ồ ạt, quy mô lớn có thể gây áp lực để Iran nhượng bộ, nhưng kịch bản đó chưa xảy ra sau hơn 1 tuần chiến sự khốc liệt."
     }
   ]
 }
