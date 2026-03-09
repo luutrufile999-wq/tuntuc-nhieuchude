@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Người dân ở TPHCM nói muốn làm điều này khi giá xăng tăng mạnh",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-su/nguoi-dan-o-tphcm-noi-muon-lam-dieu-nay-khi-gia-xang-tang-manh-20260309160410766.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/09/z76027218206296056ff10c4897a047f4d165454f27465jpg-1773046384990.jpg\" /></a>(Dân trí) - Trước nguy cơ giá xăng tiếp tục tăng, nhiều người dân tại TPHCM đã bắt đầu có ý định chuyển qua các dòng xe điện để giảm chi phí đi lại."
+    },
+    {
+      "id": 2,
       "title": "Chính thức: Thuế nhập khẩu xăng dầu về 0%",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chinh-thuc-thue-nhap-khau-xang-dau-ve-0-20260309213739073.htm\"><img src=\"https://icdn.dantri.com.vn/2022/11/12/nguoi-dan-do-xang15-edited-1668263391812.jpeg\" /></a>(Dân trí) - Theo Nghị định 72, thuế nhập khẩu ưu đãi xuống 0% với một số mặt hàng xăng dầu để tăng nguồn cung và ổn định thị trường."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Đẩy nhanh xăng E10 để hạ nhiệt nguồn cung xăng dầu",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/day-nhanh-xang-e10-de-ha-nhiet-nguon-cung-xang-dau-20260309183406256.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/08/tu-thang-6-bat-buoc-dung-xang-e5-e10-sap-sua-quy-chuan-cua-hang-xang-dau-1770527034086.jpg\" /></a>(Dân trí) - Bộ Công Thương thúc đẩy triển khai xăng sinh học E10 nhằm giảm phát thải, tăng tự chủ năng lượng và giảm phụ thuộc xăng khoáng trong bối cảnh nguồn cung năng lượng toàn cầu biến động."
-    },
-    {
-      "id": 3,
-      "title": "Giá xăng dầu tăng cao, Hà Nội ra loạt biện pháp ứng phó",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-xang-dau-tang-cao-ha-noi-ra-loat-bien-phap-ung-pho-20260309191634452.htm\"><img src=\"https://icdn.dantri.com.vn/2025/01/22/gia-xangmquan-edited-1737484482269.jpeg?watermark=true\" /></a>(Dân trí) - Hà Nội yêu cầu các sở, ngành tăng cường kiểm tra kinh doanh xăng dầu, đảm bảo nguồn cung ổn định, xử lý hành vi găm hàng và hạn chế tác động của biến động giá đến kinh tế, xã hội trên địa bàn."
     }
   ]
 }
