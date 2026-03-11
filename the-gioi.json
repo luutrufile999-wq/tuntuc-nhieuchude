@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Châu Á xoay xở ứng phó bài toán năng lượng",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chau-a-xoay-xo-ung-pho-bai-toan-nang-luong-20260311085601739.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/11/philafp-cropped-1773216856914.jpg\" /></a>(Dân trí) - Các quốc gia châu Á đã công bố hàng loạt biện pháp nhằm tự bảo vệ trước tác động của cuộc khủng hoảng năng lượng hiện nay do ảnh hưởng của chiến sự Trung Đông."
+    },
+    {
+      "id": 2,
       "title": "Tàu hàng bốc cháy ở eo biển Hormuz",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tau-hang-boc-chay-o-eo-bien-hormuz-20260311143858684.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/11/chaymarine-insight11zon-edited-1773214558859.jpg\" /></a>(Dân trí) - Một tàu chở hàng đang bốc cháy tại eo biển Hormuz sau khi trúng một vật thể không xác định trong bối cảnh căng thẳng trong khu vực leo thang."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Khoảnh khắc tên lửa Iran rải “mưa” hỏa lực, Israel dồn dập đánh chặn",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/khoanh-khac-ten-lua-iran-rai-mua-hoa-luc-israel-don-dap-danh-chan-20260311141738094.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/11/iran-ezgifcom-cropgif-1773213213573.gif\" /></a>(Dân trí) - Iran tiếp tục phóng tên lửa mang nhiều đầu đạn vào Israel, trong khi phòng không Israel nỗ lực đánh chặn hỏa lực của Iran."
-    },
-    {
-      "id": 3,
-      "title": "Quan chức Iran tiết lộ tình trạng của tân Lãnh tụ Tối cao",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/quan-chuc-iran-tiet-lo-tinh-trang-cua-tan-lanh-tu-toi-cao-20260311141411551.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/11/iranreuters01211zonjpg-1773213146787.jpg\" /></a>(Dân trí) - Lãnh tụ Tối cao mới của Iran Mojtaba Khamenei vẫn “an toàn và khỏe mạnh” dù bị thương trong cuộc xung đột đang diễn ra với Mỹ và Israel, một quan chức Iran tiết lộ."
     }
   ]
 }
