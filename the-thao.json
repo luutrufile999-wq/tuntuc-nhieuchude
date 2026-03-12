@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hành trình ngỡ ngàng của CLB “tí hon” ở Champions League",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/hanh-trinh-ngo-ngang-cua-clb-ti-hon-o-champions-league-20260312111827907.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/12/hanh-trinh-ngo-ngang-cua-clb-ti-hon-o-champions-league-cropped-1773289037299.jpg\" /></a>(Dân trí) - Sau khi vượt qua Inter Milan, CLB Bodo Glimt của Na Uy tiếp tục gây bất ngờ khi đánh bại Sporting Lisbon với tỷ số 3-0. Kết quả này giúp CLB “tí hon” đặt một chân vào tứ kết Champions League."
+    },
+    {
+      "id": 2,
       "title": "Đội tuyển nào sẽ thay thế Iran tham dự World Cup 2026?",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/doi-tuyen-nao-se-thay-the-iran-tham-du-world-cup-2026-20260312082355071.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/12/doi-tuyen-nao-se-thay-the-iran-tham-du-world-cup-2026-cropped-1773278540785.jpg\" /></a>(Dân trí) - Khả năng rất lớn đội tuyển Iran sẽ không tham dự World Cup 2026. Tới lúc này, FIFA bắt đầu tính toán tới chuyện tìm kiếm đội bóng thay thế Iran dự giải đấu bóng đá lớn nhất hành tinh."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "HLV Pep Guardiola: \"Man City chơi không tệ dù thua đậm 0-3\"",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/hlv-pep-guardiola-man-city-choi-khong-te-du-thua-dam-0-3-20260312080811350.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/12/gettyimages-2265459485-612x612jpg-1773277383974.jpg\" /></a>(Dân trí) - HLV Pep Guardiola cho rằng tỷ số không phản ánh hoàn toàn diễn biến màn so tài giữa Real Madrid và Man City, trong khi HLV Arbeloa vẫn thận trọng về cơ hội đội nhà đi tiếp."
-    },
-    {
-      "id": 3,
-      "title": "Arsenal thoát thua trong gang tấc, bóng đá Anh chất chồng nỗi buồn",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/arsenal-thoat-thua-trong-gang-tac-bong-da-anh-chat-chong-noi-buon-20260312072001023.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/12/arsenal-thoat-thua-may-man-bong-da-anh-chat-chong-noi-buon-cropped-1773274720736.jpg\" /></a>(Dân trí) - Arsenal đã may mắn giành kết quả hòa 1-1 trong chuyến làm khách tới sân của Leverkusen ở lượt đi vòng 1/8 Champions League vào đêm qua. Kết quả này khiến nối dài những kết quả buồn bã của bóng đá Anh."
     }
   ]
 }
