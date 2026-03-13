@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bão giá USD \"quét\" qua, loạt doanh nghiệp lớn Việt Nam gánh áp lực nợ",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bao-gia-usd-quet-qua-loat-doanh-nghiep-lon-viet-nam-ganh-ap-luc-no-20260313100830414.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/05/hang-khong-1770282877716.jpg\" /></a>(Dân trí) - Đồng USD liên tục tăng giá do rủi ro đứt gãy nguồn cung dầu mỏ. Áp lực tỷ giá đang đè nặng lên các doanh nghiệp Việt có dư nợ USD lớn như Genco3, Vietjet, Vietnam Airlines..."
+    },
+    {
+      "id": 2,
       "title": "Nhóm dầu khí bị bán mạnh, cổ phiếu Novaland tiếp tục gây chú ý",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhom-dau-khi-bi-ban-manh-co-phieu-novaland-tiep-tuc-gay-chu-y-20260313161328388.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/13/chuyen-gia-kha-nang-thi-truong-chung-khoan-duoc-nang-hang-dang-den-rat-gan-cropped-cropped-1773394941264.jpg\" /></a>(Dân trí) - Đây là phiên tăng thứ 4 liên tiếp của mã địa ốc này kể từ ngày 10/3, thanh khoản lên đến hàng chục triệu đơn vị được giao dịch mỗi phiên."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng quay xe sau cú xả kho dầu lịch sử: Chuyện gì đang xảy ra?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-quay-xe-sau-cu-xa-kho-dau-lich-su-chuyen-gi-dang-xay-ra-20260313082705820.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/13/6ed42275thumbnail-cropped-1773364844317.jpg\" /></a>(Dân trí) - Đợt xả kho dầu khẩn cấp lớn nhất lịch sử của IEA đã tạo cú sốc tâm lý, khiến giá vàng rớt mạnh gần 100 USD/ounce bất chấp căng thẳng nguồn cung năng lượng vẫn đang leo thang."
-    },
-    {
-      "id": 3,
-      "title": "Dubai vỡ mộng \"ốc đảo an toàn\", giới tinh hoa ồ ạt tháo chạy",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dubai-vo-mong-oc-dao-an-toan-gioi-tinh-hoa-o-at-thao-chay-20260313144352188.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/13/cef510c9439261bb39ba25c578bc11fc-cropped-1773387056622.jpg\" /></a>(Dân trí) - Từng là \"ốc đảo\" trú ẩn an toàn của dòng vốn toàn cầu, Dubai đang nếm trải cú sốc tháo chạy hàng loạt của giới siêu giàu và doanh nghiệp quốc tế khi chiến sự Trung Đông leo thang."
     }
   ]
 }
