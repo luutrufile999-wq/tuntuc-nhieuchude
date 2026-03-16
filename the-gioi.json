@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Tổng thống Trump: Mỹ đánh 7.000 mục tiêu, phá hủy huyết mạch dầu mỏ Iran",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-my-danh-7000-muc-tieu-pha-huy-huyet-mach-dau-mo-iran-20260317010318169.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/17/trumpreuters-1773683521924.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump tuyên bố Mỹ đã tấn công hơn 7.000 mục tiêu trên khắp Iran và phá hủy đảo Kharg chiến lược."
-    },
-    {
-      "id": 2,
       "title": "Tàu của nước nào đang được đi qua eo biển Hormuz?",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tau-cua-nuoc-nao-dang-duoc-di-qua-eo-bien-hormuz-20260316215526441.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/16/tauchodau-1773672685656.jpg\" /></a>(Dân trí) - Iran được cho là vẫn đồng ý để tàu của một số nước đi qua eo biển Hormuz giữa lúc xung đột leo thang."
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Nga bác bỏ thông tin tiến trình hòa bình Ukraine suy yếu",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-bac-bo-thong-tin-tien-trinh-hoa-binh-ukraine-suy-yeu-20260316200420493.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/16/image-2026-03-16t200007411-1773666036475.png\" /></a>(Dân trí) - Chính phủ Nga ngày 16/3 bác bỏ thông tin của tạp chí Financial Times cho rằng tiến trình hòa bình tại Ukraine đang suy yếu do Tổng thống Mỹ Donald Trump hiện tập trung vào vấn đề Iran."
+    },
+    {
+      "id": 3,
+      "title": "Rộ tin Lãnh tụ Tối cao Iran tới Moscow điều trị y tế, Nga nói gì?",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ro-tin-lanh-tu-toi-cao-iran-toi-moscow-dieu-tri-y-te-nga-noi-gi-20260316194602534.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/12/ngoai-truong-iran-xac-nhan-tinh-trang-suc-khoe-cua-tan-lanh-tu-toi-cao-1773310359947.webp\" /></a>(Dân trí) - Nga từ chối bình luận thông tin tân Lãnh tụ Tối cao Iran Mojtaba Khamenei tới Moscow điều trị sức khỏe giữa nghi vấn ông bị thương nặng."
     }
   ]
 }
