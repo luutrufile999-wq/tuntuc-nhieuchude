@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "OECD cảnh báo rủi ro suy giảm kinh tế toàn cầu gia tăng vì xung đột",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/oecd-canh-bao-rui-ro-suy-giam-kinh-te-toan-cau-gia-tang-vi-xung-dot-20260317120537188.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/17/image-368354-1773370672-1773723278297.webp\" /></a>(Dân trí) - OECD phát cảnh báo khẩn về triển vọng kinh tế toàn cầu khi xung đột Trung Đông leo thang, cho rằng rủi ro suy giảm đang ở mức đáng kể dù chưa thể định lượng cụ thể."
+    },
+    {
+      "id": 2,
       "title": "Bộ Công Thương yêu cầu xử lý khẩn vướng mắc về cơ chế giá FIT",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-cong-thuong-yeu-cau-xu-ly-khan-vuong-mac-ve-co-che-gia-fit-20260317111454347.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/22/dien-trungnamnamanh0d7a5541-cropped-cropped-1761131341627.jpg?watermark=true\" /></a>(Dân trí) - Bộ Công Thương yêu cầu đẩy nhanh dự án năng lượng, xử lý dứt điểm dự án tồn đọng và khẩn trương gỡ vướng cơ chế giá FIT cho các dự án điện tái tạo."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thủ tướng: Đẩy mạnh xuất khẩu, mở rộng thị trường",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-day-manh-xuat-khau-mo-rong-thi-truong-20260317104656490.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/17/thu-tuong-day-manh-xuat-khau-mo-rong-thi-truong-trong-nam-2026-1773719106277.jpg\" /></a>(Dân trí) - Thủ tướng yêu cầu tháo gỡ khó khăn, vướng mắc của doanh nghiệp, đa dạng hóa thị trường, tận dụng hiệu quả các FTA, giảm chi phí logistics và khơi thông tín dụng…"
-    },
-    {
-      "id": 3,
-      "title": "Đà Nẵng chọn nhà đầu tư xây dựng siêu dự án hơn 1,7 tỷ USD",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/da-nang-chon-nha-dau-tu-xay-dung-sieu-du-an-hon-17-ty-usd-20260316165727737.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/16/anh-edited-1773654771322.jpg\" /></a>(Dân trí) - Theo quy hoạch, khu bến cảng Liên Chiểu sẽ xây dựng 8 bến container với tổng chiều dài cầu cảng khoảng 2.750m, có khả năng tiếp nhận tàu container đến 18.000 teus."
     }
   ]
 }
