@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Fed giữ nguyên lãi suất, như dự đoán",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/fed-giu-nguyen-lai-suat-nhu-du-doan-20260319030621011.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/19/fed-cropped-1773864116405.jpg\" /></a>(Dân trí) - Trong phiên họp chính sách thứ 2 từ đầu năm nay, đúng như dự báo của thị trường, Cục Dự trữ Liên bang Mỹ (Fed) giữ nguyên lãi suất. Chứng khoán Mỹ và giá vàng đều giảm với tin này."
+    },
+    {
+      "id": 2,
       "title": "Thấp thỏm chờ Fed đêm nay: Bắt đáy cổ phiếu hay ôm tiền mặt?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thap-thom-cho-fed-dem-nay-bat-day-co-phieu-hay-om-tien-mat-20260318182305147.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/18/jerome-fed-mw-1032-cropped-1773832683072.jpg\" /></a>(Dân trí) - Rạng sáng 19/3 (giờ Việt Nam), Fed sẽ công bố lãi suất. Căng thẳng tại Iran và giá dầu leo thang khiến kịch bản nới lỏng mờ mịt. Nhà đầu tư nên hành động thế nào trước giờ G?"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng giảm sốc mất mốc 4.900 USD, về thấp nhất một tháng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-giam-soc-mat-moc-4900-usd-ve-thap-nhat-mot-thang-20260318205040668.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/18/gia-vang-dot-ngot-giam-soc-mat-moc-4-cropped-1773841536304.jpg\" /></a>(Dân trí) - Giá vàng thế giới lao dốc mạnh, rơi xuống mức thấp nhất trong vòng một tháng khi thị trường gia tăng kỳ vọng về lập trường tiền tệ cứng rắn hơn từ Fed."
-    },
-    {
-      "id": 3,
-      "title": "Trước khi ngân hàng ngoại HSBC xuất hiện, ai đang nắm cổ phần Vingroup?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/truoc-khi-ngan-hang-ngoai-hsbc-xuat-hien-ai-dang-nam-co-phan-vingroup-20260318183925694.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/05/vingroup-cua-ty-phu-pham-nhat-vuong-cung-bo-nganh-nghe-massage-1764909482360.jpg\" /></a>(Dân trí) - Vingroup của tỷ phú Phạm Nhật Vượng vừa có cổ đông lớn mới là HSBC, nắm hơn 7.000 tỷ đồng cổ phiếu VIC."
     }
   ]
 }
