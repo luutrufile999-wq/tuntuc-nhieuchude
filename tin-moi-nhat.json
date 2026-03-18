@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran tấn công hạ tầng năng lượng khắp Vùng Vịnh, cháy lớn ở Qatar",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-tan-cong-ha-tang-nang-luong-khap-vung-vinh-chay-lon-o-qatar-20260319033651559.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/19/chay11zon-cropped-1773866066017.jpg\" /></a>(Dân trí) - Cơ sở hạ tầng năng lượng tại các quốc gia Vùng Vịnh đã bị tấn công, với các vụ cháy được ghi nhận tại những cơ sở then chốt ở Qatar, sau khi Iran tuyên bố đáp trả Mỹ và Israel."
+    },
+    {
+      "id": 2,
       "title": "Fed giữ nguyên lãi suất, như dự đoán",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/fed-giu-nguyen-lai-suat-nhu-du-doan-20260319030621011.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/19/fed-cropped-1773864116405.jpg\" /></a>(Dân trí) - Trong phiên họp chính sách thứ 2 từ đầu năm nay, đúng như dự báo của thị trường, Cục Dự trữ Liên bang Mỹ (Fed) giữ nguyên lãi suất. Chứng khoán Mỹ và giá vàng đều giảm với tin này."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Iran dọa thiêu rụi cơ sở dầu khí liên quan đến Mỹ trong khu vực",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-doa-thieu-rui-co-so-dau-khi-lien-quan-den-my-trong-khu-vuc-20260319020354273.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/19/iran-doa-thieu-rui-co-so-dau-khi-lien-quan-den-my-trong-khu-vuc-cropped-1773860567305.jpg\" /></a>(Dân trí) - Iran cảnh báo nhắm mục tiêu vào các cơ sở năng lượng có liên quan đến Mỹ sau các trận tập kích vào lãnh thổ Iran."
-    },
-    {
-      "id": 3,
-      "title": "Hà Nội: CSGT xử lý xe hổ vồ rơi cát, nước xuống đường",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/ha-noi-csgt-xu-ly-xe-ho-vo-roi-cat-nuoc-xuong-duong-20260318185147591.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/18/xe-ho-vo-chay-thuong-tin7-1773828014353.jpg?watermark=true\" /></a>(Dân trí) - Bị CSGT dừng xe kiểm tra vì rơi cát, nước xuống lòng đường nam tài xế xe hổ vồ nói không nhìn thấy rồi liên tục gọi điện \"cầu cứu\". Song Đội CSGT đường bộ số 8 (Hà Nội) kiên quyết xử lý vi phạm trên."
     }
   ]
 }
