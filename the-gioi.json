@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ông Anutin tái đắc cử Thủ tướng Thái Lan",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ong-anutin-tai-dac-cu-thu-tuong-thai-lan-20260319134809997.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/19/thailanreuters11zon-1773902291910.jpg\" /></a>(Dân trí) - Ông Anutin Charnvirakul đã được bầu lại làm Thủ tướng Thái Lan sau khi dễ dàng vượt qua cuộc bỏ phiếu tại quốc hội, giành được nhiệm kỳ mới hứa hẹn mở ra một giai đoạn ổn định của đất nước."
+    },
+    {
+      "id": 2,
       "title": "Mỹ tính điều thêm hàng nghìn quân, “lên dây cót” mở rộng chiến dịch Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-tinh-dieu-them-hang-nghin-quan-len-day-cot-mo-rong-chien-dich-iran-20260319121112181.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/16/tausanbaymyreuters-1773633893248.jpg\" /></a>(Dân trí) - Chính quyền Mỹ được cho là chuẩn bị cho kế hoạch mở rộng các phương án quân sự trong chiến dịch tập kích Iran."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chiến sự Ukraine 19/3: Trận đánh khốc liệt và dữ dội nhất sắp bùng nổ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-193-tran-danh-khoc-liet-va-du-doi-nhat-sap-bung-no-20260319115454427.htm\"><img src=\"https://icdn.dantri.com.vn/2023/12/26/chien-su-nga-ukraine-anhminhhoaskynews006-crop-1703558978818.jpeg\" /></a>(Dân trí) - Quân đội Nga đã tiến đến cách thành phố Sloviansk  14km, nơi sắp diễn ra trận chiến khốc liệt và dữ dội nhất kể từ khi bắt đầu chiến dịch quân sự đặc biệt."
-    },
-    {
-      "id": 3,
-      "title": "Toàn cảnh xung đột Trung Đông: Iran phản ứng nhanh và dứt khoát",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/toan-canh-xung-dot-trung-dong-iran-phan-ung-nhanh-va-dut-khoat-20260319095538734.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/19/toan-canh-xung-dot-trung-dong-iran-phan-don-nhanh-va-dut-khoat-cropped-1773888244160.jpg\" /></a>(Dân trí) - Sau các cuộc tấn công của Israel vào cơ sở khí đốt tại Iran, Tehran tuyên bố “lằn ranh đỏ đã thay đổi” và phản ứng rất nhanh chóng, tập kích vào các khu phức hợp dầu khí trên khắp Trung Đông."
     }
   ]
 }
