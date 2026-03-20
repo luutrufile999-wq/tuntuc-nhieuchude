@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran cảnh báo tấn công các quan chức Mỹ và Israel",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-canh-bao-tan-cong-cac-quan-chuc-my-va-israel-20260320214526586.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/20/image-2026-03-20t213943-cropped-1774017633485.jpg\" /></a>(Dân trí) - Quân đội Iran ngày 20/3 cảnh báo tấn công các quan chức Mỹ và Israel ngay cả khi họ đang đi nghỉ mát hoặc đến các trung tâm giải trí trên toàn thế giới."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Trump: “Không có Mỹ, NATO chỉ là hổ giấy”",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-khong-co-my-nato-chi-la-ho-giay-20260320214156530.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/20/trumpreuters-1774017400518.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump chỉ trích các đồng minh NATO vì không ủng hộ mạnh mẽ cuộc chiến của Mỹ và Israel chống lại Iran."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Iran tấn công vị trí trọng yếu của Mỹ, tuyên bố \"chiến thắng đang đến gần\"",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-tan-cong-vi-tri-trong-yeu-cua-my-tuyen-bo-chien-thang-dang-den-gan-20260320210312282.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/20/67-ezgifcom-video-to-gif-converter-1774015315095.gif\" /></a>(Dân trí) - Iran tuyên bố tấn công các vị trí của Mỹ và Israel trong khu vực, đồng thời khẳng định “chiến thắng đang đến gần”."
-    },
-    {
-      "id": 3,
-      "title": "Israel hạ sát lãnh đạo cấp cao Iran, chuyên gia cảnh báo tác dụng ngược",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/israel-ha-sat-lanh-dao-cap-cao-iran-chuyen-gia-canh-bao-tac-dung-nguoc-20260320160623105.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/20/image-47-cropped-1773996833755.jpg\" /></a>(Dân trí) - Israel liên tiếp hạ sát nhiều lãnh đạo cấp cao của Iran trong các cuộc không kích, nhưng giới chuyên gia cảnh báo chiến lược này có những hạn chế và đôi khi có thể phản tác dụng."
     }
   ]
 }
