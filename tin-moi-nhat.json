@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran đề nghị Mỹ - Israel bồi thường vì tập kích cơ sở hạt nhân",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-de-nghi-my-israel-boi-thuong-vi-tap-kich-co-so-hat-nhan-20260323022603809.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/23/iran-de-nghi-my-israel-boi-thuong-vi-tap-kich-co-so-hat-nhan-1774207175959.webp\" /></a>(Dân trí) - Ngoại trưởng Iran Abbas Araghchi đã kêu gọi Liên hợp quốc buộc Mỹ và Israel phải bồi thường thiệt hại do những cuộc tấn công nhằm vào các cơ sở hạt nhân của phía Tehran."
+    },
+    {
+      "id": 2,
       "title": "Miền Bắc có thể sắp nắng nóng cục bộ",
       "summary": "<a href=\"https://dantri.com.vn/thoi-tiet/mien-bac-co-the-sap-nang-nong-cuc-bo-20260322191845831.htm\"><img src=\"https://icdn.dantri.com.vn/2024/09/26/nang-1727360149388.jpg\" /></a>(Dân trí) - Theo cơ quan khí tượng thủy văn, từ khoảng ngày 24/3, không khí lạnh suy yếu, nhiệt độ ở Bắc Bộ tăng dần, đêm và sáng nhiều mây, ngày nắng, đến cuối tuần, khu vực Tây Bắc Bộ khả năng nắng nóng cục bộ."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ còn đủ ngân sách cho chiến sự, Iran cảnh báo đóng hoàn toàn Hormuz",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-con-du-ngan-sach-cho-chien-su-iran-canh-bao-dong-hoan-toan-hormuz-20260322224949883.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/22/my-con-du-ngan-sach-cho-chien-su-iran-canh-bao-dong-hoan-toan-hormuz-1774194405698.jpg\" /></a>(Dân trí) - Mỹ và Iran phát đi các thông điệp cho thấy họ chưa có dấu hiệu nhượng bộ trong cuộc xung đột đã kéo dài 3 tuần qua."
-    },
-    {
-      "id": 3,
-      "title": "Arsenal 0-2 Man City (hiệp 2): \"Pháo thủ\" không còn nhiều thời gian",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/arsenal-0-2-man-city-hiep-2-phao-thu-khong-con-nhieu-thoi-gian-20260322223727915.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/23/arsenal-0-2-man-city-hiep-2-oreilly-lap-cu-dup-cropped-1774202922204.jpg\" /></a>(Dân trí) - Thời gian của trận chung kết đang trôi về những phút cuối, trong khi Arsenal bị dẫn trước hai bàn. “Pháo thủ” chưa cho thấy dấu hiệu vùng lên, khiến cơ hội lội ngược dòng của họ trở nên rất mong manh."
     }
   ]
 }
