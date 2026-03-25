@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá dầu rơi mạnh xuống dưới 87 USD/thùng",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-dau-roi-manh-xuong-duoi-87-usdthung-20260325095648336.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/25/thung-khi-trung-dong-phat-tin-hieu-ha-nhiet-cropped-1774407298199.jpg\" /></a>(Dân trí) - Giá dầu thế giới bất ngờ lao dốc trong bối cảnh giới đầu tư đặt cược vào khả năng hạ nhiệt căng thẳng tại Trung Đông."
+    },
+    {
+      "id": 2,
       "title": "Bảo Tín Minh Châu kinh doanh ra sao?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bao-tin-minh-chau-kinh-doanh-ra-sao-20260325174431613.htm\"><img src=\"https://icdn.dantri.com.vn/2022/02/16/mua-vang-ngay-via-than-tai-on-ao-luc-dau-sau-thua-vang-khach-5-crop-1644976094003.jpeg\" /></a>(Dân trí) - Ông Vũ Minh Châu là người sở hữu vốn lớn nhất tại Bảo Tín Minh Châu. Doanh nghiệp này năm 2026 lấn sân sang kinh doanh bất động sản sau nhiều năm kinh doanh vàng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá xăng dầu giảm mạnh từ chiều 25/3, Bộ Công Thương nói lý do",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-xang-dau-giam-manh-tu-chieu-253-bo-cong-thuong-noi-ly-do-20260325162923341.htm\"><img src=\"https://icdn.dantri.com.vn/2025/01/17/do-xang4-1-edited-1737082604254.jpeg\" /></a>(Dân trí) - Trong kỳ điều hành chiều 25/3, giá xăng dầu giảm mạnh. Bộ Công Thương cho biết giá cơ sở xăng RON 95 giảm hơn 10%, vượt ngưỡng quy định tại Nghị quyết 55 nên đã quyết định điều chỉnh giá."
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng miếng giảm 1,5 triệu đồng/lượng, về dưới 175 triệu đồng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-mieng-giam-15-trieu-dongluong-ve-duoi-175-trieu-dong-20260325011816105.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/26/mua-vang-tai-ngan-hangthanh-dong28-edited-cropped-cropped-1756143389227.jpg?watermark=true\" /></a>(Dân trí) - Sau khi biến động mạnh trong thời gian ngắn, giá vàng miếng tăng trở lại, sau đó lại giảm về vùng dưới 174 triệu đồng/lượng."
     }
   ]
 }
