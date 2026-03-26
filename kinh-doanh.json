@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá xăng dầu giảm tiếp, RON 95 giảm gần 6.000 đồng/lít",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-xang-dau-giam-tiep-ron-95-giam-gan-6000-donglit-20260326130349943.htm\"><img src=\"https://icdn.dantri.com.vn/2024/10/09/nguoi-dan-do-xang12-edited-1728409081066.jpeg?watermark=true\" /></a>(Dân trí) - Trong kỳ điều hành tối 26/3, giá xăng dầu tiếp tục giảm mạnh. Cụ thể, giá xăng giảm tới gần 6.000 đồng/lít."
+    },
+    {
+      "id": 2,
       "title": "Ông Nguyễn Duy Hưng bán Bibica cho đối tác ngoại, thu gần 2.000 tỷ đồng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ong-nguyen-duy-hung-ban-bibica-cho-doi-tac-ngoai-thu-gan-2000-ty-dong-20260326194515580.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/26/hung-ssi-cropped-1774530697684.jpg\" /></a>(Dân trí) - Năm 2022, PAN Group do ông Nguyễn Duy Hưng làm Chủ tịch HĐQT đã mua 7,4 triệu cổ phiếu BBC với giá công khai là 71.000 đồng/cổ phiếu. Tổng số tiền chi ra vào khoảng 524 tỷ đồng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ủy ban Chứng khoán Nhà nước cảnh báo nóng về đầu tư trên mạng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/uy-ban-chung-khoan-nha-nuoc-canh-bao-nong-ve-dau-tu-tren-mang-20260326192743640.htm\"><img src=\"https://icdn.dantri.com.vn/2023/09/17/ttck-3-crop-1628783385277-1694961724688.jpeg\" /></a>(Dân trí) - Cụ thể, cơ quan này cảnh báo hoạt động đầu tư trên mạng hiện nay. Thông báo từ UBCKNN chỉ rõ tên các nền tảng mạng xã hội như Tikop, Buff, Topi… đang huy động vốn bằng nhiều hình thức."
-    },
-    {
-      "id": 3,
-      "title": "Khởi công nhà máy điện LNG quy mô gần 19.000 tỷ đồng tại TPHCM",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khoi-cong-nha-may-dien-lng-quy-mo-gan-19000-ty-dong-tai-tphcm-20260326150353024.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/26/lng-1774527029470.jpg\" /></a>(Dân trí) - Trong cấu trúc nguồn điện mới, điện khí LNG được xác định là trụ cột quan trọng nhằm thay thế dần nhiệt điện than và bổ sung nguồn điện nền linh hoạt cho hệ thống."
     }
   ]
 }
