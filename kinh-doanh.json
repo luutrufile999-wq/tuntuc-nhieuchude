@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỗi quý, Gia Lai sẽ tổ chức một đại nhạc hội tầm cỡ quốc tế",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/moi-quy-gia-lai-se-to-chuc-mot-dai-nhac-hoi-tam-co-quoc-te-20260327104606209.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/27/chu-tich-gia-lai-moi-quy-tinh-se-to-chuc-1-dai-nhac-hoi-tam-quoc-te-cropped-1774582857611.jpg\" /></a>(Dân trí) - Dự án trung tâm đại nhạc hội quốc tế do cha đẻ Kpop Lee Soo Man đầu tư tại Gia Lai được kỳ vọng sẽ trở thành bệ phóng, kích hoạt mạnh mẽ trục du lịch biển và cao nguyên của địa phương."
+    },
+    {
+      "id": 2,
       "title": "Tác giả “Cha giàu cha nghèo” ấn tượng với tăng trưởng kinh tế của Việt Nam",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tac-gia-cha-giau-cha-ngheo-an-tuong-voi-tang-truong-kinh-te-cua-viet-nam-20260327101029146.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/27/cha-giau-cha-ngheo-cropped-1774580844442.jpg\" /></a>(Dân trí) - Tác giả cuốn sách Cha giàu cha nghèo Robert Kiyosaki vừa có bài viết khen ngợi kinh tế Việt Nam, nhấn mạnh sức hút từ năng lực sản xuất và định hướng phát triển bền vững của quốc gia."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ông Trịnh Văn Quyết xuất hiện tại một sự kiện ở Gia Lai",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ong-trinh-van-quyet-xuat-hien-tai-mot-su-kien-o-gia-lai-20260327094129028.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/27/z766227502593003dffcd84959e3f7901bda792733e524-cropped-edited-edited-1774579158716.jpg\" /></a>(Dân trí) - Sau nhiều năm, ông Trịnh Văn Quyết lần đầu tiên xuất hiện với vai trò Chủ tịch Tập đoàn FLC tại một sự kiện tại Gia Lai."
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng trong nước, thế giới phục hồi",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-the-gioi-phuc-hoi-20260327092303184.htm\"><img src=\"https://icdn.dantri.com.vn/2022/12/30/vangmq27-edited-1672343264734.jpeg\" /></a>(Dân trí) - Vàng miếng SJC cửa giảm giá mạnh nhưng nhanh chóng đảo chiều tăng trở lại theo đà phục hồi của giá vàng thế giới."
     }
   ]
 }
