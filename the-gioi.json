@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran cảnh báo đánh thẳng tàu sân bay, buộc Mỹ rời xa khỏi biên giới",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-canh-bao-danh-thang-tau-san-bay-buoc-my-roi-xa-khoi-bien-gioi-20260329233631808.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/29/iran-canh-bao-phong-ten-lua-tan-cong-tau-san-bay-my-1774802119507.jpg\" /></a>(Dân trí) - Tư lệnh hải quân Iran cảnh báo sẽ tấn công nhóm tác chiến tàu sân bay USS Abraham Lincoln khi Mỹ dường như đang chuẩn bị cho kế hoạch đổ bộ vào Iran."
+    },
+    {
+      "id": 2,
       "title": "Iran tuyên bố phá hủy hoàn toàn máy bay “Mắt thần” Mỹ trong trận tập kích",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-tuyen-bo-pha-huy-hoan-toan-may-bay-mat-than-my-trong-tran-tap-kich-20260329192237068.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/29/iran-tuyen-bo-pha-huy-hoan-toan-may-bay-mat-than-my-trong-tran-tap-kich-cropped-1774786776507.jpg\" /></a>(Dân trí) - Iran tuyên bố máy bay “Mắt thần” E3 Sentry của Mỹ đã bị phá hủy hoàn toàn trong một trận tập kích vào căn cứ ở Ả rập Xê út."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Iran quyết không đầu hàng, cảnh báo đanh thép khả năng Mỹ đưa quân đổ bộ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-quyet-khong-dau-hang-canh-bao-danh-thep-kha-nang-my-dua-quan-do-bo-20260329181339701.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/29/chutichquochoiirangetty-1774782735683.png\" /></a>(Dân trí) - Quan chức Iran cảnh báo đáp trả bất kỳ chiến dịch trên bộ nào của Mỹ trong khi Lầu Năm Góc được cho là đang chuẩn bị cho kế hoạch đổ bộ."
-    },
-    {
-      "id": 3,
-      "title": "Khác biệt chính trong lập trường đàm phán giữa Mỹ và Iran",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/khac-biet-chinh-trong-lap-truong-dam-phan-giua-my-va-iran-20260329171145224.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/29/2026-03-29t080235z2031529580rc27ekazcxqlrtrmadp3iran-crisis-pakistan-talks-cropped-1774778927680.jpg\" /></a>(Dân trí) - Tính đến sáng 29/3, các cuộc đàm phán ngoại giao tại Pakistan và tín hiệu từ Ai Cập - Qatar cho thấy cửa sổ cơ hội vẫn mở, dù đang rất hẹp."
     }
   ]
 }
