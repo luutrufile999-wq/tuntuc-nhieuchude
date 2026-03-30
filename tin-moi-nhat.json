@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Hà Nội: Chủ siêu thị xông đến căn hộ chung cư đập cửa, chửi bới hai bà lão",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/ha-noi-chu-sieu-thi-xong-den-can-ho-chung-cu-dap-cua-chui-boi-hai-ba-lao-20260330114240949.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/30/03301-1774845470507.gif\" /></a>(Dân trí) - Công an phường Vĩnh Tuy (TP Hà Nội) đang vào cuộc kiểm tra, xác minh video ghi lại cảnh hai người đàn ông xông đến căn hộ chung cư đập cửa, lời quan tiếng lại với cư dân."
-    },
-    {
-      "id": 2,
       "title": "Chiếm đoạt tiền tỷ bằng mảnh giấy đặt mua trên mạng",
       "summary": "<a href=\"https://dantri.com.vn/phap-luat/chiem-doat-tien-ty-bang-manh-giay-dat-mua-tren-mang-20260330155753414.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/30/nguyen-van-sanglua-daonghe-anhoang-lam-edited-1774860376926.jpg\" /></a>(Dân trí) - Nguyễn Văn Sáng lên mạng thuê người làm giả sổ đỏ thửa đất của bố mẹ mang tên mình. Với mảnh giấy này, Sáng lừa đảo, chiếm đoạt của người bạn 3 tỷ đồng."
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Thiếu gia người Nhật U40 chưa từng đi làm, được mẹ cho 82 triệu đồng/tháng",
       "summary": "<a href=\"https://dantri.com.vn/doi-song/thieu-gia-nguoi-nhat-u40-chua-tung-di-lam-duoc-me-cho-82-trieu-dongthang-20260330162837344.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/30/thieu-gia-nguoi-nhat-u40-chua-tung-di-lam-cropped-1774862856076.jpg\" /></a>(Dân trí) - Sống trong căn hộ cao cấp, nam thiếu gia thừa nhận đây là nhà được mẹ mua. Chưa từng đi làm, người đàn ông Nhật Bản cho biết hàng tháng đều nhận tiền từ mẹ."
+    },
+    {
+      "id": 3,
+      "title": "Fed \"quay xe\", liệu chu kỳ giảm lãi suất có khép lại?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/fed-quay-xe-lieu-chu-ky-giam-lai-suat-co-khep-lai-20260330153329518.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/30/feds-cut-nov-scaled-cropped-1774858727964.jpg\" /></a>(Dân trí) - Lạm phát bùng phát do giá dầu vượt đỉnh khiến các quan chức Fed thay đổi giọng điệu. Thay vì cắt giảm, kịch bản tăng lãi suất lại xuất hiện với tỷ lệ dự đoán lớn."
     }
   ]
 }
