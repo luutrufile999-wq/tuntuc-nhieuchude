@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Đội bóng Thái Lan bị loại đáng tiếc ở Cúp C2 châu Á",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/doi-bong-thai-lan-bi-loai-dang-tiec-o-cup-c2-chau-a-20260415221406350.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/15/bangkok-osakaaseanfootball15-4-26-cropped-1776265714120.jpg\" /></a>(Dân trí) - Thất bại 0-3 trong trận bán kết lượt về trước Gamba Osaka (Nhật Bản) khiến cho CLB Bangkok United (Thái Lan) bị loại khỏi trận chung kết Cúp C2 châu Á (AFC Champions League 2) 2025-2026."
+    },
+    {
+      "id": 2,
       "title": "Man Utd thi đấu thất thường, HLV Carrick đối mặt nguy cơ mất ghế",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/man-utd-thi-dau-that-thuong-hlv-carrick-doi-mat-nguy-co-mat-ghe-20260415210709282.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/15/man-utd-thua-leeds-tuong-lai-cua-hlv-carrick-bi-dat-dau-hoi-cropped-1776260370253.jpg\" /></a>(Dân trí) - Thất bại 1-2 trước Leeds tại Old Trafford không chỉ khiến Man Utd chững lại trong cuộc đua top 5, mà còn đẩy HLV Michael Carrick vào tình thế bấp bênh, khi niềm tin từ ban lãnh đạo đang dần lung lay."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Báo Indonesia nêu kịch bản đội nhà bất ngờ có vé dự World Cup 2026",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-indonesia-neu-kich-ban-doi-nha-bat-ngo-co-ve-du-world-cup-2026-20260415175252061.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/15/bao-indonesia-neu-kich-ban-doi-nha-bat-ngo-co-ve-du-world-cup-2026-cropped-1776250252808.jpg\" /></a>(Dân trí) - Tờ Bola (Indonesia) kỳ vọng đội tuyển quốc gia nước này sống lại hy vọng tham dự World Cup 2026."
-    },
-    {
-      "id": 3,
-      "title": "AFF không xử thua CLB Malaysia vụ sử dụng cầu thủ nhập tịch “lậu”",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/aff-khong-xu-thua-clb-malaysia-vu-su-dung-cau-thu-nhap-tich-lau-20260415180638705.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/15/aff-ra-phan-quyet-bat-ngo-vu-clb-malaysia-su-dung-cau-thu-nhap-tich-lau-1776251084195.jpg\" /></a>(Dân trí) - Liên đoàn bóng đá Đông Nam Á (AFF) quyết định không xử thua CLB Johor Darul Ta'zim (JDT) dù đội bóng Malaysia sử dụng ba cầu thủ nhập tịch “lậu”."
     }
   ]
 }
