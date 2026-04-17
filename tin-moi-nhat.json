@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Triệt phá nhóm đối tượng dùng dao đi cướp liên tỉnh",
-      "summary": "<a href=\"https://dantri.com.vn/phap-luat/triet-pha-nhom-doi-tuong-dung-dao-di-cuop-lien-tinh-20260415221622969.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/15/ld-copy-cropped-1776265820489.jpg\" /></a>(Dân trí) - Dù còn trong độ tuổi thanh thiếu niên, nhóm 4 đối tượng đã hết sức manh động, cả 4 bàn bạc dùng hung khí chặn xe người đi đường trong đêm, sẵn sàng tấn công nạn nhân để cướp tài sản."
-    },
-    {
-      "id": 2,
       "title": "Đồng Nai nhắc nhở các đơn vị trả nợ tiền điện",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/dong-nai-nhac-nho-cac-don-vi-tra-no-tien-dien-20260415202239499.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/08/duongtructrungtamphuoctuan29-1775639732326.jpeg\" /></a>(Dân trí) - Công ty Điện lực Đồng Nai ghi nhận khoản nợ đọng trên 10,4 tỷ đồng với hơn 2.670 hóa đơn tiền điện chưa thanh toán, quyết toán của các đơn vị trực thuộc chính quyền địa phương."
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "SOOBIN và Hòa Minzy như hoàng tử, công chúa lộng lẫy trên thảm đỏ Cống hiến",
       "summary": "<a href=\"https://dantri.com.vn/giai-tri/soobin-va-hoa-minzy-nhu-hoang-tu-cong-chua-long-lay-tren-tham-do-cong-hien-20260415211802422.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/15/tham-do-le-trao-giai-cong-hien-202625-1776259978254.jpg?watermark=true\" /></a>(Dân trí) - SOOBIN và Hòa Minzy thu hút mọi ánh nhìn với tạo hình nổi bật, được ví như “hoàng tử - công chúa”, cùng với các ngôi sao giải trí khác khoe sắc trên thảm đỏ Lễ trao giải Cống hiến 2026."
+    },
+    {
+      "id": 3,
+      "title": "Pha chế \"kem ủ da siêu trắng\" từ... bột gạo, hóa chất",
+      "summary": "<a href=\"https://dantri.com.vn/phap-luat/pha-che-kem-u-da-sieu-trang-tu-bot-gao-hoa-chat-20260415213745117.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/15/phat-hien-co-so-pha-che-kem-u-sieu-trang-lam-tu-bot-gao-va-hoa-chatcong-an-gia-lai-cropped-1776263637222.jpg\" /></a>(Dân trí) - Công an tỉnh Gia Lai kiểm tra đột xuất một cơ sở mỹ phẩm, thu giữ nhiều “kem ủ siêu trắng” pha chế từ bột gạo, hóa chất không rõ nguồn gốc, tiềm ẩn nguy cơ mất an toàn cho người sử dụng."
     }
   ]
 }
