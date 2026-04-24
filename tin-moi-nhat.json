@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Bí mật của loài cá duy nhất toàn con cái, đã tồn tại 100.000 năm",
-      "summary": "<a href=\"https://dantri.com.vn/khoa-hoc/bi-mat-cua-loai-ca-duy-nhat-toan-con-cai-da-ton-tai-100000-nam-20260424093532925.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/24/ca-1776997872114.png\" /></a>(Dân trí) - Không cần con đực để di truyền ADN, cá molly Amazon vẫn tồn tại suốt 100.000 năm. Cách sinh sản đặc biệt của loài này từng khiến giới khoa học tin rằng chúng “không thể sống sót lâu”."
-    },
-    {
-      "id": 2,
       "title": "Camera iPhone 18 Pro Max có nâng cấp quan trọng",
       "summary": "<a href=\"https://dantri.com.vn/cong-nghe/camera-iphone-18-pro-max-co-nang-cap-quan-trong-20260423235827614.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/23/iphone-18-pro-max-macrumors-cropped-1776962563356.jpg\" /></a>(Dân trí) - Trong một video mới nhất, Vadim Yuryev, chủ của kênh YouTube Max Tech, đã chia sẻ một số hình ảnh về mô hình iPhone 18 Pro và iPhone 18 Pro Max."
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Vỡ nắp cống trên đường Khuất Duy Tiến, xe taxi tụt bánh xuống hố",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/vo-nap-cong-tren-duong-khuat-duy-tien-xe-taxi-tut-banh-xuong-ho-20260424121008766.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/24/csgt-cropped-1777007200771.jpg\" /></a>(Dân trí) - Chiếc taxi đang di chuyển trên đường Khuất Duy Tiến bất ngờ bị tụt bánh trước xuống hố sâu, nguyên nhân do nắp cống bị vỡ."
+    },
+    {
+      "id": 3,
+      "title": "Xe điện tăng tốc: Trung Quốc tiến gần ngày “khai tử” xe xăng?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/xe-dien-tang-toc-trung-quoc-tien-gan-ngay-khai-tu-xe-xang-20260423151652488.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/23/xe-dien-tang-toc-trung-quoc-tien-gan-ngay-khai-tu-xe-xang-cropped-1776931845774.jpg\" /></a>(Dân trí) - Làn sóng xe điện đang len lỏi vào từng ngõ ngách tại Trung Quốc với tỷ lệ thị phần tiến sát 50%. Đây là đòn giáng mạnh vào các hãng xe truyền thống vốn vẫn đang loay hoay bám víu vào xe xăng."
     }
   ]
 }

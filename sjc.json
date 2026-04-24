@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Lỗi",
-      "summary": "Lỗi khi cào dữ liệu: 504 Server Error: Gateway Time-out for url: https://sjc.com.vn/"
+      "summary": "Lỗi khi cào dữ liệu: HTTPSConnectionPool(host='sjc.com.vn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='sjc.com.vn', port=443) at 0x7f4db022dc90>, 'Connection to sjc.com.vn timed out. (connect timeout=None)'))"
     }
   ]
 }
