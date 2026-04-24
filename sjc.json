@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Lỗi",
-      "summary": "Lỗi khi cào dữ liệu: 520 Server Error: <none> for url: https://sjc.com.vn/"
+      "summary": "Lỗi khi cào dữ liệu: 'NoneType' object has no attribute 'find'"
     }
   ]
 }
