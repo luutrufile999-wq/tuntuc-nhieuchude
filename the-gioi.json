@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran dọa nâng làm giàu uranium lên 90%",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-doa-nang-lam-giau-uranium-len-90-20260512183446688.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/28/hat-nhannation-1774651511299.jpg\" /></a>(Dân trí) - Iran có thể xem xét việc làm giàu uranium lên mức 90% trong trường hợp Mỹ nối lại chiến dịch tấn công."
+    },
+    {
+      "id": 2,
       "title": "Nga tìm ra giải pháp khắc chế “hỏa thần” HIMARS của Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-tim-ra-giai-phap-khac-che-hoa-than-himars-cua-ukraine-20260512145135137.htm\"><img src=\"https://icdn.dantri.com.vn/2024/01/22/to-hop-himars-ukraineusairforce-crop-1705897082367.jpeg\" /></a>(Dân trí) - Nga đã đưa vào sử dụng một loại vũ khí mới, được coi là khắc tinh của tên lửa chiến thuật HIMARS mà Mỹ cung cấp cho Ukraine."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ukraine nói đã hạ được 90% UAV, 80% tên lửa hành trình của Nga",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-noi-da-ha-duoc-90-uav-80-ten-lua-hanh-trinh-cua-nga-20260512163823471.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/12/f6ddb9292d7e2aecc9b80b3f2ea4f887-1778578512171.webp\" /></a>(Dân trí) - Ukraine công bố tỷ lệ đánh chặn hỏa lực của Nga trong thời gian qua khi Moscow gia tăng các cuộc tập kích quy mô lớn."
-    },
-    {
-      "id": 3,
-      "title": "Iran chỉ ra con đường duy nhất đưa xung đột đến hồi kết",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-chi-ra-con-duong-duy-nhat-dua-xung-dot-den-hoi-ket-20260512144637665.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/15/tautuantrairangetty-cropped-1776256685156.jpg\" /></a>(Dân trí) - Quan chức Iran tuyên bố, đề xuất 14 điểm của nước này là con đường duy nhất để giải quyết cuộc xung đột với Mỹ."
     }
   ]
 }
