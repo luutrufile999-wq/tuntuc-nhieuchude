@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng thế giới bất ngờ \"sập\" mạnh",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-bat-ngo-sap-manh-20260512203945957.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/12/gia-vang-the-gioi-bat-ngo-sap-manh-cropped-1778592966793.jpg\" /></a>(Dân trí) - Giá vàng thế giới tiếp tục lao dốc xuống dưới mốc 4.700 USD/ounce khi giới đầu tư dồn sự chú ý vào cuộc gặp sắp tới giữa Tổng thống Mỹ Donald Trump và Chủ tịch Trung Quốc Tập Cận Bình."
+    },
+    {
+      "id": 2,
       "title": "Xuất khẩu quý I tăng hai con số, ngành điều vẫn giảm mục tiêu năm 2026",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/xuat-khau-quy-i-tang-hai-con-so-nganh-dieu-van-giam-muc-tieu-nam-2026-20260512185951745.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/12/dieu-2-cropped-1778587016571.jpg\" /></a>(Dân trí) - Dù quý I/2026 xuất khẩu nhân điều tăng trưởng ấn tượng, Vinacas vẫn quyết định điều chỉnh giảm kim ngạch cả năm do lo ngại rủi ro từ chiến sự, giá nguyên liệu thô và cước vận tải tăng vọt."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Một ngân hàng tăng lãi suất kỳ hạn dài, mức cao nhất 7,3%/năm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mot-ngan-hang-tang-lai-suat-ky-han-dai-muc-cao-nhat-73nam-20260512172017973.htm\"><img src=\"https://icdn.dantri.com.vn/2023/04/12/vpbank-giao-dich39-edited-1681286718381.jpeg\" /></a>(Dân trí) - Thêm ngân hàng tăng nhẹ lãi suất tiền gửi ở các kỳ hạn từ 6-36 tháng, trong bối cảnh mặt bằng lãi suất tiết kiệm trên thị trường đã hạ nhiệt sau chỉ đạo giảm lãi suất hỗ trợ nền kinh tế."
-    },
-    {
-      "id": 3,
-      "title": "Chặn đứng 14.550 chai mỹ phẩm hết hạn gần 1 năm vẫn khai báo là hàng mới",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chan-dung-14550-chai-my-pham-het-han-gan-1-nam-van-khai-bao-la-hang-moi-20260512170650791.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/12/3776095440746292476-cropped-1778580364756.jpg\" /></a>(Dân trí) - Cơ quan hải quan phát hiện và ngăn chặn 14.550 chai mỹ phẩm dưỡng da nhập khẩu đã hết hạn sử dụng gần một năm chuẩn bị đưa ra thị trường tiêu thụ."
     }
   ]
 }
