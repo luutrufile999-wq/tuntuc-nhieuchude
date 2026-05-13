@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga kêu gọi Ukraine rút quân, nêu điều kiện ngừng bắn",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-keu-goi-ukraine-rut-quan-neu-dieu-kien-ngung-ban-20260513214548647.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/12/linhukrainedonetskreuters-cropped-1770890641950.jpg\" /></a>(Dân trí) - Quan chức Điện Kremlin kêu gọi Ukraine rút quân khỏi Donbass và các vùng lãnh thổ do Nga kiểm soát."
+    },
+    {
+      "id": 2,
       "title": "Nổ súng tại trụ sở Thượng viện Philippines​",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/no-sung-tai-tru-so-thuong-vien-philippines-20260513203833898.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/13/image-2026-05-13t203513782-1778679334616.png\" /></a>(Dân trí) - Đã có tiếng súng vang lên trong tòa nhà Thượng viện Philippines hôm 13/5 sau vụ bắt giữ hỗn loạn hồi đầu tuần nhằm vào một thượng nghị sĩ bị Tòa án Hình sự Quốc tế truy nã."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Trump đến Bắc Kinh, Trung Quốc trải thảm đỏ tiếp đón",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-den-bac-kinh-trung-quoc-trai-tham-do-tiep-don-20260513192834459.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/13/trump-8-edited-1778676409083.jpg\" /></a>(Dân trí) - Chuyên cơ chở Tổng thống Donald Trump đã hạ cánh xuống Bắc Kinh, bắt đầu chuyến thăm của nhà lãnh đạo Mỹ tới Trung Quốc."
-    },
-    {
-      "id": 3,
-      "title": "Iran chặn Mỹ đưa vũ khí qua Hormuz, cảnh báo đáp trả quyết liệt",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-chan-my-dua-vu-khi-qua-hormuz-canh-bao-dap-tra-quyet-liet-20260513182604617.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/07/xuongcaotociranpresstv-cropped-1778111009396.jpg\" /></a>(Dân trí) - Tướng Iran tuyên bố vũ khí của Mỹ sẽ không được phép vận chuyển qua eo biển Hormuz để đưa đến các căn cứ trong khu vực."
     }
   ]
 }
