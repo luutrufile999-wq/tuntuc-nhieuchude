@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Australia tăng hỗ trợ phát triển chính thức cho Việt Nam",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/australia-tang-ho-tro-phat-trien-chinh-thuc-cho-viet-nam-20260513173002181.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/13/122558-3457-cropped-1778668046840.jpg\" /></a>(Dân trí) - Chính phủ Australia thể hiện sự cam kết mạnh mẽ và lâu dài trong Quan hệ Đối tác Chiến lược Toàn diện với Việt Nam, thông qua việc tăng cường Hỗ trợ Phát triển Chính thức (ODA)."
+    },
+    {
+      "id": 2,
       "title": "Nhà lãnh đạo Triều Tiên thị sát các cơ sở sản xuất vũ khí",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nha-lanh-dao-trieu-tien-thi-sat-cac-co-so-san-xuat-vu-khi-20260513150805689.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/13/image-2026-05-13t145153-cropped-1778659557806.jpg\" /></a>(Dân trí) - Nhà lãnh đạo Triều Tiên Kim Jong-un đã thị sát một số nhà máy sản xuất đạn dược, kêu gọi hiện đại hóa hệ thống sản xuất."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Trump tiết lộ dàn tỷ phú tháp tùng chuyến thăm Trung Quốc",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-tiet-lo-dan-ty-phu-thap-tung-chuyen-tham-trung-quoc-20260513114829375.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/13/trumptapreuters-cropped-1778647179888.jpg\" /></a>(Dân trí) - Hàng loạt lãnh đạo các doanh nghiệp hàng đầu của Mỹ sẽ tháp tùng Tổng thống Donald Trump trong chuyến công du Trung Quốc tuần này."
-    },
-    {
-      "id": 3,
-      "title": "Trung Quốc siết chặt hàng rào an ninh trước thềm thượng đỉnh với Mỹ",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trung-quoc-siet-chat-hang-rao-an-ninh-truoc-them-thuong-dinh-voi-my-20260513141853952.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/13/1-cropped-1778657505249.jpg\" /></a>(Dân trí) - Bắc Kinh đã tăng cường an ninh và chuẩn bị các địa điểm trọng yếu khi thủ đô Trung Quốc sắp diễn ra các cuộc hội đàm quan trọng giữa Tổng thống Mỹ Donald Trump với Chủ tịch Tập Cận Bình vào tuần này."
     }
   ]
 }
