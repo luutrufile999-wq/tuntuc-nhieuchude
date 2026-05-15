@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chủ tịch Tập Cận Bình nói về chuyến thăm lịch sử của Tổng thống Trump",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chu-tich-tap-can-binh-noi-ve-chuyen-tham-lich-su-cua-tong-thong-trump-20260515183601564.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/15/trumptapreuters-cropped-1778844714516.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump và Chủ tịch Trung Quốc Tập Cận Bình đều đưa ra những tuyên bố lạc quan về quan hệ song phương sau chuyến thăm lịch sử."
+    },
+    {
+      "id": 2,
       "title": "Hơn 1.600 tên lửa, UAV Nga dồn dập tấn công, Ukraine tung đòn đáp trả",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/hon-1600-ten-lua-uav-nga-don-dap-tan-cong-ukraine-tung-don-dap-tra-20260515175520982.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/15/donatkievreuters-1778842370451.jpg\" /></a>(Dân trí) - Ukraine đã tấn công hàng loạt mục tiêu của Nga sau khi Moscow tiến hành đợt tập kích quy mô lớn với hơn 1.600 tên lửa và máy bay không người lái."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Lý do ông Tập chọn gặp ông Trump ở Trung Nam Hải",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ly-do-ong-tap-chon-gap-ong-trump-o-trung-nam-hai-20260515112807042.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/15/trump-tapreuters11zon-1778819010287.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump đã dành buổi sáng cuối cùng trong chuyến thăm Trung Quốc tại Trung Nam Hải - khu phức hợp lãnh đạo cực kỳ bí mật và được canh gác nghiêm ngặt của Trung Quốc."
-    },
-    {
-      "id": 3,
-      "title": "Iran tuyên bố chỉ đàm phán với Mỹ kèm điều kiện tiên quyết",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-tuyen-bo-chi-dam-phan-voi-my-kem-dieu-kien-tien-quyet-20260515152046861.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/15/irantasnim-cropped-1778833109925.jpg\" /></a>(Dân trí) - Iran sẽ không nối lại đàm phán với Mỹ nếu Washington không đáp ứng các điều kiện tiên quyết và thực hiện các biện pháp xây dựng lòng tin."
     }
   ]
 }
