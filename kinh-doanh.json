@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Phố Wall không còn tin vào \"bánh vẽ AI\", thị trường đòi lợi nhuận",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pho-wall-khong-con-tin-vao-banh-ve-ai-thi-truong-doi-loi-nhuan-20260514084737515.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/14/1-cropped-1778722479874.jpg\" /></a>(Dân trí) - Chỉ cần nhắc đến AI từng đủ để vốn hóa Big Tech tăng hàng tỷ USD, nhưng mùa báo cáo tài chính 2026 cho thấy luật chơi đã đổi. Phố Wall giờ chỉ cần lợi nhuận thực tế."
+    },
+    {
+      "id": 2,
       "title": "Dự báo bi quan về giá vàng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-bi-quan-ve-gia-vang-20260517101814758.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/10/gia-vang-112-anh-tien-tuan-edited-1754760040071.jpg?watermark=true\" /></a>(Dân trí) - Giới phân tích đưa ra dự báo bi quan về triển vọng giá vàng khi áp lực từ lạm phát, lợi suất trái phiếu Mỹ và chính sách tiền tệ thắt chặt của Fed vẫn chưa hạ nhiệt."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thuế đề nghị doanh nghiệp vàng cung cấp tài khoản nhân viên, người thân",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thue-de-nghi-doanh-nghiep-vang-cung-cap-tai-khoan-nhan-vien-nguoi-than-20260517100342359.htm\"><img src=\"https://icdn.dantri.com.vn/2025/09/03/gia-vang-105-anh-tien-tuan-cropped-edited-1756835916706.jpg?watermark=true\" /></a>(Dân trí) - Cơ quan thuế đề nghị doanh nghiệp kinh doanh vàng, bạc, đá quý cung cấp tất cả số tài khoản của nhân viên cũng như người thân trong gia đình chủ doanh nghiệp."
-    },
-    {
-      "id": 3,
-      "title": "Cán cân Mỹ - Trung: Hai siêu cường kinh tế so kè ra sao?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/can-can-my-trung-hai-sieu-cuong-kinh-te-so-ke-ra-sao-20260513160225670.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/13/sliderusachinacadobestock-cropped-1778662184950.jpg\" /></a>(Dân trí) - Sau 9 năm, Tổng thống Trump trở lại Bắc Kinh khi vị thế hai nền kinh tế lớn nhất thế giới đã xoay chiều."
     }
   ]
 }
