@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ngân hàng cho vay lẫn nhau hàng triệu tỷ đồng: Ai là chủ nợ, ai là con nợ?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ngan-hang-cho-vay-lan-nhau-hang-trieu-ty-dong-ai-la-chu-no-ai-la-con-no-20260525120849995.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/25/giao-dich-ngan-hang-23tien-tuan-2cropjpeg-cropped-1779685650347.jpg\" /></a>(Dân trí) - Nhóm Big4 gồm Vietcombank, Vietinbank, BIDV đang cho vay ròng đến 444.000 tỷ đồng. Ngược lại, các ngân hàng tư nhân như VPBank, MB, Techcombank... mỗi bên hút ròng hàng trăm tỷ đồng."
+    },
+    {
+      "id": 2,
       "title": "Bộ Công Thương yêu cầu các tỉnh thành tăng truyền thông về xăng E10",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-cong-thuong-yeu-cau-cac-tinh-thanh-tang-truyen-thong-ve-xang-e10-20260525163706819.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/17/xang-e10-cropped-1779014747257.jpg\" /></a>(Dân trí) - Chỉ còn ít ngày trước khi xăng E10 áp dụng toàn quốc thay thế xăng RON 95, Bộ Công Thương đề nghị các địa phương tăng cường truyền thông để định hướng thông tin, dư luận, tránh thông tin trái chiều."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Con trai tỷ phú Phạm Nhật Vượng làm chủ tịch HĐQT VinFast",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/con-trai-ty-phu-pham-nhat-vuong-lam-chu-tich-hdqt-vinfast-20260525184149091.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/25/6098117128507560059-cropped-1779715770701.jpg\" /></a>(Dân trí) - Ông Phạm Nhật Quân Anh giữ vị trí Chủ tịch HĐQT VinFast từ ngày 23/5, thay thế cho bà Lê Thị Thu Thủy."
-    },
-    {
-      "id": 3,
-      "title": "Một ngân hàng bất ngờ tăng 0,6% lãi suất kỳ hạn dài",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mot-ngan-hang-bat-ngo-tang-06-lai-suat-ky-han-dai-20260525102243176.htm\"><img src=\"https://icdn.dantri.com.vn/2023/04/30/giao-dich-ngan-hang-13tien-tuan-1-edited-1682843064794.jpeg\" /></a>(Dân trí) - Nam A Bank tăng lãi suất huy động từ kỳ hạn 6-36 tháng, với mức tăng cao nhất tới 0,6 điểm %/năm, đưa lãi suất trực tuyến lên tới 6,9%/năm."
     }
   ]
 }
