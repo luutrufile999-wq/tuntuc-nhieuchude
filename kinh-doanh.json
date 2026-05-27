@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bộ Công Thương lý giải việc không bán song song xăng E10 và RON 95",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-cong-thuong-ly-giai-viec-khong-ban-song-song-xang-e10-va-ron-95-20260527214949662.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/27/z7872238367609f34d41d19af61ee65e8a024ec4819367-edited-1779893264196.jpg\" /></a>(Dân trí) - Theo lãnh đạo Bộ Công Thương, việc duy trì song song quá nhiều chủng loại nhiên liệu trong thời gian dài có thể làm tăng chi phí logistics, phân phối và giảm hiệu quả chuyển đổi năng lượng xanh."
+    },
+    {
+      "id": 2,
       "title": "AI và công nghệ số là đòn bẩy giúp Việt Nam tăng năng suất",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ai-va-cong-nghe-so-la-don-bay-giup-viet-nam-tang-nang-suat-20260527175417781.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/27/z78716907295889fd32a4525669080af46c32ed9125817-cropped-1779879192921.jpg\" /></a>(Dân trí) - Tại hội thảo của báo Dân trí, các chuyên gia khẳng định việc làm chủ dữ liệu và ứng dụng trí tuệ nhân tạo (AI) chính là động lực quan trọng nhất giúp bứt phá năng suất lao động quốc gia."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ông Phan Đức Hiếu: Tăng trưởng 2 con số, thể chế phải tiên phong",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ong-phan-duc-hieu-tang-truong-2-con-so-the-che-phai-tien-phong-20260527175046333.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/27/esg-4-1779878677629.jpg?watermark=true\" /></a>(Dân trí) - Theo chuyên gia, để phấn đấu tăng trưởng kinh tế 2 con số, không có cách nào khác ngoài hành động mới kèm theo tính bền vững."
-    },
-    {
-      "id": 3,
-      "title": "Việt Nam hoàn toàn có cơ sở hướng tới mục tiêu tăng trưởng 2 con số",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/viet-nam-hoan-toan-co-co-so-huong-toi-muc-tieu-tang-truong-2-con-so-20260527184908619.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/27/2aoboqzla2kh3bjnrfoxf330descbswkvhsgr8dy-1779882172109.jpg?watermark=true\" /></a>(Dân trí) - Việt Nam có cơ sở để hướng tới mục tiêu tăng trưởng 2 con số nhờ quyết tâm chính trị, tinh thần cải cách, sự năng động của cộng đồng doanh nghiệp cùng sự đồng hành của giới chuyên gia và toàn xã hội."
     }
   ]
 }
