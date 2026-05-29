@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng bất ngờ đảo chiều tăng vọt",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-bat-ngo-dao-chieu-tang-vot-20260529113632588.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/29/xoa-bo-co-che-doc-quyen-vang-mieng-gia-vang-sap-het-thoi-tau-luon-1756402092710.jpg\" /></a>(Dân trí) - Giá vàng trong nước biến động mạnh khi tăng vọt dù sau đó nhanh chóng giảm. Trong khi đó, giá vàng thế giới đi lên nhờ đồng USD suy yếu và tín hiệu kinh tế Mỹ chậm lại."
+    },
+    {
+      "id": 2,
       "title": "Người bán than phí tăng, sàn thương mại điện tử bị yêu cầu giải trình",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nguoi-ban-than-phi-tang-san-thuong-mai-dien-tu-bi-yeu-cau-giai-trinh-20260529110638133.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/22/bfb20cdd-6d27-4ae3-935f-8bf0b4561320-cropped-1779440233597.jpg\" /></a>(Dân trí) - Ủy ban Cạnh tranh Quốc gia đang giám sát việc các sàn thương mại điện tử tăng phí. Sau phản ánh của người bán, Shopee đã đề xuất hoãn chính sách tự động trích doanh thu quảng bá."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Điều gì khiến giá xăng dầu giảm mạnh hơn 1.300 đồng/lít?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dieu-gi-khien-gia-xang-dau-giam-manh-hon-1300-donglit-20260529105249261.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/11/gia-xangmanh-quanpng-1773212335180.png\" /></a>(Dân trí) - Giá xăng dầu trong nước chiều 28/5 đồng loạt giảm mạnh theo đà hạ nhiệt của thị trường thế giới, trong khi mặt bằng giá nhiên liệu tại Việt Nam vẫn thấp hơn đáng kể so với nhiều nước trong khu vực."
-    },
-    {
-      "id": 3,
-      "title": "4 thói quen tài chính giúp người trẻ bứt phá tài sản trước tuổi 40",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/4-thoi-quen-tai-chinh-giup-nguoi-tre-but-pha-tai-san-truoc-tuoi-40-20260528153508598.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/28/earlysalaryselfmadebillionaire-cropped-1779956509901.jpg\" /></a>(Dân trí) - Thay vì chờ đợi khoản tiền lớn để đầu tư, việc duy trì đều đặn các nguyên tắc phân bổ thu nhập ngay từ độ tuổi 20-30 mới là chìa khóa then chốt quyết định khối tài sản ở tuổi trung niên."
     }
   ]
 }
