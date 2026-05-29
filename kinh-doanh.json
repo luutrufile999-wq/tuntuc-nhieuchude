@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Warren Buffett tiết lộ kỹ năng giúp người trẻ tránh nguy cơ bị AI đào thải",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/warren-buffett-tiet-lo-ky-nang-giup-nguoi-tre-tranh-nguy-co-bi-ai-dao-thai-20260529095417251.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/29/gettyimages-1780022856373.webp\" /></a>(Dân trí) - Giữa làn sóng AI và nguy cơ mất việc, tỷ phú Warren Buffett cho rằng nhiều người trẻ đang tự đánh mất cơ hội nghề nghiệp vì thiếu một kỹ năng tưởng rất cơ bản là giao tiếp."
+    },
+    {
+      "id": 2,
       "title": "Thiếu hụt nguồn cung, châu Á đứng trước nguy cơ \"cạn dầu\"",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thieu-hut-nguon-cung-chau-a-dung-truoc-nguy-co-can-dau-20260528190818578.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/11/quan-bai-hormuz-va-bong-ma-khung-hoang-dau-mo-nam-2026-edited-1773241723585.jpg\" /></a>(Dân trí) - Thị trường dầu mỏ châu Á đang tiến sát ngưỡng tối thiểu để vận hành, khi nguồn cung toàn cầu ngày càng thắt chặt và lượng dầu liên tục suy giảm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ngân hàng Nhà nước lên tiếng về phương thức bán hàng \"đổi vàng lấy nhà\"",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ngan-hang-nha-nuoc-len-tieng-ve-phuong-thuc-ban-hang-doi-vang-lay-nha-20260529183822766.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/26/mua-vang-tai-ngan-hangthanh-dong28-edited-cropped-cropped-1756143389227.jpg?watermark=true\" /></a>(Dân trí) - Liên quan đến chương trình dùng vàng giao dịch bất động sản của Vinhomes, Ngân hàng Nhà nước vừa phát đi yêu cầu doanh nghiệp phải tuân thủ nghiêm ngặt các quy định về ngoại hối và tín dụng."
-    },
-    {
-      "id": 3,
-      "title": "Sân bay bận rộn nhất thế giới sẽ đóng cửa vĩnh viễn",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/san-bay-ban-ron-nhat-the-gioi-se-dong-cua-vinh-vien-20260528205806256.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/28/dubai-cropped-1779976545384.jpg\" /></a>(Dân trí) - Sân bay quốc tế Dubai - sân bay bận rộn nhất thế giới về lượng khách quốc tế - sẽ đóng cửa vĩnh viễn vào năm 2035 và chuyển toàn bộ hoạt động sang sân bay Al Maktoum."
     }
   ]
 }
