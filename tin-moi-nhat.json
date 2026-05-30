@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Phát hiện \"lò\" làm bộ kích điện quy mô lớn do thanh niên 26 tuổi làm chủ",
+      "summary": "<a href=\"https://dantri.com.vn/phap-luat/phat-hien-lo-lam-bo-kich-dien-quy-mo-lon-do-thanh-nien-26-tuoi-lam-chu-20260530205302256.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/30/cosokichdien-edited-1780148856673.jpg\" /></a>(Dân trí) - Công an tỉnh An Giang vừa thu giữ hàng nghìn linh kiện và thành phẩm tại một cơ sở sản xuất công cụ kích điện đánh bắt thủy sản trái phép do Đ.C.K (26 tuổi) làm chủ."
+    },
+    {
+      "id": 2,
       "title": "Nắng nóng ở miền Bắc tăng mạnh trở lại",
       "summary": "<a href=\"https://dantri.com.vn/thoi-tiet/nang-nong-o-mien-bac-tang-manh-tro-lai-20260530214956759.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/30/nang-nong20-1779699021444-1780152370690.jpg\" /></a>(Dân trí) - Dự báo khoảng ngày 3-5/6, Bắc Bộ có khả năng xảy ra nắng nóng diện rộng, nhiệt độ tăng mạnh."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Khách nước ngoài cởi trần đập phá quán cà phê ở Đà Nẵng",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/khach-nuoc-ngoai-coi-tran-dap-pha-quan-ca-phe-o-da-nang-20260530221557261.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/30/anh-edited-1780118295225.jpg\" /></a>(Dân trí) - Quán cà phê ở trung tâm thành phố Đà Nẵng bị một người nước ngoài đập phá, khiến nhiều người trong quán hoảng sợ bỏ chạy."
-    },
-    {
-      "id": 3,
-      "title": "Khởi tố 5 đối tượng liên quan vụ án xảy ra gần một thập kỷ trước",
-      "summary": "<a href=\"https://dantri.com.vn/phap-luat/khoi-to-5-doi-tuong-lien-quan-vu-an-xay-ra-gan-mot-thap-ky-truoc-20260530204048014.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/30/karaokeangiang-cropped-1780154903986.jpg\" /></a>(Dân trí) - Chỉ vì từ chối cho nhóm thanh niên thuê dàn âm thanh karaoke lúc nửa đêm, anh T. (ở An Giang) đã bị các đối tượng mang dao tự chế đến nhà chém trọng thương."
     }
   ]
 }
