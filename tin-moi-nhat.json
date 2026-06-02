@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "Phát hiện bất thường của 2 sợi cáp neo khiến cây cầu ở TPHCM bị phong tỏa",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-su/phat-hien-bat-thuong-cua-2-soi-cap-neo-khien-cay-cau-o-tphcm-bi-phong-toa-20260601233217529.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/01/dsc09198-1780287673944.jpg\" /></a>(Dân trí) - Phát hiện 2 sợi cáp neo bị xê dịch so với thiết kế ban đầu, chính quyền xã Tân Nhựt (TPHCM) đã phong tỏa cầu này để kiểm tra, khắc phục sự cố và đảm bảo an toàn cho người dân."
+    },
+    {
+      "id": 2,
+      "title": "Gần 100 trẻ bại não, tự kỷ nhận \"Điều ước cho em\" ngày Tết Thiếu nhi",
+      "summary": "<a href=\"https://dantri.com.vn/tam-long-nhan-ai/gan-100-tre-bai-nao-tu-ky-nhan-dieu-uoc-cho-em-ngay-tet-thieu-nhi-20260602011408624.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/02/dsc02132-enhanced-nr-edited-1780337584034.jpg\" /></a>(Dân trí) - Món quà giản dị như bộ truyện tranh, cuốn tập tô hay một con gấu bông... không chỉ mang đến niềm vui cho gần 100 trẻ tự kỷ, bại não và phụ huynh, mà còn chứa đựng tình cảm yêu thương nhân ngày 1/6."
+    },
+    {
+      "id": 3,
+      "title": "Thu hồi một lô sữa tắm nước hoa Xmen for boss Intense",
+      "summary": "<a href=\"https://dantri.com.vn/suc-khoe/thu-hoi-mot-lo-sua-tam-nuoc-hoa-xmen-for-boss-intense-20260602102224054.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/02/suatamxmen-cropped-1780370224812.jpg\" /></a>(Dân trí) - Kết quả kiểm nghiệm mẫu sữa tắm nước hoa Xmen for boss Intense, chai 180g cho thấy có chứa natri benzoat không có trong thành phần công thức trên nhãn sản phẩm."
     }
   ]
 }
