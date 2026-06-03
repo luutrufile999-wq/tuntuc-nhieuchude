@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ngành nào hưởng lợi lớn nhất từ làn sóng AI tại Việt Nam?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nganh-nao-huong-loi-lon-nhat-tu-lan-song-ai-tai-viet-nam-20260603185801123.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/03/robot-ai-cropped-1780487815372.jpg\" /></a>(Dân trí) - Thay vì chạy đua hạ tầng nền tảng, doanh nghiệp Việt đang tìm thấy cơ hội lớn từ việc ứng dụng AI vào vận hành và dịch vụ, tạo đà bứt phá trong năm 2026."
+    },
+    {
+      "id": 2,
       "title": "Giá gạo châu Á tăng mạnh nhất gần 20 năm, cơ hội nào cho Việt Nam?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-gao-chau-a-tang-manh-nhat-gan-20-nam-co-hoi-nao-cho-viet-nam-20260603211607932.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/03/anh-1-edited-1780495902647.jpg\" /></a>(Dân trí) - Trong bối cảnh nhiều quốc gia nhập khẩu gạo lớn đứng trước nguy cơ giảm sản lượng, các chuyên gia cho rằng đây là cơ hội hiếm có để Việt Nam gia tăng xuất khẩu."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Bán song song xăng E10 và E5 đến hết 2030: Tìm mua xăng E5 ở đâu?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ban-song-song-xang-e10-va-e5-den-het-2030-tim-mua-xang-e5-o-dau-20260603200442427.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/11/xang-dauhai-longpng-1773212336480.png\" /></a>(Dân trí) - Xăng E5 RON 92 vẫn được duy trì đến hết năm 2030, nhưng số điểm bán đang thu hẹp. Người dân có thể tìm cây xăng còn bán E5 thông qua ứng dụng \"Quanh tôi\"."
-    },
-    {
-      "id": 3,
-      "title": "Tiêu thụ điện miền Bắc tăng vọt, tiến sát giới hạn vận hành",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tieu-thu-dien-mien-bac-tang-vot-tien-sat-gioi-han-van-hanh-20260603175143676.htm\"><img src=\"https://icdn.dantri.com.vn/2023/06/16/dien-luc-crop-crop-1686881904168.jpeg\" /></a>(Dân trí) - Nhu cầu điện năng bứt phá mạnh mẽ cùng sự phục hồi của nền kinh tế đang tạo áp lực lớn lên hệ thống điện. Bộ Công Thương đã chuẩn bị sẵn các kịch bản nhằm tránh tình trạng thiếu điện cục bộ."
     }
   ]
 }
