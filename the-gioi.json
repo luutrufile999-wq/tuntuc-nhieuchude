@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Cỗ máy công nghiệp quốc phòng Nga tăng tốc chưa từng có",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/co-may-cong-nghiep-quoc-phong-nga-tang-toc-chua-tung-co-20260603145247948.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/03/nga-cropped-1780473058526.jpg\" /></a>(Dân trí) - Khi Nga phát động chiến dịch quân sự đặc biệt tại Ukraine (tháng 2/2022), nhiều nhà phân tích, giới quân sự phương Tây dự đoán có thể xảy ra sự đứt gãy của nền công nghiệp quốc phòng Nga."
+    },
+    {
+      "id": 2,
       "title": "Lý do Nga liên tiếp không kích lớn vào Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ly-do-nga-lien-tiep-khong-kich-lon-vao-ukraine-20260604152949477.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/04/kie-ukraine-telegram11zon-cropped-1780561708873.jpg\" /></a>(Dân trí) - Gần đây, Nga liên tục tiến hành các cuộc tấn công quy mô lớn vào Ukraine trong bối cảnh cuộc đà tiến công trên chiến trường chậm lại."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Các trung tâm dữ liệu AI \"ngốn\" lượng điện, nước khổng lồ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/cac-trung-tam-du-lieu-ai-ngon-luong-dien-nuoc-khong-lo-20260604142126772.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/04/aielpais11zon-edited-1780557529325.jpg\" /></a>(Dân trí) - Lượng nước mà các trung tâm dữ liệu phục vụ trí tuệ nhân tạo (AI) sử dụng dự kiến tương đương với nhu cầu của 1,3 tỷ người vào năm 2030, đe dọa nguồn tài nguyên thiên nhiên của con người."
-    },
-    {
-      "id": 3,
-      "title": "Hy Lạp phản ứng mạnh vì vũ khí nghi của Ukraine xâm nhập vùng biển",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/hy-lap-phan-ung-manh-vi-vu-khi-nghi-cua-ukraine-xam-nhap-vung-bien-20260604150310417.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/04/hy-lap-phan-ung-manh-vi-vu-khi-nghi-cua-ukraine-xam-nhap-vung-bien-cropped-1780560041704.jpg\" /></a>(Dân trí) - Hy Lạp đã gửi công hàm phản đối ngoại giao chính thức tới Ukraine sau khi một xuồng không người lái mang chất nổ được phát hiện trong vùng biển nước này vào đầu tháng trước."
     }
   ]
 }
