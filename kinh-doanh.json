@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga công bố sản lượng vàng gây sốc, giới khai khoáng toàn cầu hoài nghi",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nga-cong-bo-san-luong-vang-gay-soc-gioi-khai-khoang-toan-cau-hoai-nghi-20260604062519698.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/04/swiss-russia-gold-cropped-1780528717290.jpg\" /></a>(Dân trí) - Giới chuyên gia quốc tế đang đặt nhiều nghi vấn khi Nga bất ngờ công bố sản lượng khai thác vàng cao hơn hàng trăm tấn so với dự báo, đe dọa trực tiếp vị trí số 1 thế giới của Trung Quốc."
+    },
+    {
+      "id": 2,
       "title": "Liên tục rớt giá, vàng trong nước thu hẹp khoảng cách với thế giới",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lien-tuc-rot-gia-vang-trong-nuoc-thu-hep-khoang-cach-voi-the-gioi-20260604074539380.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/29/vang-reuters-1780040940711.jpg\" /></a>(Dân trí) - Cùng đà giảm với thế giới, giá vàng trong nước tiếp tục lao dốc. Chênh lệch giữa hai thị trường hiện rút ngắn xuống 15 triệu đồng/lượng, song rủi ro mua bán vẫn hiện hữu."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chuyên gia lý giải nghịch lý nhập siêu trong bối cảnh sản xuất tăng tốc",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chuyen-gia-ly-giai-nghich-ly-nhap-sieu-trong-boi-canh-san-xuat-tang-toc-20260603160135380.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/03/untaclangsonnguyenbaccuakhau2-1640163144310-1780477152410.jpg\" /></a>(Dân trí) - Việt Nam nhập siêu không hẳn là tín hiệu tiêu cực mà phản ánh xu hướng doanh nghiệp tăng nhập khẩu nguyên liệu, máy móc để đón đầu chu kỳ sản xuất và xuất khẩu mới."
-    },
-    {
-      "id": 3,
-      "title": "Làm rõ thông tin ngân hàng phải cung cấp tài khoản người nộp thuế",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lam-ro-thong-tin-ngan-hang-phai-cung-cap-tai-khoan-nguoi-nop-thue-20260604001054177.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/15/tien-101manh-quan-1-edited-1755235505618.jpg?watermark=true\" /></a>(Dân trí) - Cục Thuế cho biết dự thảo Nghị định mới giữ nguyên quy định ngân hàng phải cung cấp thông tin tài khoản thanh toán của người nộp thuế cho cơ quan quản lý thuế."
     }
   ]
 }
