@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran tuyên bố ủng hộ Hezbollah, ra điều kiện về thỏa thuận hòa bình với Mỹ",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-tuyen-bo-ung-ho-hezbollah-ra-dieu-kien-ve-thoa-thuan-hoa-binh-voi-my-20260605202249351.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/05/libang-1780664793097.jpg\" /></a>(Dân trí) - Iran ngày 5/6 tái khẳng định ủng hộ lực lượng Hezbollah, yêu cầu Israel rút quân khỏi miền Nam Li Băng và nhấn mạnh những khó khăn để đạt được thỏa thuận tạm thời nhằm chấm dứt xung đột với Mỹ."
+    },
+    {
+      "id": 2,
       "title": "Iran phóng tên lửa vào tàu chiến Mỹ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-phong-ten-lua-vao-tau-chien-my-20260605195102921.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/05/video20260605150810v1-ezgifcom-crop-1780663747372.gif\" /></a>(Dân trí) - Iran tuyên bố phóng tên lửa và máy bay không người lái cảnh cáo các tàu chiến của Mỹ ở vịnh Oman."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga lên tiếng về bức thư của lãnh đạo Ukraine gửi Tổng thống Putin",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-len-tieng-ve-buc-thu-cua-lanh-dao-ukraine-gui-tong-thong-putin-20260605191221336.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/05/putinzelenskyafp-cropped-1780661415429.jpg\" /></a>(Dân trí) - Tổng thống Nga Vladimir Putin đã được thông báo về bức thư do nhà lãnh đạo Ukraine gửi giữa lúc đàm phán bế tắc."
-    },
-    {
-      "id": 3,
-      "title": "Nga - Ukraine đồng ý ngừng bắn cục bộ tránh rủi ro hạt nhân",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-ukraine-dong-y-ngung-ban-cuc-bo-tranh-rui-ro-hat-nhan-20260605161952112.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/05/ukraine-cropped-1780651030508.jpg\" /></a>(Dân trí) - Nga và Ukraine đồng ý ngừng bắn cục bộ quanh khu vực nhà máy điện hạt nhân lớn nhất châu Âu."
     }
   ]
 }

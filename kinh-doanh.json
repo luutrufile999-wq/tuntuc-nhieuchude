@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Cựu Chủ tịch Google: Việt Nam đủ tiềm năng dẫn đầu về AI",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cuu-chu-tich-google-viet-nam-du-tiem-nang-dan-dau-ve-ai-20260605203517582.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/05/photo-56-5-1-1780666231959.jpg\" /></a>(Dân trí) - Cựu Chủ tịch Google Eric Schmidt cho rằng với lợi thế về nguồn nhân lực chất lượng cao, Việt Nam hoàn toàn có tiềm năng vươn lên dẫn đầu về AI trong tương lai."
+    },
+    {
+      "id": 2,
       "title": "Điều gì khiến giá xăng dầu liên tục giảm mạnh?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dieu-gi-khien-gia-xang-dau-lien-tuc-giam-manh-20260605160551098.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/01/e10-tphcmnamanh0d7a4122-1780286507728.jpg?watermark=true\" /></a>(Dân trí) - Nhờ những tín hiệu hạ nhiệt từ thị trường thế giới, giá xăng dầu trong nước đồng loạt giảm sâu 2 phiên liên tiếp. Hiện, mặt bằng giá nhiên liệu tại Việt Nam vẫn đang rẻ hơn đáng kể so với khu vực."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thêm doanh nghiệp Nhà nước không đủ điều kiện đại chúng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/them-doanh-nghiep-nha-nuoc-khong-du-dieu-kien-dai-chung-20260605184345094.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/05/vrg-cropped-1780659689773.jpg\" /></a>(Dân trí) - Dù đang niêm yết trên sàn, nhiều tổng công ty Nhà nước vẫn chưa đủ điều kiện đại chúng vì tỷ lệ cổ phiếu tự do chuyển nhượng quá thấp."
-    },
-    {
-      "id": 3,
-      "title": "Con trai, con gái ông Nguyễn Đức Thụy gia nhập Sacombank",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/con-trai-con-gai-ong-nguyen-duc-thuy-gia-nhap-sacombank-20260605183434146.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/04/thuy-stb-cropped-1777872840284.jpg\" /></a>(Dân trí) - Quá trình tái cấu trúc tại Sacombank tiếp tục gây chú ý với việc bổ nhiệm ông Nguyễn Xuân Thái và bà Nguyễn Ngọc Mỹ Anh - hai người con của ông Nguyễn Đức Thụy - vào vị trí trợ lý nhân sự cấp cao."
     }
   ]
 }
