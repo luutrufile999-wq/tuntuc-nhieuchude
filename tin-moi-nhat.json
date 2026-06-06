@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Triệt phá đường dây mua bán vũ khí quân dụng, thu giữ 422 bộ súng nén hơi",
+      "summary": "<a href=\"https://dantri.com.vn/phap-luat/triet-pha-duong-day-mua-ban-vu-khi-quan-dung-thu-giu-422-bo-sung-nen-hoi-20260606223624253.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/tang-vat-thu-giu-cropped-1780760012081.jpg\" /></a>(Dân trí) - Công an bóc gỡ đường dây tiêu thụ hàng trăm đơn hàng mua bán vũ khí quân dụng ngụy trang “súng thông bồn cầu” tại nhiều tỉnh thành và thu giữ 422 bộ súng nén hơi cùng nhiều phụ kiện liên quan."
+    },
+    {
+      "id": 2,
       "title": "Miền Bắc sắp đón không khí lạnh cuối mùa",
       "summary": "<a href=\"https://dantri.com.vn/thoi-tiet/mien-bac-sap-don-khong-khi-lanh-cuoi-mua-20260606185202801.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/04/ngapjpg-1770219136218.jpg\" /></a>(Dân trí) - Do ảnh hưởng của không khí lạnh cuối mùa, khoảng chiều tối 8/6 đến hết ngày 9/6, khu vực Bắc Bộ và Bắc Trung Bộ có mưa to, cục bộ có nơi mưa rất to trên 250mm, theo cơ quan khí tượng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Andreeva vô địch Roland Garros 2026 ở tuổi 19",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/andreeva-vo-dich-roland-garros-2026-o-tuoi-19-20260606233733432.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/andreeva-vo-dich-roland-garros-2026-o-tuoi-19-cropped-1780764013473.jpg\" /></a>(Dân trí) - Mirra Andreeva khẳng định vị thế ngôi sao trẻ hàng đầu quần vợt nữ thế giới khi đánh bại Maja Chwalinska để đăng quang Roland Garros 2026, qua đó giành danh hiệu Grand Slam đầu tiên trong sự nghiệp."
-    },
-    {
-      "id": 3,
-      "title": "Gia Lai: Luân phiên bác sĩ về tuyến xã, ưu tiên vùng khó khăn",
-      "summary": "<a href=\"https://dantri.com.vn/suc-khoe/gia-lai-luan-phien-bac-si-ve-tuyen-xa-uu-tien-vung-kho-khan-20260606182657821.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/gia-lailuan-phien-bac-si-ve-tuyen-xa-uu-tien-vung-kho-khan-thei-nhan-lucanh-tu-lieu-pham-hoangjpg-1780744535211.jpg\" /></a>(Dân trí) - Trước tình trạng nhiều trạm y tế xã, phường thiếu bác sĩ, Gia Lai dự kiến luân phiên 38 bác sĩ từ các bệnh viện, trung tâm y tế về hỗ trợ 30 xã, phường có nhu cầu cấp thiết trong năm nay."
     }
   ]
 }
