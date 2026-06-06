@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giao dịch không tiền mặt bùng nổ, giá trị gấp 28 lần GDP",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/giao-dich-khong-tien-mat-bung-no-gia-tri-gap-28-lan-gdp-20260606131034816.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/trai-nghiem-so-cropped-1780725996187.jpg\" /></a>(Dân trí) - Sự bùng nổ của công nghệ đã đưa quy mô thanh toán không tiền mặt tại Việt Nam lên mức gấp 28 lần GDP. Chính phủ kỳ vọng nâng con số này lên 30 lần vào năm 2030 nhằm tạo động lực cho kinh tế số."
+    },
+    {
+      "id": 2,
       "title": "Ngành đường kiến nghị nâng giá mua điện sinh khối lên 8,47 US cent/kWh",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nganh-duong-kien-nghi-nang-gia-mua-dien-sinh-khoi-len-847-us-centkwh-20260606095833229.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/dien-2-edited-cropped-1780714567076.jpg\" /></a>(Dân trí) - Nhằm tận dụng tối đa nguồn điện sạch từ bã mía, Hiệp hội Mía đường Việt Nam kiến nghị nâng giá mua điện sinh khối, đồng thời xóa bỏ cơ chế phân loại đang gây bất lợi cho doanh nghiệp."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Bitcoin mất mốc 60.000 USD, rơi xuống mức thấp nhất kể từ tháng 10/2024",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bitcoin-mat-moc-60000-usd-roi-xuong-muc-thap-nhat-ke-tu-thang-102024-20260606070956950.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/depositphotos243245756sjpg-1780703944837.webp\" /></a>(Dân trí) - Áp lực bán tháo diện rộng và sự rút vốn từ các quỹ ETF đã kéo giá bitcoin thủng mốc hỗ trợ 60.000 USD, đẩy thị trường tiền mã hóa vào một đợt suy giảm mạnh chưa từng thấy từ 2024."
-    },
-    {
-      "id": 3,
-      "title": "Nguyên nhân khiến vàng lao dốc không phanh, bốc hơi hàng trăm USD",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nguyen-nhan-khien-vang-lao-doc-khong-phanh-boc-hoi-hang-tram-usd-20260606055552294.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/astralember-crash-101128221280-cropped-1780699291198.jpg\" /></a>(Dân trí) - Giới đầu tư tháo chạy khỏi vàng sau khi báo cáo lao động Mỹ vượt xa dự báo. Đồng thời, rủi ro địa chính trị dần hạ nhiệt cũng khiến tài sản trú ẩn này nhanh chóng đánh mất đà tăng giá."
     }
   ]
 }
