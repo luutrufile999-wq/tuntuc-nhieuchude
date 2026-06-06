@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Triều Tiên phát triển vũ khí bí mật dưới nước",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/trieu-tien-phat-trien-vu-khi-bi-mat-duoi-nuoc-20260606093411870.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/trieu-tien-phat-trien-vu-khi-bi-mat-duoi-nuoc-cropped-1780713125564.jpg\" /></a>(Dân trí) - Chủ tịch Triều Tiên Kim Jong-un tiết lộ nước này đang phát triển vũ khí bí mật dưới nước khi thăm một chiến hạm tiên tiến."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Nga đề xuất tiếp nhận uranium làm giàu của Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-nga-de-xuat-tiep-nhan-uranium-lam-giau-cua-iran-20260606080753375.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/maylytamlamgiauuraniumnhamaydienhatnhaniran2019nyt-1776426700222-1777965193595-1779922452682-1780707764794.png\" /></a>(Dân trí) - Tổng thống Vladimir Putin tuyên bố Moscow vẫn để ngỏ đề xuất chuyển giao uranium làm giàu của Iran sang Nga."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga sẵn sàng cung cấp cho Ấn Độ tiêm kích \"tiên tiến nhất thế giới\"",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-san-sang-cung-cap-cho-an-do-tiem-kich-tien-tien-nhat-the-gioi-20260606073400052.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/nga-san-sang-cung-cap-cho-an-do-tiem-kich-tien-tien-nhat-the-gioi-cropped-1780705950776.jpg\" /></a>(Dân trí) - Moscow tuyên bố sẵn sàng cung cấp tiêm kích Su-57 cho Ấn Độ, loại vũ khí mà Tổng thống Nga Vladimir Putin mô tả là \"tiên tiến nhất thế giới\"."
-    },
-    {
-      "id": 3,
-      "title": "Phản ứng của châu Âu với thư ngỏ của lãnh đạo Ukraine gửi Tổng thống Putin",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/phan-ung-cua-chau-au-voi-thu-ngo-cua-lanh-dao-ukraine-gui-tong-thong-putin-20260606071437161.htm\"><img src=\"https://icdn.dantri.com.vn/2024/06/12/macronreuters-crop-1718146464880.jpeg\" /></a>(Dân trí) - Tổng thống Pháp Emmanuel Macron đã đưa ra bình luận đầu tiên sau khi nhà lãnh đạo Ukraine gửi thư ngỏ mời Tổng thống Nga đàm phán trực tiếp, bức thư được cho là cũng gửi thông điệp đến châu Âu."
     }
   ]
 }
