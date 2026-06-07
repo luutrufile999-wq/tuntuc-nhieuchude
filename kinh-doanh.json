@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Không riêng vàng, người đu đỉnh bạc cũng đã lỗ 55 triệu đồng/kg",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khong-rieng-vang-nguoi-du-dinh-bac-cung-da-lo-55-trieu-dongkg-20260607114405650.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/07/bac-bloomberg-1780807363222.png\" /></a>(Dân trí) - Cùng với diễn biến tiêu cực của vàng, kim loại bạc cũng vừa trải qua đợt bán tháo mạnh. Sự đảo chiều đột ngột này khiến nhiều nhà đầu tư cá nhân thua lỗ nặng nề chỉ sau vài tháng."
+    },
+    {
+      "id": 2,
       "title": "Thị trường chứng khoán tạo ra 2 triệu triệu phú USD chỉ sau một năm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-chung-khoan-tao-ra-2-trieu-trieu-phu-usd-chi-sau-mot-nam-20260607122858724.htm\"><img src=\"https://icdn.dantri.com.vn/2023/05/07/warrent-buffett-1-crop-1683397518592.jpeg\" /></a>(Dân trí) - Cơn sốt trí tuệ nhân tạo (AI) đã biến chứng khoán thành kênh sinh lời hấp dẫn nhất năm qua, góp phần đưa gần 2 triệu nhà đầu tư bước chân vào câu lạc bộ triệu phú USD toàn cầu."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "EVN chính thức hết lỗ lũy kế, đang gửi ngân hàng 132.000 tỷ đồng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/evn-chinh-thuc-het-lo-luy-ke-dang-gui-ngan-hang-132000-ty-dong-20260607121310047.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/27/evn-ha-dongthanh-dong-11-cropped-1779819456925.jpg\" /></a>(Dân trí) - Sau chuỗi ngày chìm trong thua lỗ do chi phí đầu vào tăng cao, EVN đã lội ngược dòng thành công. Kết thúc năm 2025, tập đoàn báo lãi lớn và sở hữu quỹ tiền mặt dồi dào gửi tại các ngân hàng."
-    },
-    {
-      "id": 3,
-      "title": "Công bố kênh tiếp nhận phản ánh về xăng E10 để bảo vệ người tiêu dùng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cong-bo-kenh-tiep-nhan-phan-anh-ve-xang-e10-de-bao-ve-nguoi-tieu-dung-20260607102237284.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/08/tu-thang-6-bat-buoc-dung-xang-e5-e10-sap-sua-quy-chuan-cua-hang-xang-dau-1770527034086.jpg\" /></a>(Dân trí) - Người tiêu dùng có thể phản ánh các vấn đề liên quan đến xăng E10 qua email của Ủy ban Cạnh tranh quốc gia hoặc ứng dụng \"Quanh tôi\"."
     }
   ]
 }
