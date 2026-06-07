@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Trump nhận định về tình trạng của Lãnh tụ Tối cao Iran",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-nhan-dinh-ve-tinh-trang-cua-lanh-tu-toi-cao-iran-20260607223159969.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/25/iran-xac-nhan-tinh-trang-suc-khoe-cua-lanh-tu-toi-cao-sau-3-thang-vang-bong-cropped-1779718767811.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump cho biết, tân Lãnh tụ Tối cao Iran bị thương nặng trong cuộc tập kích."
+    },
+    {
+      "id": 2,
       "title": "Nga gửi thông điệp sau thư ngỏ hòa bình của Tổng thống Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-gui-thong-diep-sau-thu-ngo-hoa-binh-cua-tong-thong-ukraine-20260607201645914.htm\"><img src=\"https://icdn.dantri.com.vn/2026/02/15/zelenskyreuters-edited-1771114315462.jpg\" /></a>(Dân trí) - Nga đã đưa ra đề nghị với Tổng thống Ukraine sau khi Moscow nhận được bức thư của Kiev gửi Tổng thống Vladimir Putin."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Iran ra điều kiện then chốt với Mỹ sau loạt vụ đấu súng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-ra-dieu-kien-then-chot-voi-my-sau-loat-vu-dau-sung-20260607183302781.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/07/iran-ra-dieu-kien-voi-my-sau-loat-vu-dau-sung-cropped-1780831903255.jpg\" /></a>(Dân trí) - Iran chỉ trích lập trường thay đổi liên tục của Mỹ khi các vụ đấu súng vẫn nổ ra bất chấp lệnh ngừng bắn."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine cáo buộc Nga tấn công kho chứa nhiên liệu hạt nhân đã qua sử dụng",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-cao-buoc-nga-tan-cong-kho-chua-nhien-lieu-hat-nhan-da-qua-su-dung-20260607164419019.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/07/hatnhan1-cropped-1780825385931.jpg\" /></a>(Dân trí) - Các quan chức Ukraine hôm 7/6 cho biết, một máy bay không người lái (UAV) của Nga đánh trúng cơ sở lưu trữ nhiên liệu hạt nhân đã qua sử dụng gần nhà máy điện Chernobyl hiện không còn hoạt động."
     }
   ]
 }
