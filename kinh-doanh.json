@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giải mã cú sốc Hormuz: Vì sao giá dầu không thể chạm 200 USD/thùng?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/giai-ma-cu-soc-hormuz-vi-sao-gia-dau-khong-the-cham-200-usdthung-20260606233230556.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/20260502fbd001-cropped-1780759677836.jpg\" /></a>(Dân trí) - Dù cú sốc Hormuz làm gián đoạn nguồn cung nghiêm trọng, giá dầu vẫn chưa thể chạm mốc 200 USD/thùng. Nguyên nhân cốt lõi không chỉ đến từ nỗ lực bơm dầu cứu viện mà do lực cầu đang lao dốc."
+    },
+    {
+      "id": 2,
       "title": "Công ty của tỷ phú Trần Bá Dương tăng vốn nghìn tỷ đồng, lãi đột biến",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cong-ty-cua-ty-phu-tran-ba-duong-tang-von-nghin-ty-dong-lai-dot-bien-20260607112648880.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/26/thaco-cua-ty-phu-tran-ba-duong-bien-dong-von-1-edited-edited-cropped-1766722739064.jpg\" /></a>(Dân trí) - Bất chấp thách thức, mảng bán lẻ của Thaco do ông Trần Bá Dương làm Chủ tịch báo lãi ròng tăng 25 lần, chuẩn bị đưa các dự án lớn tại Hà Nội vào hoạt động."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Không riêng vàng, người đu đỉnh bạc cũng đã lỗ 55 triệu đồng/kg",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khong-rieng-vang-nguoi-du-dinh-bac-cung-da-lo-55-trieu-dongkg-20260607114405650.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/07/bac-bloomberg-1780807363222.png\" /></a>(Dân trí) - Cùng với diễn biến tiêu cực của vàng, kim loại bạc cũng vừa trải qua đợt bán tháo mạnh. Sự đảo chiều đột ngột này khiến nhiều nhà đầu tư cá nhân thua lỗ nặng nề chỉ sau vài tháng."
-    },
-    {
-      "id": 3,
-      "title": "Thị trường chứng khoán tạo ra 2 triệu triệu phú USD chỉ sau một năm",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-chung-khoan-tao-ra-2-trieu-trieu-phu-usd-chi-sau-mot-nam-20260607122858724.htm\"><img src=\"https://icdn.dantri.com.vn/2023/05/07/warrent-buffett-1-crop-1683397518592.jpeg\" /></a>(Dân trí) - Cơn sốt trí tuệ nhân tạo (AI) đã biến chứng khoán thành kênh sinh lời hấp dẫn nhất năm qua, góp phần đưa gần 2 triệu nhà đầu tư bước chân vào câu lạc bộ triệu phú USD toàn cầu."
     }
   ]
 }
