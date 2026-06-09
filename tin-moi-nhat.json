@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Cháy lớn tại công ty sản xuất đồ gỗ rộng hơn 90.000m2 ở TPHCM",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-su/chay-lon-tai-cong-ty-san-xuat-do-go-rong-hon-90000m2-o-tphcm-20260610011502969.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/10/img3114-1781028424042.jpg\" /></a>(Dân trí) - Công ty sản xuất đồ nội thất bằng gỗ rộng hơn 90.000m2 tại phường Bình Cơ (TPHCM) cháy đỏ rực trong đêm. Hàng ngàn mét vuông nhà xưởng đã đổ sập."
+    },
+    {
+      "id": 2,
       "title": "Người đàn ông tử vong trên mái nhà ở TPHCM",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/nguoi-dan-ong-tu-vong-tren-mai-nha-o-tphcm-20260609232158711.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/09/z7918726589562f2abc4414eeaf2a6fad9f058ae66afbd-edited-1781021881576.jpg\" /></a>(Dân trí) - Người đàn ông ở phường Thông Tây Hội (TPHCM) leo lên mái nhà, nhưng không trở xuống. Người thân lên kiểm tra và phát hiện nạn nhân đã tử vong."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tiệm vàng ở Đồng Nai bị trộm trang sức hơn 3 tỷ đồng",
       "summary": "<a href=\"https://dantri.com.vn/phap-luat/tiem-vang-o-dong-nai-bi-trom-trang-suc-hon-3-ty-dong-20260609191234225.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/09/tromvang-edited-1781007044048.jpg\" /></a>(Dân trí) - Nguyễn Hồng Trương chuẩn bị công cụ, đột nhập tiệm vàng ở xã Hưng Thịnh, trộm trang sức với tổng giá trị hơn 3 tỷ đồng."
-    },
-    {
-      "id": 3,
-      "title": "Nam thanh niên bị 2 người vây đánh giữa đường ở TPHCM",
-      "summary": "<a href=\"https://dantri.com.vn/phap-luat/nam-thanh-nien-bi-2-nguoi-vay-danh-giua-duong-o-tphcm-20260609211908534.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/09/da1-1781014620764.jpg\" /></a>(Dân trí) - Cơ quan chức năng đang làm rõ vụ một nam thanh niên bị hai người đàn ông dùng nón bảo hiểm vây đánh trên đường Lê Quang Đạo, xã Xuân Thới Sơn, TPHCM."
     }
   ]
 }
