@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Elon Musk chính thức trở thành tỷ phú nghìn tỷ đầu tiên thế giới",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/elon-musk-chinh-thuc-tro-thanh-ty-phu-nghin-ty-dau-tien-the-gioi-20260612234651877.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/12/elon-musk-chinh-thuc-tro-thanh-ty-phu-nghin-ty-dau-tien-the-gioi-cropped-1781282588103.jpg\" /></a>(Dân trí) - Cổ phiếu SpaceX tăng hơn 20% ngay trong phiên giao dịch đầu tiên trên sàn Nasdaq. Cú hích lịch sử này chính thức đưa Elon Musk trở thành người đầu tiên sở hữu khối tài sản nghìn tỷ USD."
+    },
+    {
+      "id": 2,
       "title": "Facebook sập toàn cầu, tài sản tỷ phú Mark Zuckerberg \"bốc hơi\" hàng tỷ USD",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/facebook-sap-toan-cau-tai-san-ty-phu-mark-zuckerberg-boc-hoi-hang-ty-usd-20260612211219977.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/12/cdnphotodantricomvn-qf8m8vpscthhhevxulegf5l-rjm-zoom-1200630-2024-03-06-thumb-crop-1709663982373-1781273350823.jpg\" /></a>(Dân trí) - Facebook, Messenger, Instagram gặp lỗi trên toàn cầu. Hàng loạt người dùng không thể truy cập vào ứng dụng. Sự cố đã khiến tài sản của tỷ phú Mark Zuckerberg giảm hàng tỷ USD."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tín dụng \"ngoài ngân hàng\" vượt 10 tỷ USD, dịch vụ cầm đồ gây chú ý",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tin-dung-ngoai-ngan-hang-vuot-10-ty-usd-dich-vu-cam-do-gay-chu-y-20260612154357920.htm\"><img src=\"https://icdn.dantri.com.vn/2025/10/14/khong-cho-vay-tien-qua-5-trieu-nguyen-tac-song-hay-su-vo-tinhdocx-1760429064732.jpeg\" /></a>(Dân trí) - Với quy mô vượt 10 tỷ USD, thị trường tài chính thay thế tại Việt Nam đang bùng nổ mạnh mẽ. Trong đó, dịch vụ cầm đồ và mua trước trả sau đang dẫn dắt cuộc đua giành thị phần từ người tiêu dùng"
-    },
-    {
-      "id": 3,
-      "title": "Giá dầu chạm đáy 3 tháng: Cánh cửa hòa bình Mỹ - Iran mở ra?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-dau-cham-day-3-thang-canh-cua-hoa-binh-my-iran-mo-ra-20260612184428429.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/12/photo-cropped-1781264122474.jpg\" /></a>(Dân trí) - Từ nỗi lo thiếu hụt năng lượng đến kỳ vọng nguồn cung được khơi thông, thị trường đã đảo chiều chỉ trong vài ngày. Giá dầu giảm hơn 4%, rơi về đáy 3 tháng sau tín hiệu hòa dịu giữa Mỹ và Iran."
     }
   ]
 }
