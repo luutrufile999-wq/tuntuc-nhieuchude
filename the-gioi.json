@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran cảnh báo đanh thép kịch bản dẫn tới đàm phán với Mỹ đổ vỡ",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-canh-bao-danh-thep-kich-ban-dan-toi-dam-phan-voi-my-do-vo-20260614205627502.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/14/1405011510065643436275024-cropped-1781445210241.jpg\" /></a>(Dân trí) - Cảnh báo được Iran đưa ra trong bối cảnh Israel, đồng minh thân cận của Mỹ, mở một cuộc tập kích nhằm vào các mục tiêu ở Li băng."
+    },
+    {
+      "id": 2,
       "title": "Bên trong căn nhà thuê giá rẻ tỷ phú Elon Musk đang sinh sống",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ben-trong-can-nha-thue-gia-re-ty-phu-elon-musk-dang-sinh-song-20260614192656968.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/14/1-cropped-1781439882549.jpg\" /></a>(Dân trí) - Dù có khối tài sản khổng lồ, ông Elon Musk đang sống trong một căn nhà lắp ghép tương đối đơn giản."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tên lửa Nga phơi bày lỗ hổng phòng không của Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ten-lua-nga-phoi-bay-lo-hong-phong-khong-cua-ukraine-20260614155705919.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/14/iskanderwiki-cropped-1781427328083.jpg\" /></a>(Dân trí) - Các cuộc tấn công gần đây của Nga đã phơi bày một điểm yếu trong lưới lửa phòng không Ukraine là thiếu nghiêm trọng tên lửa đánh chặn Patriot để theo kịp những đợt oanh tạc."
-    },
-    {
-      "id": 3,
-      "title": "Hungary nêu điều kiện chấp nhận kết nạp Ukraine vào EU",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/hungary-neu-dieu-kien-chap-nhan-ket-nap-ukraine-vao-eu-20260614153421577.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/14/hungaryafp11zon-1781425984262.jpg\" /></a>(Dân trí) - Ukraine phải tôn trọng các quyền của cộng đồng thiểu số người gốc Hungary nếu muốn gia nhập Liên minh châu Âu (EU), tân Thủ tướng Hungary Peter Magyar tuyên bố."
     }
   ]
 }
