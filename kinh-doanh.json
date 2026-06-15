@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ấn Độ bật đèn xanh cho xăng E100, mở cuộc đua xe chạy ethanol",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/an-do-bat-den-xanh-cho-xang-e100-mo-cuoc-dua-xe-chay-ethanol-20260615174107829.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/15/59218d39-db7f-44c5-a187-58332da44231-cropped-1781519893263.jpg\" /></a>(Dân trí) - Ấn Độ vừa phê duyệt khung pháp lý cho nhiên liệu E100, cho phép phát triển xe chạy hoàn toàn bằng ethanol. Động thái này có thể làm thay đổi cục diện nhiên liệu thay thế bên cạnh xe điện và hydro."
+    },
+    {
+      "id": 2,
       "title": "Ngân hàng \"thừa\" tiền, lãi suất cho nhau vay giảm mạnh về 3,5%/năm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ngan-hang-thua-tien-lai-suat-cho-nhau-vay-giam-manh-ve-35nam-20260615171020437.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/14/giao-dich-ngan-hang-25tien-tuan-cropped-cropped-1765689908010.jpg\" /></a>(Dân trí) - Lãi suất qua đêm giảm mạnh từ 11-13% về 3,5%/năm cho thấy trạng thái thanh khoản đã ổn định hơn đáng kể so với đầu tháng. Dù vậy, thanh khoản đang có sự phân hóa đáng kể theo kỳ hạn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thông tin mới nhất về xăng E10: Lập đoàn kiểm tra việc pha chế, phối trộn",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thong-tin-moi-nhat-ve-xang-e10-lap-doan-kiem-tra-viec-pha-che-phoi-tron-20260615162512014.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/01/e10-tphcmnamanh0d7a4358-1780286556502.jpg?watermark=true\" /></a>(Dân trí) - Các đoàn kiểm tra, giám sát chuyên đề đối với cơ sở pha chế, phối trộn xăng sinh học được thành lập, dự kiến triển khai từ ngày 12/6-13/6. Hiện cả nước có hơn 17.000 cửa hàng thực hiện chuyển đổi."
-    },
-    {
-      "id": 3,
-      "title": "Bến đỗ mới của cựu Tổng giám đốc OCB Phạm Hồng Hải",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ben-do-moi-cua-cuu-tong-giam-doc-ocb-pham-hong-hai-20260615152344976.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/11/pham-hong-hai-crop-cropped-1778484289028.jpg\" /></a>(Dân trí) - Ông Phạm Hồng Hải vừa rời ghế Tổng giám đốc OCB sau 2 năm đảm nhiệm vai trò điều hành. Từ ngày 15/6, ông sẽ trở lại trên vai trò Phó Tổng giám đốc ngân hàng ngoại."
     }
   ]
 }
