@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Mbappe tỏa sáng, đội tuyển Pháp đánh bại Senegal",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/mbappe-toa-sang-doi-tuyen-phap-danh-bai-senegal-20260617040952178.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/17/mbappe-1781644021059.webp\" /></a>(Dân trí) - Cú đúp của Kylian Mbappe giúp đội tuyển Pháp giành chiến thắng 3-1 trước Senegal trên sân New Jersey (New York, Mỹ) ở bảng I World Cup 2026."
-    },
-    {
-      "id": 2,
       "title": "Djokovic đối mặt nhiều rủi ro khi bước vào Wimbledon 2026",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/djokovic-doi-mat-nhieu-rui-ro-khi-buoc-vao-wimbledon-2026-20260616213621076.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/16/nole-cropped-1781620454246.jpg\" /></a>(Dân trí) - Với việc rơi xuống vị trí số 8 thế giới, Novak Djokovic nhiều khả năng sớm gặp đối thủ mạnh ở Wimbledon 2026 diễn ra tại Anh từ ngày 29/6 đến 12/7."
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Chính phủ có chỉ đạo mới về việc sử dụng xăng E10",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chinh-phu-co-chi-dao-moi-ve-viec-su-dung-xang-e10-20260616233443795.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/16/xang-e10-edited-1781627438375.jpg\" /></a>(Dân trí) - Theo Nghị quyết mới, xăng E10RON95-III được thí điểm xác định là mặt hàng tiêu dùng phổ biến, do Nhà nước công bố giá cơ sở thay thế xăng RON95-III."
+    },
+    {
+      "id": 3,
+      "title": "Tài xế xe ôm bị khách cướp xe máy ở TPHCM",
+      "summary": "<a href=\"https://dantri.com.vn/phap-luat/tai-xe-xe-om-bi-khach-cuop-xe-may-o-tphcm-20260616220105453.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/16/8920631c-1410-4712-8983-912050a3dbf9-1781621741618.jpg\" /></a>(Dân trí) - Cá độ đá gà qua mạng và thiếu nợ khoảng 300 triệu đồng, nam thanh niên dụ tài xế xe ôm công nghệ vào lô cao su ở xã Phước Hòa (TPHCM) rồi tấn công, cướp tài sản."
     }
   ]
 }
