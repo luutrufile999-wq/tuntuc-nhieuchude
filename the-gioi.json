@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga phản hồi đề xuất của ông Zelensky về đàm phán trực tiếp với ông Putin",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-phan-hoi-de-xuat-cua-ong-zelensky-ve-dam-phan-truc-tiep-voi-ong-putin-20260617213916798.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/06/putinzelenskygetty-1780681278025.png\" /></a>(Dân trí) - Các quan chức cấp cao của Nga cho biết Moscow không nhận được lời mời nào từ Ukraine về những cuộc đàm phán bên lề hội nghị thượng đỉnh G7 tại Pháp."
+    },
+    {
+      "id": 2,
       "title": "Phản ứng bất ngờ của Tổng thống Trump khi đến muộn cuộc họp G7",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/phan-ung-bat-ngo-cua-tong-thong-trump-khi-den-muon-cuoc-hop-g7-20260617200204421.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/17/trump-1-1781701015838.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump đã có phản ứng gây bất ngờ khi ông đến muộn trong cuộc họp với các nhà lãnh đạo G7."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Trump cảnh báo ném bom trở lại Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-canh-bao-nem-bom-tro-lai-iran-20260617192504573.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/17/e048c924c5aafa2557c84e47a3bf079773ae0f5c7ab1ff95cdfd137e669d8fdc-1781698983279.webp\" /></a>(Dân trí) - Tổng thống Donald Trump cảnh báo Mỹ sẽ tấn công trở lại nếu Iran không “hành xử đúng mực”."
-    },
-    {
-      "id": 3,
-      "title": "Thái tử phi Na Uy được ghép phổi thành công",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/thai-tu-phi-na-uy-duoc-ghep-phoi-thanh-cong-20260617155933101.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/17/bacf19652ea943e445fe2fc9df4147d2352f038d467b5607e43cd186ef49581f-1781686424298.webp\" /></a>(Dân trí) - Thái tử phi Na Uy Mette-Marit đã được ghép phổi thành công và đang hồi phục sau ca phẫu thuật, Hoàng gia Na Uy cho biết trong một tuyên bố ngày 17/6."
     }
   ]
 }
