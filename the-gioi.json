@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mỹ đang kích hoạt chiến thuật \"mềm nắn, rắn buông\" với Iran?",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-dang-kich-hoat-chien-thuat-mem-nan-ran-buong-voi-iran-20260617152820020.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/17/my-dang-kich-hoat-chien-thuat-mem-nan-ran-buong-voi-iran-cropped-1781684542255.jpg\" /></a>(Dân trí) - Sau hơn 3 tháng đối đầu quyết liệt, Mỹ dường như hiểu rằng biện pháp vung \"cây gậy\" chưa đạt được hiệu quả như mong muốn và họ có thể sẽ dùng tới \"củ cà rốt\" với Iran."
+    },
+    {
+      "id": 2,
       "title": "\"Vũ khí công nghệ\" đặc biệt giúp Mỹ phóng tên lửa vào Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/vu-khi-cong-nghe-dac-biet-giup-my-phong-ten-lua-vao-iran-20260617152626663.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/11/taumyphongtenluatapkichiranreuters-1781172352425.png\" /></a>(Dân trí) - Công cụ trí tuệ nhân tạo Grok của tỷ phú Elon Musk đã hỗ trợ quân đội Mỹ phóng 2.000 tên lửa vào Iran trong cuộc xung đột."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thụy Sĩ xác nhận thời gian, địa điểm ký kết thỏa thuận Mỹ - Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/thuy-si-xac-nhan-thoi-gian-dia-diem-ky-ket-thoa-thuan-my-iran-20260617145105199.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/17/thuy-siafp11zon-cropped-1781682516865.jpg\" /></a>(Dân trí) - Thụy Sĩ đã lên tiếng xác nhận thời gian và địa điểm diễn ra lễ ký kế Bản ghi nhớ hiểu biết (MOU) giữa Mỹ và Iran về việc chấm dứt xung đột sau khi hai bên ký kết trực tuyến."
-    },
-    {
-      "id": 3,
-      "title": "Lý do Pháp nuôi muỗi rồi thả vào các khu dân cư",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ly-do-phap-nuoi-muoi-roi-tha-vao-cac-khu-dan-cu-20260617142611770.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/17/ly-do-phap-nuoi-roi-tha-hang-trieu-con-muoi-vao-cac-khu-do-thi-cropped-1781681012083.jpg\" /></a>(Dân trí) - Một công ty ở miền Nam Pháp đang thả muỗi hổ đực đã được triệt sản vào các khu vực đô thị nhằm giảm số lượng loài côn trùng xâm lấn này và hạn chế nguy cơ xảy ra dịch bệnh."
     }
   ]
 }
