@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nhà ngoại giao kỳ cựu trở thành nữ Đại sứ Mỹ đầu tiên tại Việt Nam",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nha-ngoai-giao-ky-cuu-tro-thanh-nu-dai-su-my-dau-tien-tai-viet-nam-20260618154349752.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/18/ds-my-edited-1781771555579.jpg\" /></a>(Dân trí) - Nữ Đại sứ Mỹ đầu tiên tại Việt Nam Jennifer Wicks là nhà ngoại giao chuyên nghiệp với nhiều năm kinh nghiệm làm việc qua nhiều đời tổng thống."
+    },
+    {
+      "id": 2,
       "title": "Hơn 5 triệu thùng dầu Iran được giải phóng sau thỏa thuận với Mỹ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/hon-5-trieu-thung-dau-iran-duoc-giai-phong-sau-thoa-thuan-voi-my-20260618155223470.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/18/hormuztau-edited-1781772609562.jpg\" /></a>(Dân trí) - Ít nhất 3 tàu chở dầu treo cờ Iran mang theo tổng cộng hơn 5 triệu thùng dầu đã ra khơi từ Iran kể từ khi nước này đạt được thỏa thuận với Mỹ vào cuối tuần."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thỏa thuận sơ bộ Mỹ - Iran và 60 ngày quyết định tương lai Trung Đông",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/thoa-thuan-so-bo-my-iran-va-60-ngay-quyet-dinh-tuong-lai-trung-dong-20260618155108798.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/18/2026-06-17t192739z1278525053rc2vvlay6gf8rtrmadp3g7-summit-trump-1781772554668.jpg\" /></a>(Dân trí) - Thỏa thuận hòa bình sơ bộ Mỹ - Iran được thiết lập nhằm chấm dứt xung đột, mở cửa eo biển Hormuz, đồng thời mở ra 60 ngày đàm phán để tháo gỡ nút thắt về hạt nhân và định hình tương lai Trung Đông."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Mỹ: Iran thiệt hại 1.500-2.000 tỷ USD vì xung đột",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-my-iran-thiet-hai-1500-2000-ty-usd-vi-xung-dot-20260618084242293.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/18/zyxyskdeifpitjnurq7wk45cjm-1781746801055.jpg\" /></a>(Dân trí) - Thiệt hại mà Iran phải gánh chịu trong cuộc xung đột vào khoảng 1.500-2.000 tỷ USD, Tổng thống Mỹ Donald Trump cho biết tại cuộc họp báo sau hội nghị thượng đỉnh G7 ở Évian-les-Bains, Pháp."
     }
   ]
 }
