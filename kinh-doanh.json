@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng lao dốc gần 5 triệu đồng/lượng sau khi lập đỉnh tuần",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-lao-doc-gan-5-trieu-dongluong-sau-khi-lap-dinh-tuan-20260620163024059.htm\"><img src=\"https://icdn.dantri.com.vn/2024/03/11/gia-vang-manh-quan-12-edited-1710094860599.jpeg\" /></a>(Dân trí) - Sau chuỗi phiên tăng mạnh và lập đỉnh tuần ở mức 151,8 triệu đồng, giá vàng miếng SJC đảo chiều lao dốc trong những ngày cuối tuần. Chỉ trong 2 phiên giao dịch, mỗi lượng vàng mất gần 5 triệu đồng."
+    },
+    {
+      "id": 2,
       "title": "Warren Buffett và 5 nguyên tắc đơn giản để tránh mất tiền trong đầu tư",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/warren-buffett-va-5-nguyen-tac-don-gian-de-tranh-mat-tien-trong-dau-tu-20260620113444696.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/20/buffett-cropped-1781929613036.jpg\" /></a>(Dân trí) - Không có công thức giúp đầu tư luôn thắng, nhưng Warren Buffett cho rằng tránh những khoản thua lỗ lớn mới là chìa khóa để bảo vệ tài sản và tận dụng sức mạnh của lãi kép trong dài hạn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Công ty ông Trịnh Văn Quyết lại bị ngân hàng \"réo tên\", thu giữ tài sản",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cong-ty-ong-trinh-van-quyet-lai-bi-ngan-hang-reo-ten-thu-giu-tai-san-20260620085058740.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/20/quyet-cropped-1781920171689.jpg\" /></a>(Dân trí) - Sau nhiều năm tái cơ cấu, Bamboo Airways vẫn đang đối mặt với những sức ép tài chính đáng kể khi các tổ chức tín dụng tiếp tục triển khai các biện pháp xử lý tài sản bảo đảm nhằm thu hồi nợ."
-    },
-    {
-      "id": 3,
-      "title": "5 tín hiệu cho thấy đợt giảm của vàng có thể chỉ là tạm thời",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/5-tin-hieu-cho-thay-dot-giam-cua-vang-co-the-chi-la-tam-thoi-20260618201016155.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/18/goldpriceoutlook-1781787743393.jpg\" /></a>(Dân trí) - Giá vàng đã giảm hơn 20% so với đỉnh đầu năm, nhưng hàng loạt dữ liệu mới từ các tổ chức tài chính lớn cho thấy đây có thể chỉ là giai đoạn điều chỉnh, thay vì sự đảo chiều của xu hướng dài hạn."
     }
   ]
 }
