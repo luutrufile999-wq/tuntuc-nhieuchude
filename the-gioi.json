@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Sập hầm đường sắt đang thi công ở Thái Lan",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/sap-ham-duong-sat-dang-thi-cong-o-thai-lan-20260621134354027.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/21/thai-1782023785104.jpg\" /></a>(Dân trí) - Hai công nhân đã thiệt mạng và 2 người khác bị thương nặng trong một vụ sập xảy ra tại công trường xây dựng đường hầm đường sắt Doi Luang ở tỉnh miền Bắc Chiang Rai."
+    },
+    {
+      "id": 2,
       "title": "Chiến sự Ukraine 21/6: Ukraine phản công, tìm cơ hội lật thế cờ ở Liman",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-216-ukraine-phan-cong-tim-co-hoi-lat-the-co-o-liman-20260621110924520.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/21/6-cropped-1782009085944.jpg\" /></a>(Dân trí) - Tình hình của Ukraine ở Liman tiếp tục xấu đi nghiêm trọng. Các đơn vị Nga không chỉ mở rộng sự hiện diện trong trung tâm, mà còn liên tục siết chặt vòng vây thành phố hơn nữa."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Ukraine trả lại huân chương cao quý nhất cho Ba Lan",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-ukraine-tra-lai-huan-chuong-cao-quy-nhat-cho-ba-lan-20260621105820822.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/21/ukraine-1782014002750.png\" /></a>(Dân trí) - Tổng thống Ukraine Volodymyr Zelensky đã trả lại huân chương cao quý nhất cho Ba Lan trong bối cảnh căng thẳng leo thang."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Trump \"lời qua tiếng lại\" gay gắt với Thủ tướng Italy",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-loi-qua-tieng-lai-gay-gat-voi-thu-tuong-italy-20260621091830627.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/21/trump-meloni-01-gty-jt-2606201781969398280hpembed3x2992-1782008155221.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump và Thủ tướng Italy Giorgia Meloni liên tục “lời qua tiếng lại” trên mạng xã hội về việc chụp ảnh chung tại hội nghị G7."
     }
   ]
 }
