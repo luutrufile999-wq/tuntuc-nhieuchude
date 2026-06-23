@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giới tài chính chia rẽ về giá vàng: Nơi báo giảm, nơi chờ mốc 10.000 USD",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gioi-tai-chinh-chia-re-ve-gia-vang-noi-bao-giam-noi-cho-moc-10000-usd-20260622184410214.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/12/gold-prices-26-1781219641528.jpg\" /></a>(Dân trí) - Sự bất định của kinh tế Mỹ và căng thẳng địa chính trị khiến tương lai giá vàng trở thành bài toán khó. Các kịch bản được đưa ra dao động biên độ cực rộng, từ 3.850 USD đến đỉnh 10.000 USD/ounce."
+    },
+    {
+      "id": 2,
       "title": "Không để lợi dụng nhập ô tô biếu tặng để trục lợi",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khong-de-loi-dung-nhap-o-to-bieu-tang-de-truc-loi-20260622225648178.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/22/pho-thu-tuong-thuong-truc-nhap-khau-o-to-dien-qua-bieu-tang-khong-vi-quan-ly-kho-ma-cam-cropped-1782142889068.jpg\" /></a>(Dân trí) - Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc nhấn mạnh yêu cầu bảo đảm công bằng, không để lợi dụng hình thức quà biếu, quà tặng để trục lợi chính sách."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chính thức nới trần vốn ngắn hạn cho vay trung dài hạn từ 1/7",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chinh-thuc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-tu-17-20260622212738762.htm\"><img src=\"https://icdn.dantri.com.vn/2023/04/21/vpbank-giao-dich35-edited-1682014495857.jpeg\" /></a>(Dân trí) - Tỷ lệ tối đa nguồn vốn ngắn hạn được ngân hàng sử dụng để cho vay trung, dài hạn được nới từ 30% lên 40%."
-    },
-    {
-      "id": 3,
-      "title": "Làn sóng AI tạo cơ hội \"đổi đời\" cho thợ điện, thợ ống nước",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lan-song-ai-tao-co-hoi-doi-doi-cho-tho-dien-tho-ong-nuoc-20260622200418941.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/22/p-1-91529563-nvidia-ceo-jensen-huang-cropped-1782132919850.jpg\" /></a>(Dân trí) - Trong khi nhiều người lo AI lấy mất việc làm, CEO Nvidia Jensen Huang lại cho rằng làn sóng AI đang mở ra nhu cầu khổng lồ đối với thợ điện, thợ ống nước, thợ hàn và lao động kỹ thuật."
     }
   ]
 }
