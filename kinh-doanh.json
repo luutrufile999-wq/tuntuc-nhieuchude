@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Pacific Airlines lỗ lũy kế 10.600 tỷ đồng, Vietnam Airlines tính thoái vốn",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pacific-airlines-lo-luy-ke-10600-ty-dong-vietnam-airlines-tinh-thoai-von-20260622124605319.htm\"><img src=\"https://icdn.dantri.com.vn/2020/11/12/pacific-airlines-1605179014014.jpeg\" /></a>(Dân trí) - Gánh khoản nợ quá hạn và lỗ lũy kế vượt ngưỡng 10.600 tỷ đồng, hãng hàng không Pacific Airlines đang đứng trước bước ngoặt lớn khi công ty mẹ quyết định lên kế hoạch thoái toàn bộ vốn."
+    },
+    {
+      "id": 2,
       "title": "Bộ đôi cổ phiếu LPBank, Vingroup dẫn dắt đà tăng thị trường chứng khoán",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-doi-co-phieu-lpbank-vingroup-dan-dat-da-tang-thi-truong-chung-khoan-20260623144203902.htm\"><img src=\"https://icdn.dantri.com.vn/2024/07/01/chungkhoan1-crop-1719788750074.jpeg\" /></a>(Dân trí) - Cổ phiếu LPBank tăng trần, thanh khoản đột biến sau khi công bố ông Phạm Nhật Vượng nắm gần 5% vốn - mức tiệm cận cổ đông lớn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Số hóa thị trường đấu giá tài sản: Dùng AI phát hiện giao dịch ảo",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/so-hoa-thi-truong-dau-gia-tai-san-dung-ai-phat-hien-giao-dich-ao-20260623145353945.htm\"><img src=\"https://icdn.dantri.com.vn/2023/05/15/giao-dich-ngan-hang-23tien-tuan-2-1684134669171.jpg?watermark=true\" /></a>(Dân trí) - Ngày 23/6, tại Trung tâm Đổi mới sáng tạo Quốc gia (NIC), hệ thống thông tin và Nền tảng số hóa tài sản đấu giá Việt Nam chính thức được công bố và ra mắt."
-    },
-    {
-      "id": 3,
-      "title": "Đế chế Samsung mất vị trí công ty lớn nhất Hàn Quốc vào tay SK Hynix",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/de-che-samsung-mat-vi-tri-cong-ty-lon-nhat-han-quoc-vao-tay-sk-hynix-20260623093848110.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/23/de-che-samsung-mat-vi-tri-cong-ty-lon-nhat-han-quoc-cuc-dien-da-dao-chieu-cropped-1782182237301.jpg\" /></a>(Dân trí) - Từng đứng bên bờ vực phá sản và suýt bị thâu tóm, SK Hynix nay đã vượt mặt Samsung, đánh dấu một trong những cuộc lội ngược dòng ấn tượng nhất lịch sử kinh doanh xứ kim chi."
     }
   ]
 }
