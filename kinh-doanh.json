@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Heineken vừa làm điều chưa từng có suốt 87 năm",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/heineken-vua-lam-dieu-chua-tung-co-suot-87-nam-20260624145755544.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/24/heineken-vua-lam-dieu-chua-tung-co-suot-87-nam-cropped-1782287721911.jpg\" /></a>(Dân trí) - Heineken vừa đưa ra một quyết định mang tính lịch sử khi trao quyền lãnh đạo cao nhất cho một nhân sự không xuất thân từ ngành bia."
+    },
+    {
+      "id": 2,
       "title": "Khó khăn bủa vây Lộc Trời",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/kho-khan-bua-vay-loc-troi-20260624163645036.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/26/ltg-cropped-1756180864511.jpg\" /></a>(Dân trí) - Vừa bị ngân hàng siết nợ loạt tài sản giá trị, Lộc Trời tiếp tục nhận thông báo từ Sở Giao dịch Chứng khoán Hà Nội về việc đưa cổ phiếu LTG vào diện đình chỉ giao dịch."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tài sản lập đỉnh, tỷ phú Phạm Nhật Vượng giàu thứ 63 thế giới",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tai-san-lap-dinh-ty-phu-pham-nhat-vuong-giau-thu-63-the-gioi-20260624161104191.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/24/screenshot-2026-06-24-082730-cropped-1782291329555.jpg\" /></a>(Dân trí) - Khối tài sản của tỷ phú Phạm Nhật Vượng đạt 35,3 tỷ USD, tăng thêm 1,4 tỷ USD chỉ trong một ngày, theo thống kê từ Forbes tính đến 23/4."
-    },
-    {
-      "id": 3,
-      "title": "Tỷ phú Phạm Nhật Vượng không còn làm Tổng giám đốc VinFast",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ty-phu-pham-nhat-vuong-khong-con-lam-tong-giam-doc-vinfast-20260624162954083.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/23/ving-1776825345559-1782190259235.jpg\" /></a>(Dân trí) - Quyết định có hiệu lực từ ngày 22/6. Công ty bổ nhiệm ông Trịnh Văn Ngân đảm nhiệm vai trò này. Động thái này diễn ra sau khi công ty vừa chia tách."
     }
   ]
 }
