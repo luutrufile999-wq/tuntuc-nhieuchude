@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ukraine tấn công dồn dập, Nga ban bố tình trạng khẩn cấp tại Crimea",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tan-cong-don-dap-nga-ban-bo-tinh-trang-khan-cap-tai-crimea-20260626210459359.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/26/khoiboclencaucrimeareuters-cropped-1782482462882.jpg\" /></a>(Dân trí) - Giới chức Crimea ban bố tình trạng khẩn cấp sau các đòn tấn công dồn dập của Ukraine nhằm vào bán đảo phía nam."
+    },
+    {
+      "id": 2,
       "title": "Iran tái khẳng định quyền kiểm soát hoạt động hàng hải tại Hormuz",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-tai-khang-dinh-quyen-kiem-soat-hoat-dong-hang-hai-tai-hormuz-20260626210457470.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/26/image-2026-06-26t210254053-1782482593144.png\" /></a>(Dân trí) - Iran hôm 26/6 tái khẳng định quyền kiểm soát hoạt động vận chuyển hàng hải ở eo biển Hormuz và cảnh báo các quốc gia Vùng Vịnh \"không nên đứng về phía Mỹ\"."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Các bệnh viện châu Âu quá tải giữa nắng nóng thiêu đốt",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/cac-benh-vien-chau-au-qua-tai-giua-nang-nong-thieu-dot-20260626172847711.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/26/phapreuters011zon-1782469643917.jpg\" /></a>(Dân trí) - Một đợt nắng nóng chết người tại châu Âu đang làm quá tải các bệnh viện ở một lục địa vốn không quen với những mùa hè khắc nghiệt."
-    },
-    {
-      "id": 3,
-      "title": "Động đất thế kỷ ở Venezuela: Số người chết tiếp tục tăng",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/dong-dat-the-ky-o-venezuela-so-nguoi-chet-tiep-tuc-tang-20260626203312349.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/26/image-2026-06-26t202932668-1782480620455.png\" /></a>(Dân trí) - Chính phủ Venezuela ước tính hàng trăm người vẫn còn mắc kẹt và mất tích sau 2 trận động đất kinh hoàng, trong khi số người thiệt mạng đã tăng lên 589 và 2.980 người bị thương."
     }
   ]
 }
