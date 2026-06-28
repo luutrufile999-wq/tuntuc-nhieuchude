@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Sáng nay Hà Nội công bố Quy hoạch tổng thể thủ đô tầm nhìn 100 năm",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-su/sang-nay-ha-noi-cong-bo-quy-hoach-tong-the-thu-do-tam-nhin-100-nam-20260628223748783.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/28/anh-man-hinh-2026-06-28-luc-22-cropped-1782660615051.jpg\" /></a>(Dân trí) - Từ chiều 29/6, Hà Nội mở cửa cho người dân tham quan Quy hoạch tổng thể thủ đô tầm nhìn 100 năm tại Bảo tàng Hà Nội."
+    },
+    {
+      "id": 2,
       "title": "Paris hứng giông sét dữ dội sau chuỗi ngày nắng nóng",
       "summary": "<a href=\"https://dantri.com.vn/dt360/paris-hung-giong-set-du-doi-sau-chuoi-ngay-nang-nong-20260628223356411.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/28/dich-cropped-1782660788001.jpg\" /></a>(Dân trí) - Một cơn giông mạnh kèm sấm sét quét qua Paris (Pháp) đêm 27/6, nhiều lần thắp sáng bầu trời đêm sau những ngày nắng nóng kỷ lục."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Hàng nghìn gia đình đổ về lễ hội thiếu nhi TPHCM",
       "summary": "<a href=\"https://dantri.com.vn/dt360/hang-nghin-gia-dinh-do-ve-le-hoi-thieu-nhi-tphcm-20260628225642268.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/28/73060869017473778463928026948017237162597079n-1782662120682.jpg\" /></a>(Dân trí) - Đúng dịp Ngày Gia đình Việt Nam 28/6, ngày bế mạc Lễ hội thiếu nhi TPHCM lần thứ IV năm 2026 thu hút đông đảo phụ huynh đưa con em đến vui chơi, trải nghiệm, khép lại mùa lễ hội hè sôi động."
-    },
-    {
-      "id": 3,
-      "title": "Bí thư Hà Nội chốt hoàn thành mở rộng 21,7km quốc lộ 6 ngay quý I/2027",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/bi-thu-ha-noi-chot-hoan-thanh-mo-rong-217km-quoc-lo-6-ngay-quy-i2027-20260628220807558.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/28/z7985229083828a07b2564d37de2005ff9661962e44274-cropped-1782658261142.jpg\" /></a>(Dân trí) - Bí thư Hà Nội chỉ đạo xử lý nghiêm trách nhiệm đối với các tập thể, cá nhân liên quan nếu tiếp tục để xảy ra chậm tiến độ tại dự án cải tạo, nâng cấp quốc lộ 6 đoạn Hà Đông - Xuân Mai."
     }
   ]
 }
