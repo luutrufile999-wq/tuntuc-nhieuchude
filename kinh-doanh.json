@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Điều gì khiến lạm phát tại Iran tăng vọt lên gần 90%?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dieu-gi-khien-lam-phat-tai-iran-tang-vot-len-gan-90-20260629171715249.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/29/37be400a48e3feea2f4c90abf600739ajpg-1768307595621-1782727654863.jpg\" /></a>(Dân trí) - Lạm phát của Iran đã tăng mạnh lên mức gần 90%, khiến giá thực phẩm leo thang chóng mặt và khủng hoảng chi phí sinh hoạt ngày càng nghiêm trọng."
+    },
+    {
+      "id": 2,
       "title": "Sắc xanh áp đảo nhưng chứng khoán vẫn mất gần 17 điểm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sac-xanh-ap-dao-nhung-chung-khoan-van-mat-gan-17-diem-20260629172146499.htm\"><img src=\"https://icdn.dantri.com.vn/2025/02/14/chungkhoan4-crop-1739521409362.jpeg\" /></a>(Dân trí) - VN-Index giảm gần 17 điểm khi áp lực bán tập trung vào một nhóm cổ phiếu trong bối cảnh khối ngoại tiếp tục bán ròng hơn 790 tỷ đồng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nhân viên công ty mẹ EVN thu nhập bình quân gần 40 triệu đồng mỗi tháng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhan-vien-cong-ty-me-evn-thu-nhap-binh-quan-gan-40-trieu-dong-moi-thang-20260629163801534.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/29/vnf-evn-cropped-1782725644316.jpg\" /></a>(Dân trí) - EVN ghi nhận doanh thu, lợi nhuận năm 2025 tăng, thu nhập bình quân người lao động đạt khoảng 479,2 triệu đồng/năm, tương đương gần 40 triệu đồng/tháng."
-    },
-    {
-      "id": 3,
-      "title": "Chính phủ yêu cầu NHNN nghiên cứu tăng thanh khoản cho hệ thống ngân hàng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-thanh-khoan-cho-he-thong-ngan-hang-20260629164935986.htm\"><img src=\"https://icdn.dantri.com.vn/2025/09/17/tienjpeg-1758115881640.jpeg\" /></a>(Dân trí) - Chính phủ vừa yêu cầu Ngân hàng Nhà nước (NHNN) nghiên cứu nâng tỷ lệ tiền gửi có kỳ hạn của Kho bạc Nhà nước tại các ngân hàng thương mại được tính vào nguồn vốn huy động của các ngân hàng."
     }
   ]
 }
