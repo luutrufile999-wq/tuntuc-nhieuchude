@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Anh 0-1 CHDC Congo (hiệp 2): \"Tam sư\" gặp khó",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/anh-0-1-chdc-congo-hiep-2-tam-su-gap-kho-20260701223443181.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/02/anh-0-1-chdc-congo-het-hiep-1-ban-thang-bat-ngo-cropped-1782926490412.jpg\" /></a>(Dân trí) - Tuyển Anh liên tục dâng cao đội hình, gia tăng sức ép nhằm tìm bàn gỡ. Tuy nhiên, CHDC Congo vẫn phòng ngự kiên cường, với hàng thủ lăn xả và thủ môn Lionel Mpasi-Nzau chơi xuất sắc."
+    },
+    {
+      "id": 2,
       "title": "Báo chí thế giới dự đoán tỷ số trận Anh gặp CHDC Congo",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ty-so-tran-anh-gap-chdc-congo-20260701191013926.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/01/bao-chi-the-gioi-du-doan-ty-so-tran-anh-gap-chdc-congo-cropped-1782907725338.jpg\" /></a>(Dân trí) - Nhiều tờ báo trên thế giới đã dự đoán kết quả trận Anh gặp CHDC Congo ở vòng 1/16 World Cup 2026 diễn ra vào lúc 23h ngày 1/7 diễn ra trên sân Mercedes-Benz (Mỹ)."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "World Cup 2026: Người lên đỉnh cao, kẻ chìm vực sâu",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/world-cup-2026-nguoi-len-dinh-cao-ke-chim-vuc-sau-20260701163230031.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/01/duc-cropped-1782902241561.jpg\" /></a>(Dân trí) - Kỳ World Cup với số đội tuyển nhiều nhất lịch sử mới trải qua gần nửa chặng đã tạo ra vô số bất ngờ, khi người hâm mộ chứng kiến nụ cười hân hoan của người chiến thắng lẫn nước mắt của kẻ thất bại."
-    },
-    {
-      "id": 3,
-      "title": "Nhận định Mỹ - Bosnia (7h ngày 2/7): Chủ nhà mở hội",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/nhan-dinh-my-bosnia-7h-ngay-27-chu-nha-mo-hoi-20260701182920248.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/01/129d93c3-f373-4d1f-9710-8cc6cced9a7a-6a3e35811213a-1782905254107.png\" /></a>(Dân trí) - Trận đấu giữa Mỹ và Bosnia ở vòng 1/16 World Cup 2026 diễn ra vào lúc 7h ngày 2/7 trên sân Levi (Mỹ). Đội chủ nhà Mỹ được đánh giá rất cao trước thềm trận đấu này."
     }
   ]
 }
