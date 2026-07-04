@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "5 nguyên tắc đầu tư \"bất bại\" của Warren Buffett",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/5-nguyen-tac-dau-tu-bat-bai-cua-warren-buffett-20260702185005414.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/02/warren-buffett-cropped-1782992953589.jpg\" /></a>(Dân trí) - Suốt hơn 60 năm đầu tư, Warren Buffett gần như không thay đổi triết lý của mình. Theo vị tỷ phú, muốn đầu tư thành công lâu dài, chỉ cần ghi nhớ 5 nguyên tắc."
+    },
+    {
+      "id": 2,
       "title": "Nhà đầu tư cam kết \"rót\" hơn 7,7 tỷ USD khảo sát, làm dự án ở Quảng Trị",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nha-dau-tu-cam-ket-rot-hon-77-ty-usd-khao-sat-lam-du-an-o-quang-tri-20260704153633259.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/04/lanh-dao-quang-tri-trao-chung-nhan-dau-tutien-thanh-1783153863298.jpg\" /></a>(Dân trí) - Tỉnh Quảng Trị đã trao quyết định chủ trương đầu tư, giấy chứng nhận đăng ký đầu tư và chấp thuận nghiên cứu, khảo sát 33 dự án, với tổng vốn đăng ký gần 195.000 tỷ đồng (tương đương hơn 7,7 tỷ USD)."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng đảo chiều tăng sau 4 tuần giảm liên tiếp",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-dao-chieu-tang-sau-4-tuan-giam-lien-tiep-20260704173037049.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/26/gia-vang-mieng-sjc-giam-ve-duoi-121-trieu-dongluong-edited-1756203418140.jpg?watermark=true\" /></a>(Dân trí) - Sự suy yếu của đồng USD và kỳ vọng nới lỏng chính sách tiền tệ từ Fed đã giúp giá vàng thế giới phục hồi mạnh mẽ, đánh dấu tuần tăng giá đầu tiên kể từ tháng 6."
-    },
-    {
-      "id": 3,
-      "title": "Gần 300 phản ánh của người dân về xăng E10 sau một tháng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gan-300-phan-anh-cua-nguoi-dan-ve-xang-e10-sau-mot-thang-20260704180813251.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/11/xang-dautien-tuanpng-1773212333363.png?watermark=true\" /></a>(Dân trí) - Bộ Công Thương cho biết đã tiếp nhận 293 phản ánh liên quan xăng E10. Kết quả rà soát cho thấy đa số ô tô, xe máy sản xuất từ khoảng năm 2000-2006 trở lại đây có thể sử dụng E10."
     }
   ]
 }
