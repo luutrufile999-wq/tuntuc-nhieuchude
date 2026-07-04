@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Canada - Morocco (0h ngày 4/7): Chủ nhà gặp khó",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/canada-morocco-0h-ngay-47-chu-nha-gap-kho-20260704232133733.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/04/7-chu-nha-dung-buoc-edited-1783144504232-1783181987185.jpg\" /></a>(Dân trí) - Trận đấu giữa Canada và Morocco diễn ra vào lúc 0h ngày 4/7 trên sân NEG (Mỹ). Chủ nhà Canada sẽ đối đầu vói thử thách khó khăn mang tên Morocco."
+    },
+    {
+      "id": 2,
       "title": "Báo chí thế giới dự đoán tỷ số trận đấu Pháp gặp Paraguay",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ty-so-tran-dau-phap-gap-paraguay-20260704193816370.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/04/bao-chi-the-gioi-du-doan-ty-so-tran-phap-gap-paraguay-edited-1783168507854.jpg\" /></a>(Dân trí) - Nhiều tờ báo trên thế giới đã đưa ra dự đoán kết quả trận đấu giữa Pháp và Paraguay ở vòng 1/8 World Cup 2026 diễn ra trên sân Lincoln Financial Field (Mỹ) vào lúc 4h ngày 5/7."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "FIFA ra quyết định phũ phàng, Messi lỡ hẹn với kỷ lục World Cup",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/fifa-ra-quyet-dinh-phu-phang-messi-lo-hen-voi-ky-luc-world-cup-20260704191531976.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/04/fifa-ra-quyet-dinh-phu-phang-messi-lo-hen-voi-ky-luc-world-cup-cropped-1783167263532.jpg\" /></a>(Dân trí) - Việc FIFA cho rằng cầu thủ Diney Borges của Cape Verde phản lưới nhà khiến Messi lỡ hẹn với kỷ lục kiến tạo ở World Cup."
-    },
-    {
-      "id": 3,
-      "title": "Vòng 1/8 World Cup 2026: Trận cầu kinh điển, tái hiện chung kết đỉnh cao?",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/vong-18-world-cup-2026-tran-cau-kinh-dien-tai-hien-chung-ket-dinh-cao-20260704170310340.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/04/8-world-cup-tran-cau-kinh-dien-tai-hien-chung-ket-dinh-cao-cropped-1783159310307.jpg\" /></a>(Dân trí) - Vòng 1/8 World Cup 2026 sẽ chứng kiến trận cầu kinh điển giữa Bồ Đào Nha và Tây Ban Nha. Trong khi đó, với những gì đã thể hiện Argentina và Pháp hoàn toàn có thể hẹn nhau ở trận chung kết giải đấu."
     }
   ]
 }
