@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Putin ra mệnh lệnh mới, Nga hành động cứng rắn với Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-putin-ra-menh-lenh-moi-nga-hanh-dong-cung-ran-voi-ukraine-20260705185210507.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/05/tong-thong-putinafp-edited-1783251903613.jpg\" /></a>(Dân trí) - Nga đã lên kế hoạch mở rộng vùng đệm an ninh tại 3 khu vực ở Ukraine theo chỉ đạo của Tổng thống Vladimir Putin."
+    },
+    {
+      "id": 2,
       "title": "Israel xác nhận triển khai tổ hợp Iron Dome tới UAE trong xung đột với Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/israel-xac-nhan-trien-khai-to-hop-iron-dome-toi-uae-trong-xung-dot-voi-iran-20260705162849424.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/05/image-2026-07-05t162525-cropped-1783243595436.jpg\" /></a>(Dân trí) - Giới chức Israel lần đầu tiên xác nhận việc nước này đã triển khai hệ thống đánh chặn tên lửa hiện đại Iron Dome tới Các Tiểu vương quốc Ả rập Thống nhất (UAE) trong xung đột với Iran."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Trump ca ngợi \"thời kỳ hoàng kim của nước Mỹ\"",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-ca-ngoi-thoi-ky-hoang-kim-cua-nuoc-my-20260705145826247.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/05/image-2026-07-05t145522-cropped-1783238227551.jpg\" /></a>(Dân trí) - Bất chấp diễn biến thời tiết khó lường, Tổng thống Donald Trump đã có bài phát biểu kỷ niệm 250 năm ngày lập quốc tại công viên National Mall, trong đó ca ngợi \"thời kỳ hoàng kim của nước Mỹ\"."
-    },
-    {
-      "id": 3,
-      "title": "Vì sao nhiều tàu bất ngờ quay đầu khi qua eo biển Hormuz?",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/vi-sao-nhieu-tau-bat-ngo-quay-dau-khi-qua-eo-bien-hormuz-20260705144557544.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/05/img1046-cropped-1783237350124.jpg\" /></a>(Dân trí) - Nhiều tàu bất ngờ quay đầu khi đi đến eo biển Hormuz giữa lúc Iran thực thi các tuyến đường vận chuyển ưu tiên của mình qua khu vực này."
     }
   ]
 }
