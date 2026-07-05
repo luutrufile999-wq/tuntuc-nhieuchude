@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Israel xác nhận triển khai tổ hợp Iron Dome tới UAE trong xung đột với Iran",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/israel-xac-nhan-trien-khai-to-hop-iron-dome-toi-uae-trong-xung-dot-voi-iran-20260705162849424.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/05/image-2026-07-05t162525-cropped-1783243595436.jpg\" /></a>(Dân trí) - Giới chức Israel lần đầu tiên xác nhận việc nước này đã triển khai hệ thống đánh chặn tên lửa hiện đại Iron Dome tới Các Tiểu vương quốc Ả rập Thống nhất (UAE) trong xung đột với Iran."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Trump ca ngợi \"thời kỳ hoàng kim của nước Mỹ\"",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-ca-ngoi-thoi-ky-hoang-kim-cua-nuoc-my-20260705145826247.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/05/image-2026-07-05t145522-cropped-1783238227551.jpg\" /></a>(Dân trí) - Bất chấp diễn biến thời tiết khó lường, Tổng thống Donald Trump đã có bài phát biểu kỷ niệm 250 năm ngày lập quốc tại công viên National Mall, trong đó ca ngợi \"thời kỳ hoàng kim của nước Mỹ\"."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Vì sao nhiều tàu bất ngờ quay đầu khi qua eo biển Hormuz?",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/vi-sao-nhieu-tau-bat-ngo-quay-dau-khi-qua-eo-bien-hormuz-20260705144557544.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/05/img1046-cropped-1783237350124.jpg\" /></a>(Dân trí) - Nhiều tàu bất ngờ quay đầu khi đi đến eo biển Hormuz giữa lúc Iran thực thi các tuyến đường vận chuyển ưu tiên của mình qua khu vực này."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine đăng khoảnh khắc “phá hủy máy bay chiến đấu Nga”",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-dang-khoanh-khac-pha-huy-may-bay-chien-dau-nga-20260705114623269.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/05/uav-tap-kich-crimea-1783226650696.gif\" /></a>(Dân trí) - Ukraine công bố video được cho là ghi lại cảnh máy bay không người lái đánh trúng chiến đấu cơ của Nga tại Crimea."
     }
   ]
 }
