@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "Nghịch lý AI: Công việc lương thấp lại khó bị robot thay thế",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nghich-ly-ai-cong-viec-luong-thap-lai-kho-bi-robot-thay-the-20260708104551776.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/ciohumanoid-robotistock-cropped-1783481096059.jpg\" /></a>(Dân trí) - Trái với lo ngại AI sẽ sớm thay thế lao động phổ thông, một nghiên cứu mới cho thấy chi phí triển khai robot vẫn quá cao, khiến nhiều công việc thu nhập thấp chưa đáng để tự động hóa."
+    },
+    {
+      "id": 2,
+      "title": "Vàng giảm sau tin không kích, thị trường dồn sự chú ý vào Fed",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vang-giam-sau-tin-khong-kich-thi-truong-don-su-chu-y-vao-fed-20260708174813200.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/gold-1783507337509.jpg\" /></a>(Dân trí) - Giá vàng có lúc lao dốc gần 100 USD/ounce sau cuộc không kích của Mỹ nhằm vào Iran, nhưng nhanh chóng thu hẹp đà giảm. Giới đầu tư hiện dồn mọi sự chú ý vào tín hiệu chính sách từ Fed."
+    },
+    {
+      "id": 3,
+      "title": "Xử phạt chủ chuỗi phòng tập 25 FIT vì vi phạm quyền lợi người tiêu dùng",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/xu-phat-chu-chuoi-phong-tap-25-fit-vi-vi-pham-quyen-loi-nguoi-tieu-dung-20260708165541857.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/phong-tap-25fit1-edited-1783504457532.jpg\" /></a>(Dân trí) - Chủ chuỗi phòng tập 25 FIT bị Ủy ban Cạnh tranh Quốc gia xử phạt 580 triệu đồng do nhiều vi phạm về bảo vệ quyền lợi người tiêu dùng, liên quan hợp đồng theo mẫu và thông tin khách hàng."
     }
   ]
 }
