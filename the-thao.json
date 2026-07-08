@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Xuân Son ghi bàn, tuyển Việt Nam thắng trận thứ hai liên tiếp ở Hàn Quốc",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/xuan-son-ghi-ban-tuyen-viet-nam-thang-tran-thu-hai-lien-tiep-o-han-quoc-20260708184254601.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/xuan-son-ghi-ban-tuyen-viet-nam-thang-tran-thu-hai-lien-tiep-o-han-quoc-edited-edited-1783510881746.jpg\" /></a>(Dân trí) - Chiều 8/7, đội tuyển Việt Nam đã giành chiến thắng với tỷ số 2-1 trước Yongin FC với sự tỏa sáng của Xuân Son. Đây là chiến thắng thứ hai liên tiếp của “Rồng vàng” trong chuyến tập huấn ở Hàn Quốc."
+    },
+    {
+      "id": 2,
       "title": "Siêu máy tính dự đoán bất ngờ về cơ hội vô địch World Cup của Argentina",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-bat-ngo-ve-co-hoi-vo-dich-world-cup-cua-argentina-20260708180432860.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/ap26188661219701-1783460225-4125-1783460310-1783508097963.jpg\" /></a>(Dân trí) - Mặc dù Argentina đang thi đấu thăng hoa và lọt vào nhánh đấu khá thuận lợi nhưng họ không được dự đoán có cơ hội vô địch World Cup cao bằng Pháp hay Tây Ban Nha."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Vòng 1/8 World Cup: Bê bối từ FIFA, cảm xúc trái ngược của Messi, Ronaldo",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/vong-18-world-cup-be-boi-tu-fifa-cam-xuc-trai-nguoc-cua-messi-ronaldo-20260708133904342.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/8-world-cup-vu-be-boi-cua-fifa-cam-xuc-trai-nguoc-cua-messi-cr7-cropped-1783492449998.jpg\" /></a>(Dân trí) - Vòng 1/8 World Cup 2026 đã chứng kiến rất nhiều cảm xúc trái chiều. Từ sự bức xúc vì quyết định khó hiểu của FIFA, tới những nỗi niềm trái ngược của hai siêu sao Lionel Messi và Cristiano Ronaldo."
-    },
-    {
-      "id": 3,
-      "title": "Argentina cạnh tranh vô địch World Cup với 6 đội bóng châu Âu tại tứ kết",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/argentina-canh-tranh-vo-dich-world-cup-voi-6-doi-bong-chau-au-tai-tu-ket-20260708145419980.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/argentina-cropped-1783444684808.jpg\" /></a>(Dân trí) - Argentina là đại diện duy nhất còn sót lại của bóng đá Nam Mỹ tại World Cup 2026, bên cạnh 6 đội bóng châu Âu và một đội bóng châu Phi ở vòng tứ kết giải đấu năm nay."
     }
   ]
 }

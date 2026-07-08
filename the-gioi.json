@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga lên tiếng về “hành động chưa từng có trong lịch sử” của Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-len-tieng-ve-hanh-dong-chua-tung-co-trong-lich-su-cua-ukraine-20260708175627150.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/zakharovasputnik-cropped-1783508124271.jpg\" /></a>(Dân trí) - Nga cho rằng việc Ukraine từ chối nhận lại thi thể binh sĩ tử trận là điều chưa từng có trong lịch sử."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Trump chỉ đạo chấm dứt quan hệ thương mại với Tây Ban Nha",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-chi-dao-cham-dut-quan-he-thuong-mai-voi-tay-ban-nha-20260708154955956.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/tong-thong-myreuters-cropped-1783500354691.jpg\" /></a>(Dân trí) - Nhà lãnh đạo Mỹ đã ra lệnh chấm dứt quan hệ thương mại với Tây Ban Nha sau khi căng thẳng giữa 2 đồng minh NATO leo thang trong thời gian qua."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ông Trump ra lệnh tấn công Iran trong lúc công du",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ong-trump-ra-lenh-tan-cong-iran-trong-luc-cong-du-20260708154603513.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/tong-thong-my-donald-trumpreuters0-cropped-1783500285649.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump đã họp với các cố vấn bên lề hội nghị thượng đỉnh NATO ở Thổ Nhĩ Kỳ trước khi phát lệnh tấn công Iran vào rạng sáng 8/7."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Trump: Lệnh ngừng bắn với Iran đã kết thúc",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-lenh-ngung-ban-voi-iran-da-ket-thuc-20260708155045209.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/21/trumpgetty-cropped-1782051299204.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump tuyên bố lệnh ngừng bắn với Iran đã kết thúc sau các cuộc tập kích gần eo biển Hormuz."
     }
   ]
 }
