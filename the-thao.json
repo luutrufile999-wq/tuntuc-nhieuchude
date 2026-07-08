@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Siêu máy tính dự đoán bất ngờ về cơ hội vô địch World Cup của Argentina",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-bat-ngo-ve-co-hoi-vo-dich-world-cup-cua-argentina-20260708180432860.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/ap26188661219701-1783460225-4125-1783460310-1783508097963.jpg\" /></a>(Dân trí) - Mặc dù Argentina đang thi đấu thăng hoa và lọt vào nhánh đấu khá thuận lợi nhưng họ không được dự đoán có cơ hội vô địch World Cup cao bằng Pháp hay Tây Ban Nha."
+    },
+    {
+      "id": 2,
       "title": "Nghịch lý thú vị, chỉ ra phẩm chất thiên tài của Lionel Messi",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/nghich-ly-thu-vi-chi-ra-pham-chat-thien-tai-cua-lionel-messi-20260708192118566.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/messi-rt-jef-2607071783447509479hpmain-1783513061916.jpg\" /></a>(Dân trí) - Messi dành phần lớn thời gian của trận đấu để dạo chơi nhưng luôn xuất hiện đúng lúc để trở thành người hùng ở World Cup. Dù chạy ít nhất nhưng anh lại là người ghi bàn nhiều nhất."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Xuân Son ghi bàn, tuyển Việt Nam thắng trận thứ hai liên tiếp ở Hàn Quốc",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/xuan-son-ghi-ban-tuyen-viet-nam-thang-tran-thu-hai-lien-tiep-o-han-quoc-20260708184254601.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/xuan-son-ghi-ban-tuyen-viet-nam-thang-tran-thu-hai-lien-tiep-o-han-quoc-edited-edited-1783510881746.jpg\" /></a>(Dân trí) - Chiều 8/7, đội tuyển Việt Nam đã giành chiến thắng với tỷ số 2-1 trước Yongin FC với sự tỏa sáng của Xuân Son. Đây là chiến thắng thứ hai liên tiếp của “Rồng vàng” trong chuyến tập huấn ở Hàn Quốc."
-    },
-    {
-      "id": 3,
-      "title": "Siêu máy tính dự đoán bất ngờ về cơ hội vô địch World Cup của Argentina",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-bat-ngo-ve-co-hoi-vo-dich-world-cup-cua-argentina-20260708180432860.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/08/ap26188661219701-1783460225-4125-1783460310-1783508097963.jpg\" /></a>(Dân trí) - Mặc dù Argentina đang thi đấu thăng hoa và lọt vào nhánh đấu khá thuận lợi nhưng họ không được dự đoán có cơ hội vô địch World Cup cao bằng Pháp hay Tây Ban Nha."
     }
   ]
 }
