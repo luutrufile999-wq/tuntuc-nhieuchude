@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Lệnh ngừng bắn chấm dứt, Iran cảnh báo đòn giáng với Mỹ",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/lenh-ngung-ban-cham-dut-iran-canh-bao-don-giang-voi-my-20260710230647277.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/may-bay-my-afp-1783699455624.png\" /></a>(Dân trí) - Iran cảnh báo sẽ đáp trả Mỹ nếu Washington tấn công cơ sở hạ tầng của Tehran."
+    },
+    {
+      "id": 2,
       "title": "Ukraine tung đòn tấn công tầm xa, Nga hành động khẩn",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tung-don-tan-cong-tam-xa-nga-hanh-dong-khan-20260710211155209.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/su-57-nga-cropped-1783692521410.jpg\" /></a>(Dân trí) - Nga đang gấp rút gia cố cơ sở sản xuất tiêm kích để đối phó các đòn tấn công tầm xa ngày càng tăng của Ukraine."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ có sân bay mang tên Tổng thống Donald Trump",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-co-san-bay-mang-ten-tong-thong-donald-trump-20260710141659322.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/image-11-1783667675139.png\" /></a>(Dân trí) - Sân bay quốc tế Palm Beach tại Florida chính thức được đổi tên thành Sân bay quốc tế Tổng thống Donald Trump, theo đạo luật được cơ quan lập pháp thông qua và Thống đốc Ron DeSantis ký ban hành."
-    },
-    {
-      "id": 3,
-      "title": "Israel chờ \"đèn xanh\" từ Tổng thống Trump để nối lại các cuộc tấn công Iran",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/israel-cho-den-xanh-tu-tong-thong-trump-de-noi-lai-cac-cuoc-tan-cong-iran-20260710165410970.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/iranbitancong-1783677038134.jpg\" /></a>(Dân trí) - Israel dường như muốn tham gia vòng đối đầu quân sự mới giữa Washington và Tehran, đồng thời nối lại các cuộc tấn công nhằm vào Iran, nhưng đang chờ sự chấp thuận của Tổng thống Mỹ Donald Trump."
     }
   ]
 }
