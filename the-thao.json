@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Báo chí thế giới dự đoán tỷ số trận Tây Ban Nha gặp Bỉ",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ty-so-tran-tay-ban-nha-gap-bi-20260710191554385.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/bao-chi-the-gioi-du-doan-ty-so-tran-tay-ban-nha-gap-bi-cropped-1783685545335.jpg\" /></a>(Dân trí) - Nhiều tờ báo trên thế giới đã đưa ra dự đoán kết quả trận đấu giữa Tây Ban Nha và Bỉ ở vòng tứ kết World Cup 2026 diễn ra vào lúc 2h ngày 11/7 trên sân SoFi (Mỹ)."
+    },
+    {
+      "id": 2,
       "title": "FIFA gây tranh cãi khi bố trí trọng tài Bồ Đào Nha bắt trận của Argentina",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/fifa-gay-tranh-cai-khi-bo-tri-trong-tai-bo-dao-nha-bat-tran-cua-argentina-20260710184552929.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/5939ddf08fbb66e53faa-1783683729887.png\" /></a>(Dân trí) - FIFA đã phân công trọng tài người Bồ Đào Nha Joao Pinheiro điều khiển trận tứ kết World Cup 2026 giữa Argentina và Thụy Sĩ. Điều này tạo ra nhiều tranh cãi trong dư luận."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tây Ban Nha áp đảo đội tuyển Bỉ trước trận tứ kết World Cup 2026",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/tay-ban-nha-ap-dao-doi-tuyen-bi-truoc-tran-tu-ket-world-cup-2026-20260710175001564.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/tbn1reuters10-7-26-cropped-1783680363181.jpg\" /></a>(Dân trí) - Trước trận đấu thuộc vòng tứ kết World Cup 2026 diễn ra sáng mai (11/7, theo giờ Việt Nam), đội tuyển Tây Ban Nha áp đảo đội tuyển Bỉ về kết quả đối đầu."
-    },
-    {
-      "id": 3,
-      "title": "Kylian Mbappe - Lionel Messi: “Siêu nhân” phá vỡ chuẩn mực World Cup",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/kylian-mbappe-lionel-messi-sieu-nhan-pha-vo-chuan-muc-world-cup-20260710151958490.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/260624-mbappe-messi-aa-1109-b5737f-1783671082375.jpg\" /></a>(Dân trí) - World Cup 2026 hấp dẫn hơn một phần là bởi cuộc so tài cá nhân giữa Kylian Mbappe và Lionel Messi. Họ liên tục thay đổi vị trí dẫn đầu trong cuộc đua Vua phá lưới, tạo nên màn rượt đuổi nghẹt thở."
     }
   ]
 }
