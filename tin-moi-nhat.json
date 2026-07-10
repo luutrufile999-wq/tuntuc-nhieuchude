@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "TPHCM và Nam Bộ ngày nắng, chiều có mưa rào và dông",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-tiet/tphcm-va-nam-bo-ngay-nang-chieu-co-mua-rao-va-dong-20260710202935098.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/afeee25a-ae5e-47d9-baeb-fc290570006d1105c-1783690068539.jpg\" /></a>(Dân trí) - TPHCM và Nam Bộ duy trì hình thái ban ngày có nắng, chiều tối xuất hiện mưa rào và dông rải rác. Trong cơn dông, người dân cần đề phòng lốc, sét và gió giật mạnh."
+    },
+    {
+      "id": 2,
       "title": "Chỉ 41% học sinh biết bơi, Bộ Y tế bàn giải pháp chống đuối nước trẻ em",
       "summary": "<a href=\"https://dantri.com.vn/suc-khoe/chi-41-hoc-sinh-biet-boi-bo-y-te-ban-giai-phap-chong-duoi-nuoc-tre-em-20260710195103754.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/dayboi1-cropped-1783687784307.jpg\" /></a>(Dân trí) - Thống kê cho thấy chỉ gần 12% trường học có bể bơi, tỷ lệ học sinh biết bơi đạt 41%. Trong khi đó, kỹ năng bơi an toàn của trẻ có thể giảm gần 50% sau 6 tháng nếu không được ôn luyện."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "VinaCapital bán hơn 3 triệu cổ phiếu PNJ, không còn là cổ đông lớn",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vinacapital-ban-hon-3-trieu-co-phieu-pnj-khong-con-la-co-dong-lon-20260710211753615.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/26/tcbc-fottunepnj-2026-1docx-1782461837754.jpg\" /></a>(Dân trí) - Nhóm 5 trong số 12 nhà đầu tư liên quan VinaCapital đã bán tổng cộng hơn 3 triệu cổ phiếu PNJ vào ngày 8/7, giảm tỷ lệ sở hữu về dưới 0,7%."
-    },
-    {
-      "id": 3,
-      "title": "Hà Nội có nơi mưa rất to, Bắc Bộ đề phòng ngập úng",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/ha-noi-co-noi-mua-rat-to-bac-bo-de-phong-ngap-ung-20260710215006773.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/ha-noi-co-noi-mua-rat-to-cropped-1783694775513.jpg\" /></a>(Dân trí) - Hà Nội được dự báo có nơi mưa rất to, giống khu vực Bắc Bộ, Thanh Hóa và Nghệ An. Người dân cần đề phòng nguy cơ xảy ra lốc, sét, mưa đá và gió giật mạnh."
     }
   ]
 }
