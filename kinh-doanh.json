@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thêm cửa hàng kim cương thông báo tạm đóng cửa",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/them-cua-hang-kim-cuong-thong-bao-tam-dong-cua-20260711191820987.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/11/kim-cuong-nca-cropped-1783772223865.jpg\" /></a>(Dân trí) - Theo doanh nghiệp, đây là khoảng thời gian cần thiết để rà soát, sắp xếp lại công tác nội bộ, nâng cấp hệ thống vận hành và hoàn thiện quy trình."
+    },
+    {
+      "id": 2,
       "title": "Ngân hàng lớn của Singapore nâng dự báo tăng trưởng GDP Việt Nam",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ngan-hang-lon-cua-singapore-nang-du-bao-tang-truong-gdp-viet-nam-20260711193207923.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/13/dai-hoi-xiv-cua-dang-phan-dau-den-2030-75-nguoi-dan-viet-nam-hanh-phuc-edited-1768267156409.jpg\" /></a>(Dân trí) - Nhờ kết quả kinh tế nửa đầu năm 2026 vượt kỳ vọng, động lực phát triển trí tuệ nhân tạo (AI) tiếp tục mạnh mẽ và giá năng lượng giảm nhiệt, UOB nâng dự báo tăng trưởng GDP Việt Nam lên 8,5%."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Đơn hàng tăng, doanh nghiệp nâng lương gấp đôi vẫn không tuyển đủ công nhân",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/don-hang-tang-doanh-nghiep-nang-luong-gap-doi-van-khong-tuyen-du-cong-nhan-20260711183532409.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/11/san-xuat-noi-that-cropped-1783769507845.jpg\" /></a>(Dân trí) - Nhu cầu tuyển dụng tăng vọt nhưng nguồn cung lại lệch pha khiến nhiều nhà máy không dám ký hợp đồng mới. Thực trạng này buộc các ngành thâm dụng lao động phải gấp rút tìm hướng đi thay thế."
-    },
-    {
-      "id": 3,
-      "title": "Đừng cố đoán đỉnh đáy: 5 nguyên tắc giúp nhà đầu tư vượt qua mọi chu kỳ",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dung-co-doan-dinh-day-5-nguyen-tac-giup-nha-dau-tu-vuot-qua-moi-chu-ky-20260710100108049.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/pf-cropped-1783652157299.jpg\" /></a>(Dân trí) - Thay vì chạy theo tâm lý đám đông để bắt đáy, nhà đầu tư cá nhân hoàn toàn có thể xây dựng một danh mục bền vững và sinh lời thông qua 5 quy tắc quản trị rủi ro đã được kiểm chứng."
     }
   ]
 }
