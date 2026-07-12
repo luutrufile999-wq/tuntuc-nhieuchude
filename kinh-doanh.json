@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Các tỷ phú vẫn giữ một thói quen hàng ngày mà nhiều người đã bỏ",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cac-ty-phu-van-giu-mot-thoi-quen-hang-ngay-ma-nhieu-nguoi-da-bo-20260712081051275.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/12/ty-phu-cropped-1783830134723.jpg\" /></a>(Dân trí) - Trong khi nhiều người dần từ bỏ việc đọc sách để dành thời gian cho nội dung ngắn và AI, đây vẫn là thói quen được nhiều tỷ phú duy trì nhằm học hỏi và rèn luyện tư duy."
+    },
+    {
+      "id": 2,
       "title": "Hàng Việt đối mặt nguy cơ cao bị điều tra thương mại, giải pháp là gì?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hang-viet-doi-mat-nguy-co-cao-bi-dieu-tra-thuong-mai-giai-phap-la-gi-20260712070354235.htm\"><img src=\"https://icdn.dantri.com.vn/2025/04/03/cong-nhan-may-104-1658367206182-1743660828309.jpeg\" /></a>(Dân trí) - Trong bối cảnh Mỹ liên tiếp mở các cuộc điều tra theo Mục 301, Bộ Công Thương cảnh báo nguy cơ hàng Việt tiếp tục bị điều tra thương mại và khuyến nghị doanh nghiệp chủ động ứng phó."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Fed lần đầu gọi AI là rủi ro lạm phát lớn nhất, giá vàng lập tức phản ứng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/fed-lan-dau-goi-ai-la-rui-ro-lam-phat-lon-nhat-gia-vang-lap-tuc-phan-ung-20260712084018938.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/12/gold-fed-cropped-1783820375609.jpg\" /></a>(Dân trí) - Fed lần đầu phát tín hiệu AI có thể tạo áp lực lạm phát kéo dài, làm dấy lên những đánh giá mới về lộ trình lãi suất và thị trường vàng."
-    },
-    {
-      "id": 3,
-      "title": "Hé lộ kết quả kinh doanh quý II: Dầu khí thăng hoa, hàng không chật vật",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/he-lo-ket-qua-kinh-doanh-quy-ii-dau-khi-thang-hoa-hang-khong-chat-vat-20260711195027614.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/03/vietnam-airlines-duy-tri-khai-thac-cac-duong-bay-ket-noi-den-chau-aujpg-1772518777853.jpg\" /></a>(Dân trí) - Kết quả kinh doanh quý II/2026 bắt đầu lộ diện, phản ánh sự phục hồi mạnh mẽ của nhiều nhóm ngành trụ cột. Đáng chú ý, diễn biến giá nhiên liệu tiếp tục làm khó lợi nhuận ngành hàng không."
     }
   ]
 }
