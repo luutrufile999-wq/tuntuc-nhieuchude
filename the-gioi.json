@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran cảnh báo đòn khốc liệt với Mỹ, nêu cách duy nhất mở lại Hormuz",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-canh-bao-don-khoc-liet-voi-my-neu-cach-duy-nhat-mo-lai-hormuz-20260714180244702.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/11/taumyphongtenluatapkichiranreuters-1781172352425.png\" /></a>(Dân trí) - Iran tuyên bố không nhượng bộ Mỹ tại eo biển Hormuz và cảnh báo đòn giáng mạnh nếu Washington tấn công cơ sở hạt nhân."
+    },
+    {
+      "id": 2,
       "title": "Mỹ muốn hạn chế vai trò của Tòa Hình sự Quốc tế",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-muon-han-che-vai-tro-cua-toa-hinh-su-quoc-te-20260714140040572.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/14/ngoai-truong-myreuters-cropped-1784012251041.jpg\" /></a>(Dân trí) - Mỹ đã công khai bày tỏ mong muốn về việc hạn chế vai trò của Tòa án Hình sự Quốc tế (ICC)."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Lý do Nga điều \"máy bay ngày tận thế\" tới Tehran khi Mỹ - Iran căng thẳng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ly-do-nga-dieu-may-bay-ngay-tan-the-toi-tehran-khi-my-iran-cang-thang-20260713220008789.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/13/image-2026-07-13t215802758-1783954706752.png\" /></a>(Dân trí) - Việc Nga điều máy bay sở chỉ huy trên không Tu-214PU đến Iran báo hiệu sự hỗ trợ chiến lược liên tục của Moscow dành cho Tehran khi căng thẳng với Mỹ leo thang."
-    },
-    {
-      "id": 3,
-      "title": "Động thái đầu tiên của Pháp sau đề xuất khẩn cấp của Tổng thống Ukraine",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/dong-thai-dau-tien-cua-phap-sau-de-xuat-khan-cap-cua-tong-thong-ukraine-20260714143120704.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/14/macronzelenskyafp-1656025897023-1784014120165.jpg\" /></a>(Dân trí) - Pháp đã cho phép Ukraine sản xuất tên lửa và vũ khí phòng không trong bối cảnh Nga tăng cường các cuộc không kích."
     }
   ]
 }
