@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Mưa lớn dự báo kéo dài đến đêm 20/7, lũ quét và sạt lở nhiều nơi",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-tiet/mua-lon-du-bao-keo-dai-den-dem-207-lu-quet-va-sat-lo-nhieu-noi-20260718220916472.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/18/lu-quet-cropped-1784386851264.jpg\" /></a>(Dân trí) - Dự báo mưa to ở khu vực vùng núi và trung du Bắc Bộ còn kéo dài đến đêm 20/7. Hầu khắp các tỉnh vùng núi, trung du phía Bắc đều nằm trong vùng có nguy cơ cao đến rất cao về lũ quét và sạt lở đất."
+    },
+    {
+      "id": 2,
       "title": "HLV Kim Sang Sik: “Tuyển Việt Nam mạnh hơn khi có 3 cầu thủ nhập tịch”",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/hlv-kim-sang-sik-tuyen-viet-nam-manh-hon-khi-co-3-cau-thu-nhap-tich-20260718231011996.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/18/img20260718222238-2048x1366-1784390892076.jpg\" /></a>(Dân trí) - Phát biểu sau trận đấu với Myanmar, HLV Kim Sang Sik thừa nhận đội tuyển Việt Nam mạnh hơn khi có bộ ba nhập tịch Xuân Son, Hoàng Hên, Tài Lộc."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Khoa học hiện đại đã có thể nhân bản vô tính con người được chưa?",
       "summary": "<a href=\"https://dantri.com.vn/khoa-hoc/khoa-hoc-hien-dai-da-co-the-nhan-ban-vo-tinh-con-nguoi-duoc-chua-20260718025229901.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/18/nhan-ban-vo-tinh-cropped-1784317876006.jpg\" /></a>(Dân trí) - Cách đây 30 năm, sinh vật nhân bản vô tính đầu tiên được chào đời. Sau ba thập kỷ, các nhà khoa học đã đạt được những bước tiến nào và liệu đã có thể thực hiện nhân bản vô tính con người hay chưa?"
-    },
-    {
-      "id": 3,
-      "title": "Những gì còn sót lại sau trận lũ dữ ở Lai Châu",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/nhung-gi-con-sot-lai-sau-tran-lu-du-o-lai-chau-20260718201209459.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/18/lumuongthanhailong00007-1784374588164.jpg\" /></a>(Dân trí) - Sau đợt lũ ống cuốn phăng nhà cửa, tài sản và khiến 5 người dân tử vong, nhiều bản làng ở xã Mường Than chỉ còn lại bùn đất, đổ nát cùng nỗi đau bao trùm."
     }
   ]
 }
