@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thủ tướng giao Bộ Công Thương xây dựng đề án tái cơ cấu EVN trong quý III",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-tuong-giao-bo-cong-thuong-xay-dung-de-an-tai-co-cau-evn-trong-quy-iii-20260719152339481.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/14/vnf-evn-cropped-1778740308646.jpg\" /></a>(Dân trí) - Thủ tướng giao Bộ Công Thương xây dựng đề án tái cơ cấu EVN theo thị trường điện cạnh tranh, đồng thời đổi mới xúc tiến thương mại và hoàn thiện thể chế để tháo gỡ khó khăn cho doanh nghiệp."
+    },
+    {
+      "id": 2,
       "title": "Vì sao nhiều người sở hữu triệu USD vẫn chưa thấy mình giàu?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vi-sao-nhieu-nguoi-so-huu-trieu-usd-van-chua-thay-minh-giau-20260719092211984.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/19/news-millionaires-consider-wealth-1784426340577.webp\" /></a>(Dân trí) - Dù chạm mốc tài sản triệu USD, nhiều người Mỹ vẫn canh cánh nỗi lo cạn tiền. Sự thật là cảm giác an toàn tài chính không đến từ một con số cụ thể trên giấy tờ."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Dự báo giá vàng sau tuần rớt mạnh",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-gia-vang-sau-tuan-rot-manh-20260719011011058.htm\"><img src=\"https://icdn.dantri.com.vn/2024/03/15/gia-vang-thanh-dong-2-edited-1710474130340.jpeg\" /></a>(Dân trí) - Giá vàng trong nước và thế giới đồng loạt đi xuống trong tuần qua dưới áp lực từ đồng USD mạnh và kỳ vọng Fed duy trì lãi suất cao. Đa số chuyên gia vẫn dự báo giá vàng sẽ tiếp tục giảm."
-    },
-    {
-      "id": 3,
-      "title": "Ngân hàng thông báo đóng các tài khoản có số dư dưới 20.000 đồng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ngan-hang-thong-bao-dong-cac-tai-khoan-co-so-du-duoi-20000-dong-20260719001803083.htm\"><img src=\"https://icdn.dantri.com.vn/2023/05/15/giao-dich-ngan-hang-23tien-tuan-2-1684134669171.jpg?watermark=true\" /></a>(Dân trí) - Các tài khoản thanh toán không phát sinh giao dịch từ 24 tháng trở lên và có số dư dưới 20.000 đồng có thể bị đóng."
     }
   ]
 }
