@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran dồn dập tấn công căn cứ trọng yếu, 2 binh sĩ Mỹ thiệt mạng",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-don-dap-tan-cong-can-cu-trong-yeu-2-binh-si-my-thiet-mang-20260719055554097.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/19/iran-cropped-1784415115003.jpg\" /></a>(Dân trí) - 2 binh sĩ Mỹ thiệt mạng, một người mất tích sau đợt tấn công của Iran vào căn cứ quân sự ở Jordan."
+    },
+    {
+      "id": 2,
       "title": "Du khách Trung Quốc đổ xô tới Na Uy vì \"hiệu ứng Erling Haaland\"",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/du-khach-trung-quoc-do-xo-toi-na-uy-vi-hieu-ung-erling-haaland-20260718205311811.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/18/02484e4d-e42d-49df-bbe9-742f3f92cf5578c55187-1784382490177.jpg\" /></a>(Dân trí) - Sự nổi tiếng của ngôi sao bóng đá Na Uy Erling Haaland đã khiến nhiều người Trung Quốc muốn tới quê hương của anh để tham quan."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ông Trump đặt câu hỏi về chiến thuật của đội Anh tại World Cup",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ong-trump-dat-cau-hoi-ve-chien-thuat-cua-doi-anh-tai-world-cup-20260718185626882.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/18/pflbeslozvpaphw4pdv7n22nhy-1784375488492.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump ngày 17/7 đã thắc mắc về quyết định sử dụng lối chơi phòng ngự của HLV Thomas Tuchel trong trận thua Argentina hôm 15/7 tại World Cup năm nay."
-    },
-    {
-      "id": 3,
-      "title": "Nga cáo buộc Ukraine mở \"mặt trận thứ 2\"",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-cao-buoc-ukraine-mo-mat-tran-thu-2-20260718190559101.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/18/thu-truong-ngasputnik-cropped-1784376254940.jpg\" /></a>(Dân trí) - Nga cáo buộc Ukraine đã triển khai quân nhân tới một số quốc gia châu Phi nhằm mở ra một “mặt trận thứ 2” chống lại Moscow, trong khi Kiev chưa bình luận về điều này."
     }
   ]
 }
