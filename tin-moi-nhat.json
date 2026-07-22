@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giám đốc bị khởi tố vì vi phạm an toàn lao động, gây hậu quả chết người",
+      "summary": "<a href=\"https://dantri.com.vn/phap-luat/giam-doc-bi-khoi-to-vi-vi-pham-an-toan-lao-dong-gay-hau-qua-chet-nguoi-20260722222223436.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/22/bui-van-cuong-1784733491845.jpg\" /></a>(Dân trí) - Ông Bùi Văn Trường, Giám đốc Công ty TNHH cơ khí xây dựng tổng hợp Trường Sơn (Phú Thọ) vừa bị khởi tố về tội Vi phạm quy định về an toàn lao động, vệ sinh lao động, về an toàn ở nơi đông người."
+    },
+    {
+      "id": 2,
       "title": "Giá vàng, giá dầu vọt tăng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-gia-dau-vot-tang-20260722221637714.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/23/gia-vang-the-gioi-bat-ngo-dao-chieu-tang-manh-sau-khi-giam-sau-cropped-1774277099643.jpg\" /></a>(Dân trí) - Những diễn biến mới trong xung đột Mỹ - Iran khiến giá vàng và giá dầu vọt tăng mạnh, thị trường đối mặt với rủi ro địa chính trị và nguy cơ gián đoạn nguồn cung."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Sắp kiểm tra chuyên đề thị trường kim cương, đá quý",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sap-kiem-tra-chuyen-de-thi-truong-kim-cuong-da-quy-20260722222551305.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/22/kim-cuong-cropped-1782461464955-1784732460191.jpg\" /></a>(Dân trí) - Bộ Công Thương đang xây dựng kế hoạch kiểm tra chuyên đề lĩnh vực kim khí, đá quý, doanh nghiệp sẽ được thông báo trước và thời gian kiểm tra trong khoảng một tháng."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Trump cảnh báo Iran trả giá đắt, dọa ném bom phá hủy hạ tầng",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-canh-bao-iran-tra-gia-dat-doa-nem-bom-pha-huy-ha-tang-20260722221501725.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/18/iran-edited-1784331313509.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump cảnh báo Mỹ sẽ “ném bom và phá hủy một cây cầu hoặc nhà máy điện của Iran” nếu Tehran tấn công một tàu ở eo biển Hormuz."
     }
   ]
 }
