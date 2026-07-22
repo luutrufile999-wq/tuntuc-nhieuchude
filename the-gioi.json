@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Trump cảnh báo Iran trả giá đắt, dọa ném bom phá hủy hạ tầng",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-canh-bao-iran-tra-gia-dat-doa-nem-bom-pha-huy-ha-tang-20260722221501725.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/18/iran-edited-1784331313509.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump cảnh báo Mỹ sẽ “ném bom và phá hủy một cây cầu hoặc nhà máy điện của Iran” nếu Tehran tấn công một tàu ở eo biển Hormuz."
+    },
+    {
+      "id": 2,
       "title": "Ông Trump sẽ dự lễ vinh danh binh sĩ Mỹ thiệt mạng trong chiến tranh Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ong-trump-se-du-le-vinh-danh-binh-si-my-thiet-mang-trong-chien-tranh-iran-20260722200251830.htm\"><img src=\"https://icdn.dantri.com.vn/2025/05/15/my-donald-trump-afp-crop-1747318424398.jpeg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump ngày 22/7 tuyên bố, ông sẽ chứng kiến ​​lễ đưa thi hài các binh sĩ Mỹ thiệt mạng trong chiến tranh Iran trở về nước."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga nêu khả năng chấm dứt xung đột Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-neu-kha-nang-cham-dut-xung-dot-ukraine-20260722191128266.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/10/dien-kremlin-peskovtass-1783645271463.png\" /></a>(Dân trí) - Điện Kremlin tuyên bố Tổng thống Nga đã đưa ra các điều kiện chấm dứt xung đột Ukraine từ cách đây 2 năm."
-    },
-    {
-      "id": 3,
-      "title": "Thủ tướng Nhật Bản tiết lộ chỉ ngủ 0 đến 3 tiếng mỗi ngày",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/thu-tuong-nhat-ban-tiet-lo-chi-ngu-0-den-3-tieng-moi-ngay-20260722185203085.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/22/thu-tuong-nhat-afp-cropped-1784720962264.jpg\" /></a>(Dân trí) - Thủ tướng Nhật Bản Sanae Takaichi tiết lộ cường độ làm việc bận rộn và thường xuyên chỉ ngủ từ 0 đến 3 tiếng mỗi ngày."
     }
   ]
 }
