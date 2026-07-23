@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iraq nắm \"lá bài tẩy\" thu hút cường quốc giữa căng thẳng Trung Đông",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iraq-nam-la-bai-tay-thu-hut-cuong-quoc-giua-cang-thang-trung-dong-20260723161823054.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/23/cizuscmcufi2vm544d5ips6f4q-1784798067198.jpg\" /></a>(Dân trí) - Giữa lúc cả khu vực Trung Đông đang trải qua căng thẳng, Iraq đang tìm cách chớp thời cơ để trở thành cầu nối giữa các cường quốc toàn cầu và khu vực."
+    },
+    {
+      "id": 2,
       "title": "\"Quái vật\" hạt nhân của Nga tái xuất với khả năng tác chiến độc đáo",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/quai-vat-hat-nhan-cua-nga-tai-xuat-voi-kha-nang-tac-chien-doc-dao-20260723142347936.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/23/tau-tuan-duong-admiral-nakhimov-ngamwm-cropped-1784789211895.jpg\" /></a>(Dân trí) - Tuần dương hạm Admiral Nakhimov của Hải quân Nga, được mệnh danh là tàu chiến mặt nước mạnh nhất thế giới, đã trở về cảng Severodvinsk sau một loạt thử nghiệm trên biển."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nhật Bản cảnh báo \"ngày nóng khắc nghiệt\" khi nhiệt độ vượt ngưỡng 40 độ C",
       "summary": "<a href=\"https://dantri.com.vn/dt360/nhat-ban-canh-bao-ngay-nong-khac-nghiet-khi-nhiet-do-vuot-nguong-40-do-c-20260723145047352.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/23/nhat-ban-canh-bao-ngay-nong-khac-nghiet-cropped-1784792938096.jpg\" /></a>(Dân trí) - Nhật Bản đang trải qua đợt nắng nóng khắc nghiệt khi nhiệt độ vượt ngưỡng 40 độ C, buộc giới chức mô tả tình hình hiện nay là \"thảm họa\" do số ca nhập viện và tử vong liên quan đến sốc nhiệt gia tăng."
-    },
-    {
-      "id": 3,
-      "title": "220 UAV Ukraine dồn dập tập kích, loạt cơ sở bốc cháy trong lãnh thổ Nga",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/220-uav-ukraine-don-dap-tap-kich-loat-co-so-boc-chay-trong-lanh-tho-nga-20260723155433569.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/23/chay-nha-kho-ngareuters-cropped-1784796650586.jpg\" /></a>(Dân trí) - Các cuộc tấn công bằng hàng trăm máy bay không người lái của Ukraine đã gây ra hỏa hoạn tại các cơ sở năng lượng và nhà kho lớn trong lãnh thổ Nga."
     }
   ]
 }
