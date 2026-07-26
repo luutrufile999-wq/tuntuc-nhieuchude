@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Lâm Đồng sản xuất nhôm thỏi đầu tiên của Việt Nam",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lam-dong-san-xuat-nhom-thoi-dau-tien-cua-viet-nam-20260726135635690.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/26/nhomlamdong-cropped-1785048768381.jpg\" /></a>(Dân trí) - Sau 11 năm đầu tư xây dựng, Nhà máy Điện phân Nhôm Đắk Nông chính thức công bố sản phẩm nhôm thỏi đầu tiên của Việt Nam."
+    },
+    {
+      "id": 2,
       "title": "Các ngân hàng đang rót hơn 2.900 tỷ đồng cho PNJ, SJC vay",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cac-ngan-hang-dang-rot-hon-2900-ty-dong-cho-pnj-sjc-vay-20260724111933170.htm\"><img src=\"https://icdn.dantri.com.vn/2024/01/23/giai-vaing-63-ainh-tieiin-tuaiin-1705990791166.jpg\" /></a>(Dân trí) - Được biết, các công ty kim hoàn này chủ yếu vay ngắn hạn để phục vụ sản xuất kinh doanh, không vay dài hạn. Lãi suất ưu đãi dưới 7%/năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Dự báo giá vàng sau tuần lao dốc",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-gia-vang-sau-tuan-lao-doc-20260726003452730.htm\"><img src=\"https://icdn.dantri.com.vn/2024/03/07/gia-vang-hai-long-26-1-edited-1709825466164.jpeg\" /></a>(Dân trí) - Sau tuần giao dịch biến động với đà giảm mạnh và những nhịp rung lắc trên thị trường quốc tế, giới chuyên gia đưa ra những dự báo trái chiều về xu hướng giá vàng trong tuần tới."
-    },
-    {
-      "id": 3,
-      "title": "Cây xăng kêu thiếu dầu diesel, Petrolimex lý giải",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cay-xang-keu-thieu-dau-diesel-petrolimex-ly-giai-20260726084327721.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/22/xang-dautien-tuan-1774150126615.png?watermark=true\" /></a>(Dân trí) - Nhiều cửa hàng xăng dầu phản ánh khó nhập dầu diesel. Petrolimex cho biết nhu cầu tăng đột biến do biến động nguồn cung toàn cầu và khẳng định đang triển khai giải pháp bảo đảm nguồn hàng."
     }
   ]
 }
