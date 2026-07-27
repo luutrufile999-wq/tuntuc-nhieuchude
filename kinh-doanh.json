@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Phó Thủ tướng Thường trực: Lâm Đồng rà soát các dự án điện gió có vướng mắc",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pho-thu-tuong-thuong-truc-lam-dong-ra-soat-cac-du-an-dien-gio-co-vuong-mac-20260727213335977.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/27/thao-go-cac-du-an-dien-gio-nhung-phai-xu-ly-trach-nhiem-neu-vi-pham-cropped-1785162157916.jpg\" /></a>(Dân trí) - Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc yêu cầu tỉnh Lâm Đồng rà soát toàn bộ dự án điện gió trên địa bàn có khó khăn, vướng mắc."
+    },
+    {
+      "id": 2,
       "title": "Hộ kinh doanh lưu ý hạn chót cần hoàn thành khai thông tin thuế quan trọng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ho-kinh-doanh-luu-y-han-chot-can-hoan-thanh-khai-thong-tin-thue-quan-trong-20260727162925079.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/06/cuc-thue-chi-dao-tang-toc-ho-tro-ho-kinh-doanh-trien-khai-hoa-don-dien-tu-cropped-1772784290881.jpg\" /></a>(Dân trí) - Chỉ còn 4 ngày nữa là hạn chót (31/7) hộ kinh doanh phải khai thuế, thông báo doanh thu, tài khoản ngân hàng, ví điện tử và nộp hồ sơ khai thuế theo quy định."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá trần điện khí LNG tăng lên hơn 3.410 đồng/kWh",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-tran-dien-khi-lng-tang-len-hon-3410-dongkwh-20260727155721690.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/27/dien-khi-lng-1785142312264.jpg\" /></a>(Dân trí) - Bộ Công Thương vừa phê duyệt khung giá phát điện năm 2026 đối với nhà máy nhiệt điện khí thiên nhiên, với giá trần hơn 3.410 đồng/kWh, tăng khoảng 11,1% so với năm trước."
-    },
-    {
-      "id": 3,
-      "title": "Đơn vị kinh doanh xe ôm, giao hàng qua ứng dụng ở TPHCM phải báo cáo định kỳ",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/don-vi-kinh-doanh-xe-om-giao-hang-qua-ung-dung-o-tphcm-phai-bao-cao-dinh-ky-20260727170503060.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/27/xecongnghehcm-cropped-1785146515654.jpg\" /></a>(Dân trí) - Đơn vị, tổ chức kinh doanh và cung cấp ứng dụng hỗ trợ kết nối vận tải tại TPHCM cần báo cáo hoạt động kinh doanh hàng tháng với Sở Xây dựng và địa phương nơi đặt trụ sở."
     }
   ]
 }
