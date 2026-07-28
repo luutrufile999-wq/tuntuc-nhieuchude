@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Động đất Nhật Bản: Nhiều người nghi thiệt mạng trong trung tâm thương mại",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/dong-dat-nhat-ban-nhieu-nguoi-nghi-thiet-mang-trong-trung-tam-thuong-mai-20260728194751806.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/28/dong-dat-nhat-ban-reuters11zon-1785242214212.jpg\" /></a>(Dân trí) - Động đất mạnh đã khiến nhiều người kẹt trong một trung tâm thương mại ở miền Nam Nhật Bản, khoảng 300.000 người phải sơ tán."
+    },
+    {
+      "id": 2,
       "title": "Thủ tướng Anh hứa tặng Ukraine công nghệ \"áo choàng đá\"",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/thu-tuong-anh-hua-tang-ukraine-cong-nghe-ao-choang-da-20260728181610214.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/28/adea20fa-3d19-477b-932a-1157478d341262a9c8f3-1785237092911.jpg\" /></a>(Dân trí) - Anh hứa tặng cho Ukraine công nghệ tác chiến điện tử giúp bảo vệ UAV của Ukraine trên chiến trường."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Oman đề xuất cơ chế quản lý eo biển Hormuz",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/oman-de-xuat-co-che-quan-ly-eo-bien-hormuz-20260728185531519.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/16/hormuzreuters11zon-1784186994010.jpg\" /></a>(Dân trí) - Oman đã gửi cho Iran một đề xuất về một cơ chế khu vực chung để quản lý eo biển Hormuz với các khoản phí tự nguyện."
-    },
-    {
-      "id": 3,
-      "title": "Nhật Bản: Động đất 7,1 độ làm sập hàng loạt nhà cửa, tàu trật bánh",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nhat-ban-dong-dat-71-do-lam-sap-hang-loat-nha-cua-tau-trat-banh-20260728173307486.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/28/nb-1785233631682.jpg\" /></a>(Dân trí) - Một trận động đất mạnh đã làm rung chuyển tỉnh Kumamoto ở miền nam Nhật Bản vào ngày 28/7, khiến nhiều công trình bị hư hại."
     }
   ]
 }
