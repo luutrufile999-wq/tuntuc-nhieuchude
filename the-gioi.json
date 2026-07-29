@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Cựu Tổng thống Hàn Quốc nhận tiền gửi kỷ lục trong một năm ở tù",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/cuu-tong-thong-han-quoc-nhan-tien-gui-ky-luc-trong-mot-nam-o-tu-20260729201332904.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/29/tong-thong-han-quoc-cropped-1785330677117.jpg\" /></a>(Dân trí) - Cựu Tổng thống Hàn Quốc Yoon Suk Yeol nhận 1,15 triệu USD tiền gửi trong trại giam suốt một năm qua."
+    },
+    {
+      "id": 2,
       "title": "Hé lộ cách Iran theo dõi đòn tác chiến, Tư lệnh Mỹ phát cảnh báo nóng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/he-lo-cach-iran-theo-doi-don-tac-chien-tu-lenh-my-phat-canh-bao-nong-20260729191114901.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/21/no-iran-centcom-edited-1784607140958.jpg\" /></a>(Dân trí) - Quân đội Mỹ cân nhắc thu giữ điện thoại của binh sĩ vì lo ngại rằng Iran có thể theo dõi video để tấn công các căn cứ ở Trung Đông."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga đáp trả “tối hậu thư”, nêu lập trường chấm dứt xung đột Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-dap-tra-toi-hau-thu-neu-lap-truong-cham-dut-xung-dot-ukraine-20260729180855607.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/20/lavrovreuters-cropped-1768906908056.jpg\" /></a>(Dân trí) - Nga tuyên bố không từ bỏ các nguyên tắc liên quan tới cuộc xung đột Ukraine bất chấp sức ép từ bên ngoài."
-    },
-    {
-      "id": 3,
-      "title": "Tranh luận về trứng gà thả vườn hữu cơ và nuôi nhốt ở Anh",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tranh-luan-ve-trung-ga-tha-vuon-huu-co-va-nuoi-nhot-o-anh-20260729151615400.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/29/trang-trai-cha-nuoi-gagetty-cropped-1785312542386.jpg\" /></a>(Dân trí) - Một nghiên cứu mới ở Anh chỉ ra rằng trứng hữu cơ từ gà thả vườn, thường được xem là thân thiện với môi trường, có thể gây tác động xấu hơn đến khí hậu so với trúng gà nuôi nhốt trong chuồng."
     }
   ]
 }
