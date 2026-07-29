@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Vì sao tuyển Việt Nam được đánh giá cao hơn Singapore?",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/vi-sao-tuyen-viet-nam-duoc-danh-gia-cao-hon-singapore-20260729120602761.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/29/vi-sao-tuyen-viet-nam-duoc-danh-gia-cao-hon-singapore-cropped-1785312646809.jpg\" /></a>(Dân trí) - Đối thủ thứ hai của tuyển Việt Nam tại ASEAN Cup 2026 là Singapore, đội bóng không còn duy trì sức mạnh như trước. Lối chơi thiên về thể lực và bóng dài của họ cũng dần lép vế trước tuyển Việt Nam."
+    },
+    {
+      "id": 2,
       "title": "Người hâm mộ kỳ vọng Zidane sẽ đưa tuyển Pháp tới ngôi sao thứ ba",
       "summary": "<a href=\"https://dantri.com.vn/dt360/nguoi-ham-mo-ky-vong-zidane-se-dua-tuyen-phap-toi-ngoi-sao-thu-ba-20260729125419442.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/29/zinedine-zidane-lam-huan-luyen-vien-truong-doi-tuyen-phap-cropped-1785304295683.jpg\" /></a>(Dân trí) - Đông đảo người hâm mộ bóng đá Pháp bày tỏ sự phấn khích sau khi Liên đoàn Bóng đá Pháp bổ nhiệm huyền thoại Zinedine Zidane làm huấn luyện viên trưởng đội tuyển quốc gia."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Đội tuyển Việt Nam chạm trán Thái Lan ở giải đấu của FIFA",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-cham-tran-thai-lan-o-giai-dau-cua-fifa-20260729120640405.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/29/z6204759756545d86a1f1563630d53f82d12414772ab6b-1736445281394-1785301441921.jpg\" /></a>(Dân trí) - Theo thông tin chính thức từ FIFA, đội tuyển Việt Nam sẽ góp mặt ở bảng B giải FIFA ASEAN Cup 2026 với các đối thủ Thái Lan, Philippines và Pakistan."
-    },
-    {
-      "id": 3,
-      "title": "Real Madrid thắng tưng bừng trong trận thứ hai dưới thời HLV Mourinho",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/real-madrid-thang-tung-bung-trong-tran-thu-hai-duoi-thoi-hlv-mourinho-20260729105648416.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/29/real-madrid-thang-tung-bung-trong-tran-thu-hai-duoi-thoi-hlv-mourinho-cropped-1785297341483.jpg\" /></a>(Dân trí) - Real Madrid đang có khởi đầu rất tốt dưới thời HLV Mourinho. Rạng sáng 29/7, họ vừa giành chiến thắng đậm với tỷ số 4-1 trước Leganes trong trận giao hữu trên sân Alfredo Di Stefano."
     }
   ]
 }
