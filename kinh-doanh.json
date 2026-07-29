@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng trong nước, thế giới lại quay đầu giảm",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-the-gioi-lai-quay-dau-giam-20260729000918124.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/10/vangmq2-edited-crop-cropped-1775757782926.jpg\" /></a>(Dân trí) - Giá vàng trong nước đồng loạt giảm theo đà đi xuống của thị trường thế giới, trong khi chênh lệch giữa giá vàng trong nước và quốc tế vẫn duy trì ở mức cao."
+    },
+    {
+      "id": 2,
       "title": "Khát dữ liệu sạch, sách cũ bỗng tăng giá trị trong thời đại AI",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khat-du-lieu-sach-sach-cu-bong-tang-gia-tri-trong-thoi-dai-ai-20260727221623608.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/27/tai-xuong-cropped-1785165357380.jpg\" /></a>(Dân trí) - Cơn khát dữ liệu không chứa nội dung do máy móc tạo ra đã biến những cuốn sách xuất bản trước năm 2022 thành tài nguyên quý giá, giúp doanh số nhiều cửa hàng sách truyền thống tăng vọt."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "PNJ chi hơn 7.000 tỷ đồng mua lại kim cương từ khách hàng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pnj-chi-hon-7000-ty-dong-mua-lai-kim-cuong-tu-khach-hang-20260728190111011.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/22/z8069396162110f6aa79033532f07512083b8e33d4fde7-cropped-1784704634931.jpg?watermark=v1,v2\" /></a>(Dân trí) - Hơn 7.000 tỷ đồng là số tiền PNJ dùng để mua lại sản phẩm từ khách hàng trong tháng 7. Đứng trước áp lực dòng tiền, \"ông lớn\" ngành vàng bạc đã áp dụng hạn mức thu đổi cho từng cửa hàng."
-    },
-    {
-      "id": 3,
-      "title": "Tiêu hủy 76.000 hộp bột rau, nhãn hiệu từng mời diễn viên Hữu Công quảng bá",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tieu-huy-76000-hop-bot-rau-nhan-hieu-tung-moi-dien-vien-huu-cong-quang-ba-20260728174420017.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/28/bot-rau-huu-cong-cropped-1785235281385.jpg\" /></a>(Dân trí) - Cơ quan chức năng giám sát tiêu hủy gần 76.000 hộp bột rau từng được diễn viên Hữu Công quảng cáo sau khi doanh nghiệp sản xuất bị xử phạt và buộc khắc phục hậu quả."
     }
   ]
 }
