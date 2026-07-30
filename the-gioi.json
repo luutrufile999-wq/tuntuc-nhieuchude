@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ukraine báo động Nga dồn dập tập kích huyết mạch vận tải ở biển Đen",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-bao-dong-nga-don-dap-tap-kich-huyet-mach-van-tai-o-bien-den-20260730221204710.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/30/cang-bien-denreuters-cropped-1785424186424.jpg\" /></a>(Dân trí) - Nga dường như đang tìm cách gia tăng áp lực lên Ukraine bằng các cuộc tập kích vào cảng biển quan trọng trong bối cảnh xung đột vẫn chưa hạ nhiệt."
+    },
+    {
+      "id": 2,
       "title": "Iran ra “tối hậu thư” liên quan đến eo biển Hormuz",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-ra-toi-hau-thu-lien-quan-den-eo-bien-hormuz-20260730211803629.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/18/tau-dau-hormuzafp11zon-cropped-1784335889092.jpg\" /></a>(Dân trí) - Lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC) tuyên bố eo biển Hormuz sẽ tiếp tục bị phong tỏa chừng nào các mối đe dọa và sự can thiệp của Mỹ trong khu vực vẫn còn tiếp diễn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga đưa ông chủ Telegram vào danh sách đen \"khủng bố và cực đoan\"",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-dua-ong-chu-telegram-vao-danh-sach-den-khung-bo-va-cuc-doan-20260730213117547.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/30/durovgag-1785422170750.webp\" /></a>(Dân trí) - Nga ngày 30/7 đã đưa nhà sáng lập Telegram Pavel Durov vào danh sách đen \"khủng bố và cực đoan\" sau khi phát lệnh truy nã ông 1 ngày trước đó."
-    },
-    {
-      "id": 3,
-      "title": "Nhật Bản xúc tiến kế hoạch lập thủ đô thứ hai",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nhat-ban-xuc-tien-ke-hoach-lap-thu-do-thu-hai-20260730193319741.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/30/tokyo-bloomberg11zon-1785414560145.jpg\" /></a>(Dân trí) - Ý tưởng lập thủ đô thứ hai của Nhật Bản nhằm có phương án dự phòng nếu Tokyo bị tê liệt do thiên tai."
     }
   ]
 }
