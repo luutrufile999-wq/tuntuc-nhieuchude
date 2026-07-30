@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nỗ lực \"đánh cược tất tay\" của ông Zelensky khi gặp ông Trump",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/no-luc-danh-cuoc-tat-tay-cua-ong-zelensky-khi-gap-ong-trump-20260730183557161.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/30/tong-thong-trump-zelensky-x11zon-1785278531879-1785410910785.jpg\" /></a>(Dân trí) - Tổng thống Ukraine Volodymyr Zelensky được cho đã làm mọi cách để có thể thuyết phục Tổng thống Mỹ Donald Trump đứng hẳn về phía Ukraine trong cuộc chiến với Nga."
+    },
+    {
+      "id": 2,
       "title": "Ước tính gần 10.000 ca tử vong liên quan tới nắng nóng tại Đức",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/uoc-tinh-gan-10000-ca-tu-vong-lien-quan-toi-nang-nong-tai-duc-20260730170055841.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/30/nang-nong-ducreuters-cropped-1785405503135.jpg\" /></a>(Dân trí) - Đức cùng nhiều quốc gia châu Âu trong năm nay đã hứng chịu thời tiết nắng nóng khắc nghiệt khiến nhiều người tử vong."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nga tấn công dữ dội loạt nhà máy tên lửa, UAV của Ukraine",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-tan-cong-du-doi-loat-nha-may-ten-lua-uav-cua-ukraine-20260730174845812.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/30/kiev2-reuters11zon-cropped-1785408441243.jpg\" /></a>(Dân trí) - Nga đang gia tăng tấn công vào các hạ tầng quân sự và hậu cần của Ukraine trong bối cảnh Kiev tìm cách bù đắp kho tên lửa phòng không."
-    },
-    {
-      "id": 3,
-      "title": "Ra mắt Không gian Australia, mở ra nhiều hợp tác mới cho ĐBSCL",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ra-mat-khong-gian-australia-mo-ra-nhieu-hop-tac-moi-cho-dbscl-20260730153433490.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/30/khong-gian-uc-dsq-1785400036244.jpg\" /></a>(Dân trí) - Không gian Australia sẽ là đầu mối hợp tác lâu dài về tri thức, giáo dục và hợp tác, giúp nhân rộng những giải pháp thành công tại Đồng bằng sông Cửu Long (ĐBSCL) đến nhiều cộng đồng khác."
     }
   ]
 }
