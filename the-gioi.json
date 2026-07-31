@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Venezuela bắt đầu phá dỡ các tòa nhà bị hư hại sau thảm họa động đất",
+      "summary": "<a href=\"https://dantri.com.vn/dt360/venezuela-bat-dau-pha-do-cac-toa-nha-bi-hu-hai-sau-tham-hoa-dong-dat-20260731144415297.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/31/venezuela-bat-dau-pha-do-cac-toa-nha-hu-hai-cropped-1785483550822.jpg\" /></a>(Dân trí) - Ngày 30/7, Venezuela bắt đầu phá dỡ những công trình bị hư hại nặng tại bang La Guaira, khu vực chịu ảnh hưởng nghiêm trọng nhất sau trận động đất kép xảy ra vào cuối tháng 6."
+    },
+    {
+      "id": 2,
       "title": "Hàn Quốc cho tội phạm \"hóa thân\" làm nạn nhân để hiểu nỗi đau từ tội ác",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/han-quoc-cho-toi-pham-hoa-than-lam-nan-nhan-de-hieu-noi-dau-tu-toi-ac-20260731155057461.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/31/29fbf6e4a41f4933ab61a3594d9e3af3e4a30f536b4507b291d170d1bae4bb93-1785487476272.webp\" /></a>(Dân trí) - Đây là chương trình mà Hàn Quốc thực hiện để các phạm nhân hiểu được rõ về mức độ nguy hiểm của tội danh mắc phải và hậu quả đã gây ra với người khác."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "\"Sát thủ mồi nhử\" của Nga ngày càng đáng gờm nhờ mắt thần mới",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/sat-thu-moi-nhu-cua-nga-ngay-cang-dang-gom-nho-mat-than-moi-20260731152040747.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/31/uav-ngaep-cropped-1785485867275.jpg\" /></a>(Dân trí) - Nga đang cải tiến các UAV giá rẻ nhằm gia tăng áp lực lên hệ thống hậu cần của Ukraine để đáp trả các đòn tập kích mà Kiev tung ra."
-    },
-    {
-      "id": 3,
-      "title": "Hàng loạt kho hàng, nhà máy lọc dầu tại Nga trúng hỏa lực bốc cháy",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/hang-loat-kho-hang-nha-may-loc-dau-tai-nga-trung-hoa-luc-boc-chay-20260731145319954.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/23/chay-nha-kho-ngareuters-cropped-1784796650586.jpg\" /></a>(Dân trí) - Các kho hàng và cơ sở lọc dầu của Nga liên tiếp bị tấn công khi xung đột Ukraine leo thang."
     }
   ]
 }
