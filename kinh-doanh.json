@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chuyển đổi số: Đừng mua AI nếu chưa rõ bài toán kinh doanh",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chuyen-doi-so-dung-mua-ai-neu-chua-ro-bai-toan-kinh-doanh-20260731210936246.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/31/dien-dan-kinh-te-thu-do-2026thanh-dong-13-1785504640513.jpg?watermark=true\" /></a>(Dân trí) - Doanh nghiệp cần chủ động xác định vấn đề cần giải quyết về chi phí, năng suất, doanh thu, dữ liệu trước khi tiếp cận các chương trình hỗ trợ, để công nghệ và chính sách thực sự phát huy hiệu quả."
+    },
+    {
+      "id": 2,
       "title": "Đề xuất mới nhất về việc khai tử tài khoản ngân hàng \"ngủ đông\"",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/de-xuat-moi-nhat-ve-viec-khai-tu-tai-khoan-ngan-hang-ngu-dong-20260731200209041.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/29/tien-10manh-quan-edited-1756447301803.jpg?watermark=true\" /></a>(Dân trí) - Đề xuất đóng tài khoản ngân hàng không phát sinh giao dịch đang có thêm nhiều ý kiến mới, trong đó có đề xuất rút ngắn thời gian \"ngủ đông\" từ 3 năm xuống còn 1 năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Từ 1/8, quy định mới về tiền gửi Kho bạc giúp ngân hàng thêm vốn cho vay",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tu-18-quy-dinh-moi-ve-tien-gui-kho-bac-giup-ngan-hang-them-von-cho-vay-20260731152628117.htm\"><img src=\"https://icdn.dantri.com.vn/2023/03/11/giao-dich-ngan-hang-23tien-tuan-edited-1678524138935.jpeg\" /></a>(Dân trí) - Quyết định mới của nhà điều hành về tỷ lệ khấu trừ tiền gửi Kho bạc sẽ giúp các ngân hàng thương mại cởi trói thanh khoản, tạo dư địa lớn để thúc đẩy tăng trưởng tín dụng trong nửa cuối năm 2026."
-    },
-    {
-      "id": 3,
-      "title": "Bamboo Airways dừng nhiều chặng bay từ ngày 1/8?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bamboo-airways-dung-nhieu-chang-bay-tu-ngay-18-20260731194549896.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/31/photo2026-07-31-193709-1785501455194.jpg?watermark=true\" /></a>(Dân trí) - Làn sóng tái cấu trúc khiến Bamboo Airways buộc phải dừng khai thác chặng Hà Nội - Lệ Giang. Hoạt động trên các đường bay nội địa trọng điểm trong tháng 8 tới đây cũng đang là một dấu hỏi lớn."
     }
   ]
 }
