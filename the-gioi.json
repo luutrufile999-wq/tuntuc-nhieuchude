@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ông Fedorov mất chức, dự án UAV và robot chiến đấu của Ukraine sẽ ra sao?",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ong-fedorov-mat-chuc-du-an-uav-va-robot-chien-dau-cua-ukraine-se-ra-sao-20260731201948387.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/31/3-1785503908594.jpg\" /></a>(Dân trí) - Cựu Bộ trưởng Quốc phòng Ukraine Mykhailo Fedorov, người ủng hộ chiến tranh bằng máy bay không người lái (UAV) và robot, cho rằng chiến lược \"dựa nhiều vào công nghệ\" sẽ không dừng lại."
+    },
+    {
+      "id": 2,
       "title": "25 người chết trong vụ tai nạn giao thông nghiêm trọng ở Algeria",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/25-nguoi-chet-trong-vu-tai-nan-giao-thong-nghiem-trong-o-algeria-20260731200742003.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/31/image-cropped-1785503099277.jpg\" /></a>(Dân trí) - Ít nhất 25 người thiệt mạng và 44 người khác bị thương vào ngày 31/7 sau khi một xe buýt chở khách bị lật tại tỉnh Boumerdes ở Algeria, theo thông báo của Cơ quan Bảo vệ Dân sự."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Iran tuyên bố tấn công 2 tàu chở dầu được Mỹ hộ tống ở Hormuz",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-tuyen-bo-tan-cong-2-tau-cho-dau-duoc-my-ho-tong-o-hormuz-20260731203321516.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/31/unnamed-1785504611591.jpg\" /></a>(Dân trí) - Iran ngày 31/7 tuyên bố nhận trách nhiệm đứng sau các cuộc tấn công 2 tàu ở eo biển Hormuz và cả vụ máy bay không người lái nhắm vào căn cứ của Mỹ ở Kuwait."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Zelensky nêu thương vong của Nga - Ukraine sau 4 năm xung đột",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-zelensky-neu-thuong-vong-cua-nga-ukraine-sau-4-nam-xung-dot-20260731200925253.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/31/tong-thong-ukraine-zelensky-kyivpost-1785503206978.png\" /></a>(Dân trí) - Tổng thống Volodymyr Zelensky đã tiết lộ số thương vong của Nga và Ukraine trong hơn 4 năm xung đột."
     }
   ]
 }
