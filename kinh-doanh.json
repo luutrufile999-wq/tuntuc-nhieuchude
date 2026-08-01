@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "AI gây lo mất việc, vì sao CEO Nvidia vẫn khuyên nên khởi nghiệp?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ai-gay-lo-mat-viec-vi-sao-ceo-nvidia-van-khuyen-nen-khoi-nghiep-20260801081245749.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/01/nvidia-cropped-1785546139736.jpg\" /></a>(Dân trí) - Trong khi AI làm dấy lên nỗi lo mất việc, CEO Nvidia Jensen Huang cho rằng công nghệ này lại đang tạo ra thời điểm thuận lợi nhất lịch sử để khởi nghiệp."
+    },
+    {
+      "id": 2,
       "title": "Lãi suất ngân hàng cho nhau vay chỉ còn 0,7%/năm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lai-suat-ngan-hang-cho-nhau-vay-chi-con-07nam-20260731184104656.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/19/lai-suatistock-cropped-1766128026170.jpg\" /></a>(Dân trí) - Đầu tháng 2, lãi suất qua đêm ở thị trường liên ngân hàng từng tăng vọt lên 21%/năm. Nhờ các biện pháp nới điều kiện nguồn vốn của Ngân hàng Nhà nước, thanh khoản của hệ thống tài chính đã cải thiện."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Quyền tổng giám đốc Eximbank Trần Tấn Lộc từ nhiệm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/quyen-tong-giam-doc-eximbank-tran-tan-loc-tu-nhiem-20260801002908456.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/01/ong-tran-tan-loc-6575-cropped-1785518827190.jpg\" /></a>(Dân trí) - Ông Trần Tấn Lộc đã có đơn xin từ nhiệm vị trí Quyền Tổng giám đốc từ với lý do theo nguyện vọng cá nhân. Ngân hàng này trước đó có chủ tịch mới."
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng giảm mạnh nhất hơn 10 năm, ngân hàng trung ương coi là cơ hội mua",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-giam-manh-nhat-hon-10-nam-ngan-hang-trung-uong-coi-la-co-hoi-mua-20260731225522721.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/31/goldbloomberg-cropped-1785512576684.jpg\" /></a>(Dân trí) - Sau khi giá vàng trải qua quý giảm mạnh nhất kể từ năm 2013, các ngân hàng trung ương lại mua ròng 289 tấn trong quý II - mức cao nhất từng ghi nhận cho giai đoạn này."
     }
   ]
 }
