@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Động thái mới của PNJ trong xử lý khủng hoảng kim cương",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dong-thai-moi-cua-pnj-trong-xu-ly-khung-hoang-kim-cuong-20260802181540857.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/03/pnj-293-cropped-1783070121076.jpg\" /></a>(Dân trí) - Dù ứng phó liên tục, PNJ vẫn không tránh khỏi tổn thất sau sự cố. Do phải trích lập dự phòng liên quan mua lại sản phẩm, hãng kim hoàn này vừa có quý lỗ nặng nề nhất trong lịch sử niêm yết."
+    },
+    {
+      "id": 2,
       "title": "Tân chủ tịch sinh năm 1999 của Tập đoàn PC1 đón tin vui lợi nhuận",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tan-chu-tich-sinh-nam-1999-cua-tap-doan-pc1-don-tin-vui-loi-nhuan-20260802163957233.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/25/tan-chu-tich-pc1-edited-edited-1784934900777.jpg\" /></a>(Dân trí) - Tập đoàn PC1 báo lãi sau thuế 505 tỷ đồng trong 6 tháng đầu năm, tăng 63% so với cùng kỳ. Kết quả được công bố sau khi doanh nghiệp kiện toàn bộ máy, có tân chủ tịch HĐQT sinh năm 1999."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chính phủ ra chỉ đạo nóng về nguồn cung xăng dầu",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chinh-phu-ra-chi-dao-nong-ve-nguon-cung-xang-dau-20260802170607162.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/04/z78883818093452b7d3b5076ff0950ad59cb2339eb3056-1783134891377.jpg?watermark=true\" /></a>(Dân trí) - Nhằm bảo đảm ổn định thị trường, lãnh đạo Chính phủ yêu cầu các bộ ngành tuyệt đối không để thiếu hụt xăng dầu, đồng thời sớm hoàn thiện quy định kinh doanh mới."
-    },
-    {
-      "id": 3,
-      "title": "Chứng khoán tháng 8: Định giá giảm sâu, nhà đầu tư có nên \"bắt đáy\"?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chung-khoan-thang-8-dinh-gia-giam-sau-nha-dau-tu-co-nen-bat-day-20260802160224478.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/02/chung-khoan-1-cropped-1785661181782.jpg\" /></a>(Dân trí) - Thị trường chứng khoán đang xuất hiện vùng định giá hấp dẫn đối với cổ phiếu của nhiều doanh nghiệp, chứ chưa phải trạng thái “mua gì cũng rẻ”."
     }
   ]
 }
