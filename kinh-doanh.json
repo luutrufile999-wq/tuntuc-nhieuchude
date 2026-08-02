@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Một tuần đảo chiều của thị trường: Vì sao nhà đầu tư đồng loạt phòng thủ?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mot-tuan-dao-chieu-cua-thi-truong-vi-sao-nha-dau-tu-dong-loat-phong-thu-20260802075425771.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/02/ai-stocks-cropped-1785631678668.jpg\" /></a>(Dân trí) - Cơn sốt trí tuệ nhân tạo có dấu hiệu hạ nhiệt khi thị trường đòi hỏi lợi nhuận thực. Cùng với nỗi lo từ Fed và giá dầu, giới đầu tư toàn cầu đang nhanh chóng chuyển sang trạng thái phòng thủ."
+    },
+    {
+      "id": 2,
       "title": "Quảng cáo Lotte Kid A+ gây nhầm lẫn, doanh nghiệp bị phạt 200 triệu đồng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/quang-cao-lotte-kid-a-gay-nham-lan-doanh-nghiep-bi-phat-200-trieu-dong-20260802090948819.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/02/sua-bot-cropped-1785636512515.jpg\" /></a>(Dân trí) - Với hành vi thổi phồng sản phẩm \"sử dụng 100% nguyên liệu hữu cơ\", đơn vị phân phối Lotte Kid A+ vừa nhận án phạt nghiêm khắc nhằm chấn chỉnh môi trường cạnh tranh."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nội Bài đổi phương án đón trả khách từ 3/8, xe chỉ được dừng tối đa 5 phút",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/noi-bai-doi-phuong-an-don-tra-khach-tu-38-xe-chi-duoc-dung-toi-da-5-phut-20260802091703920.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/02/noi-bai-airport-cropped-1785636463907.jpg\" /></a>(Dân trí) - Từ 7h ngày 3/8, sân bay Nội Bài áp dụng phân luồng giao thông mới tại Nhà ga T1, T2. Xe đưa đón khách chỉ được dừng tối đa 5 phút, tài xế không rời xe quá 2m."
-    },
-    {
-      "id": 3,
-      "title": "Giá nhà và tiền thuê leo thang, giới trẻ Hàn Quốc vỡ mộng an cư",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-nha-va-tien-thue-leo-thang-gioi-tre-han-quoc-vo-mong-an-cu-20260802083700760.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/02/housing-cropped-1785634062135.jpg\" /></a>(Dân trí) - Thuê theo tháng đang dần thay thế mô hình jeonse tại Hàn Quốc. Giá nhà và giá thuê cùng leo thang khiến con đường sở hữu nhà của người trẻ ngày càng khó khăn."
     }
   ]
 }
