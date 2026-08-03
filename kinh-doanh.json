@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bộ Tài chính bác đề xuất bỏ ghi sổ kế toán của hộ kinh doanh",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-tai-chinh-bac-de-xuat-bo-ghi-so-ke-toan-cua-ho-kinh-doanh-20260803201238656.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/07/chinh-thuc-ho-kinh-doanh-doanh-thu-tu-1-ty-dong-buoc-dung-hoa-don-dien-tu-1772864582921.jpg\" /></a>(Dân trí) - Giải đáp kiến nghị của các hộ kinh doanh về việc bỏ sổ mua bán hàng, Bộ Tài chính khẳng định hóa đơn điện tử không thể thay thế sổ kế toán trong quản lý doanh thu và kê khai thuế."
+    },
+    {
+      "id": 2,
       "title": "Chính thức chấm điểm giải ngân vốn đầu tư công từ kỳ báo cáo tháng 10",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chinh-thuc-cham-diem-giai-ngan-von-dau-tu-cong-tu-ky-bao-cao-thang-10-20260803202332920.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/03/mo-rong-cao-toc-2-lan-xe2-edited-1772092917497-1783930764235-1785763324143.jpg\" /></a>(Dân trí) - Bộ Tài chính sẽ chính thức vận hành hệ thống đánh giá, chấm điểm kết quả giải ngân vốn đầu tư công từ tháng 10, sau khi hoàn tất giai đoạn chạy thử nghiệm trong quý III."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Một ngân hàng thông báo chấm dứt hoạt động 10 phòng giao dịch",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mot-ngan-hang-thong-bao-cham-dut-hoat-dong-10-phong-giao-dich-20260803094754636.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/03/kienlongbank-cropped-1785725166025.jpg\" /></a>(Dân trí) - Hàng loạt ngân hàng từ lớn đến nhỏ liên tục đóng cửa, thu hẹp các chi nhánh và phòng giao dịch vật lý nhằm tối ưu chi phí vận hành và dồn lực phát triển hệ sinh thái ngân hàng số."
-    },
-    {
-      "id": 3,
-      "title": "Bộ Tài chính: Tăng lương cơ sở 8% không tạo áp lực lớn lên giá cả",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-tai-chinh-tang-luong-co-so-8-khong-tao-ap-luc-lon-len-gia-ca-20260803200649226.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/03/photo2026-08-03-200416-1785762272820.jpg?watermark=true\" /></a>(Dân trí) - Trước những lo ngại về lạm phát sau khi tăng lương cơ sở 8%, Bộ Tài chính đã đưa ra các đánh giá về diễn biến giá cả thị trường và giải pháp kiểm soát lạm phát trong cuối năm."
     }
   ]
 }
