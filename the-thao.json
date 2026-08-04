@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Báo Đông Nam Á: “Tuyển Việt Nam là số một khu vực, không dựa vào nhập tịch”",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-dong-nam-a-tuyen-viet-nam-la-so-mot-khu-vuc-khong-dua-vao-nhap-tich-20260804131837966.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/04/17857701368918636952574752207119g1685735488909021494899fb0499470a5ad45d595524768778-cropped-1785824200983.jpg\" /></a>(Dân trí) - Các tờ báo Đông Nam Á đã lên tiếng khen ngợi sức mạnh của đội tuyển Việt Nam sau chiến thắng 3-0 trước Indonesia vào tối 3/8."
+    },
+    {
+      "id": 2,
       "title": "Chuyên gia: “Indonesia choáng khi tuyển Việt Nam kiểm soát bóng quá tốt”",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/chuyen-gia-indonesia-choang-khi-tuyen-viet-nam-kiem-soat-bong-qua-tot-20260804142240012.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/04/vn2tranhuu3-8-26-cropped-1785779098945.jpg\" /></a>(Dân trí) - Cựu Phó Chủ tịch Liên đoàn Bóng đá Đông Nam Á (AFF) Dương Vũ Lâm nhận định đội tuyển Việt Nam mạnh hơn hẳn so với chính mình, khi chúng ta quay về với lối đá kiểm soát bóng sở trường."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Hé lộ tình trạng chấn thương của Bùi Hoàng Việt Anh sau trận gặp Indonesia",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/he-lo-tinh-trang-chan-thuong-cua-bui-hoang-viet-anh-sau-tran-gap-indonesia-20260804151502422.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/04/vn3vff4-8-26-1785825698152.jpg\" /></a>(Dân trí) - Trung vệ Bùi Hoàng Việt Anh bị chấn thương rách mí mắt trong trận đấu với đội tuyển Indonesia tối qua (3/8). Trung vệ này đã được VFF đưa đi khám lại sau trận đấu, để xác định mức độ chấn thương."
-    },
-    {
-      "id": 3,
-      "title": "CĐV Indonesia chê bai đội nhà, thừa nhận sức mạnh của tuyển Việt Nam",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/cdv-indonesia-che-bai-doi-nha-thua-nhan-suc-manh-cua-tuyen-viet-nam-20260804142207336.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/04/thanhlongth-cropped-1785832611690.jpg\" /></a>(Dân trí) - Cổ động viên (CĐV) Indonesia đã thay đổi quan điểm khi thừa nhận tuyển Việt Nam đã có một chiến thắng rất thuyết phục trước đội bóng xứ vạn đảo và nhiều cơ hội bảo vệ ngôi vương ASEAN Cup."
     }
   ]
 }
