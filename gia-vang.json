@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "Giá bạc hôm nay 4/8: Bạc Phú Quý, DOJI, Ancarat đồng loạt tăng",
+      "summary": "<a href=\"https://bnews.vn/gia-bac-hom-nay-4-8-bac-phu-quy-doji-ancarat-dong-loat-tang/431292.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2016/08/15/150804_gia-vang-hom-nay158.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá bạc hôm nay, bạc Phú Quý, DOJI, Ancarat đồng loạt tăng, giao dịch trên mốc 2 triệu đồng/lượng.<br />"
+    },
+    {
+      "id": 2,
+      "title": "Giá vàng hôm nay 4/8: Vàng SJC giảm bao nhiêu?",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-4-8-vang-sjc-giam-bao-nhieu/431289.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2020/08/05/170607-gia-vang-trong-nuoc-vuot-dinh-58-trieu-luong.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng hôm nay, vàng SJC giảm 1 triệu đồng/lượng, giá bán ra chạm mốc 140 triệu đồng/lượng. <br />"
+    },
+    {
+      "id": 3,
+      "title": "Hàn Quốc thúc đẩy tăng dự trữ vàng sau 13 năm",
+      "summary": "<a href=\"https://bnews.vn/han-quoc-thuc-day-tang-du-tru-vang-sau-13-nam/431283.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/04/vang-20260804074738.jpg\" width=\"180\" /></a>Theo P/v TTXVN tại Seoul, tính đến cuối tháng 6/2026, Hàn Quốc nắm giữ 104,4 tấn vàng, trị giá khoảng 4,79 tỷ USD, tương đương 1,1% tổng dự trữ ngoại hối ở mức 427,36 tỷ USD.<br />"
     }
   ]
 }
