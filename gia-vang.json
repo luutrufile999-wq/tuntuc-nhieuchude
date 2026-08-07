@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng hướng tới tuần tăng mạnh nhất kể từ tháng 1/2026",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-huong-toi-tuan-tang-manh-nhat-ke-tu-thang-1-2026/431785.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2025/10/15/101243-gia-vang-tang-ky-luc-vuot-146-trieu-dong-luong.jpg\" width=\"180\" /></a>Giá vàng tăng hơn 1% tại châu Á trong phiên giao dịch ngày 7/8 và đang hướng tới tuần tăng giá mạnh nhất kể từ tháng 1 năm nay, nhờ sự sụt giảm của giá dầu.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng chiều 7/8: Vàng SJC tăng, giảm bao nhiêu?",
       "summary": "<a href=\"https://bnews.vn/gia-vang-chieu-7-8-vang-sjc-tang-giam-bao-nhieu/431781.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2024/12/23/094101-gia-vang-nhan-tien-sat-gia-vang-mieng-sjc.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng chiều 7/8, vàng SJC không đổi so với đầu giờ sáng.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá bạc hôm nay 7/8: Bạc Phú Quý, DOJI, Ancarat tăng bao nhiêu?",
       "summary": "<a href=\"https://bnews.vn/gia-bac-hom-nay-7-8-bac-phu-quy-doji-ancarat-tang-bao-nhieu/431727.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2019/12/29/105427_104631-092235-nhieu-san-pham-vang-chay-hang-ngay-than-tai.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá bạc hôm nay, giá bạc Phú Quý, DOJI, Ancarat đồng loạt tăng.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng hôm nay 7/8: Vàng SJC giảm nhẹ",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-7-8-vang-sjc-giam-nhe/431726.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2022/06/09/103601-gia-vang-trong-nuoc-tang-vuot-moc-44-trieu-dong-luong.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng hôm nay, giá vàng SJC giảm nhẹ theo đà giảm của giá vàng thế giới.<br />"
     }
   ]
 }
