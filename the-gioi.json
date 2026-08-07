@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga phóng “mưa tên lửa đạn đạo”, xuyên thủng lưới phòng không Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-phong-mua-ten-lua-dan-dao-xuyen-thung-luoi-phong-khong-ukraine-20260807200151746.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/27/khoiboclentrantapkichngavaokiev245reuters-1-1779857444677.jpg\" /></a>(Dân trí) - Tên lửa đạn đạo của Nga, mối đe dọa lớn nhất đối với các thành phố của Ukraine, có thể giáng xuống bất kỳ lúc nào mà gần như không có cảnh báo trước."
+    },
+    {
+      "id": 2,
       "title": "Nhân chứng kể khoảnh khắc nam sinh xả súng trong trường học ở Thái Lan",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nhan-chung-ke-khoanh-khac-nam-sinh-xa-sung-trong-truong-hoc-o-thai-lan-20260807180654694.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/07/no-sung-thai-lan-reuters11zon-cropped-1786100753847.jpg\" /></a>(Dân trí) - Một học sinh đã mô tả lại khoảnh khắc khi một người bạn cùng trường chạy vào lớp thông báo việc một nam sinh đang nổ súng trong trường học ở ngoại ô Bangkok, Thái Lan ngày 7/8."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Nam sinh Thái Lan bắn chết ông bà trước vụ xả súng khiến 5 người thiệt mạng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nam-sinh-thai-lan-ban-chet-ong-ba-truoc-vu-xa-sung-khien-5-nguoi-thiet-mang-20260807184824524.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/07/nam-sinh-14-tuoi-ban-chet-ong-ba-truoc-khi-xa-sung-khien-5-nguoi-thiet-mang-edited-1786103093262.jpg\" /></a>(Dân trí) - Nam sinh 14 tuổi, được xác định là nghi phạm trong vụ nổ súng ở trường học Thái Lan, từng tìm hiểu các vụ xả súng trước đây."
-    },
-    {
-      "id": 3,
-      "title": "Động lực khiến ông Trump quyết siết luật \"sinh ra ở Mỹ có quốc tịch Mỹ\"",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/dong-luc-khien-ong-trump-quyet-siet-luat-sinh-ra-o-my-co-quoc-tich-my-20260807162744466.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/07/s7tdvfqywrpjhm2zhtatbgiry4-1737681608532-1786094006793.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump tiếp tục nỗ lực hạn chế quyền được cấp quốc tịch tự động cho những người sinh ra trên lãnh thổ Mỹ sau khi Tòa án Tối cao bác bỏ nỗ lực trước đó của ông."
     }
   ]
 }
