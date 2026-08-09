@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Dự báo giá vàng sau tuần tăng bứt phá 300 USD/ounce",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-gia-vang-sau-tuan-tang-but-pha-300-usdounce-20260809000600656.htm\"><img src=\"https://icdn.dantri.com.vn/2026/04/10/vangmq2-edited-crop-cropped-1775757782926.jpg\" /></a>(Dân trí) - Giá vàng thế giới vượt mốc 4.300 USD sau loạt dữ liệu cho thấy thị trường lao động Mỹ suy yếu. Giới phân tích hiện nghiêng về triển vọng tăng."
+    },
+    {
+      "id": 2,
       "title": "Việc làm Mỹ suy yếu, giá vàng bứt phá hướng tới 4.500 USD",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/viec-lam-my-suy-yeu-gia-vang-but-pha-huong-toi-4500-usd-20260809061143411.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/09/gold-cropped-1786230675245.jpg\" /></a>(Dân trí) - Báo cáo việc làm ảm đạm của Mỹ đã thổi bùng đà tăng của kim loại quý, đẩy giá bứt phá gần 350 USD chỉ trong một tuần. Tuy nhiên, vùng 4.500 USD/ounce đang là một thách thức lớn."
     },
     {
-      "id": 2,
-      "title": "Phó Thủ tướng: Xử lý đến cùng các vướng mắc, không đẩy doanh nghiệp đi vòng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pho-thu-tuong-xu-ly-den-cung-cac-vuong-mac-khong-day-doanh-nghiep-di-vong-20260808212202800.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/08/ptt-nguyen-van-thang-cropped-1786199430773.jpg\" /></a>(Dân trí) - Hôm nay, 8/8, tại trụ sở Chính phủ, Phó Thủ tướng Nguyễn Văn Thắng đã có cuộc làm việc với các bộ, ngành, địa phương và doanh nghiệp để giải quyết khó khăn, vướng mắc trong lĩnh vực thuế và hải quan."
-    },
-    {
       "id": 3,
-      "title": "“Quái kiệt AI” người Việt làm gì khi rời Google, mở công ty khởi nghiệp?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/quai-kiet-ai-nguoi-viet-lam-gi-khi-roi-google-mo-cong-ty-khoi-nghiep-20260808181318024.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/08/81-1786187850179.jpg\" /></a>(Dân trí) - Jeff Dean, giám đốc khoa học của Google, cùng ba nhà nghiên cứu trí tuệ nhân tạo (AI) khác là Sanjay Ghemawat, Lê Viết Quốc và Oriol Vinyals vừa rời tập đoàn công nghệ khổng lồ này để lập công ty khởi nghiệp."
+      "title": "Thu nhập từ AI đang tái định hình nghề nghiệp, chuyện hẹn hò ở Hàn Quốc",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thu-nhap-tu-ai-dang-tai-dinh-hinh-nghe-nghiep-chuyen-hen-ho-o-han-quoc-20260809000143446.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/08/mave-cropped-1786208375141.jpg\" /></a>(Dân trí) - Các kỹ sư bán dẫn với khoản thưởng hơn 400.000 USD đang thay thế bác sĩ và luật sư trong vai trò tầng lớp tinh hoa mới."
     }
   ]
 }
