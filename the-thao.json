@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "HLV Malaysia so sánh về trình độ của đội nhà với tuyển Việt Nam",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/hlv-malaysia-so-sanh-ve-trinh-do-cua-doi-nha-voi-tuyen-viet-nam-20260809100436765.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/09/hlv-malaysia-so-sanh-ve-trinh-do-cua-doi-nha-so-voi-tuyen-viet-nam-edited-cropped-1786244318178.jpg\" /></a>(Dân trí) - Phát biểu sau trận đấu với Philippines, HLV Tan Cheng Hoe thừa nhận trình độ của đội nhà thấp hơn so với đội tuyển Việt Nam."
+    },
+    {
+      "id": 2,
       "title": "Báo Malaysia bình luận khi đội nhà gặp tuyển Việt Nam ở bán kết",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-malaysia-binh-luan-khi-doi-nha-gap-tuyen-viet-nam-o-ban-ket-20260808233106248.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/08/z7677781166372591df23c80ccf389265714b005a8a1c7-1775023818136-1786206254692.jpg\" /></a>(Dân trí) - Các tờ báo của Malaysia đã lên tiếng khi đội nhà đối đầu với đội tuyển Việt Nam ở bán kết ASEAN Cup 2026."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Phản ứng của CĐV Malaysia khi đội nhà so tài với tuyển Việt Nam ở bán kết",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/phan-ung-cua-cdv-malaysia-khi-doi-nha-so-tai-voi-tuyen-viet-nam-o-ban-ket-20260808231422898.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/08/30832cb0f66800fe6fc368a8bdafecc5low-cropped-1786205308552.jpg\" /></a>(Dân trí) - Nhiều cổ động viên (CĐV) Malaysia đã lên tiếng chúc mừng đội nhà vượt qua tuyển Philippines để giành vé vào bán kết, dù cửa ải phía trước sẽ rất khó khăn khi đối thủ của họ là tuyển Việt Nam."
-    },
-    {
-      "id": 3,
-      "title": "Võ sư biểu diễn nằm bàn đinh cho ô tô 2,5 tấn chèn qua người",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/vo-su-bieu-dien-nam-ban-dinh-cho-o-to-25-tan-chen-qua-nguoi-20260808224527330.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/08/festival-vo-thuat29-1786200696657.jpg?watermark=true\" /></a>(Dân trí) - Đông đảo khán giả tại Festival Võ thuật quốc tế Hà Nội không khỏi hồi hộp khi chứng kiến võ sư nằm trên bàn đinh để xe tải 2,5 tấn chèn qua người trong màn trình diễn vận nội công đặc biệt."
     }
   ]
 }
