@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Ukraine dồn dập khai hỏa, tấn công hàng loạt mục tiêu trong lãnh thổ Nga",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-don-dap-khai-hoa-tan-cong-hang-loat-muc-tieu-trong-lanh-tho-nga-20260810221535359.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/chay-donetsk-cropped-1786374767052.jpg\" /></a>(Dân trí) - Ukraine tiếp tục triển khai hàng trăm UAV tấn công các mục tiêu trong lãnh thổ Nga nhằm gây sức ép với Moscow."
+    },
+    {
+      "id": 2,
       "title": "Động đất 7,4 độ rung chuyển Colombia, nhiều tòa nhà đổ sập",
       "summary": "<a href=\"https://dantri.com.vn/dt360/dong-dat-74-do-rung-chuyen-colombia-nhieu-toa-nha-do-sap-20260810215657546.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/dong-dat-74-do-rung-chuyen-colombia-1786373744868.gif\" /></a>(Dân trí) - Một trận động đất mạnh 7,4 độ xảy ra tại Colombia ngày 10/8 (giờ địa phương), khiến người dân tại nhiều khu vực phải sơ tán. Nhà chức trách ghi nhận thiệt hại đáng kể về cơ sở vật chất."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Trump muốn chơi “ván cờ” chiến lược, Iran phản ứng cứng rắn",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-muon-choi-van-co-chien-luoc-iran-phan-ung-cung-ran-20260810200447605.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/trumpreuters-1786366913837.jpg\" /></a>(Dân trí) - Iran tuyên bố sẵn sàng chơi “ván cờ” với Mỹ khi hai bên tìm cách đạt được thỏa thuận sau nhiều tuần căng thẳng."
-    },
-    {
-      "id": 3,
-      "title": "Cựu nghị sĩ Thái Lan bắn chết lãnh đạo tỉnh",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/cuu-nghi-si-thai-lan-ban-chet-lanh-dao-tinh-20260810184726219.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/thai-lan-2-cropped-1786363310334.jpg\" /></a>(Dân trí) - Một cựu nghị sĩ Thái Lan đã bắn chết lãnh đạo tỉnh Nonthaburi do mâu thuẫn cá nhân."
     }
   ]
 }
