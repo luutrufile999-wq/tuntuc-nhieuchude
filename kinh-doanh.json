@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Phó Thủ tướng: Không để doanh nghiệp có dự án tốt mà không tiếp cận được vốn",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pho-thu-tuong-khong-de-doanh-nghiep-co-du-an-tot-ma-khong-tiep-can-duoc-von-20260810161326985.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/thang-cropped-1786353128677.jpg\" /></a>(Dân trí) - Ngày 10/8, Phó Thủ tướng Nguyễn Văn Thắng chủ trì buổi làm việc với các bộ, ngành, địa phương và doanh nghiệp để giải quyết khó khăn, vướng mắc trong tiếp cận vốn tín dụng."
+    },
+    {
+      "id": 2,
       "title": "Nhiều công ty chốt cổ tức lớn, thành viên nhà FPT gây chú ý",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nhieu-cong-ty-chot-co-tuc-lon-thanh-vien-nha-fpt-gay-chu-y-20260810125946458.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/14/giao-dich-ngan-hang-25tien-tuan-cropped-cropped-1765689908010.jpg\" /></a>(Dân trí) - Tuần giao dịch này, nhiều công ty lớn chốt chia cổ tức bằng tiền mặt với giá trị lên đến hàng nghìn tỷ đồng, thành viên của FPT gây chú ý với tỷ lệ chia cao nhất."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Việt Nam - Australia: Những \"mỏ vàng\" hợp tác về nông sản, năng lượng, khởi nghiệp",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/viet-nam-australia-nhung-mo-vang-hop-tac-ve-nong-san-nang-luong-khoi-nghiep-20260810080901276.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/tran-thi-hong-lien-1786345820615.jpg\" /></a>(Dân trí) - Hợp tác kinh tế Việt Nam - Australia có nhiều triển vọng tăng trưởng mạnh mẽ, đặc biệt trong các lĩnh vực năng lượng, công nghệ và nông nghiệp, theo PGS, TS Trần Thị Hồng Liên."
-    },
-    {
-      "id": 3,
-      "title": "Sếp Việt Thắng Jean, STP Group... nói về cách \"kiếm tiền\" nhờ ESG",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sep-viet-thang-jean-stp-group-noi-ve-cach-kiem-tien-nho-esg-20260810124905677.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/ong-pham-van-viet-tgd-viet-thang-jean-cropped-1786340632023.jpg\" /></a>(Dân trí) - Nhờ áp dụng ESG vào hoạt động sản xuất, kinh doanh, nhiều doanh nghiệp như Việt Thắng Jean, STP Group, Mebi Farm... đã cải thiện doanh thu, lợi nhuận, mở rộng thị phần, chinh phục thị trường khó tính."
     }
   ]
 }
