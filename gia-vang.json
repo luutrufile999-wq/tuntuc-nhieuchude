@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng đi ngang trong phiên giao dịch đầu tuần",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-di-ngang-trong-phien-giao-dich-dau-tuan/432068.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Content/2015/09/15/093244_nhan.jpg\" width=\"180\" /></a>Giá vàng đi ngang trong phiên giao dịch đầu tuần ngày 10/8, sau khi ghi nhận tuần tăng mạnh nhất kể từ tháng 1/2026.<br />"
+    },
+    {
+      "id": 2,
       "title": "Goldman Sachs nhận định về triển vọng giá vàng",
       "summary": "<a href=\"https://bnews.vn/goldman-sachs-nhan-dinh-ve-trien-vong-gia-vang/431887.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/08/110446-gia-vang-tang-manh-nhat-ke-tu-thang-2-2026.jpg\" width=\"180\" /></a>Theo các nhà phân tích, giá vàng có khả năng tăng, hỗ trợ cho tham vọng trung tâm giao dịch của Hong Kong, khi các ngân hàng trung ương châu Á tiếp tục có nhu cầu lớn trong việc tích trữ vàng thỏi.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng thế giới ghi nhận tuần tăng mạnh nhất trong bảy tháng",
       "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-ghi-nhan-tuan-tang-manh-nhat-trong-bay-thang/431878.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/08/100618-gia-vang-tang-manh-nhat-ke-tu-thang-2-2026.jpg\" width=\"180\" /></a>Trong phiên cuối tuần 7/8, vào lúc 18 giờ 42 phút ngày 7/8 giờ GMT, giá vàng giao ngay tăng 2,3% lên 4.336,02 USD/ounce, sau khi có thời điểm tăng hơn 3% và chạm mức cao nhất kể từ ngày 17/6.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Dữ liệu việc làm Mỹ mở thêm dư địa cho giá vàng",
-      "summary": "<a href=\"https://bnews.vn/du-lieu-viec-lam-my-mo-them-du-dia-cho-gia-vang/431873.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2024/12/23/093348-dau-tuan-gia-vang-dung-o-muc-cao.jpg\" width=\"180\" /></a>Diễn biến mới nhất từ thị trường lao động Mỹ đang làm thay đổi nhanh kỳ vọng về chính sách tiền tệ của Cục Dự trữ Liên bang Mỹ (Fed), qua đó tiếp thêm động lực cho giá vàng.<br />"
     }
   ]
 }
