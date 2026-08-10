@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Động đất 7,4 độ rung chuyển Colombia, nhiều tòa nhà đổ sập",
+      "summary": "<a href=\"https://dantri.com.vn/dt360/dong-dat-74-do-rung-chuyen-colombia-nhieu-toa-nha-do-sap-20260810215657546.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/dong-dat-74-do-rung-chuyen-colombia-1786373744868.gif\" /></a>(Dân trí) - Một trận động đất mạnh 7,4 độ xảy ra tại Colombia ngày 10/8 (giờ địa phương), khiến người dân tại nhiều khu vực phải sơ tán. Nhà chức trách ghi nhận thiệt hại đáng kể về cơ sở vật chất."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Trump muốn chơi “ván cờ” chiến lược, Iran phản ứng cứng rắn",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-muon-choi-van-co-chien-luoc-iran-phan-ung-cung-ran-20260810200447605.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/trumpreuters-1786366913837.jpg\" /></a>(Dân trí) - Iran tuyên bố sẵn sàng chơi “ván cờ” với Mỹ khi hai bên tìm cách đạt được thỏa thuận sau nhiều tuần căng thẳng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Cựu nghị sĩ Thái Lan bắn chết lãnh đạo tỉnh",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/cuu-nghi-si-thai-lan-ban-chet-lanh-dao-tinh-20260810184726219.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/thai-lan-2-cropped-1786363310334.jpg\" /></a>(Dân trí) - Một cựu nghị sĩ Thái Lan đã bắn chết lãnh đạo tỉnh Nonthaburi do mâu thuẫn cá nhân."
-    },
-    {
-      "id": 3,
-      "title": "Pháo hoa lệch hướng, 27 người bị thương tại lễ hội ở Tây Ban Nha",
-      "summary": "<a href=\"https://dantri.com.vn/dt360/phao-hoa-lech-huong-27-nguoi-bi-thuong-tai-le-hoi-o-tay-ban-nha-20260810172320825.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/phao-hoa-lech-huong-1786357507616.gif\" /></a>(Dân trí) - Ít nhất 27 người bị thương sau khi một quả pháo hoa bất ngờ lệch hướng và rơi xuống khu vực khán giả tại lễ hội pháo hoa Castell de l’Olla ở Altea, tỉnh Alicante, Tây Ban Nha, vào tối ngày 8/8."
     }
   ]
 }
