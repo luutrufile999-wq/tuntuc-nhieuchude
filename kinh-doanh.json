@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "\"Đại gia tiền số\" gom 146 tấn vàng, vượt mặt nhiều ngân hàng Trung ương",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dai-gia-tien-so-gom-146-tan-vang-vuot-mat-nhieu-ngan-hang-trung-uong-20260811173003436.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/11/tether-logo1-1500x1000-1786444064658.jpg\" /></a>(Dân trí) - Sở hữu lượng vàng dự trữ lên tới 146 tấn, nhà phát hành stablecoin lớn nhất thế giới đã vượt mặt nhiều quốc gia, khẳng định tham vọng thống lĩnh thị trường kim loại quý."
+    },
+    {
+      "id": 2,
       "title": "Đối tác lớn của Dell và HP mở rộng sản xuất máy chủ AI tại Việt Nam",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/doi-tac-lon-cua-dell-va-hp-mo-rong-san-xuat-may-chu-ai-tai-viet-nam-20260811162217434.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/11/compal-1786439767574.jpg\" /></a>(Dân trí) - Việt Nam tiếp tục khẳng định vị thế trong chuỗi cung ứng công nghệ cao khi được Compal chọn làm mắt xích quan trọng để sản xuất linh kiện máy chủ, phục vụ các trung tâm dữ liệu toàn cầu."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chính thức thành lập Tập đoàn Đường sắt Quốc gia Việt Nam",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chinh-thuc-thanh-lap-tap-doan-duong-sat-quoc-gia-viet-nam-20260811162835284.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/11/thong-tuyen-duong-sattrung-thijpg-1762815316877-1786440332429.jpg\" /></a>(Dân trí) - Nhằm đáp ứng yêu cầu vận tải hiện đại, doanh nghiệp đường sắt lớn nhất nước đã có bước tái cơ cấu toàn diện, định hướng trở thành hạt nhân của chuỗi logistics quốc gia."
-    },
-    {
-      "id": 3,
-      "title": "Khối ngoại xả bán hàng trăm tỷ đồng cổ phiếu công ty các tỷ phú Việt",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khoi-ngoai-xa-ban-hang-tram-ty-dong-co-phieu-cong-ty-cac-ty-phu-viet-20260811163821981.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/11/typhu-1786440885373.png\" /></a>(Dân trí) - Thanh khoản toàn thị trường hụt hơi trong ngày VN-Index điều chỉnh giảm. Đáng chú ý, dòng tiền ngoại tiếp tục rút mạnh khỏi nhóm cổ phiếu trụ cột thuộc doanh nghiệp của các tỷ phú Việt."
     }
   ]
 }
