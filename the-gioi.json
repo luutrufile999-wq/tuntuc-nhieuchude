@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Cách Ukraine \"vũ khí hóa\" 5 triệu bức ảnh trên chiến trường",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/cach-ukraine-vu-khi-hoa-5-trieu-buc-anh-tren-chien-truong-20260811145504153.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/11/he-thong-nhan-dang-muc-tieuup-cropped-1786434278974.jpg\" /></a>(Dân trí) - Ukraine đang biến hàng triệu bức ảnh ghi lại chiến trường thành \"nhiên liệu\" cho AI của ngành công nghiệp quốc phòng."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Iran tiết lộ cuộc gặp kéo dài 7 giờ với Lãnh tụ Tối cao",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-iran-tiet-lo-cuoc-gap-keo-dai-7-gio-voi-lanh-tu-toi-cao-20260811144642998.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/12/tong-thong-iranreuters2-cropped-1773267869804.jpg\" /></a>(Dân trí) - Tổng thống Iran Masoud Pezeshkian tiết lộ, ông đã có cuộc họp kéo dài 7 giờ với Lãnh tụ Tối cao Mojtaba Khamenei để thảo luận về nhiều vấn đề."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Máy bay Mỹ chở 181 người tóe lửa trên không vì đâm phải chim",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/may-bay-my-cho-181-nguoi-toe-lua-tren-khong-vi-dam-phai-chim-20260811143023125.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/11/may-bay-myet-cropped-1786433192285.jpg\" /></a>(Dân trí) - Động cơ chiếc máy bay thương mại Mỹ gặp trục trặc trên không trung vì va phải chim ngay khi cất cánh."
-    },
-    {
-      "id": 3,
-      "title": "Khoảnh khắc tiêm kích Ukraine bốc cháy khi phóng tên lửa chặn hỏa lực Nga",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/khoanh-khac-tiem-kich-ukraine-boc-chay-khi-phong-ten-lua-chan-hoa-luc-nga-20260811142126964.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/11/anh-dong-1786433362397.gif\" /></a>(Dân trí) - Tiêm kích MiG-29 của Ukraine rơi và bốc cháy khi đối phó cuộc tập kích của Nga tại Odessa."
     }
   ]
 }
