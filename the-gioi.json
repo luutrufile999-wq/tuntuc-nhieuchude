@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran tiết lộ lý do Lãnh tụ Tối cao vắng bóng bí ẩn",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-tiet-lo-ly-do-lanh-tu-toi-cao-vang-bong-bi-an-20260812222600153.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/lanh-tu-toi-cao-iran-cropped-1786350112775.jpg\" /></a>(Dân trí) - Quan chức Iran tiết lộ chiến lược của Lãnh tụ Tối cao Mojtaba Khamenei khi tránh xuất hiện trước công chúng trong những tháng qua."
+    },
+    {
+      "id": 2,
       "title": "Tiêm kích F-16 Thổ Nhĩ Kỳ rơi, cháy như cầu lửa",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tiem-kich-f-16-tho-nhi-ky-roi-chay-nhu-cau-lua-20260812210917637.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/12/f-16-ezgifcom-crop-1786543746324.gif\" /></a>(Dân trí) - Một tiêm kích F-16 đã gặp nạn trong chuyến bay huấn luyện tại Thổ Nhĩ Kỳ."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Hé lộ chiêu dùng \"mồi nhử\" của Mật vụ Mỹ để bảo vệ tổng thống",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/he-lo-chieu-dung-moi-nhu-cua-mat-vu-my-de-bao-ve-tong-thong-20260812202533542.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/12/image-4-cropped-1786541038296.jpg\" /></a>(Dân trí) - Từ bí mật đổi máy bay đến tráo vị trí xe, Mật vụ Mỹ thường xuyên dùng các chiến thuật \"chim mồi\" để đánh lạc hướng, nhằm bảo vệ an toàn tối đa cho tổng thống."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine tuyên bố tấn công “thành trì cuối cùng” của Hạm đội Biển Đen Nga",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-tan-cong-thanh-tri-cuoi-cung-cua-ham-doi-bien-den-nga-20260812200628124.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/12/ham-doi-nga-cropped-1786539600822.jpg\" /></a>(Dân trí) - Tổng thống Volodymyr Zelensky tuyên bố Ukraine tiến hành chiến dịch tấn công nhằm vào căn cứ của Hạm đội Biển Đen Nga."
     }
   ]
 }
