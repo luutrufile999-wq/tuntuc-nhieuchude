@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Phó Thủ tướng: Tăng mạnh xuất khẩu, kiểm soát nhập siêu",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pho-thu-tuong-tang-manh-xuat-khau-kiem-soat-nhap-sieu-20260813214850751.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/13/ptt-pham-gia-tuc-cropped-1786632435943.jpg\" /></a>(Dân trí) - 7 tháng đầu năm, cả nước nhập siêu khoảng 20,3 tỷ USD. Một số nhóm hàng xuất khẩu tăng chậm như dệt may, giày dép, gỗ và sản phẩm gỗ; một số nông sản giảm kim ngạch."
+    },
+    {
+      "id": 2,
       "title": "Một khách hàng trúng Vietlott gần 72 tỷ đồng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mot-khach-hang-trung-vietlott-gan-72-ty-dong-20260813215321512.htm\"><img src=\"https://icdn.dantri.com.vn/2023/10/31/vietlott-crop-1698755410695.jpeg\" /></a>(Dân trí) - Một cá nhân trúng Vietlott trị giá gần 72 tỷ đồng tối 13/8. Sau khi trừ thuế thu nhập cá nhân, chủ nhân tấm vé độc đắc thực lãnh khoảng gần 65 tỷ đồng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Các “đại gia” vùng Vịnh chi hàng tỷ USD cho tuyến xuất khẩu dầu mỏ, né eo biển Hormuz",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cac-dai-gia-vung-vinh-chi-hang-ty-usd-cho-tuyen-xuat-khau-dau-mo-ne-eo-bien-hormuz-20260813205204886.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/13/cac-dai-gia-vung-vinh-chi-hang-ty-usd-cho-tuyen-xuat-khau-dau-mo-ne-eo-bien-hormuz-cropped-1786628995472.jpg\" /></a>(Dân trí) - Ngay cả khi một lệnh ngừng bắn được thiết lập, các nước xuất khẩu dầu vùng Vịnh vẫn nhận ra rằng việc phụ thuộc hoàn toàn vào eo biển Hormuz là rủi ro mà họ không thể tiếp tục chấp nhận."
-    },
-    {
-      "id": 3,
-      "title": "Thị trường tiền số hôm nay 13/8: Nhà đầu tư đang chờ điều gì?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-tien-so-hom-nay-138-nha-dau-tu-dang-cho-dieu-gi-20260813183019169.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/14/de-xuat-thu-nghiem-tien-so-trong-trung-tam-tai-chinh-quoc-te-tai-da-nang-1755154731192.jpg\" /></a>(Dân trí) - Dù áp lực tăng lãi suất từ Cục Dự trữ Liên bang Mỹ (Fed) đã hạ nhiệt, bitcoin vẫn loay hoay tìm động lực bứt phá."
     }
   ]
 }
