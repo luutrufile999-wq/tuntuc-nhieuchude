@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giải mã chênh lệch giá vàng trong nước và thế giới đang thu hẹp",
+      "summary": "<a href=\"https://bnews.vn/giai-ma-chenh-lech-gia-vang-trong-nuoc-va-the-gioi-dang-thu-hep/432884.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/06/27/110322-gia-vang-trong-nuoc-giam-gan-14-trieu-dong-luong-sau-1-tuan.jpg\" width=\"180\" /></a>Thị trường vàng trong nước đang chứng kiến hiện tượng khá bất ngờ khi khoảng cách giữa giá vàng trong nước và giá vàng thế giới đang được thu hẹp.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng hôm nay 15/8 cập nhật mới nhất",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-15-8-cap-nhat-moi-nhat/432823.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/13/162855-gia-vang-len-muc-cao-nhat-trong-hon-2-thang.jpg\" width=\"180\" /></a>Liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng chiều 14/8: Vàng SJC giảm bao nhiêu?",
       "summary": "<a href=\"https://bnews.vn/gia-vang-chieu-14-8-vang-sjc-giam-bao-nhieu/432822.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/06/27/110322-gia-vang-trong-nuoc-giam-gan-14-trieu-dong-luong-sau-1-tuan.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng chiều 14/8, vàng SJC vẫn được giữ nguyên so với đầu giờ sáng. <br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng châu Á chịu áp lực giảm do hoạt động chốt lời",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-chau-a-chiu-ap-luc-giam-do-hoat-dong-chot-loi/432785.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2025/09/13/100601-gia-vang-the-gioi-cao-ky-luc.jpg\" width=\"180\" /></a>Trong phiên 14/8 tại châu Á, giá vàng giao ngay giảm 0,6% xuống 4.324,39 USD/ounce, trong khi giá vàng kỳ hạn của Mỹ giảm gần 1% xuống 4.379,20 USD/ounce.\n<br />"
     }
   ]
 }
