@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thị trường tiền số ngày 15/8: Một công ty báo lỗ 130 triệu USD sau nửa năm",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-tien-so-ngay-158-mot-cong-ty-bao-lo-130-trieu-usd-sau-nua-nam-20260815190229966.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/15/giao-dich-tien-so-cropped-1786795261635.jpg\" /></a>(Dân trí) - Sau 6 tháng chuyển hướng sang nắm giữ tiền số, Solana Company báo lỗ tới 130,1 triệu USD. Phần lớn khoản lỗ đến từ biến động giá trị tài sản số và các giao dịch bán tài sản."
+    },
+    {
+      "id": 2,
       "title": "Giá vàng bất ngờ bật tăng 10%: Loạt ngân hàng nêu dự báo mới nhất",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-bat-ngo-bat-tang-10-loat-ngan-hang-neu-du-bao-moi-nhat-20260815170310928.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/15/gold-1786787850398.jpg\" /></a>(Dân trí) - Chỉ trong một tuần, 3 dữ liệu kinh tế Mỹ liên tiếp đã đảo chiều kỳ vọng thị trường, đẩy giá vàng tiến sát mốc 4.400 USD/ounce và mở ra đà tăng theo tháng mạnh nhất kể từ đầu năm."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Người Việt chuộng trái cây Australia và New Zealand, táo dẫn đầu",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/nguoi-viet-chuong-trai-cay-australia-va-new-zealand-tao-dan-dau-20260815173558714.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/15/tao-1-cropped-1786789993544.jpg\" /></a>(Dân trí) - Táo, kiwi và nhiều loại trái cây khác từ New Zealand đang dần trở thành thực phẩm quen thuộc, nhu cầu nhập khẩu tăng và giá ngày càng rẻ."
-    },
-    {
-      "id": 3,
-      "title": "Phó Thủ tướng: Dung Quất từ vùng cát trắng đến khu kinh tế thành công",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pho-thu-tuong-dung-quat-tu-vung-cat-trang-den-khu-kinh-te-thanh-cong-20260815122423740.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/15/pho-thu-tuong-pham-gia-tucquoc-trieu-1786770860802.jpg\" /></a>(Dân trí) - Theo Phó Thủ tướng Thường trực Phạm Gia Túc, từ một vùng ven biển cát trắng hoang sơ, gian khó, Dung Quất đã vươn mình trở thành một trong những khu kinh tế ven biển thành công nhất cả nước."
     }
   ]
 }
