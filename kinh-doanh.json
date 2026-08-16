@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thông tin mới vụ chuyến bay Vietnam Airlines gặp sự cố ở Đức phải quay đầu",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thong-tin-moi-vu-chuyen-bay-vietnam-airlines-gap-su-co-o-duc-phai-quay-dau-20260816212105230.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/16/bay-8909-edited-cropped-1786860064864-1786889812461.jpg\" /></a>(Dân trí) - Liên quan sự cố chuyến bay VN34 ngày 15/8, Vietnam Airlines cho biết đã bố trí hành trình thay thế cho toàn bộ hành khách, đồng thời hỗ trợ lưu trú, ăn uống và đi lại trong thời gian chờ đợi."
+    },
+    {
+      "id": 2,
       "title": "Mark Cuban dự đoán “crypto mới”, không phải bitcoin hay blockchain",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mark-cuban-du-doan-crypto-moi-khong-phai-bitcoin-hay-blockchain-20260816181055360.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/16/mark-cuban-cropped-1786878423366.jpg\" /></a>(Dân trí) - Tỷ phú Mark Cuban cho rằng tâm điểm đầu tư tiếp theo không còn là blockchain mà chính là chip AI - loại tài sản đang được phố Wall chuẩn hóa thành hàng hóa phái sinh có thể giao dịch."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tiến sĩ vật lý đứng sau công ty khởi nghiệp âm nhạc AI trị giá 5 tỷ USD",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tien-si-vat-ly-dung-sau-cong-ty-khoi-nghiep-am-nhac-ai-tri-gia-5-ty-usd-20260816184903856.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/16/mikey-shulman-suno2000x1500-1068x801-cropped-1786880857478.jpg\" /></a>(Dân trí) - Giới đầu tư đang đặt cược rằng Suno, công ty trị giá 5 tỷ USD sẽ trở thành \"Spotify tiếp theo\"."
-    },
-    {
-      "id": 3,
-      "title": "Thị trường tiền số 16/8: Một ngân hàng sắp cho khách giao dịch bitcoin",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-tien-so-168-mot-ngan-hang-sap-cho-khach-giao-dich-bitcoin-20260816183000718.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/16/17ca9e90-5e12-4570-9fec-e43541f28552-1786879718435.png\" /></a>(Dân trí) - Bank Leumi, ngân hàng lớn nhất Israel thông báo sẽ cung cấp dịch vụ mua bán bitcoin, ethereum và solana từ đầu năm 2027."
     }
   ]
 }
