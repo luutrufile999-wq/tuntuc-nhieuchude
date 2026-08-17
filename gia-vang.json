@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng hôm nay 17/8: Vàng SJC tiếp tục đi lên",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-17-8-vang-sjc-tiep-tuc-di-len/433020.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2018/05/16/091745_chien-su-syri-no-ra-gia-vang-trong-nuoc-tang-nhe.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng hôm nay, giá vàng SJC tiếp tục được điều chỉnh tăng. <br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng đi ngang phiên đầu tuần",
       "summary": "<a href=\"https://bnews.vn/gia-vang-di-ngang-phien-dau-tuan/433006.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/06/110311-gia-vang-tang-manh-nhat-ke-tu-thang-2-2026.jpg\" width=\"180\" /></a>Giá vàng thế giới đi ngang khi giới đầu tư đánh giá những tác động trái chiều từ các số liệu kinh tế Mỹ và nguy cơ lạm phát gia tăng do giá năng lượng.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Kỳ vọng Fed giữ nguyên lãi suất hỗ trợ thị trường vàng",
       "summary": "<a href=\"https://bnews.vn/ky-vong-fed-giu-nguyen-lai-suat-ho-tro-thi-truong-vang/432894.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/06/29/171129-cuoi-tuan-gia-vang-trong-nuoc-tang-manh.jpg\" width=\"180\" /></a>Thị trường vàng trong nước tuần từ ngày 10-15/8/2026 biến động khá mạnh trong biên độ hẹp, có thời điểm giá vàng SJC tăng lên 145,5 triệu đồng/lượng rồi điều chỉnh trở lại.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng thế giới tăng khoảng gần 1% trong tuần qua",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-tang-khoang-gan-1-trong-tuan-qua/432888.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/15/105514-vang-va-dau-cung-mat-gia-chung-khoan-my-khoi-sac.jpg\" width=\"180\" /></a>Giá vàng giao ngay tăng 0,7% lên 4.379,95 USD/ounce trong phiên cuối tuần, trong khi giá vàng kỳ hạn của Mỹ tăng 0,4% lên 4.437,30 USD/ounce.<br />"
     }
   ]
 }
