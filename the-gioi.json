@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Trump chỉ đạo giảm đáng kể quy mô tập trận Mỹ - Hàn",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-chi-dao-giam-dang-ke-quy-mo-tap-tran-my-han-20260817055436450.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/17/tap-tran-my-han-reuters-1786920840870.webp\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump cho biết ông đã chỉ đạo Lầu Năm Góc giảm đáng kể quy mô cuộc tập trận quân sự chung với Hàn Quốc do Seoul từ chối tham gia các hành động chống lại Iran."
+    },
+    {
+      "id": 2,
       "title": "Colombia đề nghị Tổng thống Trump dừng áp thuế",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/colombia-de-nghi-tong-thong-trump-dung-ap-thue-20260816203728870.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/16/tong-thong-colombia-1786887174731.png\" /></a>(Dân trí) - Tổng thống Colombia kêu gọi người đồng cấp Mỹ tạm dừng áp thuế trong bối cảnh quốc gia Nam Mỹ gặp khó khăn sau trận động đất."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Phản ứng của Qatar khi Iran đòi thả 3 phi công bị bắt trong vụ rơi Su-24",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/phan-ung-cua-qatar-khi-iran-doi-tha-3-phi-cong-bi-bat-trong-vu-roi-su-24-20260816200407350.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/16/tiem-kich-iran-edited-1786885331492.jpg\" /></a>(Dân trí) - Qatar bác bỏ tuyên bố của chỉ huy quân sự Iran về việc giam giữ 3 phi công nước này sau khi máy bay của họ bị bắn hạ."
-    },
-    {
-      "id": 3,
-      "title": "Ukraine phóng hơn 800 UAV, không kích dồn dập lãnh thổ Nga",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-phong-hon-800-uav-khong-kich-don-dap-lanh-tho-nga-20260816190421880.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/16/moscowreuters-cropped-1786881762408.jpg\" /></a>(Dân trí) - Ukraine đã phóng hàng trăm máy bay không người lái vào lãnh thổ Nga trong đợt tập kích quy mô lớn."
     }
   ]
 }
