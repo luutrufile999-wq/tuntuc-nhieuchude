@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng bứt phá nhờ USD suy yếu và kỳ vọng Fed hạ nhiệt lãi suất",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-but-pha-nho-usd-suy-yeu-va-ky-vong-fed-ha-nhiet-lai-suat/433135.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2025/05/17/123710-gia-va-ng-the-gio-i-vuo-t-muc-3-410-usd-ounce.jpg\" width=\"180\" /></a>Giá vàng thế giới ghi nhận phiên tăng mạnh trong ngày 17/8 nhờ sự suy yếu của đồng USD và việc giới đầu tư giảm dần kỳ vọng về khả năng Cục Dự trữ liên bang Mỹ (Fed) tăng lãi suất.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng hôm nay 18/8 cập nhật mới nhất",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-18-8-cap-nhat-moi-nhat/433080.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2025/09/13/114649-gia-vang-tang-dung-dung-cham-moc-104-trieu-dong-luong.jpg\" width=\"180\" /></a>Liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng chiều 17/8: Vàng SJC quay đầu giảm",
       "summary": "<a href=\"https://bnews.vn/gia-vang-chieu-17-8-vang-sjc-quay-dau-giam/433079.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2024/04/22/075725-gia-vang-tiep-tuc-tang-suc-mua-chua-ha-nhiet-.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng chiều 17/8, vàng SJC giảm nhẹ so với đầu giờ sáng. <br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng thế giới áp sát mốc 4.400 USD/ounce khi đồng USD suy yếu",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-ap-sat-moc-4-400-usd-ounce-khi-dong-usd-suy-yeu/433072.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2023/05/15/165502-gia-dau-mo-va-gia-vang-the-gioi-cung-giam-manh.jpg\" width=\"180\" /></a>Giá vàng thế giới nhích lên trong phiên chiều 17/8, được hỗ trợ bởi sự suy yếu của đồng USD và các dữ liệu kinh tế Mỹ gần đây cho thấy lạm phát đang hạ nhiệt. <br />"
     }
   ]
 }
