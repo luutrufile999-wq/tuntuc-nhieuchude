@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chuyên gia nêu dự báo về lãi suất, tỷ giá",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chuyen-gia-neu-du-bao-ve-lai-suat-ty-gia-20260818203348509.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/18/vnd-lai-suat-cropped-1787059909828.jpg\" /></a>(Dân trí) - Lãi suất chịu áp lực tăng, tỷ giá vẫn là biến số đáng lưu ý đang đặt bài toán cho cơ quan điều hành trong việc giữ ổn định để hỗ trợ doanh nghiệp, thúc đẩy tăng trưởng kinh tế."
+    },
+    {
+      "id": 2,
       "title": "Thị trường tiền số 18/8: Bitcoin tăng giá, vì sao nhà đầu tư chớ vội mừng?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-tien-so-188-bitcoin-tang-gia-vi-sao-nha-dau-tu-cho-voi-mung-20260818193217927.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/18/bitcoin-1787056235360.png\" /></a>(Dân trí) - Giá Bitcoin tăng nhưng dòng tiền thực vẫn chưa trở lại, các mốc quanh 60.000 USD và 68.700 USD là những ngưỡng nhà đầu tư cần chú ý."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "VETC, ePass thu phí 6.600 đồng/tháng: Mảng thu phí không dừng lãi ra sao?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vetc-epass-thu-phi-6600-dongthang-mang-thu-phi-khong-dung-lai-ra-sao-20260818173815200.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/18/ma-tran-etcdocx-1658967376915-1787049402152.png\" /></a>(Dân trí) - Phí 6.600 đồng/tháng do ví điện tử VETC và Viettel Money thu đang được nhiều chủ xe quan tâm, trong bối cảnh mảng thu phí không dừng của một \"ông lớn\" đã chuyển từ thua lỗ sang có lãi."
-    },
-    {
-      "id": 3,
-      "title": "Định giá công ty nông nghiệp mới hơn 10.000 tỷ đồng, bầu Đức nói gì?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dinh-gia-cong-ty-nong-nghiep-moi-hon-10000-ty-dong-bau-duc-noi-gi-20260818163931246.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/07/bau-duc4hag-edited-1754531869821.jpg\" /></a>(Dân trí) - Công ty nông nghiệp sắp IPO của bầu Đức được định giá hơn 10.000 tỷ đồng cao hơn nhiều những doanh nghiệp \"đàn anh\" trên sàn như HAGL Agrico, Nafoods Group... gây chú ý."
     }
   ]
 }
