@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Khoảng cách giá vàng SJC và thế giới thu hẹp còn 2 triệu đồng/lượng",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khoang-cach-gia-vang-sjc-va-the-gioi-thu-hep-con-2-trieu-dongluong-20260819195145057.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/26/chinh-thuc-xoa-bo-co-che-nha-nuoc-doc-quyen-san-xuat-vang-mieng-1756199020295.jpg\" /></a>(Dân trí) - Giá vàng miếng SJC tiếp tục đà giảm sâu, kéo mức chênh lệch với giá vàng thế giới về sát mốc 2 triệu đồng/lượng. Cùng lúc, tỷ giá USD trung tâm cũng được điều chỉnh giảm nhẹ."
+    },
+    {
+      "id": 2,
       "title": "Thị trường tiền số 19/8: Điều gì sẽ xảy ra sau cú giảm gần 50% của bitcoin?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-tien-so-198-dieu-gi-se-xay-ra-sau-cu-giam-gan-50-cua-bitcoin-20260819200830641.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/19/bitcoin-cropped-1787144797815.jpg\" /></a>(Dân trí) - Sau cú giảm hơn 50%, bitcoin đang được đánh giá lại khi dòng tiền rút khỏi các quỹ giao ngay, trong khi BlackRock vẫn giữ quan điểm tích cực dài hạn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Wells Fargo hạ mạnh dự báo giá vàng 2026: Cơn sốt đã đến lúc hạ nhiệt?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/wells-fargo-ha-manh-du-bao-gia-vang-2026-con-sot-da-den-luc-ha-nhiet-20260819190726586.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/19/gold-prices-skyrocket-cropped-1787140899213.jpg\" /></a>(Dân trí) - Từng đưa ra dự báo đầy tham vọng, Wells Fargo vừa có lần thứ 3 trong năm 2026 hạ mục tiêu giá vàng. Liệu kim loại quý này có còn giữ được sức hấp dẫn đối với giới đầu tư?"
-    },
-    {
-      "id": 3,
-      "title": "Hơn 10 ngân hàng hạ lãi suất cho vay 0,5-2,5%, chuyên gia dự báo đáng chú ý",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hon-10-ngan-hang-ha-lai-suat-cho-vay-05-25-chuyen-gia-du-bao-dang-chu-y-20260819171350696.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/22/4fe4eefc1095230f426ec8fa8429ea63-edited-1675041275366-1779436828358.png\" /></a>(Dân trí) - Nhận định về biến động lãi suất thời gian tới, chuyên gia cho rằng thị trường chưa nên kỳ vọng lãi suất giảm mạnh và đồng loạt tại tất cả các kỳ hạn. Nguyên nhân là do nhu cầu huy động vốn vẫn lớn."
     }
   ]
 }
