@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chiến sự Ukraine 19/8: Bước tiến mang tính quyết định của Nga ở Orekhov",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-198-buoc-tien-mang-tinh-quyet-dinh-cua-nga-o-orekhov-20260819091214061.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/19/binh-si-ukraine-chien-haogetty-cropped-1787101026151.jpg\" /></a>(Dân trí) - Quân đội Nga đã chọc thủng tuyến phòng thủ kiên cố cuối cùng của lực lượng Ukraine ở Orekhov, Zaporizhia. Dường như Bộ chỉ huy Kiev đã lãng phí thời gian quý báu khiến tình hình xấu đi nhanh chóng."
+    },
+    {
+      "id": 2,
       "title": "Ông Trump xúc tiến cuộc gặp với ông Kim Jong-un",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ong-trump-xuc-tien-cuoc-gap-voi-ong-kim-jong-un-20260819101802165.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/19/lanh-dao-my-trieu-1787109324097.png\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump được cho là yêu cầu các trợ lý sắp xếp một cuộc gặp với nhà lãnh đạo Triều Tiên Kim Jong-un vào mùa thu."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Trung Quốc lần đầu thu hồi thành công tầng đẩy tên lửa trên đất liền",
       "summary": "<a href=\"https://dantri.com.vn/dt360/trung-quoc-lan-dau-thu-hoi-thanh-cong-tang-day-ten-lua-tren-dat-lien-20260819095557249.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/19/thu-hoi-ten-lua-chu-tuoc-3-y2-1787107911845.gif\" /></a>(Dân trí) - Trung Quốc phóng thành công tên lửa tái sử dụng Chu Tước-3 Y2, đồng thời lần đầu kiểm soát và thu hồi tầng đẩy của tên lửa thành công trên đất liền."
-    },
-    {
-      "id": 3,
-      "title": "Hiện trường vụ Ukraine tập kích nơi giúp Nga tạo ra đối trọng với Starlink",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/hien-truong-vu-ukraine-tap-kich-noi-giup-nga-tao-ra-doi-trong-voi-starlink-20260819100752804.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/19/co-so-ngavantor-cropped-1787108626127.jpg\" /></a>(Dân trí) - Hình ảnh vệ tinh mới cho thấy một trung tâm vũ trụ của Nga, cơ sở giúp Moscow chế tạo hệ thống internet vệ tinh Rassvet, đã bị hư hại sau cuộc tấn công của Ukraine vào cuối tuần qua."
     }
   ]
 }
