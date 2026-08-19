@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chứng khoán èo uột, nhà đầu tư dần nản lòng",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chung-khoan-eo-uot-nha-dau-tu-dan-nan-long-20260819172347254.htm\"><img src=\"https://icdn.dantri.com.vn/2025/09/04/bo-de-xuat-ap-thue-20-tren-lai-ban-chung-khoan-hang-nam-1756976065055.jpg\" /></a>(Dân trí) - Bất chấp nhiều thông tin tích cực nhưng giá cổ phiếu không tăng, thanh khoản thấp, nhà đầu tư chứng khoán thua lỗ và các diễn đàn vắng tiếng..."
+    },
+    {
+      "id": 2,
       "title": "Thủ tướng Lê Minh Hưng trả lời câu hỏi “Tại sao giá nhà cao?”",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/thu-tuong-le-minh-hung-tra-loi-cau-hoi-tai-sao-gia-nha-cao-20260819162824445.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/19/thu-tuong-le-minh-hung-edited-1787133560140.jpg\" /></a>(Dân trí) - Theo Thủ tướng Lê Minh Hưng, giá đất là đầu vào của tất cả dự án và của nền kinh tế. Khi đất giá cao, cộng với quy trình, thủ tục giao đất kéo dài, tất cả chi phí đó cộng dồn lại, đẩy giá nhà lên cao."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "VETC, ePass thu phí 6.600 đồng/tháng: Ủy ban Cạnh tranh Quốc gia vào cuộc",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vetc-epass-thu-phi-6600-dongthang-uy-ban-canh-tranh-quoc-gia-vao-cuoc-20260819164059064.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/19/ung-dung-vetc-epass-1787128553269.jpg?watermark=true\" /></a>(Dân trí) - Ủy ban Cạnh tranh Quốc gia đang xem xét việc VETC, ePass thu thêm phí quản lý tài khoản ví điện tử 6.600 đồng/tháng. Hồi tháng 4, hai doanh nghiệp này vừa bị phạt vì vi phạm bảo vệ người tiêu dùng."
-    },
-    {
-      "id": 3,
-      "title": "Lo lãi suất giảm, người dân tranh thủ đem tiền gửi tiết kiệm",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lo-lai-suat-giam-nguoi-dan-tranh-thu-dem-tien-gui-tiet-kiem-20260819161743600.htm\"><img src=\"https://icdn.dantri.com.vn/2023/04/20/vpbank-giao-dich29-edited-1681965295546.jpeg\" /></a>(Dân trí) - Trước lo ngại chu kỳ nới lỏng tiền tệ sắp diễn ra, nhiều nhà đầu tư cá nhân quyết định dồn vốn vào kênh gửi tiết kiệm để chốt mức sinh lời lên đến 9,4%/năm nhằm đảm bảo an toàn tài chính."
     }
   ]
 }
