@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "NASA không ngăn được nguy cơ đài thiên văn lao trở lại Trái đất",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nasa-khong-ngan-duoc-nguy-co-dai-thien-van-lao-tro-lai-trai-dat-20260820092412938.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/20/dai-thien-van-nasanasa11zon-edited-1787192460556.jpg\" /></a>(Dân trí) - Cơ quan Hàng không Vũ trụ Mỹ (NASA) thông báo sứ mệnh nhằm ngăn đài thiên văn vệ tinh Swift có nguy cơ lao trở lại Trái đất đã thất bại."
+    },
+    {
+      "id": 2,
       "title": "Tai nạn vỡ cột sống, liệt 2 chân, người đàn ông sợ làm khổ chị gái",
       "summary": "<a href=\"https://dantri.com.vn/tam-long-nhan-ai/tai-nan-vo-cot-song-liet-2-chan-nguoi-dan-ong-so-lam-kho-chi-gai-20260802010011138.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/02/nhan-ai-hoan-canh-nguyen-ha-hoa-3-1785605070492.jpg\" /></a>(Dân trí) - Tai nạn lao động khiến anh Hòa bị vỡ cột sống, liệt 2 chân. Không có điều kiện điều trị và phục hồi chức năng, anh sống trong đau đớn, mọi sinh hoạt hàng ngày đều phụ thuộc vào người thân."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thủ tướng Anh quyên góp 15% lương giúp người vô gia cư",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/thu-tuong-anh-quyen-gop-15-luong-giup-nguoi-vo-gia-cu-20260820102042759.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/20/thu-tuong-anhreuters-cropped-1787195793967.jpg\" /></a>(Dân trí) - Thủ tướng Anh Andy Burnham hôm 19/8 công bố kế hoạch giúp người vô gia cư trước Giáng sinh, đồng thời cam kết dành một phần tiền lương để hỗ trợ cho nỗ lực này."
-    },
-    {
-      "id": 3,
-      "title": "Bộ GD&ĐT số hoá hơn 16 triệu học bạ và 8,7 triệu văn bằng, chứng chỉ",
-      "summary": "<a href=\"https://dantri.com.vn/giao-duc/bo-gddt-so-hoa-hon-16-trieu-hoc-ba-va-87-trieu-van-bang-chung-chi-20260820094305064.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/19/ong-hung-noi-vu-hailong-1787152887174.jpg\" /></a>(Dân trí) - Theo báo cáo của Bộ GD&ĐT, đến tháng 8, toàn ngành đã số hóa hơn 16 triệu học bạ năm học 2025-2026 và trên 8,7 triệu văn bằng, chứng chỉ; chia sẻ thông tin biến động cư trú của học sinh trực tuyến."
     }
   ]
 }

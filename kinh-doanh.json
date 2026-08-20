@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng trong nước tăng 3,8 triệu đồng/lượng",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-tang-38-trieu-dongluong-20260820090251172.htm\"><img src=\"https://icdn.dantri.com.vn/2025/11/04/ve-de-xuat-danh-thue-thu-nhap-ca-nhan-voi-giao-dich-vang-mieng-1762267842262.jpg\" /></a>(Dân trí) - Với mức tăng mới nhất, giá vàng trong nước đang trở lại mốc cao nhất trong khoảng 1 tháng qua."
+    },
+    {
+      "id": 2,
       "title": "Sầu riêng tăng trưởng nóng, tránh nỗi lo từ \"bài học\" thanh long",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sau-rieng-tang-truong-nong-tranh-noi-lo-tu-bai-hoc-thanh-long-20260820080538432.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/20/anh-1-1908-edited-cropped-1787187761133.jpg\" /></a>(Dân trí) - Xuất khẩu sầu riêng bùng nổ đem lại nhiều lợi ích nhưng sự phụ thuộc quá lớn vào một thị trường đặt ra thách thức về giá cả, nguy cơ ùn ứ nông sản nếu chuỗi cung ứng bất ngờ gặp trục trặc."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Dự báo chứng khoán châu Á tăng điểm khi Mỹ hỗ trợ thị trường trái phiếu",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/du-bao-chung-khoan-chau-a-tang-diem-khi-my-ho-tro-thi-truong-trai-phieu-20260820070625209.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/20/chung-khoan-nb-cropped-1787184213082.jpg\" /></a>(Dân trí) - Áp lực từ thị trường trái phiếu hạ nhiệt sau khi Bộ Tài chính Mỹ công bố kế hoạch mua lại trái phiếu kỳ hạn dài nhằm kiềm chế chi phí vay. Trái phiếu tăng mạnh, đồng USD xuống thấp nhất ba tháng."
-    },
-    {
-      "id": 3,
-      "title": "Sau VETC, ePass cũng thông báo dừng thu phí 6.600 đồng/tháng",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/sau-vetc-epass-cung-thong-bao-dung-thu-phi-6600-dongthang-20260820083526779.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/20/images-1787187342396.jpg\" /></a>(Dân trí) - VETC và ePass đều thông báo tạm dừng triển khai thu phí dịch vụ quản lý tài khoản ví điện tử sau nhiều phản ứng từ người tiêu dùng."
     }
   ]
 }
