@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng thế giới tăng hơn 3% sau thông báo của Bộ Tài chính Mỹ",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-tang-hon-3-sau-thong-bao-cua-bo-tai-chinh-my/433443.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2025/04/23/104554-gia-vang-the-gioi-vuot-moc-3-500-usd-ounce.jpg\" width=\"180\" /></a>Phiên 19/8, giá vàng thế giới tăng hơn 3% lên mức cao nhất trong hơn hai tháng rưỡi, sau khi thông báo hỗ trợ thanh khoản bất ngờ từ Bộ Tài chính Mỹ kéo tụt lợi suất trái phiếu và USD.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng hôm nay 20/8 cập nhật mới nhất",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-20-8-cap-nhat-moi-nhat/433391.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/112007-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng châu Á ít biến động khi thị trường chờ biên bản họp của Fed",
       "summary": "<a href=\"https://bnews.vn/gia-vang-chau-a-it-bien-dong-khi-thi-truong-cho-bien-ban-hop-cua-fed/433390.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/03/25/142510-gia-vang-va-chung-khoan-lao-doc.jpg\" width=\"180\" /></a>Trong phiên chiều 19/8 tại châu Á, giá vàng giao ngay ít biến động, ở mức 4.337,59 USD/ounce, sau khi giảm gần 2% trong phiên trước do lợi suất trái phiếu kho bạc Mỹ tăng.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Gia vàng chiều 19/8: Vàng SJC tăng, giảm bao nhiêu?",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-chieu-19-8-vang-sjc-tang-giam-bao-nhieu/433385.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/111951-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng chiều 19/8, vàng SJC mua vào dưới mốc 140 triệu đồng/lượng. <br />"
     }
   ]
 }
