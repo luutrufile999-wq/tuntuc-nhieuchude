@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng thế giới thu hẹp đà giảm trong phiên 20/8",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-thu-hep-da-giam-trong-phien-20-8/433586.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/02/16/145325-gia-vang-va-bac-the-gioi-hoi-phuc-nhe-sau-mot-tuan-song-gio-.jpg\" width=\"180\" /></a>Trong phiên 20/8, giá vàng giao ngay giảm 0,1% xuống 4.516,19 USD/ounce, sau khi giảm xuống đến 4.450,08 USD/ounce, nhờ triển vọng hạ lợi suất thông qua chương trình mua trái phiếu của Chính phủ Mỹ.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng hôm nay 21/8 cập nhật mới nhất",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-21-8-cap-nhat-moi-nhat/433543.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/112038-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng chịu áp lực chốt lời sau khi lập đỉnh 2 tháng",
       "summary": "<a href=\"https://bnews.vn/gia-vang-chiu-ap-luc-chot-loi-sau-khi-lap-dinh-2-thang/433540.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/13/162855-gia-vang-len-muc-cao-nhat-trong-hon-2-thang.jpg\" width=\"180\" /></a>Trong phiên giao dịch ngày 20/8, giá vàng châu Á đã quay đầu giảm nhẹ khi giới đầu tư ồ ạt chốt lời. <br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng chiều 20/8: Vàng SJC quay đầu giảm",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-chieu-20-8-vang-sjc-quay-dau-giam/433531.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/06/29/170941-gia-vang-xuong-thap-nhat-tu-dau-nam-den-nay.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng hôm nay, vàng SJC giảm nhẹ so với đầu giờ sáng. <br />"
     }
   ]
 }
