@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Đề xuất Quốc hội giảm 30% thuế thu nhập trong 2 năm cho DN, hộ kinh doanh",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/de-xuat-quoc-hoi-giam-30-thue-thu-nhap-trong-2-nam-cho-dn-ho-kinh-doanh-20260821130905758.htm\"><img src=\"https://icdn.dantri.com.vn/2025/03/25/tien-39tien-tuan-crop-crop-1680060392882-1735725333186-1742882647632.jpeg\" /></a>(Dân trí) - Chính phủ trình Quốc hội phương án giảm 30% thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp cho kỳ tính thuế năm 2026, 2027 của cá nhân, hộ kinh doanh và doanh nghiệp có doanh thu dưới 10 tỷ đồng."
-    },
-    {
-      "id": 2,
       "title": "Bitcoin vượt 75.000 USD, đà tăng có thể còn kéo dài?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bitcoin-vuot-75000-usd-da-tang-co-the-con-keo-dai-20260821124156745.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/21/bitcoin-cropped-1787290775786.jpg\" /></a>(Dân trí) - Bitcoin vượt 75.000 USD sau khi tăng gần 18% trong một tuần, được hỗ trợ bởi dòng tiền Mỹ và lực mua từ lệnh bán bị thanh lý. Đà tăng có thể tiếp diễn, nhưng rủi ro điều chỉnh vẫn hiện hữu."
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Thị trường 32.000 tỷ USD trái phiếu Kho bạc Mỹ chi phối nền kinh tế thế nào?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-32000-ty-usd-trai-phieu-kho-bac-my-chi-phoi-nen-kinh-te-the-nao-20260821120245578.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/21/bond-yields-cropped-1787288258836.jpg\" /></a>(Dân trí) - Lãi suất trái phiếu chính phủ Mỹ có thể tác động đến mọi thứ, từ vay mua ô tô, vay sinh viên cho đến lãi suất thế chấp mua nhà."
+    },
+    {
+      "id": 3,
+      "title": "Điều gì khiến giá xăng dầu đồng loạt tăng trở lại?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dieu-gi-khien-gia-xang-dau-dong-loat-tang-tro-lai-20260821115948946.htm\"><img src=\"https://icdn.dantri.com.vn/2025/01/22/gia-xangmquan-edited-1737484482269.jpeg?watermark=true\" /></a>(Dân trí) - Giá xăng dầu trong nước bật tăng do giá thành phẩm xăng dầu thế giới đồng loạt đi lên, trong bối cảnh căng thẳng địa chính trị tại Trung Đông tiếp tục tác động đến nguồn cung."
     }
   ]
 }
