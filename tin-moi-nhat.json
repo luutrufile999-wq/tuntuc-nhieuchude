@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Bệnh viện Hùng Vương đón nhận danh hiệu Anh hùng Lao động",
-      "summary": "<a href=\"https://dantri.com.vn/suc-khoe/benh-vien-hung-vuong-don-nhan-danh-hieu-anh-hung-lao-dong-20260822171201359.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/22/anh-hung-lao-dong-6-cropped-1787392989183.jpg?watermark=true\" /></a>(Dân trí) - Lãnh đạo TPHCM đánh giá cao những đóng góp của Bệnh viện Hùng Vương, đồng thời kỳ vọng bệnh viện tiếp tục đổi mới, nâng cao chất lượng chuyên môn và vươn tầm sản phụ khoa quốc tế."
-    },
-    {
-      "id": 2,
       "title": "Thủ tướng Nhật Bản kể về cuộc sống trong dinh thự chính thức",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/thu-tuong-nhat-ban-ke-ve-cuoc-song-trong-dinh-thu-chinh-thuc-20260822201133517.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/22/8be3ab7080d7648103fbc2585ce96a87c1b39c6a780a7a2dbd50f915487bc834-1787403959822.webp\" /></a>(Dân trí) - Thủ tướng Nhật Bản Sanae Takaichi ngày 22/8 cho biết bà sử dụng dinh thự chính thức nằm gần văn phòng của mình như một nơi làm việc."
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Hành trình 50 năm của Vinamilk: Nửa thế kỷ tạo giá trị, nuôi dưỡng nhân tài",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hanh-trinh-50-nam-cua-vinamilk-nua-the-ky-tao-gia-tri-nuoi-duong-nhan-tai-20260822201940464.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/22/image009-1787404257122.jpg\" /></a>(Dân trí) - Những giá trị hữu hình cho xã hội hay những cột mốc thăng tiến rõ ràng cho nhân sự là cam kết mà Vinamilk đã xây dựng trong suốt nửa thế kỷ vừa qua."
+    },
+    {
+      "id": 3,
+      "title": "Iran nêu yêu cầu mới với Qatar về các phi công \"bị bắt sống\"",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-neu-yeu-cau-moi-voi-qatar-ve-cac-phi-cong-bi-bat-song-20260822191704302.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/22/tuong-iranpresstv-cropped-1787400782249.jpg\" /></a>(Dân trí) - Iran cho rằng Qatar đang giam giữ các phi công của phía Tehran, nhưng Doha đã bác bỏ thông tin này."
     }
   ]
 }
