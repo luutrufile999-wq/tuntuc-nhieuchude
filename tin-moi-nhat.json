@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Kịch bản giúp đội tuyển Việt Nam vô địch ASEAN Cup khi thắng Thái Lan",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/kich-ban-giup-doi-tuyen-viet-nam-vo-dich-asean-cup-khi-thang-thai-lan-20260822230014714.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/22/17874140756628636952574752207119g16857354889090214954bb64688e1253e98d118fdcfa85b682-1787414178182.jpg\" /></a>(Dân trí) - Sau chiến thắng 2-0 trên đất Thái Lan ở trận chung kết lượt đi ASEAN Cup 2026, đội tuyển Việt Nam đang tiến gần tới chức vô địch giải đấu."
+    },
+    {
+      "id": 2,
       "title": "Bão số 4 tiếp tục di chuyển chậm, có thể mạnh lên cấp 9",
       "summary": "<a href=\"https://dantri.com.vn/thoi-tiet/bao-so-4-tiep-tuc-di-chuyen-cham-co-the-manh-len-cap-9-20260822204939500.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/22/muangap-langson40-1787375044580.jpg\" /></a>(Dân trí) - Bão số 4 tiếp tục di chuyển rất chậm trên vùng biển Quảng Ninh - Hải Phòng, gây gió mạnh và mưa rất lớn. Dự báo bão có thể mạnh lên cấp 9, giật cấp 11 trong ngày 24/8."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Những pha cứu thua xuất sắc của Lê Giang Patrik ở trận thắng Thái Lan",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/nhung-pha-cuu-thua-xuat-sac-cua-le-giang-patrik-o-tran-thang-thai-lan-20260822234344839.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/22/legiang-edited-cropped-1787417350891.jpg\" /></a>(Dân trí) - Cổ động viên (CĐV) Đông Nam Á, đặc biệt là người hâm mộ tuyển Việt Nam đã dành nhiều lời khen ngợi với thủ thành Lê Giang Patrik khi anh có nhiều pha cứu thua xuất thần cho \"Rồng vàng\"."
-    },
-    {
-      "id": 3,
-      "title": "Vì sao cầu thủ Thái Lan cãi trọng tài, đòi hủy bàn thắng của Việt Nam?",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/vi-sao-cau-thu-thai-lan-cai-trong-tai-doi-huy-ban-thang-cua-viet-nam-20260822231414534.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/22/trongtai1tuanbao22-8-26-1787414823147.jpg\" /></a>(Dân trí) - Ngay sau khi Hai Long ghi bàn mở tỷ số cho đội tuyển Việt Nam ở phút 62, các cầu thủ Thái Lan vây lấy trọng tài phản ứng rất mạnh và đòi hủy bàn thắng."
     }
   ]
 }
