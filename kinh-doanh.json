@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng tăng mạnh, người \"đu đỉnh\" vẫn lỗ 46,7 triệu đồng/lượng",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-vang-tang-manh-nguoi-du-dinh-van-lo-467-trieu-dongluong-20260823234640010.htm\"><img src=\"https://icdn.dantri.com.vn/2024/03/01/gia-vang-thanh-dong-31-edited-1709226994379.jpeg\" /></a>(Dân trí) - Giá vàng miếng SJC tăng 3,6 triệu đồng/lượng sau một tuần, lên 147,6 triệu đồng ở chiều bán ra. Tuy nhiên, người mua tại đỉnh vẫn chịu khoản lỗ gần 47 triệu đồng mỗi lượng."
+    },
+    {
+      "id": 2,
       "title": "Đấu giá tiếp gần 39.000 xe máy vi phạm ở TPHCM, khởi điểm hơn 27 tỷ đồng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/dau-gia-tiep-gan-39000-xe-may-vi-pham-o-tphcm-khoi-diem-hon-27-ty-dong-20260824011924638.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/24/phuong-tien-vi-pham-chat-thanh-nui-trong-cac-bai-xe-tang-vat-tai-tphcm-8-edited-1680832920891-1787509082795.png\" /></a>(Dân trí) - Sau khi đấu giá thành công hơn 36.000 xe máy vi phạm, Công an TPHCM tiếp tục đưa gần 39.000 xe máy ra đấu giá, với giá khởi điểm hơn 27,8 tỷ đồng, tương đương gần 700.000 đồng/xe."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Lãi suất thả nổi trên 14%/năm, ngân hàng giảm cho vay mua nhà",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lai-suat-tha-noi-tren-14nam-ngan-hang-giam-cho-vay-mua-nha-20260823171410442.htm\"><img src=\"https://icdn.dantri.com.vn/2025/05/12/z65898903994995ed9e2cd599e4e5a14a0476b3587e316-1746936641025-1747012984511.jpg\" /></a>(Dân trí) - Chuyên gia cho rằng cho vay mua nhà chững lại trong quý II là điều dễ hiểu khi lãi suất thả nổi phổ biến hơn 14%/năm, nguồn cung nhà ở giá thấp thì hạn chế."
-    },
-    {
-      "id": 3,
-      "title": "Lãi suất liên ngân hàng bất ngờ giảm mạnh về 3%/năm",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lai-suat-lien-ngan-hang-bat-ngo-giam-manh-ve-3nam-20260824000423212.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/24/giao-dich-ngan-hangthanh-dong-66-1787504559089.jpg?watermark=true\" /></a>(Dân trí) - Lãi suất liên ngân hàng giảm mạnh trong 2 ngày liên tiếp, riêng lãi suất qua đêm giảm 2,8 điểm phần trăm, xuống còn 3%/năm."
     }
   ]
 }
