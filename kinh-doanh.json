@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "Lạm phát Mỹ bất ngờ nóng lại, giá vàng quay đầu giảm",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/lam-phat-my-bat-ngo-nong-lai-gia-vang-quay-dau-giam-20260826222741172.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/16/2026-gold-1784164286440.webp\" /></a>(Dân trí) - Dữ liệu lạm phát tháng 7 của Mỹ cao hơn dự báo khiến đồng USD và lợi suất trái phiếu bật tăng, tạo áp lực lớn khiến giá vàng quay đầu rơi khỏi mốc 4.600 USD/ounce."
+    },
+    {
+      "id": 2,
+      "title": "Chi phí logistics ở Việt Nam chiếm 16% GDP",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chi-phi-logistics-o-viet-nam-chiem-16-gdp-20260826203245604.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/26/anh-man-hinh-2026-08-26-luc-20-cropped-1787751061323.jpg\" /></a>(Dân trí) - Chuyển đổi số được kỳ vọng tạo cú hích cho logistics Việt Nam, nâng năng suất và kéo chi phí xuống 12-15% GDP."
+    },
+    {
+      "id": 3,
+      "title": "12 ngân hàng rót hơn 400.000 tỷ đồng cho doanh nghiệp vừa và nhỏ",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/12-ngan-hang-rot-hon-400000-ty-dong-cho-doanh-nghiep-vua-va-nho-20260826210511954.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/16/giao-dich-ngan-hangthanh-dong-56jpg-1769062620849-1784201488093.jpg\" /></a>12 ngân hàng thương mại đăng ký tham gia chương trình tín dụng quy mô khoảng 408.000 tỷ đồng, ưu tiên vốn cho các động lực tăng trưởng và SMEs, góp phần thúc đẩy mục tiêu tăng trưởng 2 con số."
     }
   ]
 }

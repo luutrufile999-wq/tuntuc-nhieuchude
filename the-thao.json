@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "CĐV Thái Lan bỏ về sớm, không xem tuyển Việt Nam nâng cúp vô địch",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/cdv-thai-lan-bo-ve-som-khong-xem-tuyen-viet-nam-nang-cup-vo-dich-20260826232005252.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/26/cdv-thai-lan-2-cropped-1787760635461.jpg\" /></a>(Dân trí) - Nhiều cổ động viên (CĐV) Thái Lan đã bỏ về sớm sau khi chứng kiến đội nhà để tuyển Việt Nam cầm hòa 2-2 ở trận chung kết lượt về và lần thứ hai liên tiếp phải về nhì ở ASEAN Cup."
+    },
+    {
+      "id": 2,
+      "title": "HLV Kim Sang Sik đi vào lịch sử, khẳng định vị thế bóng đá Việt Nam",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/hlv-kim-sang-sik-di-vao-lich-su-khang-dinh-vi-the-bong-da-viet-nam-20260826230116461.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/26/hlv-kim-sang-sik-2-1787759594058.jpg\" /></a>(Dân trí) - Huấn luyện viên (HLV) Kim Sang Sik đã đi vào lịch sử khi trở thành chiến lược gia đầu tiên giúp tuyển Việt Nam vô địch ASEAN Cup hai kỳ liên tiếp và đều đánh bại tuyển Thái Lan ở chung kết."
+    },
+    {
+      "id": 3,
+      "title": "Đình Bắc, Xuân Son, Lê Giang Patrik được vinh danh ở ASEAN Cup 2026",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/dinh-bac-xuan-son-le-giang-patrik-duoc-vinh-danh-o-asean-cup-2026-20260826230536983.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/26/dinhbacdmq-1787762657728.jpg\" /></a>(Dân trí) - Ngoài cúp vô địch, đội tuyển Việt Nam gần như giành hết các danh hiệu quan trọng của ASEAN Cup 2026. Riêng Đình Bắc lập cú đúp, gồm giải Cầu thủ xuất sắc nhất và Vua phá lưới."
     }
   ]
 }
