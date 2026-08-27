@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng chiều 27/8: Vàng SJC tăng, giảm bao nhiêu?",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-chieu-27-8-vang-sjc-tang-giam-bao-nhieu/434591.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/25/155234-gia-vang-on-dinh-dau-chau-a-bien-dong-nhe-trong-phien-giao-dich-dau-tuan.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng chiều 27/8, vàng SJC giao dịch quanh mốc 150 triệu đồng/lượng. <br />"
+    },
+    {
+      "id": 2,
       "title": "Giá bạc hôm nay 27/8: Bạc Phú Quý, DOJI, Ancarat tăng bao nhiêu?",
       "summary": "<a href=\"https://bnews.vn/gia-bac-hom-nay-27-8-bac-phu-quy-doji-ancarat-tang-bao-nhieu/434496.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/06/16/img-8774-20260616062346.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá bạc hôm nay, bạc Phú Quý, DOJI, Ancarat đồng loạt tăng. <br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng hôm nay 27/8: Vàng SJC đảo chiều giảm nhẹ",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-27-8-vang-sjc-dao-chieu-giam-nhe/434494.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2024/12/23/094101-gia-vang-nhan-tien-sat-gia-vang-mieng-sjc.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng hôm nay,  giá vàng SJC giảm nhẹ so với cuối ngày hôm qua. <br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng thế giới giảm hơn 1% do dữ liệu lạm phát Mỹ",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-giam-hon-1-do-du-lieu-lam-phat-my/434487.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/03/02/gia-vang-the-gioi-3012-20251013100316-20260302083412.jpg\" width=\"180\" /></a>Chỉ số đồng USD tăng 0,3% đã tạo thêm lực cản, khiến vàng trở nên đắt đỏ hơn đối với các nhà đầu tư nắm giữ ngoại tệ khác.<br />"
     }
   ]
 }
