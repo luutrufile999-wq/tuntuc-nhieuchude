@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng đi ngang, thị trường nín thở chờ phát biểu của Chủ tịch Fed",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-di-ngang-thi-truong-nin-tho-cho-phat-bieu-cua-chu-tich-fed/434712.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/112025-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Giá vàng châu Á đi ngang trong phiên ngày 28/8 khi giới đầu tư đang dồn sự chú ý vào bài phát biểu của tân Chủ tịch Cục Dự trữ liên bang Mỹ (Fed) Kevin Warsh tại hội nghị Jackson Hole.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng hôm nay 28/8:  Vàng SJC rời mốc 150 triệu đồng/lượng",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-28-8-vang-sjc-roi-moc-150-trieu-dong-luong/434649.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2022/07/22/111234-gia-vang-lao-doc-xuong-duoi-70-trieu-dong-luong.jpg\" width=\"180\" /></a>Sáng 28/8, giá vàng SJC được các doanh nghiệp điều chỉnh giảm 300.000 đồng/lượng so với cuối ngày hôm qua. <br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng đảo chiều đi lên khi đồng USD suy yếu",
       "summary": "<a href=\"https://bnews.vn/gia-vang-dao-chieu-di-len-khi-dong-usd-suy-yeu/434639.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2025/04/23/104554-gia-vang-the-gioi-vuot-moc-3-500-usd-ounce.jpg\" width=\"180\" /></a>Giá vàng thế giới tăng trong phiên giao dịch 27/8 do sự suy yếu của đồng USD.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng hôm nay 28/8 cập nhật mới nhất",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-28-8-cap-nhat-moi-nhat/434594.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/06/110322-gia-vang-tang-manh-nhat-ke-tu-thang-2-2026.jpg\" width=\"180\" /></a>TTXVN liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.<br />"
     }
   ]
 }
