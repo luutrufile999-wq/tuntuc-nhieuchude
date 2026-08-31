@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng giảm xuống mức thấp nhất kể từ ngày 19/8",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-giam-xuong-muc-thap-nhat-ke-tu-ngay-19-8/435011.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/25/155216-gia-vang-on-dinh-dau-chau-a-bien-dong-nhe-trong-phien-giao-dich-dau-tuan.jpg\" width=\"180\" /></a>Giá vàng tại thị trường châu Á giảm xuống mức thấp nhất trong gần hai tuần, sau khi Chủ tịch Cục Dự trữ liên bang Mỹ (Fed) Kevin Warsh phát đi tín hiệu cơ quan này có thể cần tiếp tục tăng lãi suất.<br />"
+    },
+    {
+      "id": 2,
       "title": "Thị trường vàng chịu sức ép ngắn hạn",
       "summary": "<a href=\"https://bnews.vn/thi-truong-vang-chiu-suc-ep-ngan-han/434833.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/06/29/171039-cuoi-tuan-gia-vang-trong-nuoc-tang-manh.jpg\" width=\"180\" /></a>Thị trường vàng tuần từ 24 - 29/8 chứng kiến những diễn biến trái chiều khi giá vàng SJC có thời điểm vượt 150 triệu đồng/lượng, trước khi giảm mạnh trong phiên cuối tuần.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng thế giới giảm mạnh sau phát biểu của Chủ tịch Fed",
       "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-giam-manh-sau-phat-bieu-cua-chu-tich-fed/434812.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/29/095445-gia-vang-the-gioi-tang-manh-vuot-4-500-usd-ounce.jpg\" width=\"180\" /></a>Vào lúc 0 giờ 44 phút sáng 29/8 theo giờ Việt Nam, giá vàng giao ngay giảm 2,9% xuống còn 4.567,23 USD/ounce, mức thấp nhất kể từ ngày 20/8.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng đi ngang, thị trường nín thở chờ phát biểu của Chủ tịch Fed",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-di-ngang-thi-truong-nin-tho-cho-phat-bieu-cua-chu-tich-fed/434712.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/112025-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Giá vàng châu Á đi ngang trong phiên ngày 28/8 khi giới đầu tư đang dồn sự chú ý vào bài phát biểu của tân Chủ tịch Cục Dự trữ liên bang Mỹ (Fed) Kevin Warsh tại hội nghị Jackson Hole.<br />"
     }
   ]
 }
