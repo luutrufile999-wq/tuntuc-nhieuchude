@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng chạm đáy 3 tuần do sức ép từ đồng USD và nỗi lo lạm phát",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-cham-day-3-tuan-do-suc-ep-tu-dong-usd-va-noi-lo-lam-phat/435255.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/25/155234-gia-vang-on-dinh-dau-chau-a-bien-dong-nhe-trong-phien-giao-dich-dau-tuan.jpg\" width=\"180\" /></a>Tính đến 15 giờ 26 phút theo giờ Việt Nam, giá vàng giao ngay giảm 0,1% xuống mức 4.323,59 USD/ounce, ghi nhận mức thấp nhất kể từ ngày 7/8.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng thế giới giảm xuống mức thấp nhất hơn 3 tuần",
       "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-giam-xuong-muc-thap-nhat-hon-3-tuan/435185.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/112025-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Tính đến 00 giờ 17 phút giờ GMT (7 giờ 17 phút sáng 2/9 theo giờ Việt Nam), giá vàng giao ngay giảm 0,6% xuống 4.304,01 USD/ounce, mức thấp nhất kể từ ngày 7/8.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng giảm khi giới đầu tư chờ đợi dữ liệu việc làm Mỹ",
       "summary": "<a href=\"https://bnews.vn/gia-vang-giam-khi-gioi-dau-tu-cho-doi-du-lieu-viec-lam-my/435137.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/09/01/154442-nguoi-tieu-dung-trung-quoc-chuyen-sang-vang-trong-luong-nho-trong-boi-canh-gia-cao.jpg\" width=\"180\" /></a>Giá vàng giao ngay giảm 0,4% xuống 4.430,78 USD/ounce khi giới đầu tư chờ dữ liệu việc làm Mỹ, giữa lo ngại Fed tăng lãi suất và căng thẳng tại eo biển Hormuz đẩy giá dầu tăng.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng thế giới dao động gần mức thấp nhất trong hai tuần",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-dao-dong-gan-muc-thap-nhat-trong-hai-tuan/435069.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/112025-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Giá vàng giao ngay giảm 0,4% xuống 4.433,19 USD/ounce, sau khi chạm mức thấp nhất kể từ ngày 19/8 vào trước đó trong phiên.<br />"
     }
   ]
 }
