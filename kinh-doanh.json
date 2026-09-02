@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chuyên gia: Giờ không còn là lúc hỏi nhau làm báo cáo ESG theo mẫu nào nữa",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chuyen-gia-gio-khong-con-la-luc-hoi-nhau-lam-bao-cao-esg-theo-mau-nao-nua-20260827042612638.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/31/chuyen-gia-cropped-1788140153184.jpg\" /></a>(Dân trí) - Theo chuyên gia, thay vì hỏi cần làm báo cáo ESG theo hướng nào thì doanh nghiệp hãy đặt câu hỏi về việc các vấn đề môi trường, xã hội, quản trị nào ảnh hưởng doanh thu, chi phí, khả năng tồn tại...?"
+    },
+    {
+      "id": 2,
       "title": "Di sản 15 năm của Tim Cook ở Apple qua những con số",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/di-san-15-nam-cua-tim-cook-o-apple-qua-nhung-con-so-20260901192117972.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/01/tim-cook-ceo-apple-cropped-1788265073047.jpg\" /></a>(Dân trí) - Ngày 1/9, Giám đốc điều hành Apple Tim Cook chính thức chuyển giao vị trí cho người kế nhiệm John Ternus, khép lại 15 năm đứng đầu một trong những công ty lớn nhất thế giới."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thị trường tiền số 1/9: Diễn biến trái chiều khi bitcoin rớt mốc 78.000 USD",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-tien-so-19-dien-bien-trai-chieu-khi-bitcoin-rot-moc-78000-usd-20260901193518086.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/01/market-news-gold-vs-stocks-and-bitcoin-cropped-cropped-1788266007527.jpg\" /></a>(Dân trí) - Bitcoin rớt mốc 78.000 USD sau nhịp tăng mạnh, nhưng dòng tiền lớn bất ngờ quay lại, cho thấy sức mua vẫn chưa rời khỏi thị trường."
-    },
-    {
-      "id": 3,
-      "title": "Lợi suất trái phiếu toàn cầu lên mức cao nhất kể từ năm 2008",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/loi-suat-trai-phieu-toan-cau-len-muc-cao-nhat-ke-tu-nam-2008-20260901182744728.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/01/trai-phieu-cropped-1788261789705.jpg\" /></a>(Dân trí) - Lợi suất trái phiếu toàn cầu đã quay trở lại mức cao nhất trong gần hai thập kỷ, khi giá dầu tăng làm dấy lên lo ngại về lạm phát và giới đầu tư ngày càng tin rằng Fed sẽ tăng lãi suất."
     }
   ]
 }
