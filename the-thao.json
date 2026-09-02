@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Man City chi số tiền kỷ lục chiêu mộ Enzo Fernandez từ Chelsea",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/man-city-chi-so-tien-ky-luc-chieu-mo-enzo-fernandez-tu-chelsea-20260902090545143.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/02/110987717-16095285-image-a-281788305904131-cropped-1788314466272.jpg\" /></a>(Dân trí) - Man City đã hoàn tất thương vụ trị giá 125 triệu bảng vào ngày cuối cùng của kỳ chuyển nhượng mùa hè để chiêu mộ Enzo Fernandez từ Chelsea."
+    },
+    {
+      "id": 2,
       "title": "Lionel Messi: Từ phận con ghẻ đến vị thánh sống của bóng đá Argentina",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/lionel-messi-tu-phan-con-ghe-den-vi-thanh-song-cua-bong-da-argentina-20260902024308765.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/02/messi-tu-ke-bi-ruong-bo-den-vi-thanh-song-cua-bong-da-argentina-cropped-1788291703186.jpg\" /></a>(Dân trí) - Suốt một thời gian dài, hình ảnh huyền thoại Diego Maradona ngự trị trong trái tim người hâm mộ Argentina. Nhưng giờ đây, trong trái tim họ đã có thêm một người hùng nhỏ bé Lionel Messi."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Chanathip sẵn sàng đối đầu đội tuyển Việt Nam ở FIFA ASEAN Cup",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/chanathip-san-sang-doi-dau-doi-tuyen-viet-nam-o-fifa-asean-cup-20260901234049351.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/01/chanathip1bgpathum1-9-26-cropped-1788280320038.jpg\" /></a>(Dân trí) - Cựu đội trưởng đội tuyển Thái Lan Chanathip Songkrasin tuyên bố sẵn sàng trở lại “đội hình A” của bóng đá xứ sở chùa vàng, hướng đến FIFA ASEAN Cup 2026."
-    },
-    {
-      "id": 3,
-      "title": "Thể thức khác lạ ở vòng loại châu Á khiến U20 Việt Nam có thể xuống hạng",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/the-thuc-khac-la-o-vong-loai-chau-a-khien-u20-viet-nam-co-the-xuong-hang-20260901200715418.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/01/17881841516591435225200712442681g16857354889090214997d43b45037afcb4f833d913cf542edc-1-1788267806373.jpg?watermark=true\" /></a>(Dân trí) - Sau trận thua đậm với tỷ số 0-3 trước U20 Triều Tiên ở lượt trận mở màn, U20 Việt Nam có thể xuống hạng. Điều này ảnh hưởng lớn tới khả năng tham dự các giải đấu lớn của đội bóng trong tương lai."
     }
   ]
 }
