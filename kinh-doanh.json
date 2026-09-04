@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Cục thuế phối hợp Công an rà soát doanh nghiệp không hoạt động",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cuc-thue-phoi-hop-cong-an-ra-soat-doanh-nghiep-khong-hoat-dong-20260904195045383.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/04/1-1788525720624.jpg\" /></a>(Dân trí) - Khoảng 95.000 doanh nghiệp được chấm dứt mã số thuế sau 8 tháng. Gần 72.000 trường hợp trong đó là hồ sơ được nộp từ năm 2025 trở về trước."
+    },
+    {
+      "id": 2,
       "title": "Doanh nghiệp “mắc kẹt” khi ngừng hoạt động: Cục Thuế nghiên cứu cơ chế tháo gỡ",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/doanh-nghiep-mac-ket-khi-ngung-hoat-dong-cuc-thue-nghien-cuu-co-che-thao-go-20260904191934169.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/31/hang-loat-mat-bang-o-khu-nha-giau-tphcm-bo-trong-chi-chit-bang-quang-cao-1-edited-1750097877631-1788111414031.jpg\" /></a>(Dân trí) - Cục Thuế cho biết sẽ nghiên cứu cơ chế tháo gỡ đối với nhóm doanh nghiệp đã ngừng hoạt động nhưng chưa hoàn tất thủ tục chấm dứt mã số thuế."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thị trường tiền số 4/9: Diễn biến bất ngờ của bitcoin",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-tien-so-49-dien-bien-bat-ngo-cua-bitcoin-20260904191240706.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/14/de-xuat-thu-nghiem-tien-so-trong-trung-tam-tai-chinh-quoc-te-tai-da-nang-1755154691825.jpeg\" /></a>(Dân trí) - Bitcoin tăng hơn 4%, trở lại mốc 80.000 USD khi dòng tiền vào các quỹ bitcoin giao ngay tại Mỹ bất ngờ tăng mạnh, nhưng áp lực điều chỉnh vẫn hiện hữu."
-    },
-    {
-      "id": 3,
-      "title": "TPHCM mở rộng mạng lưới đối ngoại, tìm động lực tăng trưởng mới",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tphcm-mo-rong-mang-luoi-doi-ngoai-tim-dong-luc-tang-truong-moi-20260904175658471.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/04/tphcmqhuy-cropped-cropped-1788519250874.jpg\" /></a>(Dân trí) - Sau hợp nhất, TPHCM đã nâng tổng số địa phương quốc tế có quan hệ kết nghĩa, chủ động kết nối sâu hơn vào chuỗi cung ứng toàn cầu, thu hút các dòng vốn đầu tư chất lượng cao…"
     }
   ]
 }
