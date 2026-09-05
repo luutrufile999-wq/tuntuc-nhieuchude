@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng \"giằng co\" trước ngã rẽ chính sách của Fed",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-giang-co-truoc-nga-re-chinh-sach-cua-fed/435607.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/08/110446-gia-vang-tang-manh-nhat-ke-tu-thang-2-2026.jpg\" width=\"180\" /></a>Trong tuần tới, dữ liệu lạm phát của Mỹ được dự báo sẽ là yếu tố quan trọng quyết định hướng đi tiếp theo của giá vàng.\n<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng thế giới giảm, thị trường chờ tín hiệu từ Fed",
       "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-giam-thi-truong-cho-tin-hieu-tu-fed/435595.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/08/100618-gia-vang-tang-manh-nhat-ke-tu-thang-2-2026.jpg\" width=\"180\" /></a>Giá vàng thế giới giảm 0,96% trong phiên 5/9, khép lại một tuần đi xuống khi dữ liệu việc làm Mỹ làm tăng khả năng Cục Dự trữ Liên bang Mỹ (Fed) có thể nâng lãi suất ngay trong tháng này.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng hôm nay 5/9 cập nhật mới nhất",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-5-9-cap-nhat-moi-nhat/435520.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2022/12/06/155708-gia-vang-giao-dich-vang-tai-cong-ty-vang-bac-da-quy-bao-tin-minh-chau-anh-danh-lam-ttxvn.jpg\" width=\"180\" /></a>TTXVN liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.\n<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng chiều 4/9: Vàng SJC đảo chiều đi xuống",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-chieu-4-9-vang-sjc-dao-chieu-di-xuong/435519.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/06/29/171039-cuoi-tuan-gia-vang-trong-nuoc-tang-manh.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng chiều 4/9, vàng SJC giảm so với đầu giờ sáng.<br />"
     }
   ]
 }

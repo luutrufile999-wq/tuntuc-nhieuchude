@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Liên hợp quốc thông qua bản đồ thế giới mới",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/lien-hop-quoc-thong-qua-ban-do-the-gioi-moi-20260905141923341.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/05/chau-phi-rte-cropped-1788592660393.jpg\" /></a>(Dân trí) - Đại hội đồng Liên hợp quốc vừa bỏ phiếu thông qua nghị quyết “Sửa lại bản đồ” nhằm thay thế bản đồ thế giới truyền thống bằng bản đồ mới phản ánh chính xác hơn diện tích thực tế của châu Phi."
+    },
+    {
+      "id": 2,
       "title": "Chiến sự Ukraine 5/9: Vòng vây ở đông bắc Kharkov đã khép lại",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/chien-su-ukraine-59-vong-vay-o-dong-bac-kharkov-da-khep-lai-20260905094639859.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/05/binh-si-nga-ukraineafp-cropped-1788572408180.jpg\" /></a>(Dân trí) - Hai tập đoàn quân của Nga đã kết nối thành công tại khu vực giữa Nefedovka và Sliznevo, hoàn tất chiến dịch bao vây lực lượng Ukraine ở phía đông bắc vùng Kharkov."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Indonesia dùng 8 tấn muối dập cháy rừng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/indonesia-dung-8-tan-muoi-dap-chay-rung-20260905102816587.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/05/indonesia-chay-rung-reuters11zon-edited-1788578801266.jpg\" /></a>(Dân trí) - Cơ quan Quản lý Thảm họa Quốc gia Indonesia cho biết, nước này đã dùng 8 tấn muối ăn làm mưa nhân tạo nhằm hỗ trợ dập tắt các vụ cháy rừng tại tỉnh Jambi trên đảo Sumatra."
-    },
-    {
-      "id": 3,
-      "title": "Vì sao UAV Nga vượt được lưới phòng không Ukraine?",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/vi-sao-uav-nga-vuot-duoc-luoi-phong-khong-ukraine-20260905083615815.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/05/ukraine-kiev-reuters-cropped-1788572104199.jpg\" /></a>(Dân trí) - Ukraine cho rằng Nga đã lên kế hoạch đặc biệt, dùng phương thức điều khiển máy bay không người lái (UAV) trực tuyến thông qua sự hỗ trợ của điệp viên hiện trường để tập kích Cơ quan An ninh Ukraine."
     }
   ]
 }
