@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Vì sao Thủ tướng Ấn Độ kêu gọi người dân hạn chế mua vàng?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vi-sao-thu-tuong-an-do-keu-goi-nguoi-dan-han-che-mua-vang-20260905132403018.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/05/goldreuters-1785942643136.jpg\" /></a>(Dân trí) - Cơn sốt mua vàng trong nước đẩy hóa đơn nhập khẩu lên kỷ lục, tạo áp lực tỷ giá khiến Thủ tướng Ấn Độ liên tục phát đi cảnh báo tới người tiêu dùng."
+    },
+    {
+      "id": 2,
       "title": "Hãng kem biểu tượng Hà Nội và hành trình gần 70 năm từ số 35 Tràng Tiền",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/hang-kem-bieu-tuong-ha-noi-va-hanh-trinh-gan-70-nam-tu-so-35-trang-tien-20260905124758144.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/05/kem-trang-tien-edited-1788592447631.jpg\" /></a>(Dân trí) - Gần 70 năm hoạt động, Kem Tràng Tiền đã trải qua nhiều thay đổi về mô hình, chủ sở hữu và cách phát triển thương hiệu. 35 Tràng Tiền là địa chỉ gắn với thương hiệu từ năm 1958 nay chuẩn bị đóng cửa."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Không còn dè chừng hay sợ hãi, SME chủ động tìm cách thực thi ESG",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/khong-con-de-chung-hay-so-hai-sme-chu-dong-tim-cach-thuc-thi-esg-20260905135708078.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/05/img7049-1-cropped-1788589964335.jpg\" /></a>(Dân trí) - Từng xem ESG là gánh nặng vì thiếu nguồn lực, nhiều doanh nghiệp vừa và nhỏ đang tìm cách thích ứng từng bước, biến yêu cầu xanh thành lợi thế cạnh tranh."
-    },
-    {
-      "id": 3,
-      "title": "Mua bán tín chỉ carbon: 3 rủi ro pháp lý doanh nghiệp không thể ngó lơ",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/mua-ban-tin-chi-carbon-3-rui-ro-phap-ly-doanh-nghiep-khong-the-ngo-lo-20260904144906357.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/04/carbon-credit-cropped-1788507495916.jpg\" /></a>(Dân trí) - Khi tín chỉ carbon trở thành tài sản giá trị trong chiến lược ESG, sự phân mảnh về pháp lý quốc tế đang đẩy nhiều doanh nghiệp đứng trước nguy cơ tranh chấp và tổn hại uy tín thương hiệu."
     }
   ]
 }
