@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Xử lý cán bộ làm sai, thủ tục xuất khẩu sầu riêng đã \"dễ thở\" hơn",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/xu-ly-can-bo-lam-sai-thu-tuc-xuat-khau-sau-rieng-da-de-tho-hon-20260905201831224.htm\"><img src=\"https://icdn.dantri.com.vn/2025/12/21/anh-1nong-dan-dong-thap-thu-hoach-sau-rieng-cropped-1766286036080.jpg\" /></a>(Dân trí) - Sau vụ sai phạm cấp khống mã số vùng trồng, cộng đồng xuất khẩu sầu riêng kỳ vọng tiến trình phân cấp về cơ sở xã, phường sẽ tháo gỡ dứt điểm cơ chế xin - cho kéo dài."
+    },
+    {
+      "id": 2,
       "title": "Thị trường tiền số 5/9: Vì sao bitcoin đột ngột mất mốc 80.000 USD?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thi-truong-tien-so-59-vi-sao-bitcoin-dot-ngot-mat-moc-80000-usd-20260905185843146.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/10/bitcoin-17036399278521994823231-cropped-1786366115826.jpg\" /></a>(Dân trí) - Bitcoin nhanh chóng giảm xuống 79.600 USD sau báo cáo việc làm Mỹ tốt hơn dự kiến, làm dấy lên lo ngại Fed tiếp tục duy trì lãi suất cao."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Bộ trưởng Tài chính Mỹ 3 lần quả quyết giá dầu sẽ giảm",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-truong-tai-chinh-my-3-lan-qua-quyet-gia-dau-se-giam-20260905182435229.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/05/535661-1788607016525.jpg\" /></a>(Dân trí) - Bộ trưởng Tài chính Mỹ Scott Bessent nhận định giá dầu có thể về 40 USD/thùng khi nguồn cung dồi dào trở lại, trong bối cảnh thị trường tài chính đang theo dõi sát các yếu tố vận hành thực tế."
-    },
-    {
-      "id": 3,
-      "title": "Vì sao Thủ tướng Ấn Độ kêu gọi người dân hạn chế mua vàng?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vi-sao-thu-tuong-an-do-keu-goi-nguoi-dan-han-che-mua-vang-20260905132403018.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/05/goldreuters-1785942643136.jpg\" /></a>(Dân trí) - Cơn sốt mua vàng trong nước đẩy hóa đơn nhập khẩu lên kỷ lục, tạo áp lực tỷ giá khiến Thủ tướng Ấn Độ liên tục phát đi cảnh báo tới người tiêu dùng."
     }
   ]
 }
