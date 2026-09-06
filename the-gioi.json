@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Lệnh khẩn cấp của hiệu trưởng Nepal cứu 900 học sinh thoát chết trước lũ dữ",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/lenh-khan-cap-cua-hieu-truong-nepal-cuu-900-hoc-sinh-thoat-chet-truoc-lu-du-20260906194756078.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/06/bepal-cropped-1788698598645.jpg\" /></a>(Dân trí) - Hiệu trưởng đã đưa ra quyết định kịp thời, giúp 900 học sinh thoát nạn trước thảm họa lũ quét ở Nepal."
+    },
+    {
+      "id": 2,
       "title": "Đặc phái viên Mỹ lần đầu tới Kiev, Ukraine muốn sớm chấm dứt xung đột",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/dac-phai-vien-my-lan-dau-toi-kiev-ukraine-muon-som-cham-dut-xung-dot-20260906184302676.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/06/kiev-1788694827251.jpg\" /></a>(Dân trí) - Các đặc phái viên Mỹ đã tới Kiev và gặp Tổng thống Volodymyr Zelensky trong nỗ lực tìm hướng giải quyết xung đột Nga - Ukraine."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Núi lửa phun trào, nhiều khách hàng không Indonesia bị mắc kẹt",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/nui-lua-phun-trao-nhieu-khach-hang-khong-indonesia-bi-mac-ket-20260906172855072.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/06/image-26-cropped-1788690332173.jpg\" /></a>(Dân trí) - Một số sân bay ở Indonesia ngừng hoạt động, ảnh hưởng đến hàng trăm chuyến bay và khiến hàng trăm ngàn hành khách bị mắc kẹt sau khi núi lửa Anak Krakatau phun trào hôm 6/9."
-    },
-    {
-      "id": 3,
-      "title": "Xung đột Mỹ  - Iran nóng trở lại",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/xung-dot-my-iran-nong-tro-lai-20260906171119192.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/06/hormu-cropped-1788689193641.jpg\" /></a>(Dân trí) - Iran ngày 6/9 tuyên bố tấn công một tàu không người lái của Hải quân Mỹ đang đi vào eo biển Hormuz, chỉ vài giờ sau khi hai b tổ chức các cuộc tấn công nhằm vào nhau."
     }
   ]
 }
