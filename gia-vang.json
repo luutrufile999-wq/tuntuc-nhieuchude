@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng tiếp tục giảm sau số liệu việc làm tốt hơn dự kiến của Mỹ",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-tiep-tuc-giam-sau-so-lieu-viec-lam-tot-hon-du-kien-cua-my/435745.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Content/2015/08/25/093246_ttxvn-1111-gia-vang.jpg\" width=\"180\" /></a>Giá vàng tiếp tục giảm sau khi số liệu việc làm của Mỹ tốt hơn dự kiến làm gia tăng khả năng Cục Dự trữ liên bang Mỹ (Fed) có thể tăng lãi suất ngay trong tuần tới. <br />"
+    },
+    {
+      "id": 2,
       "title": "Vàng trong một trật tự tài chính đang chuyển mình",
       "summary": "<a href=\"https://bnews.vn/vang-trong-mot-trat-tu-tai-chinh-dang-chuyen-minh/435686.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/25/155122-gia-vang-the-gioi-tang-manh-vuot-4-500-usd-ounce.jpg\" width=\"180\" /></a>Vàng là tấm gương phản chiếu mức độ tín nhiệm mà thế giới dành cho các đồng tiền và trái phiếu chủ chốt và mức độ tín nhiệm ấy đang suy giảm.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng \"giằng co\" trước ngã rẽ chính sách của Fed",
       "summary": "<a href=\"https://bnews.vn/gia-vang-giang-co-truoc-nga-re-chinh-sach-cua-fed/435607.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/08/110446-gia-vang-tang-manh-nhat-ke-tu-thang-2-2026.jpg\" width=\"180\" /></a>Trong tuần tới, dữ liệu lạm phát của Mỹ được dự báo sẽ là yếu tố quan trọng quyết định hướng đi tiếp theo của giá vàng.\n<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng thế giới giảm, thị trường chờ tín hiệu từ Fed",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-giam-thi-truong-cho-tin-hieu-tu-fed/435595.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/08/100618-gia-vang-tang-manh-nhat-ke-tu-thang-2-2026.jpg\" width=\"180\" /></a>Giá vàng thế giới giảm 0,96% trong phiên 5/9, khép lại một tuần đi xuống khi dữ liệu việc làm Mỹ làm tăng khả năng Cục Dự trữ Liên bang Mỹ (Fed) có thể nâng lãi suất ngay trong tháng này.<br />"
     }
   ]
 }
