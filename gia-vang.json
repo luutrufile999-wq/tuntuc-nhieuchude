@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng thế giới tăng mạnh giữa bối cảnh đồng USD suy yếu và giá dầu vượt đỉnh mới",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-tang-manh-giua-boi-canh-dong-usd-suy-yeu-va-gia-dau-vuot-dinh-moi/436175.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/29/095445-gia-vang-the-gioi-tang-manh-vuot-4-500-usd-ounce.jpg\" width=\"180\" /></a>Đóng cửa phiên giao dịch ngày 9/9, giá vàng thế giới tăng vọt hơn 1% nhờ sự suy yếu của đồng USD.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng hôm nay 10/9 cập nhật mới nhất",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-10-9-cap-nhat-moi-nhat/436135.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/25/155216-gia-vang-on-dinh-dau-chau-a-bien-dong-nhe-trong-phien-giao-dich-dau-tuan.jpg\" width=\"180\" /></a>Liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng chiều 9/9: Vàng SJC đảo chiều tăng 1,2 triệu đồng/lượng",
       "summary": "<a href=\"https://bnews.vn/gia-vang-chieu-9-9-vang-sjc-dao-chieu-tang-1-2-trieu-dong-luong/436137.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2020/08/05/nguoi-dan-xep-hang-mua-ban-vang.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng chiều 9/9, giá vàng SJC đảo chiều tăng mạnh theo giá vàng thế giới. <br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng châu Á tăng khi đồng USD yếu",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-chau-a-tang-khi-dong-usd-yeu/436126.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/112007-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Trong phiên chiều 9/9 tại châu Á, giá vàng giao ngay tăng 0,6% lên mức 4.381,32 USD/ounce, trong khi giá vàng tương lai của Mỹ giảm 0,3% xuống 4.424,70 USD/ounce.<br />"
     }
   ]
 }
