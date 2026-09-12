@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Có gì ở 2 dự án xanh, ESG 6.000 tỷ đồng vừa khởi công tại Hưng Yên?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/co-gi-o-2-du-an-xanh-esg-6000-ty-dong-vua-khoi-cong-tai-hung-yen-20260912143425068.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/12/khoi-cong-kcn-tho-hoang-cum-kcn-lac-daothanh-dong-22-1789197498833.jpg\" /></a>(Dân trí) - Hai dự án gần 300ha tại Hưng Yên được định hướng bổ sung không gian sản xuất, thu hút dòng vốn chất lượng cao, đồng thời đặt yêu cầu phát triển xanh và bền vững ngay từ hạ tầng."
+    },
+    {
+      "id": 2,
       "title": "Tỷ phú Elon Musk bất ngờ \"khoe\" dự án Starlink tại Việt Nam",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ty-phu-elon-musk-bat-ngo-khoe-du-an-starlink-tai-viet-nam-20260912202239054.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/12/elon-musk-starlink-cropped-1789218966679.jpg\" /></a>(Dân trí) - Sau khi mở nhận đặt cọc dịch vụ, tỷ phú Elon Musk tiếp tục thu hút sự chú ý khi chia sẻ thông tin bàn giao thiết bị Internet vệ tinh Starlink nhằm hỗ trợ vùng lõm sóng tại Việt Nam."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Bộ Công Thương cảnh báo thiếu điện từ năm 2027",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-cong-thuong-canh-bao-thieu-dien-tu-nam-2027-20260912190603677.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/12/huyhai-cropped-1789214656824.jpg\" /></a>(Dân trí) - Bộ Công Thương cảnh báo hệ thống điện quốc gia có thể thiếu 4.256MW năm 2027 và gần 14.000MW vào năm 2030, trong bối cảnh nhiều dự án nguồn, lưới điện chậm tiến độ."
-    },
-    {
-      "id": 3,
-      "title": "Ông Trump hé lộ khả năng sớm đạt thỏa thuận thương mại với Canada",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ong-trump-he-lo-kha-nang-som-dat-thoa-thuan-thuong-mai-voi-canada-20260912192744136.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/13/tong-thong-donald-trump-khong-con-quan-tam-toi-giai-nobel-hoa-binh-1773376315023.jpg\" /></a>(Dân trí) - Lạc quan về khả năng chấm dứt cuộc chiến thương mại với Canada, Tổng thống Mỹ Donald Trump cho rằng hai bên có thể đạt thỏa thuận “khá sớm”."
     }
   ]
 }
