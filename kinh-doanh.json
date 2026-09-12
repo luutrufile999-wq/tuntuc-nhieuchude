@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Bộ Công Thương thay đổi cơ cấu, còn 21 đầu mối",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bo-cong-thuong-thay-doi-co-cau-con-21-dau-moi-20260912125037432.htm\"><img src=\"https://icdn.dantri.com.vn/2025/03/01/bo-cong-thuong-1-1740762529015.jpeg\" /></a>(Dân trí) - Chính phủ vừa ban hành nghị định mới về Bộ Công Thương, theo đó cơ quan này còn 21 đầu mối, giảm một đơn vị so với cơ cấu trước đây. Đồng thời điều chỉnh, bổ sung nhiều lĩnh vực quản lý."
+    },
+    {
+      "id": 2,
       "title": "Chủ tịch Fed chịu áp lực lớn tăng lãi suất sau báo cáo \"nóng\"",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/chu-tich-fed-chiu-ap-luc-lon-tang-lai-suat-sau-bao-cao-nong-20260912130106023.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/11/kevin-warsh-cropped-1789094233831.jpg\" /></a>(Dân trí) - Chủ tịch Fed Kevin Warsh đứng trước sức ép rất lớn phải nâng lãi suất tại cuộc họp chính sách tuần tới, sau khi báo cáo lạm phát cho thấy giá tiêu dùng tại Mỹ tiếp tục tăng “nóng” trong tháng trước."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá nông sản hôm nay 12/9: Sầu riêng Musang King tăng giá mạnh",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-nong-san-hom-nay-129-sau-rieng-musang-king-tang-gia-manh-20260912091454141.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/12/msk-cropped-1789183043557.jpg\" /></a>(Dân trí) - Giá cà phê hôm nay 12/9 tại các tỉnh Tây Nguyên tăng lên 95.200-95.800 đồng/kg, trong khi sầu riêng Musang King tại TPHCM tăng mạnh do nguồn cung khan hiếm."
-    },
-    {
-      "id": 3,
-      "title": "Tỷ phú Phạm Nhật Vượng chuyển giao vị trí Tổng giám đốc VinFast toàn cầu",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ty-phu-pham-nhat-vuong-chuyen-giao-vi-tri-tong-giam-doc-vinfast-toan-cau-20260912085716519.htm\"><img src=\"https://icdn.dantri.com.vn/2026/01/30/vinhomes-cua-ty-phu-pham-nhat-vuong-bao-lai-ky-luc-1769777987499.jpg\" /></a>(Dân trí) - Ông Phạm Nhật Quân Anh sẽ kiêm nhiệm vị trí Tổng giám đốc VinFast toàn cầu thay ông Phạm Nhật Vượng. Tại GSM, ông Nguyễn Quốc Tuấn giữ chức Chủ tịch toàn cầu thay bà Phạm Thu Hương."
     }
   ]
 }
