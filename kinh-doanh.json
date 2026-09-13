@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Phó Thủ tướng yêu cầu quyết liệt kiểm soát giá những tháng cuối năm",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/pho-thu-tuong-yeu-cau-quyet-liet-kiem-soat-gia-nhung-thang-cuoi-nam-20260913224613574.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/13/ndt9136-178246956014192416587-cropped-1789314326893.jpg\" /></a>(Dân trí) - Phó Thủ tướng Nguyễn Văn Thắng yêu cầu các bộ, ngành, địa phương quyết liệt triển khai giải pháp kiểm soát giá, bảo đảm mục tiêu kiểm soát lạm phát và hỗ trợ tăng trưởng trong những tháng cuối năm."
+    },
+    {
+      "id": 2,
       "title": "Vụ hacker rút 4.000 bitcoin, nạn nhân nói một câu khiến kẻ trộm bất ngờ",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/vu-hacker-rut-4000-bitcoin-nan-nhan-noi-mot-cau-khien-ke-trom-bat-ngo-20260913183054135.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/01/market-news-gold-vs-stocks-and-bitcoin-cropped-cropped-1788266007527.jpg\" /></a>(Dân trí) - Gần 600 bitcoin vẫn nằm trong tay nhóm hacker sau vụ tấn công Liquid Network. Đáng chú ý, yêu cầu tiền chuộc của nhóm này đã bị phía vận hành mạng lưới thẳng thừng từ chối."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thống đốc: Tín dụng không nên là nguồn vốn duy nhất cho mọi nhu cầu phát triển",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thong-doc-tin-dung-khong-nen-la-nguon-von-duy-nhat-cho-moi-nhu-cau-phat-trien-20260913183326352.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/13/1209-1789298974637.jpg\" /></a>(Dân trí) - Thống đốc Phạm Đức Ấn đề nghị Hà Nội và doanh nghiệp đa dạng hóa nguồn vốn, không phụ thuộc riêng vào tín dụng ngân hàng để thúc đẩy tăng trưởng."
-    },
-    {
-      "id": 3,
-      "title": "Giá dầu vượt 100 USD, làm gì để kiểm soát tốt giá tiêu dùng trong nước?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-dau-vuot-100-usd-lam-gi-de-kiem-soat-tot-gia-tieu-dung-trong-nuoc-20260913153554687.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/12/vnd-4-cropped-cropped-1786489541127.jpg\" /></a>(Dân trí) - Giá dầu thế giới tăng vọt dẫn đến lo ngại về áp lực lên chỉ số giá tiêu dùng tại Việt Nam. Chuyên gia nhận định như thế nào?"
     }
   ]
 }
