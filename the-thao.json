@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Man Utd dẫn trước hai bàn vẫn thua ngược Brighton",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/man-utd-dan-truoc-hai-ban-van-thua-nguoc-brighton-20260917044601628.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/17/man-utd-sup-do-kho-tin-dan-truoc-hai-ban-van-thua-brighton-cropped-1789594840385.jpg\" /></a>(Dân trí) - Man Utd khởi đầu như mơ khi dẫn Brighton 2-0 chỉ sau 10 phút, nhưng sự sụp đổ trong hiệp hai khiến đội chủ sân Old Trafford nhận thất bại 2-3."
+    },
+    {
+      "id": 2,
       "title": "Thể Công Viettel chia điểm với đội bóng Australia tại Cúp C2 châu Á",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/the-cong-viettel-chia-diem-voi-doi-bong-australia-tai-cup-c2-chau-a-20260916214848754.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/16/thecong4dmq16-9-26-1789569842209.jpg?watermark=v1\" /></a>(Dân trí) - Trong trận đấu với CLB Melbourne Victory (Australia) tại Cúp C2 châu Á (AFC Champions League 2) 2026-2027, CLB Thể Công Viettel bị cầm hòa 1-1. Đây là trận đấu mà đại diện của V-League chơi hay hơn."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "VTV sở hữu bản quyền phát sóng Asiad 20 tại Việt Nam",
       "summary": "<a href=\"https://dantri.com.vn/the-thao/vtv-so-huu-ban-quyen-phat-song-asiad-20-tai-viet-nam-20260916194548791.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/09/danh-sach-u23-viet-nam-cropped-1788943269112.jpg\" /></a>(Dân trí) - Theo thông báo của Đài truyền hình Việt Nam (VTV), đơn vị này đã sở hữu bản quyền phát sóng Asiad 20 tại Việt Nam."
-    },
-    {
-      "id": 3,
-      "title": "Báo Thái Lan so sánh kết quả của đội nhà và U23 Việt Nam ở Asiad 20",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-thai-lan-so-sanh-ket-qua-cua-doi-nha-va-u23-viet-nam-o-asiad-20-20260916191218688.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/16/bao-thai-lan-so-sanh-ket-qua-cua-doi-nha-va-u23-viet-nam-o-asiad-20-cropped-1789560579316.jpg\" /></a>(Dân trí) - Các tờ báo của Thái Lan đã đưa ra bình luận về chiến thắng của U23 Thái Lan trước U23 Kyrgyzstan, còn U23 Việt Nam hòa đáng tiếc trước U23 Kuwait."
     }
   ]
 }
