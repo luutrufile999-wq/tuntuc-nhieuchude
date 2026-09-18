@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng thế giới phục hồi khi nỗi lo lạm phát tạm lắng",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-phuc-hoi-khi-noi-lo-lam-phat-tam-lang/437337.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/25/155234-gia-vang-on-dinh-dau-chau-a-bien-dong-nhe-trong-phien-giao-dich-dau-tuan.jpg\" width=\"180\" /></a>Giá vàng thế giới tăng trong phiên chiều 18/9, khép lại một tuần đầy biến động. <br />"
+    },
+    {
+      "id": 2,
       "title": "Giá bạc hôm nay 18/9: Bạc Phú Quý, DOJI, Ancarat đồng loạt tăng",
       "summary": "<a href=\"https://bnews.vn/gia-bac-hom-nay-18-9-bac-phu-quy-doji-ancarat-dong-loat-tang/437283.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/06/29/171129-cuoi-tuan-gia-vang-trong-nuoc-tang-manh.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá bạc hôm nay, bạc Phú Quý, DOJI, Ancarat đồng loạt tăng. <br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng hôm nay 18/9: Vàng SJC tiến về vùng 150 triệu đồng/lượng",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-18-9-vang-sjc-tien-ve-vung-150-trieu-dong-luong/437280.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2024/12/23/094101-gia-vang-nhan-tien-sat-gia-vang-mieng-sjc.jpg\" width=\"180\" /></a>Sáng 18/9, giá vàng SJC được các doanh nghiệp điều chỉnh  tăng 1,2 triệu đồng/lượng so với cuối ngày hôm qua. \n<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng tăng hơn 2% khi giá dầu hạ nhiệt và đồng USD suy yếu",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-tang-hon-2-khi-gia-dau-ha-nhiet-va-dong-usd-suy-yeu/437260.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2025/05/17/123710-gia-va-ng-the-gio-i-vuo-t-muc-3-410-usd-ounce.jpg\" width=\"180\" /></a>Giá vàng thế giới tăng hơn 2% trong phiên giao dịch ngày 17/9, phục hồi từ mức thấp nhất trong gần 6 tuần ghi nhận trong phiên trước.<br />"
     }
   ]
 }
