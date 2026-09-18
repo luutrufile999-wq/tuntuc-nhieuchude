@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Trump sắp ra quyết định quan trọng về cuộc chiến Iran",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-sap-ra-quyet-dinh-quan-trong-ve-cuoc-chien-iran-20260918055013533.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/18/trump-reuters811zon-cropped-1789685340066.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump tuyên bố ông đang đứng trước “quyết định lớn” về Iran khi cuộc chiến kéo dài gây sức ép lên giá năng lượng Mỹ."
+    },
+    {
+      "id": 2,
       "title": "Máy bay đâm vào sườn núi, triệu phú Anh thiệt mạng",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/may-bay-dam-vao-suon-nui-trieu-phu-anh-thiet-mang-20260917224101958.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/17/xac-may-baytelegraph-cropped-1789659544428.jpg\" /></a>(Dân trí) - Chiếc máy bay hạng nhẹ đâm vào sườn núi ở Thụy Sĩ khiến triệu phú người Anh Owain Davies thiệt mạng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Rộ tin Mỹ bắn 82 tên lửa THAAD, Patriot \"như súng máy\" chặn 20 vũ khí Iran",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ro-tin-my-ban-82-ten-lua-thaad-patriot-nhu-sung-may-chan-20-vu-khi-iran-20260917214609547.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/17/ten-lua-mydow-cropped-1789656247850.jpg\" /></a>(Dân trí) - Giới quan sát cho rằng Mỹ bắn tên lửa phòng không đắt đỏ như đang bắn súng máy để đánh chặn vũ khí Iran."
-    },
-    {
-      "id": 3,
-      "title": "Thủ tướng Thụy Điển tuyên bố từ chức",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/thu-tuong-thuy-dien-tuyen-bo-tu-chuc-20260917205140798.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/17/thu-tuong-thuy-dien-europa-1789653022568.jpg\" /></a>(Dân trí) - Thủ tướng Thụy Điển Ulf Kristersson ngày 17/9 tuyên bố ông sẽ từ chức sau khi phe đối lập giành chiến thắng sít sao trong kỳ tổng tuyển cử."
     }
   ]
 }
