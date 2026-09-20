@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Trung Quốc giữ nguyên lãi suất cho vay cơ bản tháng thứ 16 liên tiếp",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/trung-quoc-giu-nguyen-lai-suat-cho-vay-co-ban-thang-thu-16-lien-tiep-20260920194525844.htm\"><img src=\"https://icdn.dantri.com.vn/2025/08/21/tien-so-nhan-dan-te-vu-khi-moi-cua-trung-quoc-trong-cuoc-dua-tien-te-1755793868545.jpg\" /></a>(Dân trí) - Ngày 20/9, Trung Quốc thông báo tiếp tục giữ nguyên các mức lãi suất cho vay cơ bản (LPR), đánh dấu tháng thứ 16 liên tiếp không điều chỉnh. Quyết định này phù hợp với dự báo của thị trường."
+    },
+    {
+      "id": 2,
       "title": "Bitcoin có thêm đối thủ sau động thái mới của Mỹ",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/bitcoin-co-them-doi-thu-sau-dong-thai-moi-cua-my-20260920185643521.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/20/anh-man-hinh-2026-09-06-luc-19-cropped-1789905304779.jpg\" /></a>(Dân trí) - Chứng khoán mã hóa được Ủy ban Chứng khoán và Giao dịch Mỹ mở đường trên blockchain, tạo thêm một lựa chọn đầu tư và khiến bitcoin phải đối mặt với đối thủ mới."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Thanh long đẹp thiếu hàng, loại xấu giá rớt thảm, nhiều nơi cho bò ăn!",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thanh-long-dep-thieu-hang-loai-xau-gia-rot-tham-nhieu-noi-cho-bo-an-20260920161153766.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/20/thanh-long-3-cropped-1789894433862.jpg\" /></a>(Dân trí) - Thanh long bất ngờ tăng giá trở lại sau chuỗi ngày giảm sâu nhưng nhiều nhà vườn vẫn chưa thể vui mừng. Bởi thanh long đẹp thiếu hàng, loại xấu giá rớt chỉ còn 2.000 đồng/kg nhiều nơi để cho bò ăn."
-    },
-    {
-      "id": 3,
-      "title": "Fed tăng lãi suất, vì sao Goldman Sachs vẫn cược giá vàng lên 5.400 USD?",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/fed-tang-lai-suat-vi-sao-goldman-sachs-van-cuoc-gia-vang-len-5400-usd-20260920160602468.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/20/gold-cropped-1789895045303.jpg\" /></a>(Dân trí) - Dù hạ nhẹ dự báo ngắn hạn sau khi Fed tăng lãi suất, Goldman Sachs vẫn giữ mục tiêu giá vàng 5.400 USD/ounce vào năm 2027 nhờ lực mua kỷ lục từ các ngân hàng trung ương."
     }
   ]
 }
