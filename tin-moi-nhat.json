@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Khi nào miền Trung, miền Nam giảm mưa?",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-tiet/khi-nao-mien-trung-mien-nam-giam-mua-20260922212251788.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/22/mua-tphcm-229-1790087608663.jpg\" /></a>(Dân trí) - Cơ quan khí tượng dự báo những ngày tới, khu vực từ Huế trở vào tiếp tục mưa to đến rất to. Từ đêm 25/9, mưa ở khu vực Trung Bộ và Nam Bộ có xu hướng giảm dần."
+    },
+    {
+      "id": 2,
       "title": "Giá dầu thế giới giảm xuống dưới 100 USD/thùng",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-dau-the-gioi-giam-xuong-duoi-100-usdthung-20260922232759826.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/22/afp20260909aa090920262944247v1midresiransoiltankersoffbandarabbasinstrai-1790093894685.jpg\" /></a>(Dân trí) - Giới đầu tư kỳ vọng đường ống bị hư hại của Ả Rập Xê Út có thể sắp hoạt động trở lại, giúp thêm dầu từ khu vực này ra được thị trường thế giới."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ ký thỏa thuận an ninh với Đan Mạch, Greenland, sắp xây thêm 2 căn cứ lớn",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-ky-thoa-thuan-an-ninh-voi-dan-mach-greenland-sap-xay-them-2-can-cu-lon-20260922232301798.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/22/thoa-thuan-an-ninh-1790093957226.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump cùng lãnh đạo Greenland và Đan Mạch hôm 22/9 đã ký một thỏa thuận cho phép Washington tăng cường hiện diện quân sự tại hòn đảo chiến lược."
-    },
-    {
-      "id": 3,
-      "title": "Sạt lở hơn 10.000m3 đất đá, 37 hộ dân ở Lào Cai bị cô lập hoàn toàn",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/sat-lo-hon-10000m3-dat-da-37-ho-dan-o-lao-cai-bi-co-lap-hoan-toan-20260922225440914.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/22/sat-lo-cropped-1790092326082.jpg\" /></a>(Dân trí) - Chính quyền địa phương cho biết vụ việc xảy ra từ ngày 20/9, nguyên nhân do mưa lớn kéo dài nhiều ngày. Sạt lở gây ách tắc giao thông, khiến 37 hộ dân bị cô lập hoàn toàn."
     }
   ]
 }
