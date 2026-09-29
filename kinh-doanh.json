@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Shipper thay người tiêu dùng đi siêu thị, hàng Việt buộc phải lên sàn",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/shipper-thay-nguoi-tieu-dung-di-sieu-thi-hang-viet-buoc-phai-len-san-20260929223518839.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/30/shipper-thay-nguoi-tieu-dung-di-sieu-thi-hang-viet-buoc-phai-len-san-cropped-1790701425416.jpg\" /></a>(Dân trí) - Nếu không tham gia sàn thương mại điện tử, doanh nghiệp có nguy cơ \"mất tích\" khỏi thị trường. Nhưng, nếu tham gia, các khoản chi phí phải bỏ ra có thể khiến lợi nhuận bị thu hẹp đáng kể."
+    },
+    {
+      "id": 2,
       "title": "Ngân hàng Nhà nước làm rõ thông tin \"giám sát khách hàng VIP\"",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ngan-hang-nha-nuoc-lam-ro-thong-tin-giam-sat-khach-hang-vip-20260929195815805.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/29/giao-dich-ngan-hang-23tien-tuan-edited-1678524138935-1790686236927-1790692865213.png\" /></a>(Dân trí) - Ngân hàng Nhà nước khẳng định dự thảo Thông tư phòng, chống rửa tiền không mở rộng đối tượng giám sát sang khách hàng VIP hay lãnh đạo ngân hàng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Trung Quốc hạ lãi suất chủ chốt, trợ cấp lãi vay mua nhà",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/trung-quoc-ha-lai-suat-chu-chot-tro-cap-lai-vay-mua-nha-20260929192325005.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/29/con-minh-cropped-1790684423918.jpg\" /></a>(Dân trí) - Ngân hàng trung ương Trung Quốc (PBOC) công bố gói biện pháp mới nhằm hỗ trợ nền kinh tế, bao gồm hạ lãi suất cho các ngân hàng chính sách và lần đầu đưa chính sách trợ cấp lãi vay thế chấp mua nhà."
-    },
-    {
-      "id": 3,
-      "title": "Giá dịch vụ sân bay Long Thành: Gần 100.000 đồng/hành khách",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/gia-dich-vu-san-bay-long-thanh-gan-100000-donghanh-khach-20260929160039546.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/29/anh-man-hinh-2026-09-29-luc-15-cropped-1790672165731.jpg\" /></a>(Dân trí) - Bộ Xây dựng vừa ban hành mức giá dịch vụ phục vụ hành khách tại Cảng hàng không quốc tế Long Thành, áp dụng từ ngày 1/10. Sân bay này dự kiến khai thác thương mại từ ngày 1/12."
     }
   ]
 }
