@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Thị trường vàng tháng 9: Hai khoảng chênh đáng chú ý",
+      "summary": "<a href=\"https://bnews.vn/thi-truong-vang-thang-9-hai-khoang-chenh-dang-chu-y/439219.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/06/29/171129-cuoi-tuan-gia-vang-trong-nuoc-tang-manh.jpg\" width=\"180\" /></a>Thị trường vàng trải qua tháng 9 với nhịp điều chỉnh đáng kể sau giai đoạn tăng mạnh, khi giá vàng thế giới chịu sức ép từ đồng USD, lợi suất trái phiếu và triển vọng chính sách tiền tệ của Mỹ.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng thế giới giảm tuần thứ hai liên tiếp",
       "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-giam-tuan-thu-hai-lien-tiep/439163.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/10/03/103459-gia-dau-tang-vang-va-chung-khoan-au-my-dong-loat-giam.jpg\" width=\"180\" /></a>Giá vàng thế giới giảm mạnh trong tuần này, chịu sức ép từ đồng USD tăng giá, lợi suất trái phiếu Chính phủ Mỹ leo thang và lo ngại lạm phát do giá năng lượng tăng cao.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng hôm nay 3/10 cập nhật mới nhất",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-3-10-cap-nhat-moi-nhat/439081.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2024/12/23/094101-gia-vang-nhan-tien-sat-gia-vang-mieng-sjc.jpg\" width=\"180\" /></a>Liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng hạ nhiệt, người mua châu Á dần trở lại thị trường",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-ha-nhiet-nguoi-mua-chau-a-dan-tro-lai-thi-truong/439087.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Content/2016/03/01/vang-do-trang-suc-bang-vang-duoc-bay-ban-tai-cua-hang-vang-o-huyen-tancheng-thanh-pho-linyi-tinh-son-dong-mien-dong-trung-quoc-thx-ttxvn.jpg\" width=\"180\" /></a>Giá vàng giảm đang kích thích nhu cầu mua tại Ấn Độ, Trung Quốc và một số trung tâm giao dịch châu Á, dù nhà đầu tư vẫn chờ thêm những đợt điều chỉnh sâu.<br />"
     }
   ]
 }
