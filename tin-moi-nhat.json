@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giữ chợ truyền thống, trước hết phải giữ người đi chợ",
+      "summary": "<a href=\"https://dantri.com.vn/tam-diem/giu-cho-truyen-thong-truoc-het-phai-giu-nguoi-di-cho-20261004180855973.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/04/179070498567014893853495948978431670646794195851831fff6ac6328c544fe8e2819e293cdf506-1790705021753-1791111921783.jpg\" /></a>(Dân trí) - Khi đã quen với siêu thị sáng sủa, có chỗ gửi xe, giá niêm yết rõ ràng, người mua khó chấp nhận mãi những bất tiện từng bị coi là chuyện thường ngày ở chợ truyền thống."
+    },
+    {
+      "id": 2,
       "title": "Robot, giải pháp AI gây chú ý tại Ngày hội đổi mới sáng tạo",
       "summary": "<a href=\"https://dantri.com.vn/cong-nghe/robot-giai-phap-ai-gay-chu-y-tai-ngay-hoi-doi-moi-sang-tao-20261004104247519.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/04/gif-3x2-1791084419911.gif\" /></a>(Dân trí) - Từ robot tự động, giải pháp chống ngập đến các ứng dụng AI trong giáo dục, sản xuất, loạt công nghệ mới đang trở thành điểm nhấn tại Ngày hội Đổi mới sáng tạo quốc gia 2026."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giám đốc nhà tù Mỹ từ chức sau vụ tử tù bị tiêm thuốc độc không chết",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/giam-doc-nha-tu-my-tu-chuc-sau-vu-tu-tu-bi-tiem-thuoc-doc-khong-chet-20261004182406427.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/04/frank-cropped-1791129733598.jpg\" /></a>(Dân trí) - Giám đốc cơ quan quản lý trại giam bang Tennessee (Mỹ) đã đệ đơn từ chức, chỉ vài ngày sau vụ nữ tử tù Christa Pike bị tiêm thuốc độc hai lần không chết."
-    },
-    {
-      "id": 3,
-      "title": "Alcaraz tiến vào bán kết Japan Open, Djokovic hạ Zverev ở China Open",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/alcaraz-tien-vao-ban-ket-japan-open-djokovic-ha-zverev-o-china-open-20261004203858600.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/04/alcaraz-1791121063953.jpg\" /></a>(Dân trí) - Tối 4/10, Carlos Alcaraz tiến vào bán kết Japan Open 2026 sau khi đánh bại Shapovalov ở tứ kết. Novak Djokovic xuất sắc hạ Alexander Zverev ở tứ kết China Open 2026."
     }
   ]
 }
