@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "TPHCM tri ân sự cống hiến, hy sinh của lực lượng Cảnh sát PCCC và CNCH",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-su/tphcm-tri-an-su-cong-hien-hy-sinh-cua-luc-luong-canh-sat-pccc-va-cnch-20261004164750262.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/04/1c4-1791106921272.jpg\" /></a>(Dân trí) - Những người lính cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ luôn có mặt nơi hiểm nguy để cứu người, bảo vệ tài sản. “Nhịp sống bình yên” là lời tri ân những cống hiến, hy sinh thầm lặng."
+    },
+    {
+      "id": 2,
+      "title": "Xây dựng mối quan hệ Việt Nam - Panama ngày càng gắn kết và năng động",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-su/xay-dung-moi-quan-he-viet-nam-panama-ngay-cang-gan-ket-va-nang-dong-20261004171012762.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/04/anh-man-hinh-2026-10-04-luc-16-cropped-1791108010715.jpg\" /></a>Đại sứ Panama tại Việt Nam Nubiela Ayala trả lời phỏng vấn của TTXVN về chuyến thăm Việt Nam của Tổng thống Cộng hòa Panama và những cơ hội thúc đẩy hợp tác sâu rộng trên nhiều lĩnh vực giữa hai nước."
+    },
+    {
+      "id": 3,
+      "title": "Tổng thống Trump xác nhận thương vong của quân đội Mỹ trong cuộc chiến Iran",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-trump-xac-nhan-thuong-vong-cua-quan-doi-my-trong-cuoc-chien-iran-20261004165202886.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/27/thuythumyhuongdantiemkichtaudiquabienarapcentcom-cropped-1779871141920.jpg\" /></a>(Dân trí) - Tổng thống Donald Trump cũng cho biết Iran đã từ bỏ kế hoạch sở hữu vũ khí hạt nhân."
     }
   ]
 }

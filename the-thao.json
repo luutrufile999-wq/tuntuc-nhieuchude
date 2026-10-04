@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "Lễ bế mạc Asiad 20: Tạm biệt Nagoya, hẹn gặp Doha năm 2030",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/le-be-mac-asiad-20-tam-biet-nagoya-hen-gap-doha-nam-2030-20261004160216588.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/04/be-mac-asiad-20-11-1791108530817.jpg\" /></a>(Dân trí) - Lễ bế mạc Asiad 20 tại Nhật Bản khép lại những ngày tranh tài đầy cảm xúc, nơi các vận động viên châu Á cùng tạo nên những dấu ấn đáng nhớ trên đấu trường thể thao lớn nhất châu lục."
+    },
+    {
+      "id": 2,
+      "title": "Việt Anh báo tin vui, Hoàng Hên vắng mặt ở trận gặp Malaysia",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/viet-anh-bao-tin-vui-hoang-hen-vang-mat-o-tran-gap-malaysia-20261004113132115.htm\"><img src=\"https://icdn.dantri.com.vn/2026/08/26/hoanghen4mq-1787760217673.jpg\" /></a>(Dân trí) - Hai cầu thủ của đội tuyển Việt Nam từng chấn thương trong trận gặp đội tuyển Pakistan vào ngày 2/10 vừa qua, gồm Việt Anh và Hoàng Hên được dự đoán đang hồi phục theo các mức độ khác nhau."
+    },
+    {
+      "id": 3,
+      "title": "Luka Modric bật khóc khi chứng kiến Croatia thua tuyển Anh 0-7",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/luka-modric-bat-khoc-khi-chung-kien-croatia-thua-tuyen-anh-0-7-20261004101050024.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/04/2026-10-03t164535z-1265945583-up1ema31ajycx-rtrmadp-3-soccer-uefanations-cro-engujyqjcd-cropped-1791083278790.jpg\" /></a>(Dân trí) - Tiền vệ Luka Modric đã bật khóc và thừa nhận cảm giác xấu hổ khi chứng kiến tuyển Croatia để thua đậm tuyển Anh 0-7 ngay trên sân nhà ở trận đấu thuộc bảng A3 UEFA Nations League."
     }
   ]
 }
