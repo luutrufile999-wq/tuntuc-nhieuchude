@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng \"lình xình\" quanh mốc 140 triệu đồng/lượng",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-linh-xinh-quanh-moc-140-trieu-dong-luong/439799.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2024/12/23/094101-gia-vang-nhan-tien-sat-gia-vang-mieng-sjc.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng chiều 8/10, vàng SJC tiếp tục đi ngang, giao dịch quanh ngưỡng 140 triệu đồng/lượng. <br />"
+    },
+    {
+      "id": 2,
       "title": "Giá bạc hôm nay 8/10: Bạc Phú Quý, DOJI, Ancarat đảo chiều đi lên",
       "summary": "<a href=\"https://bnews.vn/gia-bac-hom-nay-8-10-bac-phu-quy-doji-ancarat-dao-chieu-di-len/439712.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/09/17/img-9376-20260917154105.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá bạc hôm nay, bạc Phú Quý, DOJI, Ancarat đồng loạt được điều chỉnh tăng so với cuối ngày hôm qua.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng hôm nay 8/10: Vàng SJC ở mức bao nhiêu?",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-8-10-vang-sjc-o-muc-bao-nhieu/439709.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2020/08/05/170607-gia-vang-trong-nuoc-vuot-dinh-58-trieu-luong.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng hôm nay, giá vàng SJC giao dịch quanh mốc 140 triệu đồng/lượng.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng thế giới lùi về mức thấp nhất 2 tháng",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-lui-ve-muc-thap-nhat-2-thang/439701.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/04/02/095113-gia-vang-the-gioi-tang-3-.jpg\" width=\"180\" /></a>Trong phiên giao dịch ngày 7/10, giá vàng thế giới đã giảm xuống mức thấp nhất trong 2 tháng qua, chịu áp lực từ đồng USD mạnh lên và lợi suất trái phiếu Chính phủ Mỹ tăng cao.<br />"
     }
   ]
 }
