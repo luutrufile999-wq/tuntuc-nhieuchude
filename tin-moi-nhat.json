@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Zverev vào bán kết Thượng Hải Masters, tiến gần ngôi số một thế giới",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/zverev-vao-ban-ket-thuong-hai-masters-tien-gan-ngoi-so-mot-the-gioi-20261016011037276.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/16/zverev-1792087599138.jpg\" /></a>(Dân trí) - Alexander Zverev tiếp tục cho thấy phong độ ấn tượng tại Thượng Hải Masters khi đánh bại Alex de Minaur sau hai set. Chiến thắng đưa tay vợt người Đức tiến thêm một bước tới ngôi số một thế giới."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Mỹ xoay chuyển chính sách, Nga hưởng lợi thế",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-my-xoay-chuyen-chinh-sach-nga-huong-loi-the-20261014140612682.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/14/trump-putin-reuters11zon-edited-1791860467915-1791961267446.jpg\" /></a>(Dân trí) - Những quyết định gần đây của Tổng thống Donald Trump cho thấy Nga đang hưởng lợi thế, trong bối cảnh xung đột tại Ukraine leo thang."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Án mạng sau cuộc nhậu tại quán Lương Sơn Bạc",
       "summary": "<a href=\"https://dantri.com.vn/phap-luat/an-mang-sau-cuoc-nhau-tai-quan-luong-son-bac-20261015211042126.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/15/doi-tuong-giet-nguoi-bi-cong-an-bat-giucong-an-quang-tri-edited-1792073327378.jpg\" /></a>(Dân trí) - Vào quán Lương Sơn Bạc uống bia, Đinh Xuân Sâm nảy sinh mâu thuẫn với 2 khách nhậu. Khi rời quán, Sâm đâm chết 1 trong 2 người này."
-    },
-    {
-      "id": 3,
-      "title": "Nga phản hồi điều kiện tiến hành bầu cử của Ukraine",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-phan-hoi-dieu-kien-tien-hanh-bau-cu-cua-ukraine-20261015220928963.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/15/lavrov-tass-cropped-1792076839893.jpg\" /></a>(Dân trí) - Nga cho rằng điều kiện mà Tổng thống Ukraine Volodymyr Zelensky đưa ra để tiến hành bầu cử là \"không chấp nhận được\"."
     }
   ]
 }
