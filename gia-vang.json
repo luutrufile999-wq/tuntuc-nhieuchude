@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng thế giới tăng hơn 1% khi đồng USD suy giảm",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-tang-hon-1-khi-dong-usd-suy-giam/440689.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2023/04/15/103803-gia-vang-the-gioi-len-muc-cao-nhat-trong-mot-nam.jpg\" width=\"180\" /></a>Giá vàng thế giới tăng hơn 1% trong phiên giao dịch ngày 15/10, hướng tới chấm dứt chuỗi ba phiên giảm liên tiếp, nhờ đồng USD suy yếu và lợi suất trái phiếu Chính phủ Mỹ giảm.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng hôm nay 16/10 cập nhật mới nhất",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-16-10-cap-nhat-moi-nhat/440688.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/111951-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.\n\n<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng phục hồi từ mức thấp nhất trong một tuần",
       "summary": "<a href=\"https://bnews.vn/gia-vang-phuc-hoi-tu-muc-thap-nhat-trong-mot-tuan/440633.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2023/04/15/103803-gia-vang-the-gioi-len-muc-cao-nhat-trong-mot-nam.jpg\" width=\"180\" /></a>Trong phiên giao dịch 15/10, giá vàng tại châu Á phục hồi từ mức thấp nhất trong một tuần ghi nhận ở phiên trước đó do đồng USD suy yếu.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá bạc hôm nay 15/10: Bạc Phú Quý, DOJI, Ancarat tiếp tục lao dốc",
-      "summary": "<a href=\"https://bnews.vn/gia-bac-hom-nay-15-10-bac-phu-quy-doji-ancarat-tiep-tuc-lao-doc/440560.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2021/12/29/160010-gia-vang-trong-nuoc-vuot-58-trieu-dong-luong.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá bạc hôm nay, bạc Phú Quý, DOJI, Ancarat đồng loạt được điều chỉnh giảm mạnh so với cuối ngày hôm qua. <br />"
     }
   ]
 }
