@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nam sinh 16 tuổi lái xe máy mắc hàng loạt lỗi vi phạm",
+      "summary": "<a href=\"https://dantri.com.vn/thoi-su/nam-sinh-16-tuoi-lai-xe-may-mac-hang-loat-loi-vi-pham-20261017222916381.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/17/csgt-edited-1792250720483.jpg\" /></a>(Dân trí) - Nam sinh 16 tuổi điều khiển xe máy chạy quá tốc độ trên 20km/h; xe không có gương chiếu hậu; không chấp hành hiệu lệnh của người kiểm soát giao thông; không có chứng nhận đăng ký xe; đi ngược chiều."
+    },
+    {
+      "id": 2,
       "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng Tổng thống Thụy Sĩ đi dạo hồ Gươm",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-to-lam-cung-tong-thong-thuy-si-di-dao-ho-guom-20261018000422875.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/17/tham-quan-ho-guom10-1792253608074.jpg?watermark=v1\" /></a>(Dân trí) - Di dạo quanh hồ Gươm tối 17/10 cùng Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân, Tổng thống Thụy Sĩ Guy Parmelin cùng Phu nhân thích thú khám phá nghệ thuật tò he, xem ký họa chân dung."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Miền Bắc và miền Trung nắng oi nhiều ngày tới",
       "summary": "<a href=\"https://dantri.com.vn/thoi-tiet/mien-bac-va-mien-trung-nang-oi-nhieu-ngay-toi-20261017212048576.htm\"><img src=\"https://icdn.dantri.com.vn/2026/05/14/nang-cropped-1778771239340.jpg\" /></a>(Dân trí) - Theo cơ quan khí tượng, khu vực Bắc Bộ và Thanh Hóa - Huế những ngày tới duy trì trạng thái thời tiết đêm có mưa vài nơi, sáng sớm có sương mù nhẹ, ngày nắng. Khu vực Nam Bộ chiều tối có nơi mưa to."
-    },
-    {
-      "id": 3,
-      "title": "Haaland lập cú đúp, Man City nối dài mạch thắng tại Ngoại hạng Anh",
-      "summary": "<a href=\"https://dantri.com.vn/the-thao/haaland-lap-cu-dup-man-city-noi-dai-mach-thang-tai-ngoai-hang-anh-20261017223451864.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/17/man-city-2-1792251183149.jpg\" /></a>(Dân trí) - Haaland tiếp tục thể hiện phong độ ghi bàn ấn tượng khi lập cú đúp trong chiến thắng 4-2 của Man City trước Ipswich. Đội chủ sân Etihad qua đó duy trì khởi đầu hoàn hảo tại Ngoại hạng Anh."
     }
   ]
 }
