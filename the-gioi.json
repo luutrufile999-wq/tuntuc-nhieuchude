@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga, Ukraine lên tiếng khi Mỹ hoãn áp thêm lệnh trừng phạt Moscow",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-ukraine-len-tieng-khi-my-hoan-ap-them-lenh-trung-phat-moscow-20261017191825945.htm\"><img src=\"https://icdn.dantri.com.vn/2026/06/10/exfnc7xm25n3jhslotpx6znj74-1781052791158.jpg\" /></a>(Dân trí) - Nga và Ukraine có phản ứng trái ngược nhau sau khi Tổng thống Mỹ Donald Trump ký lệnh hoãn áp thêm biện pháp trừng phạt lên phía Moscow."
+    },
+    {
+      "id": 2,
       "title": "Singapore hứng chịu ô nhiễm không khí nhiều ngày liên tiếp",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/singapore-hung-chiu-o-nhiem-khong-khi-nhieu-ngay-lien-tiep-20261017164014456.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/17/singapore-1792229722638.webp\" /></a>(Dân trí) - Singapore trải qua ngày thứ 12 liên tiếp có chất lượng không khí ở mức không lành mạnh, dài nhất kể từ cuộc khủng hoảng khói mù năm 2015."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Sơ hở có thể đã khiến tên lửa Ukraine làm hư hại 6 máy bay Su-34 Nga",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/so-ho-co-the-da-khien-ten-lua-ukraine-lam-hu-hai-6-may-bay-su-34-nga-20261017162746894.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/17/su-34-nga-1792228962031.png\" /></a>(Dân trí) - Sau khi Ukraine tuyên bố bắn tên lửa vào một căn cứ Nga làm hư hại 6 máy bay ném bom, một số câu hỏi đã đặt ra về tình huống dẫn tới vụ tập kích."
-    },
-    {
-      "id": 3,
-      "title": "Công ty Hà Lan dùng AI giúp UAV \"giao tiếp\" trên chiến trường Ukraine",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/cong-ty-ha-lan-dung-ai-giup-uav-giao-tiep-tren-chien-truong-ukraine-20261016101501384.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/17/uav-1792227702367.webp\" /></a>(Dân trí) - Một UAV tốc độ cao phóng từ căn cứ không quân cũ của Hà Lan bên bờ biển Bắc, đánh chặn một mục tiêu giả định của đối phương, sau khi mục tiêu được radar phát hiện và trí tuệ nhân tạo (AI) xác minh."
     }
   ]
 }
