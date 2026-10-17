@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng giằng co giữa áp lực lãi suất và lực hỗ trợ từ đồng USD",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-giang-co-giua-ap-luc-lai-suat-va-luc-ho-tro-tu-dong-usd/440913.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Content/2018/07/08/104623_chien-su-syri-no-ra-gia-vang-trong-nuoc-vuot-moc-37-trieu-luong.jpg\" width=\"180\" /></a>Tuần từ ngày 12-17/10, giá vàng trong nước giảm 1,2 triệu đồng/lượng ở cả hai chiều mua vào và bán ra, trong khi giá vàng thế giới mất 0,7%.\n<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng thế giới giảm 0,7% khi thị trường chờ tín hiệu từ Fed",
       "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-giam-0-7-khi-thi-truong-cho-tin-hieu-tu-fed/440875.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/10/17/112555-gia-dau-cham-dinh-3-tuan-vang-xuong-thap-nhat-ke-tu-dau-thang-10-2026.jpg\" width=\"180\" /></a>Giá vàng giảm trong hầu hết các phiên giao dịch tuần qua.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng hôm nay 17/10 cập nhật mới nhất",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-17-10-cap-nhat-moi-nhat/440796.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2025/07/02/193725-gia-vang-the-gioi-di-xuong-sau-khi-fed-giu-nguyen-lai-suat.jpg\" width=\"180\" /></a>TTXVN liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.\n<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng tăng nhẹ song vẫn hướng tới tuần giảm",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-tang-nhe-song-van-huong-toi-tuan-giam/440792.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Content/2016/03/01/vang-do-trang-suc-bang-vang-duoc-bay-ban-tai-cua-hang-vang-o-huyen-tancheng-thanh-pho-linyi-tinh-son-dong-mien-dong-trung-quoc-thx-ttxvn.jpg\" width=\"180\" /></a>Giá vàng tăng nhẹ trong phiên giao dịch ngày 16/10 tại thị trường châu Á, khi đồng USD suy yếu. Tuy nhiên, kim loại quý này vẫn hướng tới mức giảm nhẹ trong cả tuần.<br />"
     }
   ]
 }
