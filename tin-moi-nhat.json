@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Man Utd thảm bại trước Como ở Champions League",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/man-utd-tham-bai-truoc-como-o-champions-league-20261022013822363.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/22/mu-2-1792607662959.jpg\" /></a>(Dân trí) - Man Utd trải qua cơn ác mộng trên đất Italy khi thua Como 1-4 ở lượt trận thứ 3 vòng phân hạng Champions League, qua đó bộc lộ những điểm yếu nghiêm trọng."
+    },
+    {
+      "id": 2,
       "title": "Cô giáo bị học sinh đánh trên bục giảng tổn hại sức khỏe 12%",
       "summary": "<a href=\"https://dantri.com.vn/giao-duc/co-giao-bi-hoc-sinh-danh-tren-buc-giang-ton-hai-suc-khoe-12-20261021222603744.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/21/hoc-sinh-danh-co-edited-cropped-edited-cropped-1792596300929.jpg\" /></a>(Dân trí) - Theo báo cáo của nhà trường tối 21/10, giám định thương tích cho thấy, cô H. bị tổn hại sức khỏe 12%."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mỹ ra mắt phương tiện bay cho cảnh sát, trọng tải 95kg",
       "summary": "<a href=\"https://dantri.com.vn/dt360/my-ra-mat-phuong-tien-bay-cho-canh-sat-trong-tai-95kg-20261021171206704.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/21/my-ra-mat-phuong-tien-bay-cho-canh-sat-1792577372668.gif\" /></a>(Dân trí) - Phương tiện bay điện Astro có thể chở một cảnh sát cùng trang thiết bị tới hiện trường, hỗ trợ ứng phó khẩn cấp tại những khu vực khó tiếp cận."
-    },
-    {
-      "id": 3,
-      "title": "Xe tải ôm cua, hàng chục thùng bia đổ xuống vòng xoay ở TPHCM",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/xe-tai-om-cua-hang-chuc-thung-bia-do-xuong-vong-xoay-o-tphcm-20261021221035961.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/21/8574604701222512294921096948709192062752103993n-edited-1792595114052.jpg\" /></a>(Dân trí) - Nam tài xế đánh lái xe tải ôm cua tại vòng xoay Tam Lập, xã Phú Giáo (TPHCM), hàng chục thùng bia trên thùng xe đổ xuống đường, hư hỏng."
     }
   ]
 }
