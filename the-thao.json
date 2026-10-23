@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "Báo Indonesia nhận xét về trình độ cầu thủ Việt kiều mới ở V-League",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/bao-indonesia-nhan-xet-ve-trinh-do-cau-thu-viet-kieu-moi-o-v-league-20261023142243611.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/23/tyler3namdiinhfc23-10-26-cropped-1792739731235.jpg\" /></a>(Dân trí) - Truyền thông Indonesia chỉ ra một cầu thủ Việt kiều đang thi đấu tại V-League có trình độ không cao, đó là Tyler Crawford của CLB Nam Định."
+    },
+    {
+      "id": 2,
+      "title": "Man Utd có thoát khỏi khủng hoảng nếu sa thải HLV Michael Carrick?",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/man-utd-co-thoat-khoi-khung-hoang-neu-sa-thai-hlv-michael-carrick-20261022202445917.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/22/man-utd-1792678435840.png\" /></a>(Dân trí) - Man Utd có thể thay thế HLV Michael Carrick, nhưng cuộc khủng hoảng sẽ không kết thúc nếu những vấn đề về chiến thuật, phòng thay đồ và cấu trúc CLB vẫn còn nguyên."
+    },
+    {
+      "id": 3,
+      "title": "Man Utd ra phán quyết về tương lai của HLV Carrick",
+      "summary": "<a href=\"https://dantri.com.vn/the-thao/man-utd-ra-phan-quyet-ve-tuong-lai-cua-hlv-carrick-20261023125334861.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/23/20261021223313h108qyeo-1792734447127.jpg\" /></a>(Dân trí) - Theo báo giới Anh, Ban lãnh đạo Man Utd chưa vội sa thải HLV Michael Carrick. Tuy nhiên, “Quỷ đỏ” cũng bắt đầu tìm kiếm ứng cử viên thay thế."
     }
   ]
 }

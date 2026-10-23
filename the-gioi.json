@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "Bên trong \"bộ não\" giúp Ukraine khắc chế mưa hỏa lực dồn dập từ Nga",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ben-trong-bo-nao-giup-ukraine-khac-che-mua-hoa-luc-don-dap-tu-nga-20261023152451542.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/23/image-1792743586213.jpg\" /></a>(Dân trí) - Việc Nga liên tục cập nhật và nâng cấp chiến thuật vũ khí buộc Ukraine phải tìm cách mổ xẻ, phân tích và nghiên cứu đối thủ để tìm cách bắt kịp."
+    },
+    {
+      "id": 2,
+      "title": "Tâm sự xé lòng của những \"cô dâu 8 tuổi\" ở Afghanistan",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tam-su-xe-long-cua-nhung-co-dau-8-tuoi-o-afghanistan-20261021083207467.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/21/co-dau-8-tuoi-afghanistanguardian-cropped-1792545895833.jpg\" /></a>(Dân trí) - Biến đổi khí hậu đẩy nhiều gia đình Afghanistan đến bờ vực chết đói, họ buộc phải \"hy sinh\" con gái. Có những em chỉ mới 8, 10 hay 14 tuổi - đã bị hứa gả hoặc kết hôn để trả nợ hay mua thực phẩm."
+    },
+    {
+      "id": 3,
+      "title": "Ukraine xây dựng hệ thống liên lạc riêng tương tự Starlink",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-xay-dung-he-thong-lien-lac-rieng-tuong-tu-starlink-20261023145949787.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/21/2026-10-14t185137z1422554337rc2566a2d892rtrmadp3ukraine-crisis-europe-1792551677268.jpg\" /></a>(Dân trí) - Các công ty công nghệ của Phần Lan là ICEYE và Nokia hợp tác với Ukraine để xây dựng hệ thống liên lạc vệ tinh của riêng Ukraine, tương tự Starlink của SpaceX."
     }
   ]
 }

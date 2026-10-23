@@ -2,8 +2,18 @@
   "articles": [
     {
       "id": 1,
-      "title": "Lỗi",
-      "summary": "Không thể tải tin tức."
+      "title": "Lý do cùng thành phố nhưng giá xăng dầu có thể chênh lệch nhau",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/ly-do-cung-thanh-pho-nhung-gia-xang-dau-co-the-chenh-lech-nhau-20261023134619527.htm\"><img src=\"https://icdn.dantri.com.vn/2026/03/26/giam-sat-hoat-dong-xang-daua-nui1-1774497061129.jpg\" /></a>(Dân trí) - Sự chênh lệch giá xăng dầu giữa khu vực Đà Nẵng và Quảng Nam cũ xuất phát từ cơ chế phân vùng giá bán, trong đó vùng 2 được phép cao hơn vùng 1 tối đa 2% giá điều hành cùng thời điểm."
+    },
+    {
+      "id": 2,
+      "title": "Heo hơi, rau củ tại vườn đã giảm giá sâu, sao ở chợ vẫn neo cao?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/heo-hoi-rau-cu-tai-vuon-da-giam-gia-sau-sao-o-cho-van-neo-cao-20261023121345203.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/23/7-cropped-1792732080119.jpg\" /></a>(Dân trí) - Chi phí vận chuyển, chênh lệch qua nhiều đầu mối hay tỷ lệ hao hụt lớn… là nguyên nhân khiến giá bán lẻ tăng cao so với giá gốc."
+    },
+    {
+      "id": 3,
+      "title": "Thuế TPHCM lên tiếng về việc 4.000 cá nhân bị mạo danh thành lập doanh nghiệp",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/thue-tphcm-len-tieng-ve-viec-4000-ca-nhan-bi-mao-danh-thanh-lap-doanh-nghiep-20261023115944510.htm\"><img src=\"https://icdn.dantri.com.vn/2025/02/20/tienctv-crop-1740018108299.jpeg\" /></a>(Dân trí) - Thuế TPHCM cho biết, Bộ Tài chính và UBND TPHCM đã chỉ đạo phối hợp xử lý phản ánh về hành vi giả mạo, lấy cắp thông tin và những trường hợp có dấu hiệu vi phạm pháp luật."
     }
   ]
 }
