@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Chuyên gia: Giá vàng hiện phụ thuộc vào giá dầu",
+      "summary": "<a href=\"https://bnews.vn/chuyen-gia-gia-vang-hien-phu-thuoc-vao-gia-dau/441879.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/111951-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Giá vàng giảm dưới 4.000 USD/ounce khi nhà đầu tư bán tài sản để bù lỗ cổ phiếu, trong lúc dầu tăng làm dấy lên lo ngại lạm phát và lãi suất.<br />"
+    },
+    {
+      "id": 2,
       "title": "Những chuyển động trong kho vàng của các ngân hàng trung ương",
       "summary": "<a href=\"https://bnews.vn/nhung-chuyen-dong-trong-kho-vang-cua-cac-ngan-hang-trung-uong/441800.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/112007-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Theo khảo sát thường niên của Hội đồng Vàng Thế giới (WGC), các ngân hàng trung ương đã mua ròng trung bình khoảng 1.000 tấn vàng mỗi năm trong giai đoạn 2022-2024.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Vàng giảm sức hút trước áp lực lãi suất",
       "summary": "<a href=\"https://bnews.vn/vang-giam-suc-hut-truoc-ap-luc-lai-suat/441760.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/06/29/171129-cuoi-tuan-gia-vang-trong-nuoc-tang-manh.jpg\" width=\"180\" /></a>Giá vàng SJC lùi về sát mốc 140 triệu đồng/lượng, nhưng vẫn cao hơn giá thế giới quy đổi gần 17 triệu đồng/lượng.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng thủng mốc 4.000 USD/ounce, ghi nhận tuần giảm mạnh nhất trong hơn 4 tháng",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-thung-moc-4-000-usd-ounce-ghi-nhan-tuan-giam-manh-nhat-trong-hon-4-thang/441709.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/10/24/091720-gia-dau-cham-dinh-3-tuan-vang-xuong-thap-nhat-ke-tu-dau-thang-10-2026.jpg\" width=\"180\" /></a>Giá vàng thế giới vừa trải qua tuần giao dịch tồi tệ nhất kể từ tháng 6/2026, chính thức để mất mốc tâm lý quan trọng 4.000 USD/ounce.<br />"
     }
   ]
 }
