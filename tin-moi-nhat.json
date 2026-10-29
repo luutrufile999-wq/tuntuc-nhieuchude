@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Không khí lạnh lệch đông, Hà Nội mưa dông, miền Trung giảm mưa",
+      "summary": "<a href=\"https://dantri.com.vn/dt360/khong-khi-lanh-lech-dong-ha-noi-mua-dong-mien-trung-giam-mua-20261029225655500.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/29/179328845983821305391328634011464327133637762183462d1134afa2583d9f480e6fee8d687896d-1793289229717.jpg\" /></a>(Dân trí) - Đông Bắc Bộ và Hà Nội có mưa rào, dông, nhiệt độ giảm, trời mát. Trong khi đó, mưa ở miền Trung thu hẹp dần; Nam Bộ ngày nắng oi, chiều tối mưa dông vài nơi, triều cường bắt đầu giảm."
+    },
+    {
+      "id": 2,
       "title": "Từ hôm nay, Hà Nội rào chắn đường Cổ Linh để thi công đường trên cao",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/tu-hom-nay-ha-noi-rao-chan-duong-co-linh-de-thi-cong-duong-tren-cao-20261029232149485.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/29/co-linh-1793290564256.jpg\" /></a>(Dân trí) - Từ ngày 30/10 đến hết ngày 30/1/2027, Sở Xây dựng Hà Nội rào chắn một phần đường Cổ Linh ở phường Long Biên để xây dựng đường trên cao kết nối với cao tốc Hà Nội - Hải Phòng."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "TPHCM đã thu hồi 171 nhà, đất công sau sắp xếp đơn vị hành chính",
       "summary": "<a href=\"https://dantri.com.vn/thoi-su/tphcm-da-thu-hoi-171-nha-dat-cong-sau-sap-xep-don-vi-hanh-chinh-20261029230255581.htm\"><img src=\"https://icdn.dantri.com.vn/2026/07/14/dji0435-1784027793527.jpg\" /></a>(Dân trí) - Sau sắp xếp đơn vị hành chính, Sở Tài chính đã tham mưu UBND TPHCM ban hành quyết định thu hồi 171 cơ sở nhà, đất của các cơ quan, đơn vị. TPHCM cũng tiếp nhận 129 nhà, đất từ các cơ quan Trung ương."
-    },
-    {
-      "id": 3,
-      "title": "Phó Thủ tướng Hồ Quốc Dũng: Hạ tầng giao thông mở đường cho phát triển",
-      "summary": "<a href=\"https://dantri.com.vn/thoi-su/pho-thu-tuong-ho-quoc-dung-ha-tang-giao-thong-mo-duong-cho-phat-trien-20261029214720828.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/29/chinh-tri-pho-thu-tuong-ho-quoc-dung-ha-tang-giao-thong-mo-duong-cho-phat-triendoan-doan-cong-1jpg-1793284419103.jpg?watermark=v1\" /></a>(Dân trí) - Phó Thủ tướng Hồ Quốc Dũng cho rằng hạ tầng giao thông đi trước mở đường cho sự phát triển. Đầu tư đồng bộ chiến lược không chỉ là nâng cao năng lực kết nối mà còn tạo ra không gian phát triển mới."
     }
   ]
 }
