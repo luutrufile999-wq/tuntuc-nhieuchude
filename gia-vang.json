@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng thế giới hướng tới tháng giảm thứ hai liên tiếp",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-huo-ng-to-i-tha-ng-gia-m-thu-hai-lien-tie-p/442496.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/29/095445-gia-vang-the-gioi-tang-manh-vuot-4-500-usd-ounce.jpg\" width=\"180\" /></a>Giá vàng thế giới sụt giảm trong phiên giao dịch chiều 30/10 và đang hướng tới tháng giảm thứ hai liên tiếp. <br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng hôm nay 30/10: Vàng SJC giảm mạnh",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-30-10-vang-sjc-giam-manh/442452.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2020/08/05/170607-gia-vang-trong-nuoc-vuot-dinh-58-trieu-luong.jpg\" width=\"180\" /></a>Sáng 30/10, giá vàng SJC được điều chỉnh giảm 1,3 triệu đồng/lượng so với cuối ngày hôm qua.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng thế giới giảm do lạm phát tại Mỹ neo cao",
       "summary": "<a href=\"https://bnews.vn/gia-vang-the-gioi-giam-do-lam-phat-tai-my-neo-cao/442438.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/25/155234-gia-vang-on-dinh-dau-chau-a-bien-dong-nhe-trong-phien-giao-dich-dau-tuan.jpg\" width=\"180\" /></a>Giá vàng đã giảm hơn 1% trong phiên giao dịch ngày 29/10 do số liệu cho thấy lạm phát tại Mỹ duy trì ở mức cao, làm gia tăng dự đoán Cục Dự trữ liên bang Mỹ (Fed) sẽ nâng lãi suất vào cuối năm nay.<br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng hôm nay 30/10 cập nhật mới nhất",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-30-10-cap-nhat-moi-nhat/442401.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/19/112038-gia-vang-the-gioi-giam-do-lo-ngai-lam-phat.jpg\" width=\"180\" /></a>Liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.<br />"
     }
   ]
 }
