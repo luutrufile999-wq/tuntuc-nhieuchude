@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Scope 1, 2, 3 là gì, vì sao cần thực hiện?",
+      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/scope-1-2-3-la-gi-vi-sao-can-thuc-hien-20261105143544511.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/05/scope-123-cropped-1793863563935.jpg\" /></a>(Dân trí) - Nắm rõ bản chất của 3 phạm vi phát thải (Scope 1, 2, 3) giúp doanh nghiệp định vị chính xác dấu chân carbon, từ đó có lộ trình chuyển đổi thực chất theo các tiêu chuẩn quốc tế."
+    },
+    {
+      "id": 2,
       "title": "Công nghiệp đường sắt Việt Nam đối mặt 5 bài toán lớn",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/cong-nghiep-duong-sat-viet-nam-doi-mat-5-bai-toan-lon-20261105202206144.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/28/ha-noi-du-kien-boi-thuong-dat-gap-2-lan-cho-7-du-an-duong-sat-edited-1790572694799.jpg\" /></a>(Dân trí) - Nhân lực, công nghệ, vốn, chuỗi cung ứng và tiêu chuẩn kỹ thuật là 5 vấn đề cần giải quyết để doanh nghiệp Việt tham gia sâu hơn vào ngành công nghiệp đường sắt."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Xuất nhập khẩu vượt 1.000 tỷ USD: Những nhóm hàng nào có triển vọng tăng trưởng?",
       "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/xuat-nhap-khau-vuot-1000-ty-usd-nhung-nhom-hang-nao-co-trien-vong-tang-truong-20261105190346903.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/05/ca-pheminhhau-cropped-1793879862002.jpg\" /></a>(Dân trí) - Xuất nhập khẩu 10 tháng vượt 1.000 tỷ USD, tạo nền tảng để hàng Việt mở rộng thị trường năm 2027, song doanh nghiệp cần nâng cao năng lực cạnh tranh và xây dựng thương hiệu."
-    },
-    {
-      "id": 3,
-      "title": "TPHCM thu hút hơn 19 tỷ USD vốn FDI trong 10 tháng, tăng gấp 4 lần",
-      "summary": "<a href=\"https://dantri.com.vn/kinh-doanh/tphcm-thu-hut-hon-19-ty-usd-von-fdi-trong-10-thang-tang-gap-4-lan-20261105162009104.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/05/cangcangiotphcmfdixuandoan-cropped-1793870121915.jpg\" /></a>(Dân trí) - Trong 10 tháng đầu năm 2026, TPHCM thu hút hơn 19,1 tỷ USD vốn đầu tư nước ngoài (FDI), gấp 4,16 lần cùng kỳ năm trước và vượt gần 74% kế hoạch cả năm."
     }
   ]
 }
