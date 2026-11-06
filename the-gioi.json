@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Nga triển khai hệ thống “đối thủ của Starlink” trong xung đột Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-trien-khai-he-thong-doi-thu-cua-starlink-trong-xung-dot-ukraine-20261106222618101.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/14/linh-ukraine-starlink-reuters-1791977069408.jpg\" /></a>(Dân trí) - Kiev cho rằng Nga đang sử dụng mạng lưới vệ tinh Rassvet cho hoạt động liên lạc quân sự tại Ukraine."
+    },
+    {
+      "id": 2,
       "title": "Ukraine có thể nhận được nhiều viện trợ hơn sau bầu cử giữa kỳ của Mỹ?",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ukraine-co-the-nhan-duoc-nhieu-vien-tro-hon-sau-bau-cu-giua-ky-cua-my-20261106202057168.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/06/image-20-1793971084756.png\" /></a>(Dân trí) - Kết quả cuộc bầu cử giữa nhiệm kỳ của Mỹ dường như sẽ mở ra cơ hội cho Ukraine nhận được nhiều viện trợ hơn, dù khó có khả năng Tổng thống Donald Trump thay đổi chính sách."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Ba lựa chọn của Tổng thống Donald Trump với Iran sau bầu cử giữa kỳ",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ba-lua-chon-cua-tong-thong-donald-trump-voi-iran-sau-bau-cu-giua-ky-20261106195025050.htm\"><img src=\"https://icdn.dantri.com.vn/2026/10/16/trump-reuters-1792157756434.jpg\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump được cho là đang cân nhắc 3 phương án với Iran sau cuộc bầu cử giữa nhiệm kỳ."
-    },
-    {
-      "id": 3,
-      "title": "Phản ứng của Nga khi Tổng thống Mỹ nói sắp đạt thỏa thuận lớn về Ukraine",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/phan-ung-cua-nga-khi-tong-thong-my-noi-sap-dat-thoa-thuan-lon-ve-ukraine-20261106191938940.htm\"><img src=\"https://icdn.dantri.com.vn/2026/09/14/peskov-tass-cropped-1789322922039.jpg\" /></a>(Dân trí) - Nga tuyên bố chưa nhận được bất kỳ đề xuất nào từ châu Âu liên quan đến những bảo đảm an ninh cho tất cả các bên trong cuộc xung đột tại Ukraine."
     }
   ]
 }
