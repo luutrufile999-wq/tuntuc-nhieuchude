@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Xả súng hàng loạt ở Ba Lan, ít nhất 6 người chết",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/xa-sung-hang-loat-o-ba-lan-it-nhat-6-nguoi-chet-20261108055702003.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/08/ba-lan-reuters11zon-1794091918028.jpg\" /></a>(Dân trí) - Một vụ nổ súng đã xảy ra tại thành phố Krakow, Ba Lan, khiến ít nhất 6 người chết và 16 người bị thương."
+    },
+    {
+      "id": 2,
       "title": "Mỹ sẽ tổ chức triển lãm hàng không lớn nhất thế giới",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/my-se-to-chuc-trien-lam-hang-khong-lon-nhat-the-gioi-20261107204212471.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/07/2c68dbc0c95493e18457bc4630482498e967d505c6f8560fa99e4b83fd2d9037-1794058739419.webp\" /></a>(Dân trí) - Tổng thống Mỹ Donald Trump kỳ vọng sự kiện này sẽ diễn ra trong 2 năm tới, nhằm vượt qua các triển lãm hàng không quốc tế ở những nước khác."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Cựu hoa hậu Thái Lan bị \"tố\" ăn chặn 65% tổng số tiền quyên góp từ thiện",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/cuu-hoa-hau-thai-lan-bi-to-an-chan-65-tong-so-tien-quyen-gop-tu-thien-20261107195007984.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/07/cuu-hoa-hau-thai-lan-cropped-1794055443863.jpg\" /></a>(Dân trí) - Cảnh sát Thái Lan cung cấp thêm thông tin sau khi bắt giữ một cựu hoa hậu, diễn viên Thái Lan vì cáo buộc ăn chặn hàng triệu USD tiền quyên góp từ thiện."
-    },
-    {
-      "id": 3,
-      "title": "Nga tuyên bố tập kích các \"mục tiêu quân sự\" của Ukraine",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/nga-tuyen-bo-tap-kich-cac-muc-tieu-quan-su-cua-ukraine-20261107192907614.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/07/tap-kich-ukraine-cropped-1794054394534.jpg\" /></a>(Dân trí) - Nga tuyên bố nhằm mục tiêu vào các cơ sở mà Moscow cho rằng Ukraine sử dụng cho mục đích quân sự, trong khi Kiev nói Nga đã phóng hơn 30 tên lửa."
     }
   ]
 }
