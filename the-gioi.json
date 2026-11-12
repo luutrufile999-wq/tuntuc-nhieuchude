@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Hé lộ kết quả đàm phán giữa Tổng thống Putin và đặc phái viên Mỹ",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/he-lo-ket-qua-dam-phan-giua-tong-thong-putin-va-dac-phai-vien-my-20261113052334061.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/13/putin-reuters911zon-1-edited-1794522107351.jpg\" /></a><br />(Dân trí) - Sau cuộc gặp giữa Tổng thống Nga Vladimir Putin với hai đặc phái viên Mỹ tại Điện Kremlin, Nga và Mỹ nhất trí tiếp tục các cuộc đàm phán 3 bên về Ukraine."
+    },
+    {
+      "id": 2,
       "title": "Thông điệp của CEO tạm quyền Nvidia sau khi lên thay ông Jensen Huang",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/thong-diep-cua-ceo-tam-quyen-nvidia-sau-khi-len-thay-ong-jensen-huang-20261112215838518.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/12/2026-11-12t153402z941150596rc2x6i9azjqnrtrmadp3nvidia-ceo-colette-kress-cropped-1794499293566.jpg\" /></a><br />(Dân trí) - Sau khi lên thay ông Jensen Huang làm CEO Nvidia tạm quyền, bà Colette Kress, đã gửi thông điệp tới các nhân viên công ty."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Mỹ cảnh báo tăng thuế gấp đôi với Mexico",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-my-canh-bao-tang-thue-gap-doi-voi-mexico-20261112212212653.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/12/tong-thong-trump-iran-co-nhung-nha-dam-phan-rat-gioi-cropped-cropped-1794493176513.jpg\" /></a><br />(Dân trí) - Tổng thống Donald Trump hôm 12/11 cảnh báo tăng gấp đôi thuế quan đối với Mexico nếu nước này không ngăn chặn hơn 1.000 người di cư đang đi bộ về phía bắc, hướng tới Mỹ."
-    },
-    {
-      "id": 3,
-      "title": "Tổng thống Nga lên tiếng sau đàm phán 3 bên với Mỹ, Ukraine",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-nga-len-tieng-sau-dam-phan-3-ben-voi-my-ukraine-20261112202314499.htm\"><img src=\"https://icdn.dantri.com.vn/2026/11/12/putin-reuters012-edited-1794489674469.jpg\" /></a><br />(Dân trí) - Tổng thống Nga Vladimir Putin tuyên bố ông mong muốn nền hòa bình ở Ukraine sẽ tồn tại vĩnh viễn, đồng thời khẳng định Nga chưa bao giờ phản đối đối thoại với châu Âu."
     }
   ]
 }
