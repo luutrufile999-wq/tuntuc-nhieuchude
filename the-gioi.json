@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Iran tuyên bố tấn công các căn cứ Mỹ ở Bahrain",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/iran-tuyen-bo-tan-cong-cac-can-cu-my-o-bahrain-20261122061131970.htm\"><img src=\"https://cdnphoto.dantri.com.vn/zURFSCB7Y5V-8LCgcfDDVnXNBBA=/2026/03/22/bahrainreuters11zon-1774188279350.jpg\" /></a><br />(Dân trí) - Lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC) thông báo đã tập kích các căn cứ quân sự của Mỹ tại Bahrain trong một cuộc tấn công phối hợp bằng tên lửa và máy bay không người lái (UAV)."
+    },
+    {
+      "id": 2,
       "title": "Vương phi Anh chia sẻ quá trình chiến đấu với ung thư",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/vuong-phi-anh-chia-se-qua-trinh-chien-dau-voi-ung-thu-20261121215623618.htm\"><img src=\"https://cdnphoto.dantri.com.vn/dYeYYt2PXhnUR2aiRN7IjIJES9I=/2026/11/21/kate-reuters11zon-1795272860623.jpg\" /></a><br />(Dân trí) - Vương phi Kate, vợ Thái tử Anh William, sẽ chia sẻ về trải nghiệm đối mặt với bệnh ung thư và quá trình hồi phục trong một bộ phim tài liệu dự kiến phát sóng quốc tế trong tháng này."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Lý do phi công Thụy Điển không bắn hạ vật thể nghi là tên lửa Nga",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/ly-do-phi-cong-thuy-dien-khong-ban-ha-vat-the-nghi-la-ten-lua-nga-20261121203107208.htm\"><img src=\"https://cdnphoto.dantri.com.vn/hljilVMZysbGfG2Kv9RJGFiTNKA=/2026/11/21/tiem-kich-afp11zon-1795267785353.jpg\" /></a><br />(Dân trí) - Phi công lái tiêm kích của Thụy Điển đã được NATO cho phép bắn hạ một vật thể nghi là tên lửa của Nga “lạc” vào không phận ở đông nam Ba Lan hôm 20/11. Tuy nhiên, phi công này đã không khai hỏa."
-    },
-    {
-      "id": 3,
-      "title": "Thế nan giải của Ukraine khi kêu gọi phương Tây cấp thêm 40 chiếc F-16",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/the-nan-giai-cua-ukraine-khi-keu-goi-phuong-tay-cap-them-40-chiec-f-16-20261121174132308.htm\"><img src=\"https://cdnphoto.dantri.com.vn/2dZeKmCAlJ68ssg7I6SJgGNEfsg=/2026/11/21/may-bay-cropped-1795257574172.jpg\" /></a><br />(Dân trí) - Ukraine đã kêu gọi các đồng minh cung cấp thêm tiêm kích, trong đó có F-16 nhưng theo các chuyên gia, phương Tây không dễ thực hiện điều này."
     }
   ]
 }
