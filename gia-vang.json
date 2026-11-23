@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng phục hồi khi giới giao dịch giảm kỳ vọng Fed sớm tăng lãi suất",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-phuc-hoi-khi-gioi-giao-dich-giam-ky-vong-fed-som-tang-lai-suat/445333.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/11/10/210838-gia-vang-the-gioi-tang-hon-1-.jpg\" width=\"180\" /></a>Trong phiên sáng 23/11, giá vàng đã phục hồi sau tuần giảm mạnh nhất trong 8 tháng qua, khi giới giao dịch giảm đặt cược vào khả năng Cục Dự trữ liên bang Mỹ (Fed) sớm tăng lãi suất.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giải mã \"cú rơi\" của giá vàng",
       "summary": "<a href=\"https://bnews.vn/giai-ma-cu-roi-cua-gia-vang/445206.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/11/21/114048-gia-vang-giam-xuong-muc-thap-nhat-ke-tu-thang-9-2025.jpg\" width=\"180\" /></a>Các chuyên gia dự báo giá vàng thế giới có thể tiếp tục lùi về vùng 3.350-3.450 USD/ounce trong những tuần tới, dù thị trường được kỳ vọng sẽ sớm tìm thấy vùng đáy.<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng rơi xuống đáy 14 tháng do sức ép lãi suất và làn sóng bán tháo cổ phiếu AI",
       "summary": "<a href=\"https://bnews.vn/gia-vang-roi-xuong-day-14-thang-do-suc-ep-lai-suat-va-lan-song-ban-thao-co-phieu-ai/445194.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/11/10/210838-gia-vang-the-gioi-tang-hon-1-.jpg\" width=\"180\" /></a>Tính chung cả tuần, giá kim loại quý này đã mất khoảng 9,4%, ghi nhận tuần giảm mạnh nhất kể từ tuần kết thúc ngày 20/3/2026. <br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng hôm nay 21/11 cập nhật mới nhất",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-21-11-cap-nhat-moi-nhat/445133.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/08/06/091557-gia-vang-tang-manh-nhat-ke-tu-thang-2-2026.jpg\" width=\"180\" /></a>TTXVN liên tục cập nhật giá vàng thế giới và trong nước các thương hiệu Bảo Tín Minh Châu, vàng nhẫn, vàng miếng, vàng Rồng Thăng Long, vàng SJC, vàng DOJI, PNJ, vàng 9999, vàng 24K, vàng 24K.\n<br />"
     }
   ]
 }
