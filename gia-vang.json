@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Giá vàng chiều 23/11: Vàng SJC tăng bao nhiêu?",
+      "summary": "<a href=\"https://bnews.vn/gia-vang-chieu-23-11-vang-sjc-tang-bao-nhieu/445392.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/11/09/170246-gia-vang-lien-tuc-dao-chieu-hien-o-muc-thap-so-voi-dau-nam.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng chiều 23/11, giá vàng SJC không đổi so với đầu giờ sáng.<br />"
+    },
+    {
+      "id": 2,
       "title": "Giá vàng phục hồi từ mức thấp nhất trong 14 tháng",
       "summary": "<a href=\"https://bnews.vn/gia-vang-phuc-hoi-tu-muc-thap-nhat-trong-14-thang/445385.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2023/05/15/165502-gia-dau-mo-va-gia-vang-the-gioi-cung-giam-manh.jpg\" width=\"180\" /></a>Trong phiên 23/11 tại châu Á, giá vàng giao ngay tăng 2,9% lên 3.635,80 USD/ounce, sau khi giảm khoảng 9%, mức sụt giảm hàng tuần mạnh nhất kể từ tháng 3/2026, trong tuần trước.\n<br />"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Giá vàng hôm nay 23/11: Đảo chiều đi lên",
       "summary": "<a href=\"https://bnews.vn/gia-vang-hom-nay-23-11-dao-chieu-di-len/445339.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2025/04/20/185212-gia-vang-lien-tuc-lap-dinh-nguoi-dan-xep-hang-cho-giao-dich.jpg\" width=\"180\" /></a>Cập nhật mới nhất giá vàng hôm nay, vàng SJC đảo chiều đi lên theo giá vàng thế giới. <br />"
-    },
-    {
-      "id": 3,
-      "title": "Giá vàng phục hồi khi giới giao dịch giảm kỳ vọng Fed sớm tăng lãi suất",
-      "summary": "<a href=\"https://bnews.vn/gia-vang-phuc-hoi-khi-gioi-giao-dich-giam-ky-vong-fed-som-tang-lai-suat/445333.html\"><img height=\"120\" src=\"https://image.bnews.vn/MediaUpload/Medium/2026/11/10/210838-gia-vang-the-gioi-tang-hon-1-.jpg\" width=\"180\" /></a>Trong phiên sáng 23/11, giá vàng đã phục hồi sau tuần giảm mạnh nhất trong 8 tháng qua, khi giới giao dịch giảm đặt cược vào khả năng Cục Dự trữ liên bang Mỹ (Fed) sớm tăng lãi suất.<br />"
     }
   ]
 }
