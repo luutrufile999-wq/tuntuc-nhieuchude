@@ -2,18 +2,18 @@
   "articles": [
     {
       "id": 1,
+      "title": "Tổng thống Zelensky cảnh báo mùa đông khắc nghiệt với Ukraine",
+      "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-zelensky-canh-bao-mua-dong-khac-nghiet-voi-ukraine-20261127224509322.htm\"><img src=\"https://cdnphoto.dantri.com.vn/lQLtXyG8cb9mLrsYJnMyar4J8S4=/2026/11/27/kiev-1795794190131.jpg\" /></a><br />(Dân trí) - Tổng thống Volodymyr Zelensky thừa nhận Ukraine đối mặt với mùa đông khắc nghiệt và người dân có thể rời khỏi Kiev."
+    },
+    {
+      "id": 2,
       "title": "Tổng thống Vladimir Putin kêu gọi tự chủ về trí tuệ nhân tạo",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-vladimir-putin-keu-goi-tu-chu-ve-tri-tue-nhan-tao-20261127201013688.htm\"><img src=\"https://cdnphoto.dantri.com.vn/rYkEmf6MBud1Wav6HhiTp7hZAPA=/2026/11/27/391-cropped-1795784533721.jpg\" /></a><br />(Dân trí) - Tổng thống Vladimir Putin đề xuất cập nhật chiến lược quốc gia về phát triển trí tuệ nhân tạo (AI), đồng thời thúc đẩy ứng dụng công nghệ này trên mọi lĩnh vực của nền kinh tế và đời sống Nga."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Tổng thống Mỹ nêu thương vong ở Ukraine, tiết lộ \"rào cản lớn nhất\"",
       "summary": "<a href=\"https://dantri.com.vn/the-gioi/tong-thong-my-neu-thuong-vong-o-ukraine-tiet-lo-rao-can-lon-nhat-20261127200229470.htm\"><img src=\"https://cdnphoto.dantri.com.vn/GNFWEeerHSLyElfal7pvUSQvFRg=/2026/08/07/trump-getty-cropped-1786056902976.jpg\" /></a><br />(Dân trí) - Tổng thống Mỹ Donald Trump tuyên bố ông muốn đạt được thỏa thuận cho cuộc xung đột giữa Nga và Ukraine."
-    },
-    {
-      "id": 3,
-      "title": "Khoản vay 49 tỷ USD cho Ukraine khiến EU chưa tìm được tiếng nói chung",
-      "summary": "<a href=\"https://dantri.com.vn/the-gioi/khoan-vay-49-ty-usd-cho-ukraine-khien-eu-chua-tim-duoc-tieng-noi-chung-20261127175815074.htm\"><img src=\"https://cdnphoto.dantri.com.vn/6pXhcXCZu5BaUzVAYOu8gIxUuqI=/2026/11/27/eu-cropped-1795776885487.jpg\" /></a><br />(Dân trí) - Liên minh châu Âu (EU) không thể đạt được thỏa thuận về ngân sách 7 năm tới tại hội nghị thượng đỉnh hôm 26/11 vì quan điểm khác biệt trong nhiều vấn đề, bao gồm khoản tiền cho Ukraine vay."
     }
   ]
 }
